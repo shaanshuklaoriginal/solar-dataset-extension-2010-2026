@@ -1,0 +1,62 @@
+:Product: 0607RSGA.txt
+:Issued: 2011 Jun 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 158 Issued at 2200Z on 07 Jun 2011
+IA.  Analysis of Solar Active Regions and Activity from  06/2100Z
+to 07/2100Z:  Solar activity has been at moderate levels for the past
+24 hours. Region 1226 (S21W64) was the most active and produced the
+largest event of the period, an M2/2N flare at 07/0641Z. Associated
+with this event was a Type II radio sweep, a Type IV radio sweep, a
+Tenflare of 720 sfu, and a full halo asymmetric CME with an
+estimated plane of sky speed of 1155 km/s. Region 1226 had
+previously produced only low level x-ray events and has lost most of
+it spots and magnetic complexity after the M-flare. The other
+regions on the disk remained stable and quiet.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low levels with a chance for C-class events for the next three
+days (08-10 June).
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z:
+The geomagnetic field has been at predominantly quiet levels for the
+past 24 hours. Solar wind speeds, as measured by the ACE spacecraft,
+increased from a steady 400 km/s to around 500 km/s briefly and
+decreased back to around 430 km/s. A 10 MeV and a 100 MeV proton
+event, are currently in progress. The greater than 10 MeV proton
+flux began at 07/0820Z and reached a peak flux of 72.9 pfu at
+07/1820Z. The greater than 100 MeV proton flux began at 07/0720Z and
+reached a peak of 4.5 pfu at 07/1025Z. Both of these events are
+associated with the M2/2N flare at 07/0641Z from Region 1226 and are
+currently declining.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels on day one (08 June) and on the
+beginning of day two (09 June). Midday on day two, active to minor
+storm levels are expected as the CME, associated with todays M2/2N
+flare from Region 1226, becomes geoeffective. With the arrival of
+this CME, there is a slight chance for major storm periods at high
+latitudes. On day three (10 June), as the effects of the CME
+continue, active levels, with chance for minor storm periods, are
+also expected.
+III.  Event Probabilities 08 Jun-10 Jun
+Class M    01/01/01
+Class X    01/01/01
+Proton     99/99/50
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           07 Jun 096
+Predicted   08 Jun-10 Jun  096/094/094
+90 Day Mean        07 Jun 105
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Jun  005/007
+Estimated Afr/Ap 07 Jun  003/003
+Predicted Afr/Ap 08 Jun-10 Jun  005/005-020/025-018/020
+VI.  Geomagnetic Activity Probabilities 08 Jun-10 Jun
+A.  Middle Latitudes
+Active                15/20/30
+Minor storm           10/40/30
+Major-severe storm    01/25/20
+B.  High Latitudes
+Active                15/20/30
+Minor storm           10/45/35
+Major-severe storm    01/30/25

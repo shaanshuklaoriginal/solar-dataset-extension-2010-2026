@@ -1,0 +1,46 @@
+:Product: 0216RSGA.txt
+:Issued: 2012 Feb 16 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 047 Issued at 2200Z on 16 Feb 2012
+IA.  Analysis of Solar Active Regions and Activity from  15/2100Z
+to 16/2100Z:  Solar activity was at very low levels.  The disk and
+limb were quiet and stable.  No Earth-directed CMEs were observed
+during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a chance for C-class activity for the next three days (17 -
+19 February).
+IIA.  Geophysical Activity Summary 15/2100Z to 16/2100Z:
+The geomagnetic field was at quiet to active levels.  ACE solar wind
+velocities varied between 350 to 400 km/s while the Bz component of
+the interplanetary magnetic field was mostly northward to +5 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at mostly quiet levels on day one (17 February)
+through late on day two (18 February).  Late on day two and through
+day three (19 February), field activity is expected to increase to
+quiet to unsettled levels, with isolated active levels, due to
+recurrent coronal hole high speed stream effects.
+III.  Event Probabilities 17 Feb-19 Feb
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           16 Feb 103
+Predicted   17 Feb-19 Feb  105/105/100
+90 Day Mean        16 Feb 132
+V.  Geomagnetic A Indices
+Observed Afr/Ap 15 Feb  018/025
+Estimated Afr/Ap 16 Feb  004/005
+Predicted Afr/Ap 17 Feb-19 Feb  006/005-008/008-007/008
+VI.  Geomagnetic Activity Probabilities 17 Feb-19 Feb
+A.  Middle Latitudes
+Active                05/30/30
+Minor storm           01/15/15
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/40/40
+Minor storm           01/20/20
+Major-severe storm    01/05/05

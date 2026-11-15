@@ -1,0 +1,61 @@
+:Product: 0723RSGA.txt
+:Issued: 2012 Jul 23 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 205 Issued at 2200Z on 23 Jul 2012
+IA.  Analysis of Solar Active Regions and Activity from  22/2100Z
+to 23/2100Z:  Solar activity was low.  Newly numbered Regions 1527
+(N27E64) and 1529 (S12E71) produced the only C-class flares for the
+period: a C2/1f flare at 23/1127Z and a C1 flare at 23/1700Z,
+respectively.  New Region 1528 (N17E67) was also numbered.  Two CMEs
+were observed overnight in LASCO C2 imagery.  The first was
+associated with a filament eruption beyond the northwest limb
+beginning at 22/1248Z and the second, an asymmetric full-halo
+associated with flare activity from old Region 1520 (S16, L=086)
+approximately 40 degrees beyond the west limb beginning at 23/0236Z.
+These CMEs are not expected to disturb the geomagnetic field.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low levels with a chance for C-class events for the forecast
+period (24 - 26 July).
+IIA.  Geophysical Activity Summary 22/2100Z to 23/2100Z:
+The geomagnetic field was at quiet to unsettled levels with intervals
+of active to minor storm conditions observed at high latitudes
+between 23/1200 - 1800Z. The greater than 10 MeV proton flux at
+geosynchronous orbit exceeded the 10 pfu threshold at 23/1545Z.  A
+maximum of 12 pfu was reached at 23/1700Z with flux levels still
+above threshold as of this report.  An enhancement of the greater
+than 100 MeV proton flux at geosynchronous orbit was on-going as
+well.  The proton event is likely associated with flare activity
+from old Region 1520 that occurred at approximately 23/0235Z. The
+greater than 2 MeV electron flux at geosynchronous orbit reached
+high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels with a chance for active
+periods on day 1 (24 July) due to effects from a coronal hole high
+speed stream.  Quiet to unsettled conditions are expected on day 2
+(25 July) as effects begin to diminish.  Mostly quiet conditions are
+expected on day 3 (26 July).
+III.  Event Probabilities 24 Jul-26 Jul
+Class M    01/01/01
+Class X    01/01/01
+Proton     30/05/01
+PCAF       yellow
+IV.  Penticton 10.7 cm Flux
+Observed           23 Jul 097
+Predicted   24 Jul-26 Jul  100/105/110
+90 Day Mean        23 Jul 126
+V.  Geomagnetic A Indices
+Observed Afr/Ap 22 Jul  009/009
+Estimated Afr/Ap 23 Jul  007/008
+Predicted Afr/Ap 24 Jul-26 Jul  007/015-007/010-006/005
+VI.  Geomagnetic Activity Probabilities 24 Jul-26 Jul
+A.  Middle Latitudes
+Active                20/10/05
+Minor storm           10/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           25/15/10
+Major-severe storm    35/05/05

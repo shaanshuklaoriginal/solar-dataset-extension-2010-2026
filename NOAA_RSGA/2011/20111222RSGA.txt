@@ -1,0 +1,46 @@
+:Product: 1222RSGA.txt
+:Issued: 2011 Dec 22 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 356 Issued at 2200Z on 22 Dec 2011
+IA.  Analysis of Solar Active Regions and Activity from  21/2100Z
+to 22/2100Z:  Solar activity was low.  Region 1381 (S18W28) produced
+a C5/Sf flare at 22/0208Z.  This flare was accompanied by Type II
+(921 km/s) and Type IV radio emissions with a CME.  A faint CME was
+observed in STEREO-A COR2 imagery at 22/0509Z.  Plane of sky
+analysis suggested a speed of roughly 150 km/s for the ejecta.  
+This event is not expected to be geoeffective.  Intermediate spots
+diminished in Regions 1384 (N12E37) and 1376 (N18W72) while Regions
+1382( S19W21) and 1383 (N03E25) both showed signs of growth.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+low for the next three days (23-25 December), with a slight chance
+for an M-class event.
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain at mostly quiet levels for the next three days
+(23-25 December).
+III.  Event Probabilities 23 Dec-25 Dec
+Class M    15/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           22 Dec 146
+Predicted   23 Dec-25 Dec  145/140/140
+90 Day Mean        22 Dec 145
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 Dec  005/004
+Estimated Afr/Ap 22 Dec  005/002
+Predicted Afr/Ap 23 Dec-25 Dec  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 23 Dec-25 Dec
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/10
+Major-severe storm    05/05/05

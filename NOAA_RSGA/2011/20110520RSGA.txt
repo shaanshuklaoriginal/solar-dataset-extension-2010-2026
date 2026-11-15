@@ -1,0 +1,42 @@
+:Product: 0520RSGA.txt
+:Issued: 2011 May 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 140 Issued at 2200Z on 20 May 2011
+IA.  Analysis of Solar Active Regions and Activity from  19/2100Z
+to 20/2100Z:  Solar activity was very low.  The three spotted regions
+on the disk, 1214 (S24W70), 1216 (S16E19) and 1218 (S16E40) were all
+unipolar and magnetically simple.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+very low to low.  A slight chance for a C-class x-ray flare remains
+for the next three days (21 May - 23 May).
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z:
+The geomagnetic field was quiet.  A weak sudden impulse (3nT) at the
+Boulder magnetometer was observed at 20/0415Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain predominantly quiet for the next three days (21
+May - 23 May).
+III.  Event Probabilities 21 May-23 May
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           20 May 084
+Predicted   21 May-23 May  083/080/080
+90 Day Mean        20 May 108
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 May  002/004
+Estimated Afr/Ap 20 May  005/005
+Predicted Afr/Ap 21 May-23 May  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 21 May-23 May
+A.  Middle Latitudes
+Active                10/10/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/10
+Minor storm           05/05/05
+Major-severe storm    01/01/01

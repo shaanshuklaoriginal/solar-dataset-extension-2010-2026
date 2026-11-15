@@ -1,0 +1,47 @@
+:Product: 0412RSGA.txt
+:Issued: 2011 Apr 12 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 102 Issued at 2200Z on 12 Apr 2011
+IA.  Analysis of Solar Active Regions and Activity from  11/2100Z
+to 12/2100Z:  Solar activity was low. Region 1190 (N15E12) produced
+three C-class flares during the period. The largest was a C3 event
+at 12/0607Z. Region 1190 increased in area from 40 millionths to
+approximately 70 millionths. New Regions 1191 (N09E73) and 1192
+(N10E03) were numbered today.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low.
+C-class flares are likely for the next three days (13 - 15 April).
+IIA.  Geophysical Activity Summary 11/2100Z to 12/2100Z:
+The geomagnetic field was at quiet to minor storm levels. Two periods
+of K=5 were observed at high latitudes during the period. The
+increase was in response to a coronal hole high-speed stream. Solar
+wind speeds measured at the ACE Spacecraft increased from
+approximately 550 km/s to approximately 650 km/s during the past 24
+hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at mostly quiet levels for the next three days (13 -
+15 April) as the coronal hole high-speed stream effects decrease.
+III.  Event Probabilities 13 Apr-15 Apr
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           12 Apr 110
+Predicted   13 Apr-15 Apr  110/110/110
+90 Day Mean        12 Apr 101
+V.  Geomagnetic A Indices
+Observed Afr/Ap 11 Apr  005/009
+Estimated Afr/Ap 12 Apr  015/015
+Predicted Afr/Ap 13 Apr-15 Apr  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 13 Apr-15 Apr
+A.  Middle Latitudes
+Active                20/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/15/15
+Minor storm           01/01/01
+Major-severe storm    01/01/01

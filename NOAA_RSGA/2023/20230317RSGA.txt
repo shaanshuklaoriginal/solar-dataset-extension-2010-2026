@@ -1,0 +1,52 @@
+:Product: 0317RSGA.txt
+:Issued: 2023 Mar 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 76 Issued at 2200Z on 17 Mar 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 16/2100Z to
+17/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+17/1507Z from Region 3247 (S24W78). There are currently 5 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low with a
+slight chance for an M-class flare on days one, two, and three (18 Mar,
+19 Mar, 20 Mar).
+
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 510 km/s at 17/0018Z. Total IMF reached 6
+nT at 17/1516Z. The maximum southward component of Bz reached -5 nT at
+17/0327Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 166 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one and two (18 Mar, 19 Mar) and quiet to
+active levels on day three (20 Mar).
+
+III.  Event probabilities 18 Mar-20 Mar
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           17 Mar 134
+Predicted   18 Mar-20 Mar 132/130/128
+90 Day Mean        17 Mar 171
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Mar  006/007
+Estimated Afr/Ap 17 Mar  007/007
+Predicted Afr/Ap 18 Mar-20 Mar  006/005-006/005-011/012
+
+VI.  Geomagnetic Activity Probabilities 18 Mar-20 Mar
+A.  Middle Latitudes
+Active                15/15/30
+Minor Storm           01/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/30
+Major-severe storm    20/20/40

@@ -1,0 +1,46 @@
+:Product: 1129RSGA.txt
+:Issued: 2010 Nov 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 333 Issued at 2200Z on 29 Nov 2010
+IA.  Analysis of Solar Active Regions and Activity from  28/2100Z
+to 29/2100Z:  Solar activity was very low during the past 24 hours. 
+Region 1130 (N13W14) has grown slightly and is a Dai-Beta type spot
+group.  A filament disappeared near N19W10.  The eruption was
+visible on SDO/AIA 193 at approximately 29/0100 UTC.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a chance for isolated C-class events for the next three
+days (30 Nov-02 Dec).
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z:
+The geomagnetic field was predominately quiet during the past 24
+hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet to unsettled with a slight chance for
+isolated active periods for days one and two (30 Nov-01 Dec) due to
+a recurrent coronal hole high-speed stream.  Mostly quiet conditions
+are expected for day three (02 Dec) as the effects from the coronal
+hole high-speed stream subside.
+III.  Event Probabilities 30 Nov-02 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           29 Nov 083
+Predicted   30 Nov-02 Dec  083/083/083
+90 Day Mean        29 Nov 082
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 Nov  007/006
+Estimated Afr/Ap 29 Nov  007/007
+Predicted Afr/Ap 30 Nov-02 Dec  007/007-007/007-005/005
+VI.  Geomagnetic Activity Probabilities 30 Nov-02 Dec
+A.  Middle Latitudes
+Active                15/15/10
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/20/15
+Minor storm           05/05/05
+Major-severe storm    01/01/01

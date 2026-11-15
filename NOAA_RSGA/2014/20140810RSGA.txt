@@ -1,0 +1,52 @@
+:Product: 0810RSGA.txt
+:Issued: 2014 Aug 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 222 Issued at 2200Z on 10 Aug 2014
+
+IA.  Analysis of Solar Active Regions and Activity from 09/2100Z to
+10/2100Z: Solar activity was at low levels. The largest event of the
+period was a C1/Sf flare at 10/2134 UTC from Region 2137 (S19W23,
+Cao/beta). There are currently 4 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low with a
+slight chance for an M-class flare on days one and two (11 Aug, 12 Aug)
+and expected to be very low with a chance for a C-class flares on day
+three (13 Aug).
+
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+428 km/s at 10/2026Z. Total IMF reached 11 nT at 10/2001Z. The maximum
+southward component of Bz reached -5 nT at 10/0829Z. Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 305 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one and three (11 Aug, 13
+Aug) and quiet levels on day two (12 Aug).
+
+III.  Event probabilities 11 Aug-13 Aug
+Class M    10/10/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           10 Aug 108
+Predicted   11 Aug-13 Aug 105/105/100
+90 Day Mean        10 Aug 129
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Aug  004/003
+Estimated Afr/Ap 10 Aug  008/010
+Predicted Afr/Ap 11 Aug-13 Aug  008/008-006/005-007/008
+
+VI.  Geomagnetic Activity Probabilities 11 Aug-13 Aug
+A.  Middle Latitudes
+Active                20/10/15
+Minor Storm           05/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/15/25
+Major-severe storm    25/10/25

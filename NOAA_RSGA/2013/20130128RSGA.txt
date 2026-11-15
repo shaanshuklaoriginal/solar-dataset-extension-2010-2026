@@ -1,0 +1,49 @@
+:Product: 0128RSGA.txt
+:Issued: 2013 Jan 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 28 Issued at 2200Z on 28 Jan 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 27/2100Z to
+28/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+28/1834Z from Region 1660 (N13, L=065) which is about a day beyond West
+limb. There are currently 4 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be at very
+low with a chance for C-class flares on days one, two, and three (29
+Jan, 30 Jan, 31 Jan).
+
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 445 km/s at
+28/0310Z and was slowly decreasing throughout the period.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels for the next three days (29 Jan, 30 Jan, 31 Jan).
+
+III.  Event probabilities 29 Jan-31 Jan
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           28 Jan 098
+Predicted   29 Jan-31 Jan 100/110/120
+90 Day Mean        28 Jan 119
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Jan  005/005
+Estimated Afr/Ap 28 Jan  003/003
+Predicted Afr/Ap 29 Jan-31 Jan  005/005-006/005-006/005
+
+VI.  Geomagnetic Activity Probabilities 29 Jan-31 Jan
+A.  Middle Latitudes
+Active                10/10/10
+Minor Storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           15/15/15
+Major-severe storm    10/10/10

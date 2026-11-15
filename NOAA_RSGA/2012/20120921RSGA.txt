@@ -1,0 +1,46 @@
+:Product: 0921RSGA.txt
+:Issued: 2012 Sep 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 265 Issued at 2200Z on 21 Sep 2012
+IA.  Analysis of Solar Active Regions and Activity from  20/2100Z
+to 21/2100Z:  Solar activity was very low. The largest x-ray event
+was a B8/Sf at 21/1221Z produced by Region 1573 (N18W04). The
+largest spot group on the solar disk, Region 1575 (N08E37), remains
+near 250 millionths in area with a Beta magnetic configuration. Two
+asymmetrical partial halo CMEs were observed in SOHO LASCO during
+the period. Both events were determined to be backside sourced, and
+are not expected to impact Earth.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low for the next 3 days (22-24 September).
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z:
+The geomagnetic field was quiet during the period, despite the
+influence of a weak coronal hole (CH) high speed stream.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled for day 1 (22 September) as CH
+effects wane. Conditions are expected to be mostly quiet for days
+2-3 (23-24 September).
+III.  Event Probabilities 22 Sep-24 Sep
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           21 Sep 117
+Predicted   22 Sep-24 Sep  118/120/120
+90 Day Mean        21 Sep 122
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 Sep  010/010
+Estimated Afr/Ap 21 Sep  005/006
+Predicted Afr/Ap 22 Sep-24 Sep  008/008-006/005-006/005
+VI.  Geomagnetic Activity Probabilities 22 Sep-24 Sep
+A.  Middle Latitudes
+Active                10/01/01
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           20/10/10
+Major-severe storm    15/05/05

@@ -1,0 +1,53 @@
+:Product: 0504RSGA.txt
+:Issued: 2010 May 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 124 Issued at 2200Z on 04 May 2010
+IA.  Analysis of Solar Active Regions and Activity from  03/2100Z
+to 04/2100Z:  Solar activity was low. Todays activity consisted of
+one C-class flare, a C3/Sf at 1629Z, as well as a few low-level
+B-class flares. The C-flare was produced by newly numbered Region
+1069 (N42W27) which emerged during the past 24 hours and became the
+primary activity center on the disk. A weak wave/dimming event near
+S29W00 was observed in SOHO EIT images at about 0700Z and was
+associated with a faint CME.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low.
+Additional isolated C-class flares are likely if the current growth
+trend in 1069 continues.
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z:
+The geomagnetic field was generally unsettled with some isolated
+active periods as well as some isolated storm level activity at high
+latitudes. Solar wind data from ACE indicate the continuation of a
+high speed solar wind stream, although the speeds were generally
+decreasing with values around 600 km/s at the end of the analysis
+interval. The greater than 2 MeV electron flux at geosynchronous
+orbit was high during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled with a chance for an isolated active period
+for the first day (05 May) due to persistence. Activity levels are
+expected to be quiet to unsettled for the second day (06 May) and
+mostly quiet for the third day (07 May).
+III.  Event Probabilities 05 May-07 May
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           04 May 082
+Predicted   05 May-07 May  084/086/086
+90 Day Mean        04 May 082
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 May  019/027
+Estimated Afr/Ap 04 May  010/012
+Predicted Afr/Ap 05 May-07 May  010/010-007/008-005/005
+VI.  Geomagnetic Activity Probabilities 05 May-07 May
+A.  Middle Latitudes
+Active                25/15/05
+Minor storm           15/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                35/20/10
+Minor storm           20/10/05
+Major-severe storm    05/01/01

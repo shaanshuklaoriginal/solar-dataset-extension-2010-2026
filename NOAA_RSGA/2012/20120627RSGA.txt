@@ -1,0 +1,55 @@
+:Product: 0627RSGA.txt
+:Issued: 2012 Jun 27 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 179 Issued at 2200Z on 27 Jun 2012
+IA.  Analysis of Solar Active Regions and Activity from  26/2100Z
+to 27/2100Z:  Solar activity was low. Regions 1512 (S15E11) and 1513
+(S15E58) each produced low-level C-class flares as well as
+occasional optical subflares. Region 1512 showed spot and penumbral
+growth in its intermediate portion along with an increase in
+magnetic complexity and was classified as a Dki/beta-gamma. Region
+1513 showed a minor increase in spot count during the period and was
+classified as a Cso/beta. New Regions 1514 (S16E55) and 1515
+(S16E70) were numbered and were classified as a Bxo/beta and
+Cso/beta, respectively. Region 1515 produced occasional optical
+subflares during the latter half of the period. No Earth-directed
+coronal mass ejections were observed during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+through the period (28 - 30 June) with a chance for an M-class
+flare.
+IIA.  Geophysical Activity Summary 26/2100Z to 27/2100Z:
+The geomagnetic field was quiet with unsettled to active periods
+detected at high latitudes.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet on day 1 (28 June). Field activity is expected
+to increase to quiet to unsettled levels on day 2 (29 June) with a
+chance for active levels due to the arrival of a co-rotating
+interaction region in advance of a coronal hole high-speed stream
+(CH HSS). A further increase to unsettled to active levels is
+expected on day 3 (29 June) with a chance for minor storm levels due
+to CH HSS effects.
+III.  Event Probabilities 28 Jun-30 Jun
+Class M    25/25/25
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           27 Jun 106
+Predicted   28 Jun-30 Jun  110/115/115
+90 Day Mean        27 Jun 118
+V.  Geomagnetic A Indices
+Observed Afr/Ap 26 Jun  007/009
+Estimated Afr/Ap 27 Jun  004/005
+Predicted Afr/Ap 28 Jun-30 Jun  006/007-009/010-015/018
+VI.  Geomagnetic Activity Probabilities 28 Jun-30 Jun
+A.  Middle Latitudes
+Active                10/15/25
+Minor storm           01/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/20/15
+Minor storm           20/25/30
+Major-severe storm    10/20/40

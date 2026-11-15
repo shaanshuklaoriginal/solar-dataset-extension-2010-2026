@@ -1,0 +1,51 @@
+:Product: 0817RSGA.txt
+:Issued: 2012 Aug 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 230 Issued at 2200Z on 17 Aug 2012
+IA.  Analysis of Solar Active Regions and Activity from  16/2100Z
+to 17/2100Z:  Solar activity was moderate.  An M2 flare was observed
+on the northeast limb at 17/1319Z.  A coronal mass ejection (CME)
+was later observed in LASCO C3 imagery emerging from the northeast
+limb around 17/1354Z.  An M1 flare followed at 17/1720Z from the
+same vicinity.  The M1 flare was accompanied by a Tenflare (140sfu).
+New region 1547 (N05E21) was numbered today and classified as a Cso
+type group with beta magnetic characteristics.  Region 1543 (N24W59)
+remained the largest group on the disk and was classified as a Cko
+type group with beta magnetic characteristics.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low,
+with a slight chance for an M-flare.
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z:
+The geomagnetic field ranged from quiet to active levels.  Active
+levels were observed during the 00-03Z synoptic period.  The
+remainder of the day saw quiet to active conditions.  The active
+period was associated with effects from a CME which occurred on 13
+August.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled for the next three days (18-20
+August) with lingering effects from a CME and the arrival of a
+coronal hole high speed stream.
+III.  Event Probabilities 18 Aug-20 Aug
+Class M    10/15/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           17 Aug 095
+Predicted   18 Aug-20 Aug  095/095/100
+90 Day Mean        17 Aug 126
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Aug  010/012
+Estimated Afr/Ap 17 Aug  011/013
+Predicted Afr/Ap 18 Aug-20 Aug  009/012-010/012-011/012
+VI.  Geomagnetic Activity Probabilities 18 Aug-20 Aug
+A.  Middle Latitudes
+Active                10/20/20
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/20/20
+Minor storm           15/30/30
+Major-severe storm    05/25/25

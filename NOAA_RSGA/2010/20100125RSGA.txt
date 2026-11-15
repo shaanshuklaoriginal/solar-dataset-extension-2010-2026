@@ -1,0 +1,41 @@
+:Product: 0125RSGA.txt
+:Issued: 2010 Jan 25 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 025 Issued at 2200Z on 25 Jan 2010
+IA.  Analysis of Solar Active Regions and Activity from  24/2100Z
+to 25/2100Z:  Solar activity was very low. No flares occurred during
+the past 24 hours. Region 1041 (S23E13) showed a slight increase in
+the number of spots. Region 1042 (N18W71) was quiet and stable,
+IB.  Solar Activity Forecast:  Solar activity is generally expected
+to be very low. There is a chance for an isolated C-class event
+during the next three days (26-28 January) from either Region 1041
+or 1042.
+IIA.  Geophysical Activity Summary 24/2100Z to 25/2100Z:
+The geomagnetic field was mostly quiet during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the next three days (25-28 January).
+III.  Event Probabilities 26 Jan-28 Jan
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           25 Jan 081
+Predicted   26 Jan-28 Jan  080/080/078
+90 Day Mean        25 Jan 077
+V.  Geomagnetic A Indices
+Observed Afr/Ap 24 Jan  002/004
+Estimated Afr/Ap 25 Jan  005/004
+Predicted Afr/Ap 26 Jan-28 Jan  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 26 Jan-28 Jan
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

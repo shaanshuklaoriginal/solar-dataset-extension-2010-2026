@@ -1,0 +1,54 @@
+:Product: 0307RSGA.txt
+:Issued: 2011 Mar 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 066 Issued at 2200Z on 07 Mar 2011
+IA.  Analysis of Solar Active Regions and Activity from  06/2100Z
+to 07/2100Z:  Solar activity has been high.  Regions 1164 (N24W59),
+1165 (S20W78), and 1166 (N11E12) produced M-class events during the
+past 24 hours, all of which contain a Beta-Gamma-Delta magnetic
+configuration.  Region 1166 produced a M1/Sf observed at 07/1430Z
+with an associated Type II and Type IV radio sweep.  Region 1164
+produced a M3 at 07/2012Z with an associated Type II radio sweep and
+a Tenflare that was in progress at this report time.  The SOHO/LASCO
+imagery observed a full halo CME (a further analysis is underway). 
+Images from the C2 first observed the CME at 07/1448Z while the C3
+imagery first observed the event at 07/1518Z.  The Penticton 10.7 cm
+flux and the 90 day mean are estimated for today (07 March) due to
+flare enhanced readings.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate on day one (08 March) with M-class events expected.  Solar
+activity for days two and three (09-10 March) are expected to be low
+with a chance for an M-class event as Regions 1165 and 1164 transit
+around the west limb.
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z:
+The geomagnetic field was quiet to unsettled. The greater than 2 MeV
+electron flux at geosynchronous orbit reached high levels during the
+period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominantly quiet for the next three days (08-10
+March).
+III.  Event Probabilities 08 Mar-10 Mar
+Class M    75/50/40
+Class X    10/05/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           07 Mar 153
+Predicted   08 Mar-10 Mar  150/150/145
+90 Day Mean        07 Mar 091
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Mar  003/005
+Estimated Afr/Ap 07 Mar  006/008
+Predicted Afr/Ap 08 Mar-10 Mar  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 08 Mar-10 Mar
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

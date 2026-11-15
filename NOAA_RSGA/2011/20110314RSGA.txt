@@ -1,0 +1,47 @@
+:Product: 0314RSGA.txt
+:Issued: 2011 Mar 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 073 Issued at 2200Z on 14 Mar 2011
+IA.  Analysis of Solar Active Regions and Activity from  13/2100Z
+to 14/2100Z:  Solar activity was moderate.  Region 1169 (N18W47)
+produced an impulsive M4/1n flare at 14/1952Z with associated radio
+bursts at the higher range (4995, 8800, 15400 MHz).  Region 1166
+(N09W78) and 1169 are both Dao type spot groups and contain a
+beta-gamma magnetic classification.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for an M-class event for day one (15 March).  Low
+activity with a slight chance for an M-class event are expected for
+days two and three (16-17 March) as Regions 1166 and 1169 make their
+transit around the west limb of the sun.
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z:
+The geomagnetic field was quiet.  Solar wind speeds observed by the
+ACE spacecraft continue to average around 550 km/s under the
+influence of a coronal hole high speed stream.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominantly quiet for the next three days (15-17
+March).
+III.  Event Probabilities 15 Mar-17 Mar
+Class M    40/20/15
+Class X    05/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           14 Mar 107
+Predicted   15 Mar-17 Mar  105/100/100
+90 Day Mean        14 Mar 094
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Mar  005/006
+Estimated Afr/Ap 14 Mar  003/005
+Predicted Afr/Ap 15 Mar-17 Mar  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 15 Mar-17 Mar
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

@@ -1,0 +1,51 @@
+:Product: 0626RSGA.txt
+:Issued: 2018 Jun 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 177 Issued at 2200Z on 26 Jun 2018
+
+IA.  Analysis of Solar Active Regions and Activity from 25/2100Z to
+26/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 1 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a slight chance for a C-class flare on day one (27 Jun) and
+expected to be very low on days two and three (28 Jun, 29 Jun).
+
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z: The geomagnetic
+field has been at unsettled to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 649 km/s at 26/2047Z. Total IMF
+reached 13 nT at 26/0950Z. The maximum southward component of Bz reached
+-10 nT at 26/0940Z. Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 2438 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to minor storm levels on day one (27 Jun), quiet to
+minor storm levels on day two (28 Jun) and quiet to active levels on day
+three (29 Jun).
+
+III.  Event probabilities 27 Jun-29 Jun
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           26 Jun 071
+Predicted   27 Jun-29 Jun 070/070/068
+90 Day Mean        26 Jun 071
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Jun  010/012
+Estimated Afr/Ap 26 Jun  017/021
+Predicted Afr/Ap 27 Jun-29 Jun  014/020-012/015-009/010
+
+VI.  Geomagnetic Activity Probabilities 27 Jun-29 Jun
+A.  Middle Latitudes
+Active                45/40/35
+Minor Storm           25/25/15
+Major-severe storm    05/05/01
+B.  High Latitudes
+Active                10/10/10
+Minor Storm           25/25/25
+Major-severe storm    60/60/50

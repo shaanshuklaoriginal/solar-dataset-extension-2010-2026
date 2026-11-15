@@ -1,0 +1,45 @@
+:Product: 0829RSGA.txt
+:Issued: 2012 Aug 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 242 Issued at 2200Z on 29 Aug 2012
+IA.  Analysis of Solar Active Regions and Activity from  28/2100Z
+to 29/2100Z:  Solar activity was low. The largest flare of the period
+was a C4 at 29/1958Z from a region just around the southeast limb. 
+Region 1560 (N04E36) a Dao-beta type group was numbered today.  No
+Earth-directed CMEs were observed.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low with a slight chance for moderate activity for the next
+three days (30 August - 01 September).
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z:
+The geomagnetic field was quiet. The greater than 2 MeV electron flux
+at geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominately quiet on day 1 (30 August). Days 2 and
+3 (31 August - 01 September) are expected to be quiet to unsettled
+with a slight chance for active conditions due to effects from a
+coronal hole high speed stream.
+III.  Event Probabilities 30 Aug-01 Sep
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           29 Aug 118
+Predicted   30 Aug-01 Sep  115/120/120
+90 Day Mean        29 Aug 124
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 Aug  003/004
+Estimated Afr/Ap 29 Aug  004/005
+Predicted Afr/Ap 30 Aug-01 Sep  006/005-007/010-007/008
+VI.  Geomagnetic Activity Probabilities 30 Aug-01 Sep
+A.  Middle Latitudes
+Active                05/10/10
+Minor storm           01/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           15/20/15
+Major-severe storm    05/20/05

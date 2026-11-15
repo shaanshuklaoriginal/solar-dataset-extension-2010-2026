@@ -1,0 +1,55 @@
+:Product: 0225RSGA.txt
+:Issued: 2023 Feb 25 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 56 Issued at 2200Z on 25 Feb 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 24/2100Z to
+25/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a M6 event observed at
+25/1944Z from Region 3229 (N25W46). There are currently 6 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(26 Feb, 27 Feb, 28 Feb).
+
+IIA.  Geophysical Activity Summary 24/2100Z to 25/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 488 km/s at 24/2252Z. Total IMF reached 11
+nT at 25/2055Z. The maximum southward component of Bz reached -8 nT at
+25/1746Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 7 pfu at 25/2100Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 966 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (26 Feb), unsettled to
+major storm levels on day two (27 Feb) and unsettled to minor storm
+levels on day three (28 Feb). Protons are expected to be above threshold
+as a 10 MeV proton event is in progress.
+
+III.  Event probabilities 26 Feb-28 Feb
+Class M    65/65/65
+Class X    15/15/15
+Proton     99/99/99
+PCAF       yellow
+
+IV.  Penticton 10.7 cm Flux
+Observed           25 Feb 152
+Predicted   26 Feb-28 Feb 155/155/150
+90 Day Mean        25 Feb 166
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 24 Feb  004/005
+Estimated Afr/Ap 25 Feb  007/010
+Predicted Afr/Ap 26 Feb-28 Feb  013/020-026/036-018/024
+
+VI.  Geomagnetic Activity Probabilities 26 Feb-28 Feb
+A.  Middle Latitudes
+Active                45/30/40
+Minor Storm           30/40/25
+Major-severe storm    05/25/05
+B.  High Latitudes
+Active                05/05/10
+Minor Storm           20/20/20
+Major-severe storm    70/79/65

@@ -1,0 +1,51 @@
+:Product: 1119RSGA.txt
+:Issued: 2012 Nov 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 324 Issued at 2200Z on 19 Nov 2012
+
+IA.  Analysis of Solar Active Regions and Activity from 18/2100Z to
+19/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C7 event observed at
+19/0228Z from Region 1618 (N09E28). Region 1618 has a beta-gamma
+magnetic configuration. There are currently 7 numbered sunspot regions
+on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be at low to
+moderate levels on days one, two, and three (20 Nov, 21 Nov, 22 Nov).
+
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 433 km/s at
+19/0114Z. Total IMF reached 6.2 nT at 19/2058Z. The maximum southward
+component of Bz reached -4.9 nT at 19/0848Z. Electrons greater than 2
+MeV at geosynchronous orbit reached a peak level of 1465 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels for the next three days (20 Nov, 21 Nov, 22 Nov).
+
+III.  Event probabilities 20 Nov-22 Nov
+Class M    30/30/30
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           19 Nov 134
+Predicted   20 Nov-22 Nov 135/135/135
+90 Day Mean        19 Nov 121
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Nov  004/005
+Estimated Afr/Ap 19 Nov  004/004
+Predicted Afr/Ap 20 Nov-22 Nov  006/005-006/005-006/005
+
+VI.  Geomagnetic Activity Probabilities 20 Nov-22 Nov
+A.  Middle Latitudes
+Active                05/05/05
+Minor Storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           10/10/10
+Major-severe storm    05/05/05

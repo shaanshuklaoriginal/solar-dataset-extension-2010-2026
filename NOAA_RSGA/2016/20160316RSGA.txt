@@ -1,0 +1,52 @@
+:Product: 0316RSGA.txt
+:Issued: 2016 Mar 16 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 76 Issued at 2200Z on 16 Mar 2016
+
+IA.  Analysis of Solar Active Regions and Activity from 15/2100Z to
+16/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C2 event observed at
+16/0646Z from Region 2522 (N14W85). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares on days one, two, and three (17 Mar,
+18 Mar, 19 Mar).
+
+IIA.  Geophysical Activity Summary 15/2100Z to 16/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 595 km/s at 16/1354Z. Total IMF
+reached 10 nT at 16/0122Z. The maximum southward component of Bz reached
+-8 nT at 16/2017Z. Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 3690 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (17 Mar), quiet to unsettled
+levels on day two (18 Mar) and quiet levels on day three (19 Mar).
+
+III.  Event probabilities 17 Mar-19 Mar
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           16 Mar 091
+Predicted   17 Mar-19 Mar 095/095/095
+90 Day Mean        16 Mar 104
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 15 Mar  017/020
+Estimated Afr/Ap 16 Mar  017/021
+Predicted Afr/Ap 17 Mar-19 Mar  012/014-008/008-006/005
+
+VI.  Geomagnetic Activity Probabilities 17 Mar-19 Mar
+A.  Middle Latitudes
+Active                35/20/10
+Minor Storm           15/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor Storm           25/30/20
+Major-severe storm    50/25/20

@@ -1,0 +1,47 @@
+:Product: 0509RSGA.txt
+:Issued: 2012 May 09 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 130 Issued at 2200Z on 09 May 2012
+IA.  Analysis of Solar Active Regions and Activity from  08/2100Z
+to 09/2100Z:  Solar activity has been at moderate levels for the past
+24 hours.  Region 1476 (N10E22) continues to be the most complex and
+most active spot region on the visible disk.  It produced an M4/1n
+x-ray flare at 09/1232Z, and an M1/1b x-ray flare at 09/1408Z.  This
+spot region continues to grow in area, reaching 1050 Millionths and
+remains a Fkc/beta-gamma-delta configuration.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low to moderate levels for the next three days (10-12 May).
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z:
+The geomagnetic field has been at unsettled to active levels for the
+past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active with a slight chance for minor
+storming on day one (10 May) due to increased wind speeds associated
+with the Coronal Hole High Speed Stream (CH HSS).  Days two and
+three (11-12 May) are expected to be at quiet to unsettled levels as
+the effects of the CH HSS begin to wane.
+III.  Event Probabilities 10 May-12 May
+Class M    65/65/65
+Class X    10/10/10
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           09 May 127
+Predicted   10 May-12 May  130/130/130
+90 Day Mean        09 May 113
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 May  008/008
+Estimated Afr/Ap 09 May  017/021
+Predicted Afr/Ap 10 May-12 May  015/022-013/015-007/010
+VI.  Geomagnetic Activity Probabilities 10 May-12 May
+A.  Middle Latitudes
+Active                35/15/10
+Minor storm           15/05/01
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor storm           30/25/25
+Major-severe storm    50/25/10

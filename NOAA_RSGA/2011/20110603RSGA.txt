@@ -1,0 +1,47 @@
+:Product: 0603RSGA.txt
+:Issued: 2011 Jun 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 154 Issued at 2200Z on 03 Jun 2011
+IA.  Analysis of Solar Active Regions and Activity from  02/2100Z
+to 03/2100Z:  Solar activity was low.  Region 1226 (S22W14) produced
+a C2/Sf flare at 03/1617Z.  This region is a Dkc group with a beta
+magnetic classification.  All other numbered regions on the disk
+remained stable through the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to low with
+a slight chance for an isolated M-class event.
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z:
+The geomagnetic field was quiet. The greater than 2 MeV electron flux
+at geosynchronous orbit was at high levels throughout the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly active with isolated minor storm conditions,
+and isolated major storm levels at high latitudes, for day one (04
+June).  Activity is expected due to the combination of effects from
+a coronal hole high-speed stream and a CME observed on 02 June.
+Quiet to unsettled levels with isolated active conditions are
+expected for day two (05 June).  Day three (06 June) is expected to
+be quiet to unsettled as activity effects subside.
+III.  Event Probabilities 04 Jun-06 Jun
+Class M    10/10/10
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           03 Jun 107
+Predicted   04 Jun-06 Jun  106/104/102
+90 Day Mean        03 Jun 107
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Jun  006/008
+Estimated Afr/Ap 03 Jun  005/005
+Predicted Afr/Ap 04 Jun-06 Jun  020/025-015/018-008/010
+VI.  Geomagnetic Activity Probabilities 04 Jun-06 Jun
+A.  Middle Latitudes
+Active                40/30/15
+Minor storm           20/10/05
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                45/35/25
+Minor storm           25/20/10
+Major-severe storm    05/05/01

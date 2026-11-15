@@ -1,0 +1,52 @@
+:Product: 1106RSGA.txt
+:Issued: 2015 Nov 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 310 Issued at 2200Z on 06 Nov 2015
+
+IA.  Analysis of Solar Active Regions and Activity from 05/2100Z to
+06/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C4 event observed at
+06/1811Z from Region 2449 (S12E72). There are currently 5 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (07 Nov, 08 Nov,
+09 Nov).
+
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+682 km/s at 06/1915Z. Total IMF reached 19 nT at 06/2058Z. The maximum
+southward component of Bz reached -14 nT at 06/2047Z. Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 21557 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to minor storm levels on days one and two (07 Nov, 08
+Nov) and unsettled to active levels on day three (09 Nov).
+
+III.  Event probabilities 07 Nov-09 Nov
+Class M    25/25/25
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           06 Nov 115
+Predicted   07 Nov-09 Nov 120/120/120
+90 Day Mean        06 Nov 104
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Nov  011/013
+Estimated Afr/Ap 06 Nov  012/016
+Predicted Afr/Ap 07 Nov-09 Nov  016/025-014/020-014/018
+
+VI.  Geomagnetic Activity Probabilities 07 Nov-09 Nov
+A.  Middle Latitudes
+Active                40/40/25
+Minor Storm           20/20/05
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                10/10/15
+Minor Storm           30/25/30
+Major-severe storm    60/50/30

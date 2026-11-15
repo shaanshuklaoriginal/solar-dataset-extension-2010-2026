@@ -1,0 +1,52 @@
+:Product: 0331RSGA.txt
+:Issued: 2026 Mar 31 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 90 Issued at 2200Z on 31 Mar 2026
+
+IA.  Analysis of Solar Active Regions and Activity from 30/2100Z to
+31/2100Z: Solar activity has been at low levels for the past 24 hours.
+There are currently 10 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(01 Apr, 02 Apr, 03 Apr).
+
+IIA.  Geophysical Activity Summary 30/2100Z to 31/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 509 km/s at 31/0605Z. Total IMF reached 6
+nT at 30/2106Z. The maximum southward component of Bz reached -4 nT at
+31/0735Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 1380 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on days one and two (01 Apr, 02
+Apr) and unsettled to active levels on day three (03 Apr). Protons have
+a slight chance of crossing threshold on days one, two, and three (01
+Apr, 02 Apr, 03 Apr).
+
+III.  Event probabilities 01 Apr-03 Apr
+Class M    55/55/55
+Class X    20/20/20
+Proton     20/20/20
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           31 Mar 141
+Predicted   01 Apr-03 Apr 145/145/140
+90 Day Mean        31 Mar 139
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Mar  011/012
+Estimated Afr/Ap 31 Mar  016/030
+Predicted Afr/Ap 01 Apr-03 Apr  019/024-016/023-014/018
+
+VI.  Geomagnetic Activity Probabilities 01 Apr-03 Apr
+A.  Middle Latitudes
+Active                40/40/40
+Minor Storm           25/25/15
+Major-severe storm    05/05/01
+B.  High Latitudes
+Active                10/10/10
+Minor Storm           25/25/25
+Major-severe storm    60/60/50

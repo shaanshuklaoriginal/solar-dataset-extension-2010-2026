@@ -1,0 +1,45 @@
+:Product: 0614RSGA.txt
+:Issued: 2012 Jun 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 166 Issued at 2200Z on 14 Jun 2012
+IA.  Analysis of Solar Active Regions and Activity from  13/2100Z
+to 14/2100Z:  Solar activity was moderate.  Region 1504 (S16E01)
+produced a long duration M1/1n flare with maximum at 14/1435Z.  This
+event was associated with a 1400 sfu Tenflare and a Type IV radio
+sweep.  This region showed growth and maintained its
+beta-gamma-delta magnetic configuration.  An associated CME was
+observed in STEREO imagery at 14/1424Z with an estimated
+plane-of-sky velocity between 900 and 1100 km/s.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate.  An isolated M-class event is likely from Region 1504.
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be quiet on 15-16 June.  An increase to unsettled to
+active levels is expected early on day 3 (17 June) due to combined
+effects from both the 13 June and 14 June CMEs.
+III.  Event Probabilities 15 Jun-17 Jun
+Class M    65/65/65
+Class X    05/05/05
+Proton     05/05/05
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           14 Jun 149
+Predicted   15 Jun-17 Jun  150/150/145
+90 Day Mean        14 Jun 118
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Jun  007/007
+Estimated Afr/Ap 14 Jun  004/004
+Predicted Afr/Ap 15 Jun-17 Jun  006/005-006/005-014/018
+VI.  Geomagnetic Activity Probabilities 15 Jun-17 Jun
+A.  Middle Latitudes
+Active                05/05/30
+Minor storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/30
+Major-severe storm    05/05/35

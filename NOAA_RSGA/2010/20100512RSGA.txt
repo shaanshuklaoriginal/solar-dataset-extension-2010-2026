@@ -1,0 +1,48 @@
+:Product: 0512RSGA.txt
+:Issued: 2010 May 12 2145 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 132 Issued at 2200Z on 12 May 2010
+IA.  Analysis of Solar Active Regions and Activity from  11/2100Z
+to 12/2100Z:  Solar activity has been at very low levels for the past
+24 hours. Two low level B-class flares were observed. The visible
+disk remained spotless.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+at very low levels.
+IIA.  Geophysical Activity Summary 11/2100Z to 12/2100Z:
+The geomagnetic field has been at quiet to unsettled levels for the
+past 24 hours. Solar wind data from ACE indicate the continuation of
+a high speed solar wind stream with a peak velocity of 500 km/s at
+12/0740 UTC. The greater than 2 MeV electron flux at geosynchronous
+orbit reached high levels.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain at quiet to unsettled levels with isolated active
+periods for the next two days (13-14 May). This elevated activity is
+due to a series of coronal hole high-speed streams moving into
+geoeffective positions. On day three (15 May), quiet levels are
+expected as the effects of these high speed solar wind streams
+subside.
+III.  Event Probabilities 13 May-15 May
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           12 May 071
+Predicted   13 May-15 May  071/070/070
+90 Day Mean        12 May 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 11 May  006/008
+Estimated Afr/Ap 12 May  007/010
+Predicted Afr/Ap 13 May-15 May  008/008-008/008-008/008
+VI.  Geomagnetic Activity Probabilities 13 May-15 May
+A.  Middle Latitudes
+Active                25/25/25
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                30/30/30
+Minor storm           10/10/10
+Major-severe storm    01/01/01

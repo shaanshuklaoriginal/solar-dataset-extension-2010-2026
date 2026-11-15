@@ -1,0 +1,27 @@
+:Product: 0922SRS.txt
+:Issued: 2025 Sep 22 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 265 Issued at 0030Z on 22 Sep 2025
+Report compiled from data received at SWO on 21 Sep
+I.  Regions with Sunspots.  Locations Valid at 21/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+4216 N11W59   250  0070 Cso  05   07 Beta-Gamma
+4217 S17W19   210  0210 Eao  13   10 Beta
+4220 S18W55   246  0300 Eki  12   20 Beta-Gamma
+4221 N04W25   216  0090 Cso  05   04 Beta
+4223 S17W07   198  0010 Axx  01   01 Alpha
+4224 S13W08   199  0050 Dai  06   07 Beta-Gamma
+4225 N09E14   177  0220 Dao  05   04 Beta
+4226 S09E56   135  0060 Dso  03   01 Beta
+4227 S19E53   138  0080 Cao  04   02 Beta
+4228 N04E66   125  0010 Hsx  01   01 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 21/2400Z Sep
+Nmbr  Location  Lo
+4222  N13W49   240
+II. Regions Due to Return 22 Sep to 24 Sep
+Nmbr Lat    Lo
+4206 N08    085
+4212 N09    070

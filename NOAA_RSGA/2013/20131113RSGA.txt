@@ -1,0 +1,53 @@
+:Product: 1113RSGA.txt
+:Issued: 2013 Nov 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 317 Issued at 2200Z on 13 Nov 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 12/2100Z to
+13/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C9 event observed at
+12/2308Z from Region 1897 (S20E51). There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+days one and two (14 Nov, 15 Nov) and expected to be low with a chance
+for M-class flares on day three (16 Nov).
+
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 439 km/s at
+12/2122Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 325 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one, two, and three (14 Nov, 15 Nov, 16
+Nov). Protons greater than 10 Mev have a slight chance of crossing
+threshold on days one and two (14 Nov, 15 Nov).
+
+III.  Event probabilities 14 Nov-16 Nov
+Class M    50/50/50
+Class X    15/15/05
+Proton     20/20/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           13 Nov 171
+Predicted   14 Nov-16 Nov 170/165/160
+90 Day Mean        13 Nov 123
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Nov  002/002
+Estimated Afr/Ap 13 Nov  004/005
+Predicted Afr/Ap 14 Nov-16 Nov  006/005-006/005-006/005
+
+VI.  Geomagnetic Activity Probabilities 14 Nov-16 Nov
+A.  Middle Latitudes
+Active                10/10/10
+Minor Storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/20
+Major-severe storm    10/10/10

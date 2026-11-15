@@ -1,0 +1,46 @@
+:Product: 0503RSGA.txt
+:Issued: 2011 May 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 123 Issued at 2200Z on 03 May 2011
+IA.  Analysis of Solar Active Regions and Activity from  02/2100Z
+to 03/2100Z:  Solar activity was low. A single C-class x-ray flare
+occurred from Region 1204 (N17E26) at 03/1052Z.  A new region, 1206
+(N22W18), was numbered and identified with a simple Beta magnetic
+classification. A 20 degree filament erupted from N28W64 at around
+14Z. A concurrent CME was observed off the northwest quadrant of the
+sun on NASA SOHO LASCO C2/C3 coronagraphs as well as on STEREO A/B
+coronagraphs, but does not appear to be Earth directed.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low for the next 3 days (4-6 May).
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z:
+The geomagnetic field ranged from active to quiet as coronal hole
+(CH) high-speed stream (HSS) effects continued to decline. The
+greater than 2 MeV electron flux at geosynchronous orbit was at high
+levels throughout the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet for the next 3 days (4-6 May).
+III.  Event Probabilities 04 May-06 May
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           03 May 107
+Predicted   04 May-06 May  110/110/110
+90 Day Mean        03 May 109
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 May  014/020
+Estimated Afr/Ap 03 May  010/015
+Predicted Afr/Ap 04 May-06 May  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 04 May-06 May
+A.  Middle Latitudes
+Active                20/20/20
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/20/20
+Minor storm           01/01/01
+Major-severe storm    01/01/01

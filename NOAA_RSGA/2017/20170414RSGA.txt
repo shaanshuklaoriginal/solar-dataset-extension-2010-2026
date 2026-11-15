@@ -1,0 +1,52 @@
+:Product: 0414RSGA.txt
+:Issued: 2017 Apr 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 104 Issued at 2200Z on 14 Apr 2017
+
+IA.  Analysis of Solar Active Regions and Activity from 13/2100Z to
+14/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 1 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a slight chance for a C-class flare on days one and two (15 Apr, 16
+Apr) and expected to be very low with a chance for a C-class flares on
+day three (17 Apr).
+
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 458 km/s at 14/0125Z. Total IMF reached 8
+nT at 14/1150Z. The maximum southward component of Bz reached -6 nT at
+14/1113Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 2534 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (15 Apr), quiet to unsettled
+levels on day two (16 Apr) and unsettled to minor storm levels on day
+three (17 Apr).
+
+III.  Event probabilities 15 Apr-17 Apr
+Class M    01/01/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           14 Apr 073
+Predicted   15 Apr-17 Apr 075/085/085
+90 Day Mean        14 Apr 078
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Apr  004/004
+Estimated Afr/Ap 14 Apr  012/015
+Predicted Afr/Ap 15 Apr-17 Apr  009/010-007/008-014/020
+
+VI.  Geomagnetic Activity Probabilities 15 Apr-17 Apr
+A.  Middle Latitudes
+Active                25/05/40
+Minor Storm           05/05/20
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/10
+Minor Storm           20/15/20
+Major-severe storm    20/15/55

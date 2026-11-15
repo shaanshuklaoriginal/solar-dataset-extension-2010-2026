@@ -1,0 +1,55 @@
+:Product: 0916RSGA.txt
+:Issued: 2012 Sep 16 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 260 Issued at 2200Z on 16 Sep 2012
+IA.  Analysis of Solar Active Regions and Activity from  15/2100Z
+to 16/2100Z:  Solar activity was very low. New Region 1573 (N17E62 -
+Axx/alpha) produced occasional B-class flares as it rotated into
+view. Region 1566 (N23W89 - Hrx/alpha) produced a B-class flare as
+it approached the west limb. Region 1569 (S12W13 - Cso/beta) showed
+gradual spot and penumbral decay in its intermediate and trailer
+portions. New Region 1574 (S25W15 - Bxo/beta), a small
+reverse-polarity group, was also numbered. No Earth-directed CME activity
+occurred during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low through the period (17 - 19 September) with a chance for a
+C-class flare.
+IIA.  Geophysical Activity Summary 15/2100Z to 16/2100Z:
+Geomagnetic field activity was at quiet to unsettled levels. An
+increase to unsettled levels occurred late in the period associated
+with the onset of a solar sector boundary crossing (SSBC).
+Intermittent periods of weakly-southward IMF Bz along with minor
+increases in solar wind speeds and IMF Bt were associated with the
+SSBC.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to remain at quiet to unsettled levels on day 1 (17
+September) due to minor changes in the solar wind. A decrease to
+quiet levels is expected on day 2 (18 September). Activity is
+expected to increase to quiet to unsettled levels on day 3 (19
+September), with a slight chance for active levels, as a coronal
+hole high-speed stream begins to disturb the field.
+III.  Event Probabilities 17 Sep-19 Sep
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           16 Sep 097
+Predicted   17 Sep-19 Sep  095/095/100
+90 Day Mean        16 Sep 122
+V.  Geomagnetic A Indices
+Observed Afr/Ap 15 Sep  005/006
+Estimated Afr/Ap 16 Sep  006/008
+Predicted Afr/Ap 17 Sep-19 Sep  007/010-006/005-007/008
+VI.  Geomagnetic Activity Probabilities 17 Sep-19 Sep
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/15/15
+Minor storm           20/15/25
+Major-severe storm    10/05/15

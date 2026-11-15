@@ -1,0 +1,53 @@
+:Product: 0715RSGA.txt
+:Issued: 2024 Jul 15 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 197 Issued at 2200Z on 15 Jul 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 14/2100Z to
+15/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M2 event observed at
+15/0937Z from Region 3738 (S09W68). There are currently 12 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(16 Jul, 17 Jul, 18 Jul).
+
+IIA.  Geophysical Activity Summary 14/2100Z to 15/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 336 km/s at 15/1646Z. Total IMF reached 6 nT at
+15/2058Z. The maximum southward component of Bz reached -3 nT at
+15/1643Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 128 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one and two (16 Jul, 17 Jul) and quiet to
+active levels on day three (18 Jul). Protons have a slight chance of
+crossing threshold on days one, two, and three (16 Jul, 17 Jul, 18 Jul).
+
+III.  Event probabilities 16 Jul-18 Jul
+Class M    65/65/65
+Class X    15/15/15
+Proton     15/15/15
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           15 Jul 233
+Predicted   16 Jul-18 Jul 235/235/230
+90 Day Mean        15 Jul 187
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 14 Jul  009/005
+Estimated Afr/Ap 15 Jul  006/006
+Predicted Afr/Ap 16 Jul-18 Jul  005/005-006/005-007/010
+
+VI.  Geomagnetic Activity Probabilities 16 Jul-18 Jul
+A.  Middle Latitudes
+Active                10/10/30
+Minor Storm           01/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/30
+Major-severe storm    15/15/40

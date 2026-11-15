@@ -1,0 +1,57 @@
+:Product: 0901RSGA.txt
+:Issued: 2023 Sep 01 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 244 Issued at 2200Z on 01 Sep 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 31/2100Z to
+01/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+01/0351Z from Region 3413 (N10W74). There are currently 5 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on day one (02 Sep) and likely to be low
+with a slight chance for an M-class flare on days two and three (03 Sep,
+04 Sep).
+
+IIA.  Geophysical Activity Summary 31/2100Z to 01/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 559 km/s at 01/2024Z. Total IMF reached 11
+nT at 31/2154Z. The maximum southward component of Bz reached -9 nT at
+01/1256Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 25 pfu at 01/0610Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 111 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (02 Sep), active to minor
+storm levels on day two (03 Sep) and quiet to unsettled levels on day
+three (04 Sep). Protons greater than 10 Mev are expected to cross
+threshold on day one (02 Sep) and have a chance of crossing threshold on
+day two (03 Sep).
+
+III.  Event probabilities 02 Sep-04 Sep
+Class M    25/20/15
+Class X    05/05/01
+Proton     99/30/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           01 Sep 136
+Predicted   02 Sep-04 Sep 135/135/130
+90 Day Mean        01 Sep 164
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 31 Aug  008/006
+Estimated Afr/Ap 01 Sep  012/012
+Predicted Afr/Ap 02 Sep-04 Sep  013/015-025/035-013/015
+
+VI.  Geomagnetic Activity Probabilities 02 Sep-04 Sep
+A.  Middle Latitudes
+Active                25/35/35
+Minor Storm           10/25/15
+Major-severe storm    01/15/01
+B.  High Latitudes
+Active                15/05/20
+Minor Storm           20/20/30
+Major-severe storm    20/70/30

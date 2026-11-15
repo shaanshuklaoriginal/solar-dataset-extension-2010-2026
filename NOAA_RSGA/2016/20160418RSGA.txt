@@ -1,0 +1,56 @@
+:Product: 0418RSGA.txt
+:Issued: 2016 Apr 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 109 Issued at 2200Z on 18 Apr 2016
+
+IA.  Analysis of Solar Active Regions and Activity from 17/2100Z to
+18/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a M6 event observed at
+18/0029Z from Region 2529 (N10W67). There are currently 2 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a slight chance for an M-class flare on day one (19 Apr) and expected to
+be very low with a chance for a C-class flares and a slight chance for
+an M-class flare on day two (20 Apr) and expected to be very low with a
+slight chance for a C-class flare on day three (21 Apr).
+
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 419 km/s at 18/0051Z. Total IMF reached 12
+nT at 18/0112Z. The maximum southward component of Bz reached -6 nT at
+18/0744Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 207 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (19 Apr), quiet to unsettled
+levels on day two (20 Apr) and quiet levels on day three (21 Apr).
+Protons greater than 10 Mev have a slight chance of crossing threshold
+on day one (19 Apr).
+
+III.  Event probabilities 19 Apr-21 Apr
+Class M    20/10/01
+Class X    05/01/01
+Proton     15/05/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           18 Apr 095
+Predicted   19 Apr-21 Apr 095/090/088
+90 Day Mean        18 Apr 099
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 Apr  017/021
+Estimated Afr/Ap 18 Apr  007/009
+Predicted Afr/Ap 19 Apr-21 Apr  010/012-008/008-006/005
+
+VI.  Geomagnetic Activity Probabilities 19 Apr-21 Apr
+A.  Middle Latitudes
+Active                35/15/15
+Minor Storm           10/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           30/20/20
+Major-severe storm    45/25/20

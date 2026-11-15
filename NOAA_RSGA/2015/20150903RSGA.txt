@@ -1,0 +1,51 @@
+:Product: 0903RSGA.txt
+:Issued: 2015 Sep 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 246 Issued at 2200Z on 03 Sep 2015
+
+IA.  Analysis of Solar Active Regions and Activity from 02/2100Z to
+03/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+03/1137Z. There are currently 2 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a slight chance for a C-class flare on days one, two, and three (04
+Sep, 05 Sep, 06 Sep).
+
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+472 km/s at 03/1143Z. Total IMF reached 13 nT at 03/1915Z. The maximum
+southward component of Bz reached -8 nT at 03/1813Z. Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 578 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one, two, and three (04 Sep,
+05 Sep, 06 Sep).
+
+III.  Event probabilities 04 Sep-06 Sep
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           03 Sep 087
+Predicted   04 Sep-06 Sep 085/090/090
+90 Day Mean        03 Sep 111
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Sep  010/006
+Estimated Afr/Ap 03 Sep  009/010
+Predicted Afr/Ap 04 Sep-06 Sep  008/008-008/010-008/009
+
+VI.  Geomagnetic Activity Probabilities 04 Sep-06 Sep
+A.  Middle Latitudes
+Active                20/25/25
+Minor Storm           05/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/30/30
+Major-severe storm    25/40/30

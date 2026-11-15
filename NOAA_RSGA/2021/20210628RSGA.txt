@@ -1,0 +1,52 @@
+:Product: 0628RSGA.txt
+:Issued: 2021 Jun 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 179 Issued at 2200Z on 28 Jun 2021
+
+IA.  Analysis of Solar Active Regions and Activity from 27/2100Z to
+28/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C2 event observed at
+28/0935Z from Region 2836 (S28E21). There are currently 3 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares on days one, two, and three (29 Jun,
+30 Jun, 01 Jul).
+
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 384 km/s at 27/2340Z. Total IMF reached 5 nT at
+28/0105Z. The maximum southward component of Bz reached -3 nT at
+27/2231Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 343 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (29 Jun) and quiet to unsettled levels
+on days two and three (30 Jun, 01 Jul).
+
+III.  Event probabilities 29 Jun-01 Jul
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           28 Jun 089
+Predicted   29 Jun-01 Jul 090/090/090
+90 Day Mean        28 Jun 077
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Jun  004/005
+Estimated Afr/Ap 28 Jun  003/004
+Predicted Afr/Ap 29 Jun-01 Jul  005/005-008/010-008/010
+
+VI.  Geomagnetic Activity Probabilities 29 Jun-01 Jul
+A.  Middle Latitudes
+Active                10/15/20
+Minor Storm           01/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/15/15
+Minor Storm           20/25/25
+Major-severe storm    10/25/30

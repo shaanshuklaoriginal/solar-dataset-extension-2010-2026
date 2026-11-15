@@ -1,0 +1,45 @@
+:Product: 1107RSGA.txt
+:Issued: 2011 Nov 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 311 Issued at 2200Z on 07 Nov 2011
+IA.  Analysis of Solar Active Regions and Activity from  06/2100Z
+to 07/2100Z:  Solar activity was low. Only low to mid-level C-class
+activity was observed from both Regions 1338 (S13W12) and 1339
+(N18E05). Both regions exhibited some growth in area and spot count
+with Region 1338 developing a Beta-Gamma magnetic configuration.
+There were no Earth-directed CMEs observed during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate during the period (08 - 10 November) with a slight chance
+for high activity (M5 or higher) from Region 1339. There is also a
+slight chance for a proton flare from this region during the period.
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z:
+The geomagnetic field was at quiet to unsettled levels. Solar wind
+speeds ranged between 300 to 375 km/s while the Bz component of the
+interplanetary magnetic field did not vary much beyond +/- 5 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels during the period (08 - 10 November).
+III.  Event Probabilities 08 Nov-10 Nov
+Class M    70/70/70
+Class X    10/10/10
+Proton     10/10/10
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           07 Nov 182
+Predicted   08 Nov-10 Nov  180/180/180
+90 Day Mean        07 Nov 129
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Nov  003/003
+Estimated Afr/Ap 07 Nov  003/005
+Predicted Afr/Ap 08 Nov-10 Nov  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 08 Nov-10 Nov
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

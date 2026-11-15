@@ -1,0 +1,60 @@
+:Product: 0904RSGA.txt
+:Issued: 2011 Sep 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 247 Issued at 2200Z on 04 Sep 2011
+IA.  Analysis of Solar Active Regions and Activity from  03/2100Z
+to 04/2100Z:  Solar activity was at moderate levels due to an M3
+x-ray event observed on the west limb at 04/1145Z. This event
+originated from the west limb spot group complex consisting of
+Regions 1280 (N13W91) and 1286 (N20W75). Close proximity to the limb
+made precise analysis of the flare location difficult. Associated
+with the M3 event was a west limb CME, first observed in LASCO C2
+imagery at 04/1212Z. A plane-of-sky speed was estimated at about 400
+km/s. Preceding this event was another west limb CME, first observed
+in LASCO C2 imagery at 04/0912Z. A plane-of-sky speed was estimated
+at about 150 km/s.  Analysis of the potential geoeffectiveness of
+these CMEs is ongoing. Numerous C-class flares were also observed
+during the period from this area of the west limb. Region 1287
+(S32E51) produced a C1 x-ray event early in the period at 03/2212Z.
+This region showed minor growth in area while the remaining regions
+on the disk indicated a slight decay in area coupled with loss of
+spots.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+for the next three days (05 - 07 September). A chance for additional
+M-class activity exists through 06 September.
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z:
+The geomagnetic field was at quiet to unsettled levels. Observations
+from the ACE spacecraft indicated wind speeds varied predominately
+between 350 to 400 km/s. The Bz component of the interplanetary
+magnetic field did not vary much beyond +/- 5 nT during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels for day one (05
+September) due to continuing effects from a coronal hole high speed
+stream (CH HSS). By days two and three (06 - 07 September), the
+field is expected to be at mostly quiet levels as the CH HSS moves
+out of a geoeffective position.
+III.  Event Probabilities 05 Sep-07 Sep
+Class M    25/15/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           04 Sep 119
+Predicted   05 Sep-07 Sep  120/115/105
+90 Day Mean        04 Sep 098
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Sep  009/013
+Estimated Afr/Ap 04 Sep  007/008
+Predicted Afr/Ap 05 Sep-07 Sep  005/008-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 05 Sep-07 Sep
+A.  Middle Latitudes
+Active                15/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/15/15
+Minor storm           05/01/01
+Major-severe storm    01/01/01

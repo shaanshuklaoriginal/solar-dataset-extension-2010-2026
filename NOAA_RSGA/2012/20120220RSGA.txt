@@ -1,0 +1,47 @@
+:Product: 0220RSGA.txt
+:Issued: 2012 Feb 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 051 Issued at 2200Z on 20 Feb 2012
+IA.  Analysis of Solar Active Regions and Activity from  19/2100Z
+to 20/2100Z:  Solar activity was low. There were three C-class flares
+during the past 24 hours. The largest of these was a C4/Sf at 0509Z
+from Region 1421 (N18E32). Region 1422 (N16W11) produced the other
+two C-flares and is currently the largest group on the disk.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low.
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z:
+The geomagnetic field was unsettled to active with some isolated
+storm periods at high latitudes. Solar wind data from ACE indicated
+the influence of a high speed stream from a coronal hole. The
+greater than 2 MeV electron flux at geosynchronous orbit reached
+high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled with a chance for active periods on the
+first day (21 Feb) due to continued effects from the high speed
+stream. A decrease to mostly quiet levels is predicted for the
+second day (22 Feb) and quiet levels are expected to continue for
+the third day (23 Feb).
+III.  Event Probabilities 21 Feb-23 Feb
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           20 Feb 111
+Predicted   21 Feb-23 Feb  110/110/110
+90 Day Mean        20 Feb 131
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 Feb  011/016
+Estimated Afr/Ap 20 Feb  016/018
+Predicted Afr/Ap 21 Feb-23 Feb  008/010-006/008-005/005
+VI.  Geomagnetic Activity Probabilities 21 Feb-23 Feb
+A.  Middle Latitudes
+Active                10/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           20/10/10
+Major-severe storm    10/05/05

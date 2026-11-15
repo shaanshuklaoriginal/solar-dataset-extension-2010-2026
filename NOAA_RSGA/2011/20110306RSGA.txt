@@ -1,0 +1,49 @@
+:Product: 0306RSGA.txt
+:Issued: 2011 Mar 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 065 Issued at 2200Z on 06 Mar 2011
+IA.  Analysis of Solar Active Regions and Activity from  05/2100Z
+to 06/2100Z:  Solar activity was low.  Regions 1164 (N24W46), 1165
+(S20W68), 1166 (N11E27), and a new region numbered today as 1169
+(N21E56) have all produced C-class events in the past 24 hours.  The
+largest of these was a C8 at 06/1444Z from Region 1164.  This region
+continues to maintain its Beta-Gamma-Delta magnetic configuration.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for a M-class event.
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z:
+The geomagnetic field was mostly quiet with one period of unsettled
+conditions reported at 06/1500Z.  Observations from the ACE
+spacecraft observed a period around 06/1350Z of southward Bz to -5nT
+and a Bt of +6nT. The greater than 2 MeV electron flux at
+geosynchronous orbit was at high levels throughout the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled with isolated active conditions,
+and a slight chance for minor storm levels at high latitudes, for
+day one (07 March).  This activity is expected due to the possible
+arrival of the CME observed on 03 March.  Predominately quiet
+conditions are expected for days two and three (08-09 March).
+III.  Event Probabilities 07 Mar-09 Mar
+Class M    45/45/45
+Class X    05/05/05
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           06 Mar 143
+Predicted   07 Mar-09 Mar  145/145/145
+90 Day Mean        06 Mar 090
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Mar  004/005
+Estimated Afr/Ap 06 Mar  005/008
+Predicted Afr/Ap 07 Mar-09 Mar  008/008-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 07 Mar-09 Mar
+A.  Middle Latitudes
+Active                15/05/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/05/05
+Minor storm           10/01/01
+Major-severe storm    01/01/01

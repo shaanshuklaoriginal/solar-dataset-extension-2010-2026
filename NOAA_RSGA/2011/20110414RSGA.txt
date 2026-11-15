@@ -1,0 +1,49 @@
+:Product: 0414RSGA.txt
+:Issued: 2011 Apr 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 104 Issued at 2200Z on 14 Apr 2011
+IA.  Analysis of Solar Active Regions and Activity from  13/2100Z
+to 14/2100Z:  Solar activity was at low levels during the past 24
+hours. Occasional C-class flares occurred. The largest was a C4/Sf
+flare at 14/0527Z from Region 1193 (N16E58). The majority of the
+flares were observed from Region 1193 and Region 1190 (N13W14).
+Region 1190 increased in area and complexity and is classified as an
+Eki-beta group with 37 spots. Region 1193 showed a slight increase
+in areal coverage. Region 1186 (N22W33) showed an increase in areal
+coverage as well as spot count. Region 1194 (S32W42) was numbered
+today as a Bxo-beta group with 2 spots.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a slight chance for M-class flares for the next
+three days (15-17 April).
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z:
+The geomagnetic field was at quiet levels. The greater than 2 MeV
+electron flux at geosynchronous orbit reached high levels during the
+period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at predominantly quiet levels for the next three days
+(15-17 April).
+III.  Event Probabilities 15 Apr-17 Apr
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           14 Apr 119
+Predicted   15 Apr-17 Apr  125/128/130
+90 Day Mean        14 Apr 102
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Apr  010/014
+Estimated Afr/Ap 14 Apr  004/005
+Predicted Afr/Ap 15 Apr-17 Apr  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 15 Apr-17 Apr
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01

@@ -1,0 +1,62 @@
+:Product: 1130RSGA.txt
+:Issued: 2012 Nov 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 335 Issued at 2200Z on 30 Nov 2012
+
+IA.  Analysis of Solar Active Regions and Activity from 29/2100Z to
+30/2100Z: Solar activity was low. Region 1625 (N14E36, Dao/beta-gamma)
+remained the most flare-productive region with frequent low-level
+C-class subflares. It showed some intermediate spot decay during the
+period, but retained its beta-gamma magnetic configuration. Region 1620
+(S13W81, Eai/beta-gamma) produced the largest flare of the period: a C5
+at 30/1748 UTC as it approached the west limb. No significant changes
+were noted in the region, but analysis was hampered due to limb
+proximity. No significant changes were noted in Region 1623 (N08E35,
+Dao/beta-gamma). There are currently 4 numbered sunspot regions on the
+disk. No Earth-directed CME activity occurred during the period.
+
+IB.  Solar Activity Forecast: Activity is expected to be low through 03
+December with a slight chance for an isolated M-class flare. At present,
+Regions 1620 and 1625 appear to be the most capable of producing
+isolated M-class activity.
+
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z: Geomagnetic
+field activity was at quiet levels with no sign of the CME passage that
+was expected to begin around 30/0000 UTC. Solar winds were low in the
+approximate 326 to 363 km/s range. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 103 pfu.
+
+IIB.  Geophysical Activity Forecast: Geomagnetic field activity is
+expected to increase to quiet to unsettled levels on 01 December with a
+slight chance for active levels due to CH HSS effects. Activity is
+expected to decrease to mostly quiet levels during 02 - 03 December as
+the CH HSS subsides.
+ 
+III.  Event probabilities 01 Dec-03 Dec
+Class M    20/15/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           30 Nov 111
+Predicted   01 Dec-03 Dec 105/100/100
+90 Day Mean        30 Nov 122
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Nov  002/002
+Estimated Afr/Ap 30 Nov  003/004
+Predicted Afr/Ap 01 Dec-03 Dec  007/008-004/005-005/005
+
+VI.  Geomagnetic Activity Probabilities 01 Dec-03 Dec
+A.  Middle Latitudes
+Active                15/10/05
+Minor Storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/15/10
+Major-severe storm    25/10/05

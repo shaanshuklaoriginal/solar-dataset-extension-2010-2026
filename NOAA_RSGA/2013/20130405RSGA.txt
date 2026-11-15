@@ -1,0 +1,51 @@
+:Product: 0405RSGA.txt
+:Issued: 2013 Apr 05 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 95 Issued at 2200Z on 05 Apr 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 04/2100Z to
+05/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M2 event observed at
+05/1748Z. There are currently 9 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (06 Apr, 07 Apr,
+08 Apr).
+
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 362 km/s at
+04/2302Z. Total IMF reached 6 nT at 05/1938Z. The maximum southward
+component of Bz reached -4 nT at 05/1940Z. Electrons greater than 2 MeV
+at geosynchronous orbit reached a peak level of 1970 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (06 Apr) and quiet levels
+on days two and three (07 Apr, 08 Apr).
+
+III.  Event probabilities 06 Apr-08 Apr
+Class M    30/30/30
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           05 Apr 134
+Predicted   06 Apr-08 Apr 135/135/135
+90 Day Mean        05 Apr 114
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 Apr  003/004
+Estimated Afr/Ap 05 Apr  002/003
+Predicted Afr/Ap 06 Apr-08 Apr  009/008-005/005-005/005
+
+VI.  Geomagnetic Activity Probabilities 06 Apr-08 Apr
+A.  Middle Latitudes
+Active                10/10/10
+Minor Storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/20
+Major-severe storm    15/20/10

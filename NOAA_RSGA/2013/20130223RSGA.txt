@@ -1,0 +1,51 @@
+:Product: 0223RSGA.txt
+:Issued: 2013 Feb 23 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 54 Issued at 2200Z on 23 Feb 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 22/2100Z to
+23/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C4 event observed at
+23/1609Z from Region 1678 (N08W93). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares on days one, two, and three (24 Feb,
+25 Feb, 26 Feb).
+
+IIA.  Geophysical Activity Summary 22/2100Z to 23/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+432 km/s at 23/1450Z. Total IMF reached 6 nT at 23/1449Z. The maximum
+southward component of Bz reached -6 nT at 23/1449Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (24 Feb) and quiet levels
+on days two and three (25 Feb, 26 Feb).
+
+III.  Event probabilities 24 Feb-26 Feb
+Class M    05/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           23 Feb 100
+Predicted   24 Feb-26 Feb 100/095/100
+90 Day Mean        23 Feb 115
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 22 Feb  009/008
+Estimated Afr/Ap 23 Feb  006/009
+Predicted Afr/Ap 24 Feb-26 Feb  007/008-005/005-004/005
+
+VI.  Geomagnetic Activity Probabilities 24 Feb-26 Feb
+A.  Middle Latitudes
+Active                15/10/10
+Minor Storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/15/15
+Major-severe storm    20/10/10

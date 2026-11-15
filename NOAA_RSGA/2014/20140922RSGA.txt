@@ -1,0 +1,52 @@
+:Product: 0922RSGA.txt
+:Issued: 2014 Sep 22 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 265 Issued at 2200Z on 22 Sep 2014
+
+IA.  Analysis of Solar Active Regions and Activity from 21/2100Z to
+22/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 6 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (23 Sep, 24 Sep,
+25 Sep).
+
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+504 km/s at 22/0035Z. Total IMF reached 6 nT at 22/1508Z. The maximum
+southward component of Bz reached -5 nT at 22/1559Z. Protons greater
+than 10 MeV at geosynchronous orbit reached a peak level of 2 pfu at
+22/1300Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 178 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one, two, and three (23 Sep,
+24 Sep, 25 Sep).
+
+III.  Event probabilities 23 Sep-25 Sep
+Class M    30/30/30
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           22 Sep 130
+Predicted   23 Sep-25 Sep 130/135/135
+90 Day Mean        22 Sep 132
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 Sep  007/008
+Estimated Afr/Ap 22 Sep  007/008
+Predicted Afr/Ap 23 Sep-25 Sep  007/010-008/010-007/010
+
+VI.  Geomagnetic Activity Probabilities 23 Sep-25 Sep
+A.  Middle Latitudes
+Active                30/25/30
+Minor Storm           10/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           30/30/30
+Major-severe storm    40/40/40

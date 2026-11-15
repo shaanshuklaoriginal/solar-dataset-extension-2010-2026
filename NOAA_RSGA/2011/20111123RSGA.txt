@@ -1,0 +1,50 @@
+:Product: 1123RSGA.txt
+:Issued: 2011 Nov 23 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 327 Issued at 2200Z on 23 Nov 2011
+IA.  Analysis of Solar Active Regions and Activity from  22/2100Z
+to 23/2100Z:  Solar activity was low.  The largest flare was a C2
+at 23/1328Z from Region 1346 (S15W82).  Region 1356 (N15E28) decayed
+slightly in area in its intermediate spots.  Three CMEs were
+observed during the summary period.  The first was associated with a
+filament eruption in the northwestern quadrant first observed in
+SDO/AIA 193 imagery at 22/1957Z.  The second was first seen in
+SOHO/LASCO C2 imagery at 23/0048Z which was possibly associated with
+the same filament eruption.  The third was first seen in SOHO/LASCO
+C2 imagery at 23/0924Z which was associated with a high latitude
+backside event.  Further analysis of the 22/1957Z CME is ongoing to
+determine the possibility of a glancing blow.  The two subsequent
+CMEs are not expected to be geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for M-class activity.  An isolated M-class flare is
+possible from Region 1356.
+IIA.  Geophysical Activity Summary 22/2100Z to 23/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet for the next three days (24 - 26
+November).
+III.  Event Probabilities 24 Nov-26 Nov
+Class M    30/30/30
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           23 Nov 140
+Predicted   24 Nov-26 Nov  145/145/145
+90 Day Mean        23 Nov 139
+V.  Geomagnetic A Indices
+Observed Afr/Ap 22 Nov  007/006
+Estimated Afr/Ap 23 Nov  005/006
+Predicted Afr/Ap 24 Nov-26 Nov  004/005-004/005-004/005
+VI.  Geomagnetic Activity Probabilities 24 Nov-26 Nov
+A.  Middle Latitudes
+Active                04/04/04
+Minor storm           01/01/01
+Major-severe storm    00/00/00
+B.  High Latitudes
+Active                14/14/14
+Minor storm           12/12/12
+Major-severe storm    06/06/06

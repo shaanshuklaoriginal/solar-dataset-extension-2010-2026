@@ -1,0 +1,25 @@
+{
+    "dataset": "Solar Space Weather Extension",
+    "created_utc": "2026-11-14T08:16:56.664844",
+    "current_date": "2026-11-14",
+    "coverage": {
+        "GOES14": "2010-01-01 to 2010-04-30 requested",
+        "GOES15": "2010-09-01 to 2016-12-31",
+        "GOES19": "2025-04-07 to latest available",
+        "SILSO": "2026-01-01 to current date",
+        "F107": "2026-01-01 to current date",
+        "SRS": "2010-01-01 to current date",
+        "RSGA": "2010-01-01 to current date"
+    },
+    "successful_downloads": 12298,
+    "errors": 20,
+    "srs_files": 6145,
+    "rsga_files": 6139,
+    "sources": {
+        "GOES": "https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/",
+        "SILSO": "https://www.sidc.be/SILSO/DATA/SN_d_tot_V2.0.csv",
+        "F107": "https://www.ngdc.noaa.gov/stp/space-weather/swpc-products/annual_reports/daily_solar_indices_summaries/daily_solar_data/",
+        "SRS": "https://www.ngdc.noaa.gov/stp/space-weather/swpc-products/daily_reports/solar_region_summaries/",
+        "RSGA": "https://www.ngdc.noaa.gov/stp/space-weather/swpc-products/daily_reports/reports_solar_geophysical_activity/"
+    }
+}

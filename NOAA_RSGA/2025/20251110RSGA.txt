@@ -1,0 +1,54 @@
+:Product: 1110RSGA.txt
+:Issued: 2025 Nov 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 314 Issued at 2200Z on 10 Nov 2025
+
+IA.  Analysis of Solar Active Regions and Activity from 09/2100Z to
+10/2100Z: Solar activity has been at high levels for the past 24 hours.
+There are currently 7 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be moderate
+with a chance for X-class flares on days one, two, and three (11 Nov, 12
+Nov, 13 Nov).
+
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 598 km/s at 09/2102Z. Total IMF reached 8
+nT at 10/1228Z. The maximum southward component of Bz reached -5 nT at
+09/2113Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 30 pfu at 10/1500Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 4275 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to major storm levels on day one (11 Nov), unsettled
+to severe storm levels on day two (12 Nov) and unsettled to minor storm
+levels on day three (13 Nov). Protons are expected to cross threshold on
+day one (11 Nov), have a chance of crossing threshold on day two (12
+Nov) and have a chance of crossing threshold on day three (13 Nov).
+
+III.  Event probabilities 11 Nov-13 Nov
+Class M    75/75/75
+Class X    35/35/35
+Proton     99/50/35
+PCAF       yellow
+
+IV.  Penticton 10.7 cm Flux
+Observed           10 Nov 180
+Predicted   11 Nov-13 Nov 182/182/182
+90 Day Mean        10 Nov 152
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Nov  007/008
+Estimated Afr/Ap 10 Nov  013/017
+Predicted Afr/Ap 11 Nov-13 Nov  023/035-034/052-018/022
+
+VI.  Geomagnetic Activity Probabilities 11 Nov-13 Nov
+A.  Middle Latitudes
+Active                25/25/40
+Minor Storm           40/35/30
+Major-severe storm    30/35/10
+B.  High Latitudes
+Active                05/05/10
+Minor Storm           15/15/25
+Major-severe storm    79/85/65

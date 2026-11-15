@@ -1,0 +1,55 @@
+:Product: 1214RSGA.txt
+:Issued: 2023 Dec 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 348 Issued at 2200Z on 14 Dec 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 13/2100Z to
+14/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a X2 event observed at
+14/1702Z from Region 3514 (N05W50). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a chance for X-class flares on days one and two (15 Dec, 16 Dec)
+and expected to be low with a chance for M-class flares and a slight
+chance for an X-class flare on day three (17 Dec).
+
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 415 km/s at 14/0027Z. Total IMF reached 14
+nT at 14/0117Z. The maximum southward component of Bz reached -13 nT at
+14/0058Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 122 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on days one and two (15 Dec, 16
+Dec) and quiet to unsettled levels on day three (17 Dec). Protons have a
+chance of crossing threshold on days one and two (15 Dec, 16 Dec) and
+have a slight chance of crossing threshold on day three (17 Dec).
+
+III.  Event probabilities 15 Dec-17 Dec
+Class M    55/55/40
+Class X    25/25/15
+Proton     35/35/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           14 Dec 155
+Predicted   15 Dec-17 Dec 145/140/140
+90 Day Mean        14 Dec 149
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Dec  007/008
+Estimated Afr/Ap 14 Dec  015/017
+Predicted Afr/Ap 15 Dec-17 Dec  013/020-019/022-011/012
+
+VI.  Geomagnetic Activity Probabilities 15 Dec-17 Dec
+A.  Middle Latitudes
+Active                40/40/25
+Minor Storm           15/20/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/20
+Major-severe storm    35/30/20

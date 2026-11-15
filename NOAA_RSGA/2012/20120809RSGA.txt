@@ -1,0 +1,47 @@
+:Product: 0809RSGA.txt
+:Issued: 2012 Aug 09 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 222 Issued at 2200Z on 09 Aug 2012
+IA.  Analysis of Solar Active Regions and Activity from  08/2100Z
+to 09/2100Z:  Solar activity was low.  New Region 1544 (S30W06) was
+the most active region on the solar disk, producing three C-class
+flares.  However, Region 1542 (S14E37) produced the largest flare of
+the period, a C8 x-ray flare, at 09/1147Z.  Further analysis will be
+conducted to determine the geoeffectiveness of any CMEs associated
+with this flare as more data becomes available.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance for an isolated M-class flare.
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z:
+The geomagnetic field was mostly quiet with an isolated unsettled
+period from 09/0000Z-0300Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain quiet on day one (10 Aug).  Days two and three
+(Aug 11-12) are expected to be quiet to unsettled due to the effects
+of the interaction between the two filaments that lifted off the
+solar disk on 07 and 08 Aug and the corotating interaction region
+ahead of a coronal hole high speed stream.
+III.  Event Probabilities 10 Aug-12 Aug
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           09 Aug 131
+Predicted   10 Aug-12 Aug  135/130/130
+90 Day Mean        09 Aug 128
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 Aug  012/011
+Estimated Afr/Ap 09 Aug  005/006
+Predicted Afr/Ap 10 Aug-12 Aug  006/005-007/008-007/010
+VI.  Geomagnetic Activity Probabilities 10 Aug-12 Aug
+A.  Middle Latitudes
+Active                05/10/15
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/20
+Minor storm           15/25/30
+Major-severe storm    05/10/25

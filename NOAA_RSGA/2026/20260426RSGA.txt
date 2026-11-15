@@ -1,0 +1,52 @@
+:Product: 0426RSGA.txt
+:Issued: 2026 Apr 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 116 Issued at 2200Z on 26 Apr 2026
+
+IA.  Analysis of Solar Active Regions and Activity from 25/2100Z to
+26/2100Z: Solar activity has been at moderate levels for the past 24
+hours. There are currently 7 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(27 Apr, 28 Apr, 29 Apr).
+
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 527 km/s at 26/0848Z. Total IMF reached 14
+nT at 26/0318Z. The maximum southward component of Bz reached -13 nT at
+26/0318Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 572 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (27 Apr), quiet levels on day
+two (28 Apr) and quiet to unsettled levels on day three (29 Apr).
+Protons have a slight chance of crossing threshold on days one, two, and
+three (27 Apr, 28 Apr, 29 Apr).
+
+III.  Event probabilities 27 Apr-29 Apr
+Class M    55/55/55
+Class X    15/15/15
+Proton     10/10/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           26 Apr 156
+Predicted   27 Apr-29 Apr 155/150/150
+90 Day Mean        26 Apr 129
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Apr  007/009
+Estimated Afr/Ap 26 Apr  012/016
+Predicted Afr/Ap 27 Apr-29 Apr  010/012-006/006-007/010
+
+VI.  Geomagnetic Activity Probabilities 27 Apr-29 Apr
+A.  Middle Latitudes
+Active                30/10/15
+Minor Storm           05/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/20/20
+Minor Storm           35/20/20
+Major-severe storm    35/10/20

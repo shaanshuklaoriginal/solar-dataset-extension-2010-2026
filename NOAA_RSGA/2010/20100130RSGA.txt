@@ -1,0 +1,41 @@
+:Product: 0130RSGA.txt
+:Issued: 2010 Jan 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 030 Issued at 2200Z on 30 Jan 2010
+IA.  Analysis of Solar Active Regions and Activity from  29/2100Z
+to 30/2100Z:  Solar activity was very low.  Region 1041 (S27W58)
+continues its decay.  Early observations reported the region with a
+single spot visible.  New Region 1043 (N27E35) was numbered today. 
+No significant flares were observed during the past 24 hours.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low.
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominantly quiet for the next three days (31
+January - 02 February).
+III.  Event Probabilities 31 Jan-02 Feb
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           30 Jan 075
+Predicted   31 Jan-02 Feb  075/076/078
+90 Day Mean        30 Jan 077
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Jan  000/002
+Estimated Afr/Ap 30 Jan  001/005
+Predicted Afr/Ap 31 Jan-02 Feb  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 31 Jan-02 Feb
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

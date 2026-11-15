@@ -1,0 +1,58 @@
+:Product: 0816RSGA.txt
+:Issued: 2012 Aug 16 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 229 Issued at 2200Z on 16 Aug 2012
+IA.  Analysis of Solar Active Regions and Activity from  15/2100Z
+to 16/2100Z:  Solar activity was low.  Region 1543 (N22W48) produced
+a C3 flare at 16/1316Z.  This flare was accompanied by Type II (704
+km/s) and Type IV radio emissions and a coronal mass ejection (CME).
+The CME was first visible in STEREO-A COR2 imagery at 16/1409Z and
+was estimated to be moving at around 330 km/s.  Analysis is underway
+to determine if it will be geoeffective.  Region 1543 ended the
+period as an Hhx group with alpha magnetic characteristics.  New
+Region 1546 (N16E69) was numbered today as a simple Hsx group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+for the next three days (17-19 August).  There is a slight chance
+for an M-class flare on day 3 (19 August) as old Region 1532 (S16,
+L=185) returns.
+IIA.  Geophysical Activity Summary 15/2100Z to 16/2100Z:
+The geomagnetic field ranged from quiet to unsettled levels during
+the period.  A weak impulse was indicated at several geomagnetic
+observatories at around 16/1321Z.  Earlier, around 13/1223Z, the Bz
+component of the interplanetary magnetic field at the ACE spacecraft
+turned southward to approximately -6 nT.  It remained mostly
+southward for the remainder of the period.  The shift in Bz and the
+subsequent impulse at earth were consistent with the arrival of the
+CME from 13 August.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels for the next three days
+(17-20 August), with a chance for active levels.  The disturbed
+conditions on days 1-2 (17-18 August) are expected with the arrival
+of the CME from 14 August.  The disturbed conditions on day 3 (19
+August) are expected with the arrival of a positive coronal hole
+high speed stream.
+III.  Event Probabilities 17 Aug-19 Aug
+Class M    05/05/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           16 Aug 098
+Predicted   17 Aug-19 Aug  100/095/090
+90 Day Mean        16 Aug 126
+V.  Geomagnetic A Indices
+Observed Afr/Ap 15 Aug  007/006
+Estimated Afr/Ap 16 Aug  010/013
+Predicted Afr/Ap 17 Aug-19 Aug  010/012-009/012-011/012
+VI.  Geomagnetic Activity Probabilities 17 Aug-19 Aug
+A.  Middle Latitudes
+Active                15/10/20
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/15/20
+Minor storm           20/15/30
+Major-severe storm    15/05/25

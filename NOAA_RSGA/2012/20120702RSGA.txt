@@ -1,0 +1,62 @@
+:Product: 0702RSGA.txt
+:Issued: 2012 Jul 02 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 184 Issued at 2200Z on 02 Jul 2012
+IA.  Analysis of Solar Active Regions and Activity from  01/2100Z
+to 02/2100Z:  Solar activity increased to high levels. Region 1515
+(S17E04) produced an impulsive M5/2b flare at 02/1052Z associated
+with a Type II radio sweep (estimated shock speed 1063 km/s), a 380
+sfu Tenflare, and a coronal mass ejection (CME) with most of the
+mass directed southward, out of the ecliptic plane. It also produced
+an impulsive M3/2b flare at 02/2007Z associated with a 190 sfu
+Tenflare. This region remained large and magnetically complex
+(beta-gamma-delta). Region 1513 (N16W09) produced an impulsive M1/1n
+flare at 02/0035Z as well as frequent B- and C-class flares. Gradual
+spot growth was noted in its intermediate and trailer portions and
+it retained its beta-gamma magnetic configuration. No new regions
+were numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate during the period (03 - 05 July) with M-class flares
+expected from Regions 1513 and 1515.
+IIA.  Geophysical Activity Summary 01/2100Z to 02/2100Z:
+Geomagnetic field activity was at unsettled to active levels with
+minor to major storm levels detected at high latitudes. This
+activity was associated with a persistent coronal hole high-speed
+stream (CH HSS). ACE data indicated solar wind speeds in the 580 -
+722 km/s range with no discernible trend. IMF Bz was variable and
+ranged from +6 nT to -5 nT. Todays observed Penticton 10.7 cm flux
+(166 sfu) was flare-enhanced due to the M3/2b at 02/2007Z. The
+greater than 2 MeV electron flux at geosynchronous orbit reached
+high levels during the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to remain at unsettled to active levels on day 1 (03 July)
+as CH HSS effects persist. Activity is expected to decrease to quiet
+to unsettled levels during days 2 - 3 (04 - 05 July) as CH HSS
+effects gradually subside. The CME associated with todays M5/2b
+flare is not expected to disturb the field during the forecast
+period.
+III.  Event Probabilities 03 Jul-05 Jul
+Class M    70/70/70
+Class X    10/10/10
+Proton     05/05/05
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           02 Jul 166
+Predicted   03 Jul-05 Jul  140/145/145
+90 Day Mean        02 Jul 120
+V.  Geomagnetic A Indices
+Observed Afr/Ap 01 Jul  020/023
+Estimated Afr/Ap 02 Jul  020/022
+Predicted Afr/Ap 03 Jul-05 Jul  013/015-007/008-007/008
+VI.  Geomagnetic Activity Probabilities 03 Jul-05 Jul
+A.  Middle Latitudes
+Active                25/15/15
+Minor storm           10/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           30/25/25
+Major-severe storm    35/25/25

@@ -1,0 +1,56 @@
+:Product: 1229RSGA.txt
+:Issued: 2015 Dec 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 363 Issued at 2200Z on 29 Dec 2015
+
+IA.  Analysis of Solar Active Regions and Activity from 28/2100Z to
+29/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C6 event observed at
+29/1032Z from Region 2473 (S21W33). There are currently 2 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+days one, two, and three (30 Dec, 31 Dec, 01 Jan).
+
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 426 km/s at
+29/0217Z. Total IMF reached 6 nT at 28/2334Z. The maximum southward
+component of Bz reached -5 nT at 29/2023Z. Protons greater than 10 MeV
+at geosynchronous orbit reached a peak level of 3 pfu at 29/0150Z.
+Electrons greater than 2 MeV at geosynchronous orbit reached a peak
+level of 2442 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to severe storm levels on day one (30 Dec), unsettled to
+minor storm levels on day two (31 Dec) and quiet to active levels on day
+three (01 Jan). Protons have a slight chance of crossing threshold on
+days one, two, and three (30 Dec, 31 Dec, 01 Jan).
+
+III.  Event probabilities 30 Dec-01 Jan
+Class M    50/50/50
+Class X    10/10/10
+Proton     15/15/15
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           29 Dec 105
+Predicted   30 Dec-01 Jan 105/105/110
+90 Day Mean        29 Dec 109
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 Dec  003/002
+Estimated Afr/Ap 29 Dec  006/006
+Predicted Afr/Ap 30 Dec-01 Jan  018/040-022/028-012/015
+
+VI.  Geomagnetic Activity Probabilities 30 Dec-01 Jan
+A.  Middle Latitudes
+Active                15/45/30
+Minor Storm           35/30/15
+Major-severe storm    50/05/01
+B.  High Latitudes
+Active                01/05/15
+Minor Storm           10/20/30
+Major-severe storm    90/70/45

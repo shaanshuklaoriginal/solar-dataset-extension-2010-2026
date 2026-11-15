@@ -1,0 +1,51 @@
+:Product: 0529RSGA.txt
+:Issued: 2016 May 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 150 Issued at 2200Z on 29 May 2016
+
+IA.  Analysis of Solar Active Regions and Activity from 28/2100Z to
+29/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 2 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a slight chance for a C-class flare on days one, two, and three (30
+May, 31 May, 01 Jun).
+
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 527 km/s at 29/2041Z. Total IMF reached 7
+nT at 29/1813Z. The maximum southward component of Bz reached -5 nT at
+29/2024Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 564 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to minor storm levels on day one (30 May), quiet to
+active levels on day two (31 May) and quiet levels on day three (01
+Jun).
+
+III.  Event probabilities 30 May-01 Jun
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           29 May 083
+Predicted   30 May-01 Jun 080/075/075
+90 Day Mean        29 May 093
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 May  013/016
+Estimated Afr/Ap 29 May  008/008
+Predicted Afr/Ap 30 May-01 Jun  015/020-010/012-006/005
+
+VI.  Geomagnetic Activity Probabilities 30 May-01 Jun
+A.  Middle Latitudes
+Active                40/25/10
+Minor Storm           20/10/05
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor Storm           30/30/20
+Major-severe storm    55/35/20

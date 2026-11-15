@@ -1,0 +1,46 @@
+:Product: 0214RSGA.txt
+:Issued: 2010 Feb 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 045 Issued at 2200Z on 14 Feb 2010
+IA.  Analysis of Solar Active Regions and Activity from  13/2100Z
+to 14/2100Z:  Solar activity was low. Region 1048 (N20E64) produced a
+C4 flare at 14/1204Z. Region 1046 (N24W23) produced an isolated
+B-class flare. Region 1046 was in a gradual decay phase with
+decreased spot count and area as well as a decrease in magnetic
+complexity. No new regions were assigned.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+to moderate. C-class flares are likely. There is also a chance for
+an isolated M-class flare from Regions 1046 and 1048.
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z:
+Geomagnetic field activity was at quiet levels.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at unsettled to active levels during the period (15 -
+17 February) with a chance for minor storm levels. A CME is expected
+to impact the field on 15 February. A recurrent coronal hole
+high-speed stream is expected to disturb the field during 16 - 17
+February.
+III.  Event Probabilities 15 Feb-17 Feb
+Class M    50/50/50
+Class X    10/10/10
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           14 Feb 089
+Predicted   15 Feb-17 Feb  086/084/084
+90 Day Mean        14 Feb 079
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Feb  002/003
+Estimated Afr/Ap 14 Feb  003/007
+Predicted Afr/Ap 15 Feb-17 Feb  012/012-018/018-012/012
+VI.  Geomagnetic Activity Probabilities 15 Feb-17 Feb
+A.  Middle Latitudes
+Active                35/40/35
+Minor storm           10/20/10
+Major-severe storm    05/10/05
+B.  High Latitudes
+Active                45/45/45
+Minor storm           15/25/15
+Major-severe storm    10/15/10

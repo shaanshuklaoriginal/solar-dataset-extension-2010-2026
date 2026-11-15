@@ -1,0 +1,45 @@
+:Product: 0526RSGA.txt
+:Issued: 2010 May 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 146 Issued at 2200Z on 26 May 2010
+IA.  Analysis of Solar Active Regions and Activity from  25/2100Z
+to 26/2100Z:  Solar activity has been very low.  Region 1072 (S15
+W52) has decayed to a unipolar H type group.  No flares were
+observed during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low.
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z:
+The geomagnetic field has been quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be initially quiet. An increase to unsettled to active
+levels with a slight chance for minor storm periods is expected
+around mid-day on day one (May 27), due to the arrival of the CME
+observed on 23 May. Continued active levels with a slight chance for
+minor storm periods are expected on day two (May 28) and continuing
+through day three (May 29), with the arrival of the CME observed on
+24 May.
+III.  Event Probabilities 27 May-29 May
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           26 May 072
+Predicted   27 May-29 May  075/076/078
+90 Day Mean        26 May 078
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 May  004/005
+Estimated Afr/Ap 26 May  005/005
+Predicted Afr/Ap 27 May-29 May  015/015-020/022-018/020
+VI.  Geomagnetic Activity Probabilities 27 May-29 May
+A.  Middle Latitudes
+Active                50/50/40
+Minor storm           15/15/10
+Major-severe storm    05/05/05
+B.  High Latitudes
+Active                50/50/45
+Minor storm           25/25/20
+Major-severe storm    15/15/10

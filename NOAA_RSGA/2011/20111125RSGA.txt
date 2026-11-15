@@ -1,0 +1,46 @@
+:Product: 1125RSGA.txt
+:Issued: 2011 Nov 25 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 329 Issued at 2200Z on 25 Nov 2011
+IA.  Analysis of Solar Active Regions and Activity from  24/2100Z
+to 25/2100Z:  Solar activity has been at low levels for the past 24
+hours. Several small coronal mass ejections (CME) were observed but
+none appear to have any Earth directed components. Two new regions
+were numbered today, Region 1360 (N17E17) and Region 1361 (N19E59).
+There are over 10 numbered sunspot regions on the disk, however most
+have remained stable and quiet.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a slight chance for M-class activity for the next
+three days (26 - 28 November).
+IIA.  Geophysical Activity Summary 24/2100Z to 25/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain at mostly quiet levels for the next two days (26
+- 27 November). An increase to quiet to unsettled with a chance for
+active levels is expected on day three (28 November), as a coronal
+hole high speed stream moves into a geoeffective position.
+III.  Event Probabilities 26 Nov-28 Nov
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           25 Nov 135
+Predicted   26 Nov-28 Nov  130/135/140
+90 Day Mean        25 Nov 140
+V.  Geomagnetic A Indices
+Observed Afr/Ap 24 Nov  004/005
+Estimated Afr/Ap 25 Nov  004/005
+Predicted Afr/Ap 26 Nov-28 Nov  004/007-006/008-008/008
+VI.  Geomagnetic Activity Probabilities 26 Nov-28 Nov
+A.  Middle Latitudes
+Active                04/07/21
+Minor storm           00/01/05
+Major-severe storm    00/00/00
+B.  High Latitudes
+Active                15/17/18
+Minor storm           14/20/33
+Major-severe storm    05/10/32

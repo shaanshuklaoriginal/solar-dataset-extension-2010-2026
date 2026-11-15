@@ -1,0 +1,39 @@
+:Product: 0203RSGA.txt
+:Issued: 2010 Feb 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 034 Issued at 2200Z on 03 Feb 2010
+IA.  Analysis of Solar Active Regions and Activity from  02/2100Z
+to 03/2100Z:  Solar activity was very low. Region 1043 (N25W18)
+remains stable and has not produced any significant activity within
+the past 24 hours. The return of old Region 1040 is evident in EIT and SXI imagery. A CME was observed off the northeast limb at about 03/0500Z and was associated with a B1 long duration X-ray event between 0450-0700Z. A second CME that appears earthward directed was observed on both Stereo A and B. There are two coronal holes visible on the disk.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with only a slight chance for a C-class flare.
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z:
+The geomagnetic field was generally unsettled with an active period from 02/2100Z-03/0000Z. Solar wind speeds were elevated throughout the period with peak velocities around 580 km/s.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the next two days (04-05 February). An increase to mostly unsettled levels is expected in the third day (06 February) in response to a high speed stream.
+III.  Event Probabilities 04 Feb-06 Feb
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           03 Feb 074
+Predicted   04 Feb-06 Feb  076/078/080
+90 Day Mean        03 Feb 077
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Feb  007/009
+Estimated Afr/Ap 03 Feb  010/010
+Predicted Afr/Ap 04 Feb-06 Feb  005/005-005/005-008/008
+VI.  Geomagnetic Activity Probabilities 04 Feb-06 Feb
+A.  Middle Latitudes
+Active                05/05/15
+Minor storm           01/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/10
+Minor storm           01/01/05
+Major-severe storm    01/01/01

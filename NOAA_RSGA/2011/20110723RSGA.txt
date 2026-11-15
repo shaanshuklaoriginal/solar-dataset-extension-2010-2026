@@ -1,0 +1,49 @@
+:Product: 0723RSGA.txt
+:Issued: 2011 Jul 23 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 204 Issued at 2200Z on 23 Jul 2011
+IA.  Analysis of Solar Active Regions and Activity from  22/2100Z
+to 23/2100Z:  Solar activity was very low. Region 1254 (S26W54) and
+Region 1259 (N23E02) are classified as Cao type spot groups.  Both
+regions remained quiet and stable.  Multiple B class x-ray events
+were observed, the largest a B5 at 23/1449 Z. The origin of the
+activity is just beyond the east limb and is likely returning Region
+1246 (L=329).
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low for the next three days (24-26 July).
+IIA.  Geophysical Activity Summary 22/2100Z to 23/2100Z:
+The geomagnetic field has been quiet to unsettled during the past 24
+hours. Solar wind data observed at the ACE spacecraft indicated a
+decrease in velocity from 600 km/s to about 500 km/s during the
+period. The greater than 2 MeV electron flux at geosynchronous orbit
+reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled with a slight chance of isolated
+active periods for the next three days (24-26 July). The activity is
+forecast due to the expected arrival of another coronal hole high
+speed stream.
+III.  Event Probabilities 24 Jul-26 Jul
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           23 Jul 088
+Predicted   24 Jul-26 Jul  088/088/086
+90 Day Mean        23 Jul 096
+V.  Geomagnetic A Indices
+Observed Afr/Ap 22 Jul  010/010
+Estimated Afr/Ap 23 Jul  008/008
+Predicted Afr/Ap 24 Jul-26 Jul  006/006-005/005-009/009
+VI.  Geomagnetic Activity Probabilities 24 Jul-26 Jul
+A.  Middle Latitudes
+Active                10/10/15
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/15
+Minor storm           05/05/05
+Major-severe storm    01/01/01

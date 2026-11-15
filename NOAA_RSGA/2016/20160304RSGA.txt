@@ -1,0 +1,52 @@
+:Product: 0304RSGA.txt
+:Issued: 2016 Mar 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 64 Issued at 2200Z on 04 Mar 2016
+
+IA.  Analysis of Solar Active Regions and Activity from 03/2100Z to
+04/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+04/0900Z from Region 2506 (S06W76). There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares on days one, two, and three (05 Mar,
+06 Mar, 07 Mar).
+
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 460 km/s at 04/0302Z. Total IMF reached 5
+nT at 04/1710Z. The maximum southward component of Bz reached -4 nT at
+03/2345Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 220 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one and three (05 Mar, 07 Mar)
+and unsettled to minor storm levels on day two (06 Mar).
+
+III.  Event probabilities 05 Mar-07 Mar
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           04 Mar 101
+Predicted   05 Mar-07 Mar 105/105/105
+90 Day Mean        04 Mar 107
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Mar  007/006
+Estimated Afr/Ap 04 Mar  004/005
+Predicted Afr/Ap 05 Mar-07 Mar  011/012-018/022-011/015
+
+VI.  Geomagnetic Activity Probabilities 05 Mar-07 Mar
+A.  Middle Latitudes
+Active                30/40/30
+Minor Storm           10/20/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/10/15
+Minor Storm           30/30/35
+Major-severe storm    40/50/40

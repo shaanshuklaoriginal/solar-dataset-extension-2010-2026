@@ -1,0 +1,45 @@
+:Product: 0914RSGA.txt
+:Issued: 2010 Sep 15 0210 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+:::::::::: CORRECTED COPY ::::::::::
+SDF Number 257 Issued at 2200Z on 14 Sep 2010
+IA.  Analysis of Solar Active Regions and Activity from  13/2100Z
+to 14/2100Z:  Solar activity has been very low. The disk was quiet
+and stable. No new regions were numbered today.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low, with a chance for an isolated C-class event from Region 1106
+(S19E30).
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z:
+The geomagnetic field was quiet to active.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominately quiet on day one (15 September).  Quiet
+to unsettled conditions with isolated active periods are expected on
+day two (16 September) due to the arrival of the CME observed on
+September 11. Day three is expected to be predominately unsettled
+with isolated active periods, as a recurrent coronal hole high speed
+stream becomes geoeffective.
+III.  Event Probabilities 15 Sep-17 Sep
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           14 Sep 081
+Predicted   15 Sep-17 Sep  082/083/083
+90 Day Mean        14 Sep 078
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Sep  001/002
+Estimated Afr/Ap 14 Sep  006/006
+Predicted Afr/Ap 15 Sep-17 Sep  005/005-012/012-010/010
+VI.  Geomagnetic Activity Probabilities 15 Sep-17 Sep
+A.  Middle Latitudes
+Active                10/15/15
+Minor storm           05/10/10
+Major-severe storm    01/05/05
+B.  High Latitudes
+Active                15/20/20
+Minor storm           10/15/15
+Major-severe storm    01/10/10

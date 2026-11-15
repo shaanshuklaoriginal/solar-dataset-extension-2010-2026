@@ -1,0 +1,45 @@
+:Product: 0824RSGA.txt
+:Issued: 2011 Aug 24 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 236 Issued at 2200Z on 24 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  23/2100Z
+to 24/2100Z:  Solar activity was low. The largest event in the last
+24 hours was a C1/Sf event that originated from Region 1271 (N17W42)
+at 24/1633Z. This region has shown separation and penumbral decay in
+its intermediate spots. A back-sided, partial halo CME was observed
+at 24/0027Z. All other numbered regions on the disk showed various
+amounts of decay.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low with a slight chance for an M-class event from Region
+1271 for the next three days (25-27 August).
+IIA.  Geophysical Activity Summary 23/2100Z to 24/2100Z:
+The geomagnetic field was quiet to unsettled.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the next two days (25-26 August). Activity
+is expected to increase to quiet to unsettled on day three (27
+August) due to a recurring coronal hole.
+III.  Event Probabilities 25 Aug-27 Aug
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           24 Aug 104
+Predicted   25 Aug-27 Aug  110/110/115
+90 Day Mean        24 Aug 097
+V.  Geomagnetic A Indices
+Observed Afr/Ap 23 Aug  008/009
+Estimated Afr/Ap 24 Aug  006/007
+Predicted Afr/Ap 25 Aug-27 Aug  005/005-005/005-007/010
+VI.  Geomagnetic Activity Probabilities 25 Aug-27 Aug
+A.  Middle Latitudes
+Active                15/15/20
+Minor storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/30
+Minor storm           01/01/10
+Major-severe storm    01/01/01

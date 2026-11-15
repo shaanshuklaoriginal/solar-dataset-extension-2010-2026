@@ -1,0 +1,55 @@
+:Product: 0529RSGA.txt
+:Issued: 2021 May 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 149 Issued at 2200Z on 29 May 2021
+
+IA.  Analysis of Solar Active Regions and Activity from 28/2100Z to
+29/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C9 event observed at
+28/2313Z from Region 2824 (N19W68). There are currently 2 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares and a slight chance for an M-class
+flare on day one (30 May) and expected to be very low with a slight
+chance for a C-class flare on day two (31 May) and expected to be very
+low on day three (01 Jun).
+
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 476 km/s at 29/1904Z. Total IMF reached 8 nT at
+29/0409Z. The maximum southward component of Bz reached -6 nT at
+29/1001Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 15 pfu at 29/0320Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 134 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (30 May), quiet levels on
+day two (31 May) and quiet to active levels on day three (01 Jun).
+
+III.  Event probabilities 30 May-01 Jun
+Class M    15/01/01
+Class X    01/01/01
+Proton     05/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           29 May 076
+Predicted   30 May-01 Jun 074/072/072
+90 Day Mean        29 May 076
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 May  003/003
+Estimated Afr/Ap 29 May  004/005
+Predicted Afr/Ap 30 May-01 Jun  008/008-006/005-015/018
+
+VI.  Geomagnetic Activity Probabilities 30 May-01 Jun
+A.  Middle Latitudes
+Active                15/10/30
+Minor Storm           05/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/20/35
+Major-severe storm    25/10/40

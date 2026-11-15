@@ -1,0 +1,43 @@
+:Product: 0617RSGA.txt
+:Issued: 2010 Jun 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 168 Issued at 2200Z on 17 Jun 2010
+IA.  Analysis of Solar Active Regions and Activity from  16/2100Z
+to 17/2100Z:  Solar activity was very low. New Region 1082 (N28E33)
+produced a B5/Sf x-ray event at 17/1023Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low for the next 3 days (18-20 June).
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z:
+The geomagnetic field was quiet to unsettled with a few isolated
+periods of active conditions at mid latitudes. Solar wind speeds
+remain near 520 km/s. The greater than 2 MeV electron flux at
+geosynchronous orbit was at high levels during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+forecast to be quiet to unsettled with the chance for an isolated
+period of active conditions on day 1 (18 June).  Conditions are
+forecast to be mostly quiet on days 2 and 3 (19-20 June).
+III.  Event Probabilities 18 Jun-20 Jun
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           17 Jun 070
+Predicted   18 Jun-20 Jun  070/070/070
+90 Day Mean        17 Jun 076
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Jun  013/019
+Estimated Afr/Ap 17 Jun  010/012
+Predicted Afr/Ap 18 Jun-20 Jun  008/010-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 18 Jun-20 Jun
+A.  Middle Latitudes
+Active                40/30/30
+Minor storm           20/05/05
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                50/30/30
+Minor storm           30/05/05
+Major-severe storm    05/01/01

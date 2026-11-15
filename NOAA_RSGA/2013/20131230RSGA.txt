@@ -1,0 +1,54 @@
+:Product: 1230RSGA.txt
+:Issued: 2013 Dec 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 364 Issued at 2200Z on 30 Dec 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 29/2100Z to
+30/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C4 event observed at
+29/2233Z from Region 1936 (S16W22). There are currently 5 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+days one, two, and three (31 Dec, 01 Jan, 02 Jan).
+
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 407 km/s at
+30/1312Z. Total IMF reached 6 nT at 30/1415Z. The maximum southward
+component of Bz reached -5 nT at 30/0807Z. Protons greater than 10 MeV
+at geosynchronous orbit reached a peak level of 3 pfu at 29/2200Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (31 Dec), quiet to unsettled levels on
+day two (01 Jan) and quiet to active levels on day three (02 Jan).
+Protons greater than 10 Mev have a slight chance of crossing threshold
+on day one (31 Dec) and day two (01 Jan).
+
+III.  Event probabilities 31 Dec-02 Jan
+Class M    35/35/35
+Class X    10/10/10
+Proton     15/10/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           30 Dec 143
+Predicted   31 Dec-02 Jan 140/140/140
+90 Day Mean        30 Dec 143
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Dec  004/002
+Estimated Afr/Ap 30 Dec  002/003
+Predicted Afr/Ap 31 Dec-02 Jan  006/005-009/010-012/015
+
+VI.  Geomagnetic Activity Probabilities 31 Dec-02 Jan
+A.  Middle Latitudes
+Active                05/10/25
+Minor Storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/20/15
+Minor Storm           15/25/30
+Major-severe storm    05/15/30

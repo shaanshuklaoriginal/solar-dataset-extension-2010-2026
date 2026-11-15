@@ -1,0 +1,56 @@
+:Product: 0707RSGA.txt
+:Issued: 2012 Jul 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 189 Issued at 2200Z on 07 Jul 2012
+IA.  Analysis of Solar Active Regions and Activity from  06/2100Z
+to 07/2100Z:  Solar activity was high. Region 1515 (S17W63) produced
+an X1 at 06/2308Z along with several M-class flares. An associated
+CME was observed in LASCO C2 imagery at 06/2324Z, along with a 520
+sfu Tenflare, Type II (est. speed 1771 km/s) and Type IV radio
+sweeps. The bulk of the material appears to be directed southwest
+and is not expected to cause significant activity. New Region 1520
+(S15E54) was numbered today and produced an M1 event at 07/0828Z.
+The region is considered an Fhc-type group with a beta-gamma
+magnetic configuration.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate with a chance for X-class activity for the next three days
+(08-10 July).
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z:
+The geomagnetic field was quiet to unsettled during the past 24 hours
+with an isolated minor storm period from 06/2100-2400Z due to an
+extended period of southward Bz. A greater than 10 MeV Proton event
+associated with yesterdays X-class event began at 07/0400Z and
+peaked at 25 pfu at 07/0745Z. The event was still in progress at the
+time of this report.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active on day one (08 July) due to
+effects from the 04 July CME. Mostly quiet conditions are expected
+on day two (09 July) as effects subside. Quiet to unsettled
+conditions with a chance for isolated active periods are expected on
+day three (10 July) due to possible weak effects from the CME
+associated with yesterdays X-class event.
+III.  Event Probabilities 08 Jul-10 Jul
+Class M    80/80/80
+Class X    25/25/25
+Proton     50/10/10
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           07 Jul 158
+Predicted   08 Jul-10 Jul  160/155/145
+90 Day Mean        07 Jul 123
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Jul  014/017
+Estimated Afr/Ap 07 Jul  009/013
+Predicted Afr/Ap 08 Jul-10 Jul  017/025-012/012-013/015
+VI.  Geomagnetic Activity Probabilities 08 Jul-10 Jul
+A.  Middle Latitudes
+Active                45/15/20
+Minor storm           15/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor storm           30/25/30
+Major-severe storm    55/25/25

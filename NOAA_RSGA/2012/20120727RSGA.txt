@@ -1,0 +1,54 @@
+:Product: 0727RSGA.txt
+:Issued: 2012 Jul 27 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 209 Issued at 2200Z on 27 Jul 2012
+IA.  Analysis of Solar Active Regions and Activity from  26/2100Z
+to 27/2100Z:  Solar activity was moderate. Sympathetic activity
+between Regions 1530 (S19E28) and 1532 (S20E53) produced a M2/1f
+x-ray event at 1726Z on 27 July. The event was accompanied by a
+Tenflare (340 sfu), type II and IV radio sweeps. The type II was
+reported with an estimated speed of 2099 km/s, however a radial
+speed estimate of the CME obtained from STEREO B coronagraph was
+measured near 500 km/s. Initial analysis suggests that the transient
+will not likely have a geoeffective trajectory. New Region 1533
+(S28E18) developed today and was numbered. There were some
+preliminary observations indicating a new region (not yet numbered)
+rotating onto the disk in the southern hemisphere, behind Region
+1532.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels for the next 3 days (28-30 July).
+IIA.  Geophysical Activity Summary 26/2100Z to 27/2100Z:
+The geomagnetic field was quiet. The greater than 2 MeV electron flux
+at geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to active on day 1 (28 July) as the onset of
+coronal hole (CH) high speed stream effects are forecasted. The
+field should remain mostly unsettled on day 2 (29 July) with
+possible nighttime active levels from substorms. Conditions should
+recover from unsettled to active levels to mostly quiet on day 3 (30
+July) as CH effects wane.
+III.  Event Probabilities 28 Jul-30 Jul
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           27 Jul 123
+Predicted   28 Jul-30 Jul  125/130/135
+90 Day Mean        27 Jul 125
+V.  Geomagnetic A Indices
+Observed Afr/Ap 26 Jul  003/003
+Estimated Afr/Ap 27 Jul  004/005
+Predicted Afr/Ap 28 Jul-30 Jul  008/012-012/015-010/010
+VI.  Geomagnetic Activity Probabilities 28 Jul-30 Jul
+A.  Middle Latitudes
+Active                20/45/25
+Minor storm           05/20/05
+Major-severe storm    01/05/01
+B.  High Latitudes
+Active                15/10/10
+Minor storm           20/25/20
+Major-severe storm    20/65/30

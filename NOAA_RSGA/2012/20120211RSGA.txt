@@ -1,0 +1,56 @@
+:Product: 0211RSGA.txt
+:Issued: 2012 Feb 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 042 Issued at 2200Z on 11 Feb 2012
+IA.  Analysis of Solar Active Regions and Activity from  10/2100Z
+to 11/2100Z:  Solar activity was low due to a trio of C7 x-ray
+events. Regions 1416 (S19W02) and 1417 (N16E44) each produced C7
+events at 10/2352Z and 11/1854Z respectively. The third C7 event was
+observed at 11/1004Z from behind the east limb near N25. The
+activity behind the NE limb portends the return of old Region 1402
+(N26, L=218). Region 1416 continued its growth phase, both in area
+and spot count, and maintained a beta-gamma magnetic configuration.
+At about 10/1900Z, a 27 degree long segmented filament erupted in
+the NE quadrant of the disk. The ENE to WSW oriented filament was
+centered at N29E14. An associated CME was observed lifting of the NE
+limb, first visible in SOHO LASCO C2 imagery at 10/2012Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for M-class activity for the next three days (12 - 14
+February).
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z:
+The geomagnetic field was at quiet to unsettled levels.  ACE solar
+wind speeds decreased steadily through the period from 450 km/s to
+about 350 km/s.  The Bz component of the interplanetary magnetic
+field did not vary much beyond +/- 3 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels on days one and two (12
+- 13 February) due to coronal hole high speed stream effects. Late
+on day two and through day three (14 February), field activity is
+expected to increase to unsettled to active levels, with high
+latitude minor storm intervals.  This increase in activity is due to
+anticipated effects from the 10 February CME.
+III.  Event Probabilities 12 Feb-14 Feb
+Class M    30/50/50
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           11 Feb 112
+Predicted   12 Feb-14 Feb  120/120/125
+90 Day Mean        11 Feb 135
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Feb  004/004
+Estimated Afr/Ap 11 Feb  004/005
+Predicted Afr/Ap 12 Feb-14 Feb  006/008-011/012-014/018
+VI.  Geomagnetic Activity Probabilities 12 Feb-14 Feb
+A.  Middle Latitudes
+Active                25/35/40
+Minor storm           05/15/20
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                30/40/50
+Minor storm           15/20/30
+Major-severe storm    01/05/10

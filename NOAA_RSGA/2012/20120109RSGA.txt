@@ -1,0 +1,47 @@
+:Product: 0109RSGA.txt
+:Issued: 2012 Jan 09 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 009 Issued at 2200Z on 09 Jan 2012
+IA.  Analysis of Solar Active Regions and Activity from  08/2100Z
+to 09/2100Z:  Solar activity was low.  Regions 1391 (N12W12), 1393
+(N15W57), and 1395 (N22E45) produced low level C-class flares. 
+Possible umbral separation was observed in the leading spot of
+Region 1391 and the trailing spot of Region 1393.  Both regions have
+Beta-Gamma magnetic classifications.
+IB.  Solar Activity Forecast:  Solar activity is expected to continue
+at low levels with a chance for M-class activity from Regions 1391
+and 1393.
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z:
+The geomagnetic field was mostly quiet.  Solar wind speed at the ACE
+spacecraft continues to be slightly elevated around 420 - 440 km/s
+with the IMF Bz not varying much beyond +/- 5 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet on days 1 - 2 (10 - 11 January).  A
+coronal hole high speed stream is expected to move into geoeffective
+position on day 3 (12 January) causing quiet to unsettled conditions
+with a chance for active periods.
+III.  Event Probabilities 10 Jan-12 Jan
+Class M    25/25/25
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           09 Jan 142
+Predicted   10 Jan-12 Jan  140/140/135
+90 Day Mean        09 Jan 145
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 Jan  005/004
+Estimated Afr/Ap 09 Jan  007/006
+Predicted Afr/Ap 10 Jan-12 Jan  004/005-004/005-008/008
+VI.  Geomagnetic Activity Probabilities 10 Jan-12 Jan
+A.  Middle Latitudes
+Active                05/05/20
+Minor storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/25
+Major-severe storm    05/05/20

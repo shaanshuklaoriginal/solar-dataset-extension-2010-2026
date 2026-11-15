@@ -1,0 +1,47 @@
+:Product: 1119RSGA.txt
+:Issued: 2010 Nov 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 323 Issued at 2200Z on 19 Nov 2010
+IA.  Analysis of Solar Active Regions and Activity from  18/2100Z
+to 19/2100Z:  Solar activity has been at very low levels for the past
+24 hours. All three visible active regions remained stable and
+quiet. A filament disappeared near N30E41 at 18/1721Z. A
+slow-moving, CME was detected at 18/2224Z by SOHO LASCO c2 imagery
+and did not appear to be earth directed.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low levels for the next three days (20-22 November).
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+Observations from the ACE spacecraft showed solar wind speeds
+decreasing throughout the period, from 550km/s to 350 km/s, as the
+effects of a coronal hole high-speed stream wane. The greater than 2
+MeV electron flux at geosynchronous orbit reached high levels during
+the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels for the next three days (20-22
+November).
+III.  Event Probabilities 20 Nov-22 Nov
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           19 Nov 084
+Predicted   20 Nov-22 Nov  084/084/082
+90 Day Mean        19 Nov 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Nov  004/005
+Estimated Afr/Ap 19 Nov  003/004
+Predicted Afr/Ap 20 Nov-22 Nov  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 20 Nov-22 Nov
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01

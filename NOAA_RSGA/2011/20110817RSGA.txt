@@ -1,0 +1,49 @@
+:Product: 0817RSGA.txt
+:Issued: 2011 Aug 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 229 Issued at 2200Z on 17 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  16/2100Z
+to 17/2100Z:  Solar activity was low.  Both Regions 1271 (N16E50) and
+1272 (S19E55) produced C-class events during the summary period. 
+The largest was a C3 from Region 1271 at 17/1119Z.  Region 1271
+ended the period as an Esi type spot group with beta-gamma-delta
+magnetic characteristics.  New Region 1273 (S18W03) was numbered
+today and classified as a Bxo type spot group with simple beta
+magnetic characteristics.  A CME from Region 1272 was observed in
+SOHO/LASCO C2 imagery at 17/0248Z with a plane-of-sky speed of about
+550 km/s.  This CME is not expected to be geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low. 
+Continued C-class events are expected from Regions 1271 and 1272, 
+There is a slight chance for an M-class event given the increasing
+size and complexity of Region 1271.
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z:
+The geomagnetic field was quiet to unsettled.  Wind speed at the ACE
+spacecraft continued to decline through the summary period, ending
+near 420 km/s.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet for the next three days (18-20 August).
+III.  Event Probabilities 18 Aug-20 Aug
+Class M    15/15/15
+Class X    01/05/05
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           17 Aug 098
+Predicted   18 Aug-20 Aug  098/100/100
+90 Day Mean        17 Aug 096
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Aug  006/008
+Estimated Afr/Ap 17 Aug  008/008
+Predicted Afr/Ap 18 Aug-20 Aug  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 18 Aug-20 Aug
+A.  Middle Latitudes
+Active                10/05/10
+Minor storm           01/01/05
+Major-severe storm    00/00/05
+B.  High Latitudes
+Active                20/05/20
+Minor storm           05/05/05
+Major-severe storm    05/01/05

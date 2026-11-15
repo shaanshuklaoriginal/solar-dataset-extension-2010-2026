@@ -1,0 +1,46 @@
+:Product: 0313RSGA.txt
+:Issued: 2010 Mar 13 2330 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+:::::::::: Corrected Copy ::::::::::
+SDF Number 072 Issued at 2200Z on 13 Mar 2010
+IA.  Analysis of Solar Active Regions and Activity from  12/2100Z
+to 13/2100Z:  Solar activity was at very low levels for the past 24
+hours. Region 1054 (N15E15) showed growth and is now magnetically
+classified as a Beta-Gamma. No new regions were numbered today.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low to low levels for the next three days (14-16 March). 
+C-flares are likely from Region 1054. There is a slight chance for
+an isolated M-class event from this region.
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z:
+The geomagnetic field was at quiet levels for the past 24 hours. 
+The greater than 2 MeV electron flux at geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at mostly quiet levels on the first day (14 March)
+and then at mostly quiet to unsettled levels on day two and three
+(15-16 March) due to a recurrent coronal hole high-speed stream and
+solar sector boundary crossing.
+III.  Event Probabilities 14 Mar-16 Mar
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           13 Mar 092
+Predicted   14 Mar-16 Mar  092/093/094
+90 Day Mean        13 Mar 082
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Mar  006/009
+Estimated Afr/Ap 13 Mar  003/007
+Predicted Afr/Ap 14 Mar-16 Mar  005/007-007/007-007/007
+VI.  Geomagnetic Activity Probabilities 14 Mar-16 Mar
+A.  Middle Latitudes
+Active                10/30/30
+Minor storm           05/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/35/35
+Minor storm           05/15/15
+Major-severe storm    01/05/05

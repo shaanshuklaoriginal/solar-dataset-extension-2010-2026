@@ -1,0 +1,45 @@
+:Product: 0409RSGA.txt
+:Issued: 2010 Apr 09 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 099 Issued at 2200Z on 09 Apr 2010
+IA.  Analysis of Solar Active Regions and Activity from  08/2100Z
+to 09/2100Z:  Solar activity was very low.  Although spotless, Region
+1060 (N25W13) did produce a B3/sf event at 09/0455Z. Region 1061
+(N13W69) continues to decay and is currently a H-type spot group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low.
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z:
+The geomagnetic field was quiet to unsettled.  The solar wind
+observed at the ACE spacecraft indicates a continued decline in
+solar wind speed averaging 440 km/s.  The greater than 2MeV
+electrons at geosynchronous orbit reached very high levels today.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for days one and two (10-11 April).  Quiet to
+unsettled conditions, with isolated active periods, are expected for
+day three (12 April).  This activity is expected due to the full
+halo CME observed on 08 April.
+III.  Event Probabilities 10 Apr-12 Apr
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           09 Apr 076
+Predicted   10 Apr-12 Apr  075/075/075
+90 Day Mean        09 Apr 082
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 Apr  009/011
+Estimated Afr/Ap 09 Apr  006/008
+Predicted Afr/Ap 10 Apr-12 Apr  005/005-005/005-010/012
+VI.  Geomagnetic Activity Probabilities 10 Apr-12 Apr
+A.  Middle Latitudes
+Active                01/01/15
+Minor storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                01/01/25
+Minor storm           01/01/10
+Major-severe storm    01/01/01

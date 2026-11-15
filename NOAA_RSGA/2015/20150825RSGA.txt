@@ -1,0 +1,55 @@
+:Product: 0825RSGA.txt
+:Issued: 2015 Aug 25 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 237 Issued at 2200Z on 25 Aug 2015
+
+IA.  Analysis of Solar Active Regions and Activity from 24/2100Z to
+25/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C4 event observed at
+25/0631Z from Region 2403 (S15W31). There are currently 2 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one and two (26 Aug,
+27 Aug) and expected to be low with a chance for M-class flares on day
+three (28 Aug).
+
+IIA.  Geophysical Activity Summary 24/2100Z to 25/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+461 km/s at 25/0113Z. Total IMF reached 6 nT at 25/1707Z. The maximum
+southward component of Bz reached -5 nT at 25/1749Z. Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 1837 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (26 Aug), quiet to active
+levels on day two (27 Aug) and unsettled to active levels on day three
+(28 Aug). Protons greater than 10 Mev have a slight chance of crossing
+threshold on days one and two (26 Aug, 27 Aug).
+
+III.  Event probabilities 26 Aug-28 Aug
+Class M    60/55/50
+Class X    10/10/05
+Proton     10/10/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           25 Aug 121
+Predicted   26 Aug-28 Aug 120/125/125
+90 Day Mean        25 Aug 112
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 24 Aug  007/008
+Estimated Afr/Ap 25 Aug  008/009
+Predicted Afr/Ap 26 Aug-28 Aug  007/006-009/012-014/018
+
+VI.  Geomagnetic Activity Probabilities 26 Aug-28 Aug
+A.  Middle Latitudes
+Active                20/30/35
+Minor Storm           05/15/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/30/30
+Major-severe storm    25/45/45

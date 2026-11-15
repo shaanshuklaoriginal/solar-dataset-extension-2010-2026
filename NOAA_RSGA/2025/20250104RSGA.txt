@@ -1,0 +1,55 @@
+:Product: 0104RSGA.txt
+:Issued: 2025 Jan 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 4 Issued at 2200Z on 04 Jan 2025
+
+IA.  Analysis of Solar Active Regions and Activity from 03/2100Z to
+04/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a X1 event observed at
+04/1248Z from Region 3947 (N09E41). There are currently 13 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(05 Jan, 06 Jan, 07 Jan).
+
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 716 km/s at 04/2026Z. Total IMF
+reached 18 nT at 04/1137Z. The maximum southward component of Bz reached
+-15 nT at 04/0559Z.  Protons greater than 10 MeV at geosynchronous orbit
+reached a peak level of 2 pfu at 04/2110Z. Electrons greater than 2 MeV
+at geosynchronous orbit reached a peak level of 156 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (05 Jan), quiet to
+active levels on day two (06 Jan) and quiet to unsettled levels on day
+three (07 Jan). Protons have a chance of crossing threshold on days one,
+two, and three (05 Jan, 06 Jan, 07 Jan).
+
+III.  Event probabilities 05 Jan-07 Jan
+Class M    65/65/55
+Class X    20/20/10
+Proton     25/25/25
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           04 Jan 209
+Predicted   05 Jan-07 Jan 200/195/195
+90 Day Mean        04 Jan 203
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Jan  007/006
+Estimated Afr/Ap 04 Jan  022/031
+Predicted Afr/Ap 05 Jan-07 Jan  018/025-010/012-007/008
+
+VI.  Geomagnetic Activity Probabilities 05 Jan-07 Jan
+A.  Middle Latitudes
+Active                40/35/20
+Minor Storm           25/15/05
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                10/10/15
+Minor Storm           25/25/30
+Major-severe storm    60/50/25

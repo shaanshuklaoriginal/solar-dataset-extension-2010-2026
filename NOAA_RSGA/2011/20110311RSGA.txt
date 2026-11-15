@@ -1,0 +1,55 @@
+:Product: 0311RSGA.txt
+:Issued: 2011 Mar 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 070 Issued at 2200Z on 11 Mar 2011
+IA.  Analysis of Solar Active Regions and Activity from  10/2100Z
+to 11/2100Z:  Solar activity was moderate.  A single M1 flare was
+observed from Region 1166 (N09W39) at 10/2241Z.  Region 1166
+decreased in area while the number of spots increased.  It was
+classified as an Ekc type sunspot group with Beta-Gamma-Delta
+magnetic characteristics.  Region 1169 (N20W09) grew in both area
+and spot count, ending the period as an Eki type sunspot group with
+Beta-Gamma magnetic characteristics.  New Region 1172 (N11E72)
+rotated onto the visible solar disk as a bi-polar sunspot group.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+moderate for the next three days (11-13 March).
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z:
+The geomagnetic field ranged from quiet to active levels at
+mid-latitudes with minor to major storm levels observed at high
+latitudes.  The ACE spacecraft indicated the Bz component of the
+interplanetary magnetic field was primarily southward for most of
+the period, averaging -6 nT with a maximum of -12 nT, leading to the
+disturbed geomagnetic conditions.  Solar wind speed averaged 400
+km/s during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active for the next three days (11-13
+March) with a slight chance for minor to major storm conditions,
+particularly at high latitudes.  Effects from the 07 March CME will
+slowly subside during day one (11 March), but the arrival of a
+coronal hole high speed stream is expected to become geoeffective
+late on day two (12 March) through day three (13 March).
+III.  Event Probabilities 12 Mar-14 Mar
+Class M    50/50/50
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           11 Mar 123
+Predicted   12 Mar-14 Mar  125/125/125
+90 Day Mean        11 Mar 093
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Mar  014/020
+Estimated Afr/Ap 11 Mar  018/035
+Predicted Afr/Ap 12 Mar-14 Mar  010/018-010/010-008/008
+VI.  Geomagnetic Activity Probabilities 12 Mar-14 Mar
+A.  Middle Latitudes
+Active                15/20/15
+Minor storm           10/15/10
+Major-severe storm    05/05/05
+B.  High Latitudes
+Active                35/20/30
+Minor storm           10/15/10
+Major-severe storm    01/10/10

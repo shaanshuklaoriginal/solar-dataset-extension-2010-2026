@@ -1,0 +1,54 @@
+:Product: 0910RSGA.txt
+:Issued: 2024 Sep 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 254 Issued at 2200Z on 10 Sep 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 09/2100Z to
+10/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+10/1547Z. There are currently 9 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(11 Sep, 12 Sep, 13 Sep).
+
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 489 km/s at 10/0254Z. Total IMF reached 8
+nT at 10/0247Z. The maximum southward component of Bz reached -6 nT at
+09/2156Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 34 pfu at 09/2250Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 127 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on days one and two (11 Sep, 12
+Sep) and quiet to major storm levels on day three (13 Sep). Protons have
+a chance of crossing threshold on days one and two (11 Sep, 12 Sep) and
+have a slight chance of crossing threshold on day three (13 Sep).
+
+III.  Event probabilities 11 Sep-13 Sep
+Class M    55/55/55
+Class X    15/15/15
+Proton     50/50/20
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           10 Sep 205
+Predicted   11 Sep-13 Sep 205/200/200
+90 Day Mean        10 Sep 216
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Sep  009/009
+Estimated Afr/Ap 10 Sep  014/018
+Predicted Afr/Ap 11 Sep-13 Sep  018/020-012/020-023/035
+
+VI.  Geomagnetic Activity Probabilities 11 Sep-13 Sep
+A.  Middle Latitudes
+Active                35/35/30
+Minor Storm           25/25/35
+Major-severe storm    05/05/20
+B.  High Latitudes
+Active                10/10/05
+Minor Storm           20/20/20
+Major-severe storm    65/65/75

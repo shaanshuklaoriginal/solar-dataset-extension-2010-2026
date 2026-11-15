@@ -1,0 +1,51 @@
+:Product: 0415RSGA.txt
+:Issued: 2024 Apr 15 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 106 Issued at 2200Z on 15 Apr 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 14/2100Z to
+15/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a M4 event observed at
+15/1932Z from Region 3639 (N30E48). There are currently 11 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate on
+days one, two, and three (16 Apr, 17 Apr, 18 Apr).
+
+IIA.  Geophysical Activity Summary 14/2100Z to 15/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 589 km/s at 15/0122Z. Total IMF reached 10 nT at
+15/2004Z. The maximum southward component of Bz reached -8 nT at
+15/1945Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 386 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one, two, and three (16 Apr, 17
+Apr, 18 Apr).
+
+III.  Event probabilities 16 Apr-18 Apr
+Class M    60/60/60
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           15 Apr 192
+Predicted   16 Apr-18 Apr 190/190/190
+90 Day Mean        15 Apr 159
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 14 Apr  005/004
+Estimated Afr/Ap 15 Apr  009/011
+Predicted Afr/Ap 16 Apr-18 Apr  015/015-011/015-014/015
+
+VI.  Geomagnetic Activity Probabilities 16 Apr-18 Apr
+A.  Middle Latitudes
+Active                15/40/40
+Minor Storm           05/15/15
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/10/10
+Minor Storm           25/25/25
+Major-severe storm    20/50/50

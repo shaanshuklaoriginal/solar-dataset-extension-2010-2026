@@ -1,0 +1,48 @@
+:Product: 1130RSGA.txt
+:Issued: 2011 Nov 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 334 Issued at 2200Z on 30 Nov 2011
+IA.  Analysis of Solar Active Regions and Activity from  29/2100Z
+to 30/2100Z:  Solar activity was low.  The largest event was a C3
+flare that occurred at 30/2028Z from Region 1364 (S17E60).  Growth
+was observed in Regions 1361 (N18W06) and 1362 (N06E36).  A coronal
+mass ejection (CME) was observed in SOHO/LASCO C2 imagery at
+29/2312Z.  The event was seen in STEREO B COR 2 imagery at 30/0110Z
+and determined to be a farside event.
+IB.  Solar Activity Forecast:  Solar activity is expected to continue
+at low levels with a slight chance for an M-class flare.
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z:
+The geomagnetic field reached quiet to active conditions with minor
+and major storm periods observed at high latitudes.  Activity was
+attributed to a solar sector boundary crossing (SSBC) at
+approximately 30/0810Z followed by a prolonged period of southward
+Bz in the interplanetary magnetic field.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled for the next three days (01-03
+December).  There is still a possibility of coronal hole high speed
+stream effects from the southern polar extension coronal hole.
+III.  Event Probabilities 01 Dec-03 Dec
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           30 Nov 144
+Predicted   01 Dec-03 Dec  145/140/135
+90 Day Mean        30 Nov 142
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Nov  009/009
+Estimated Afr/Ap 30 Nov  008/009
+Predicted Afr/Ap 01 Dec-03 Dec  008/008-007/008-006/007
+VI.  Geomagnetic Activity Probabilities 01 Dec-03 Dec
+A.  Middle Latitudes
+Active                08/08/05
+Minor storm           02/02/01
+Major-severe storm    00/00/00
+B.  High Latitudes
+Active                25/25/20
+Minor storm           16/15/13
+Major-severe storm    11/08/07

@@ -1,0 +1,51 @@
+:Product: 0804RSGA.txt
+:Issued: 2013 Aug 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 216 Issued at 2200Z on 04 Aug 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 03/2100Z to
+04/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 5 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares on days one, two, and three (05 Aug,
+06 Aug, 07 Aug).
+
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed, as measured by the ACE spacecraft, reached a peak
+speed of 551 km/s at 04/1834Z. Total IMF reached 16 nT at 04/1635Z. The
+maximum southward component of Bz reached -13 nT at 04/2025Z. Electrons
+greater than 2 MeV at geosynchronous orbit reached a peak level of 433
+pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (05 Aug), quiet to unsettled
+levels on day two (06 Aug) and quiet levels on day three (07 Aug).
+
+III.  Event probabilities 05 Aug-07 Aug
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           04 Aug 105
+Predicted   05 Aug-07 Aug 105/105/105
+90 Day Mean        04 Aug 117
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Aug  006/004
+Estimated Afr/Ap 04 Aug  012/016
+Predicted Afr/Ap 05 Aug-07 Aug  012/017-007/008-006/005
+
+VI.  Geomagnetic Activity Probabilities 05 Aug-07 Aug
+A.  Middle Latitudes
+Active                30/20/10
+Minor Storm           15/05/01
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           30/25/20
+Major-severe storm    50/25/10

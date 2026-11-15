@@ -1,0 +1,57 @@
+:Product: 0614RSGA.txt
+:Issued: 2014 Jun 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 165 Issued at 2200Z on 14 Jun 2014
+
+IA.  Analysis of Solar Active Regions and Activity from 13/2100Z to
+14/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+14/1929Z from the east limb. There was a Type II radio sweep (est 396
+km/s) with the flare and a CME was later observed on emerging from the
+east limb.  There are currently 9 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a chance for X-class flares on days one and two (15 Jun, 16 Jun)
+and expected to be low with a chance for M-class flares and a slight
+chance for an X-class flare on day three (17 Jun).
+
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+425 km/s at 14/1344Z. Total IMF reached 7 nT at 14/0000Z. The maximum
+southward component of Bz reached -6 nT at 14/0016Z. Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 113 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one and two (15 Jun, 16 Jun) and
+quiet to unsettled levels on day three (17 Jun). Protons have a chance
+of crossing threshold on day one (15 Jun), have a chance of crossing
+threshold on day two (16 Jun) and have a slight chance of crossing
+threshold on day three (17 Jun).
+
+III.  Event probabilities 15 Jun-17 Jun
+Class M    60/55/45
+Class X    30/25/20
+Proton     30/25/20
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           14 Jun 144
+Predicted   15 Jun-17 Jun 135/135/135
+90 Day Mean        14 Jun 139
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Jun  006/005
+Estimated Afr/Ap 14 Jun  008/010
+Predicted Afr/Ap 15 Jun-17 Jun  009/011-009/010-005/005
+
+VI.  Geomagnetic Activity Probabilities 15 Jun-17 Jun
+A.  Middle Latitudes
+Active                25/25/05
+Minor Storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/20/15
+Minor Storm           20/30/10
+Major-severe storm    10/30/05

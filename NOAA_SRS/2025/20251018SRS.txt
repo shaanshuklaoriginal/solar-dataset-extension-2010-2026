@@ -1,0 +1,26 @@
+:Product: 1018SRS.txt
+:Issued: 2025 Oct 18 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 291 Issued at 0030Z on 18 Oct 2025
+Report compiled from data received at SWO on 17 Oct
+I.  Regions with Sunspots.  Locations Valid at 17/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+4246 N24W81   289  0700 Ekc  11   16 Beta-Gamma-Delta
+4248 N07W54   262  0380 Eki  11   10 Beta-Gamma
+4250 N04W45   253  0010 Axx  01   01 Alpha
+4252 S13E01   207  0100 Cso  04   03 Beta
+4254 N11E33   175  0060 Hsx  01   01 Alpha
+4255 S08E26   182  0010 Bxo  04   02 Beta
+4256 S15E52   156  0060 Cso  06   06 Beta
+4257 S08E75   133  0060 Hsx  02   01 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 17/2400Z Oct
+Nmbr  Location  Lo
+4249  S20W50   258
+4251  N19W29   237
+4253  S17W80   288
+II. Regions Due to Return 18 Oct to 20 Oct
+Nmbr Lat    Lo
+4236 N10    082

@@ -1,0 +1,47 @@
+:Product: 0613RSGA.txt
+:Issued: 2012 Jun 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 165 Issued at 2200Z on 13 Jun 2012
+IA.  Analysis of Solar Active Regions and Activity from  12/2100Z
+to 13/2100Z:  Solar activity was moderate.  Region 1504 (S17E14)
+produced a long duration M1/1n flare at 13/1317Z associated with a
+260 sfu Tenflare and a Type IV radio sweep.  This region showed
+growth in the leading spots and developed a beta-gamma-delta
+magnetic configuration.  An associated CME was observed in LASCO C2
+imagery at 13/1412Z with an estimated plane-of-sky velocity between
+700 and 800 km/s.  Old Region 1507 was split into two regions as it
+showed two distinct bipolar areas and now consists of Region 1507
+(S25W13) and Region 1508 (S28W06).
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+to moderate.  An isolated M-class event is likely from Region 1504.
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be quiet on 14-15 June.  An increase to unsettled levels
+is expected mid-day on day 3 (16 June) due to a possible glancing
+blow from todays CME.
+III.  Event Probabilities 14 Jun-16 Jun
+Class M    60/60/60
+Class X    05/05/05
+Proton     05/05/05
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           13 Jun 143
+Predicted   14 Jun-16 Jun  145/145/145
+90 Day Mean        13 Jun 117
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Jun  010/014
+Estimated Afr/Ap 13 Jun  006/006
+Predicted Afr/Ap 14 Jun-16 Jun  006/005-006/005-009/008
+VI.  Geomagnetic Activity Probabilities 14 Jun-16 Jun
+A.  Middle Latitudes
+Active                05/05/20
+Minor storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/30
+Major-severe storm    05/05/25

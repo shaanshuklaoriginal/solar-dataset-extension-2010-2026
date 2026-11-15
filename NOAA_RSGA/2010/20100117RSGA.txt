@@ -1,0 +1,48 @@
+:Product: 0117RSGA.txt
+:Issued: 2010 Jan 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 017 Issued at 2200Z on 17 Jan 2010
+IA.  Analysis of Solar Active Regions and Activity from  16/2100Z
+to 17/2100Z:  Solar activity was very low. Region 1040 (N30W74)
+produced two flares during the past 24 hours. The largest of these
+was a B6.1 at 17/2025Z. Region 1040 continued to slowly decay as it
+neared the west limb, while retaining its beta configuration. A
+flare and subsequent EUVI wave was observed near the southeast limb
+on STEREO-B EUVI imagery at 17/0356Z. SOHO EIT C2 imagery showed a
+CME off the east limb.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low. Isolated C-class flares remain possible, as well as a
+slight chance for an isolated M-class flare.
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled, with isolated active levels
+possible at high latitudes, as a coronal hole high-speed stream
+moves into a geoeffective position late on day one (18 January) and
+continuing into day two (19 January). Quiet levels are expected to
+return on day three (20).
+III.  Event Probabilities 18 Jan-20 Jan
+Class M    10/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           17 Jan 083
+Predicted   18 Jan-20 Jan  083/083/080
+90 Day Mean        17 Jan 075
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Jan  001/001
+Estimated Afr/Ap 17 Jan  001/003
+Predicted Afr/Ap 18 Jan-20 Jan  006/007-007/007-005/005
+VI.  Geomagnetic Activity Probabilities 18 Jan-20 Jan
+A.  Middle Latitudes
+Active                10/15/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/20/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

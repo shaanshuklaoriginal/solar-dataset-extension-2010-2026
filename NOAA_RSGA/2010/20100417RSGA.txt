@@ -1,0 +1,46 @@
+:Product: 0417RSGA.txt
+:Issued: 2010 Apr 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 107 Issued at 2200Z on 17 Apr 2010
+IA.  Analysis of Solar Active Regions and Activity from  16/2100Z
+to 17/2100Z:  Solar activity was very low.  The visible solar disk
+remained spotless.  A long duration B2.1 X-ray event was observed at
+17/0557Z.  The possible source region of this event was from an area
+of surging on the east limb near N25 as observed in GOES-14 SXI
+imagery.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+at predominately very low levels.  A slight chance for C-class
+activity exists as the new area of interest on the NE limb rotates
+onto the disk.
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z:
+The geomagnetic field was quiet at all latitudes.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels on day one (18 April)
+due to a geoeffective coronal hole wind stream and possible glancing
+effects from the 13 April CME.  Mostly quiet levels are expected to
+return on days two and three (19 - 20 April).
+III.  Event Probabilities 18 Apr-20 Apr
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           17 Apr 074
+Predicted   18 Apr-20 Apr  078/079/080
+90 Day Mean        17 Apr 082
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Apr  002/004
+Estimated Afr/Ap 17 Apr  002/005
+Predicted Afr/Ap 18 Apr-20 Apr  007/008-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 18 Apr-20 Apr
+A.  Middle Latitudes
+Active                25/05/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                30/10/10
+Minor storm           10/01/01
+Major-severe storm    01/01/01

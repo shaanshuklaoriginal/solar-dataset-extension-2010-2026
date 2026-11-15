@@ -1,0 +1,43 @@
+:Product: 0318RSGA.txt
+:Issued: 2010 Mar 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 077 Issued at 2200Z on 18 Mar 2010
+IA.  Analysis of Solar Active Regions and Activity from  17/2100Z
+to 18/2100Z:  Solar activity was very low. Regions 1054 (N16W53) and
+1056 (N18E34) remain stable and quiet. Both remain at a Beta
+magnetic classification and have produced only low level B-class
+flares.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+at very low levels with only a slight chance for a C-class flare
+during the next 3 days (19-21 March).
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z:
+The geomagnetic field was mostly quiet, with a brief period of
+unsettled conditions between 03-06Z. Solar wind speeds have
+decreased to around 400km/s.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain quiet for the next 3 days (19-21 March).
+III.  Event Probabilities 19 Mar-21 Mar
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           18 Mar 086
+Predicted   19 Mar-21 Mar  085/085/085
+90 Day Mean        18 Mar 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 Mar  005/007
+Estimated Afr/Ap 18 Mar  006/005
+Predicted Afr/Ap 19 Mar-21 Mar  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 19 Mar-21 Mar
+A.  Middle Latitudes
+Active                15/10/10
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/15/15
+Minor storm           10/01/01
+Major-severe storm    01/01/01

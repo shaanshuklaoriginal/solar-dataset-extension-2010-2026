@@ -1,0 +1,53 @@
+:Product: 0610RSGA.txt
+:Issued: 2011 Jun 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 161 Issued at 2200Z on 10 Jun 2011
+IA.  Analysis of Solar Active Regions and Activity from  09/2100Z
+to 10/2100Z:  Solar activity was low. A C2 x-ray flare occurred at
+10/1751Z and appeared to originate from old Region 1226 (S22,
+L=037), which crossed the west limb yesterday. Region 1234 (S16E43)
+produced an isolated B-class flare and remained a simply-structured
+Bxo-type group. No new regions were assigned.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low through the period (11 - 13 June) with a chance for an isolated
+C-class flare.
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z:
+Geomagnetic activity was at quiet to active levels during the period.
+Active levels occurred at Boulder during 09/2100 - 10/0000Z
+associated with increased solar wind speeds and IMF Bt, coupled with
+a period of southward IMF Bz. Quiet to unsettled levels occurred
+after 10/0000Z. A geomagnetic sudden impulse (SI) occurred at
+10/0855Z (15 nT, Boulder USGS magnetometer). The SI was in response
+to the arrival of the halo-coronal mass ejection observed on 07
+June. The greater than 2 MeV electron flux at geosynchronous orbit
+reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be at quiet to unsettled levels during the period (11 -
+13 June) with a chance for brief active levels during 11 - 12 June
+due to a coronal hole high-speed stream, expected to commence on 11
+June.
+III.  Event Probabilities 11 Jun-13 Jun
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           10 Jun 087
+Predicted   11 Jun-13 Jun  086/086/086
+90 Day Mean        10 Jun 104
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Jun  007/011
+Estimated Afr/Ap 10 Jun  008/010
+Predicted Afr/Ap 11 Jun-13 Jun  010/010-008/008-008/008
+VI.  Geomagnetic Activity Probabilities 11 Jun-13 Jun
+A.  Middle Latitudes
+Active                20/15/15
+Minor storm           10/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/20/20
+Minor storm           15/15/10
+Major-severe storm    01/01/01

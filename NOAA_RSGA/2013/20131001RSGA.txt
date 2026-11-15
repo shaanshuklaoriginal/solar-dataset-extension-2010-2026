@@ -1,0 +1,55 @@
+:Product: 1001RSGA.txt
+:Issued: 2013 Oct 01 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 274 Issued at 2200Z on 01 Oct 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 30/2100Z to
+01/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 3 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares and a slight chance for an M-class
+flare on days one, two, and three (02 Oct, 03 Oct, 04 Oct).
+
+IIA.  Geophysical Activity Summary 30/2100Z to 01/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 379 km/s at
+01/1929Z. Total IMF reached 9 nT at 01/0803Z. The maximum southward
+component of Bz reached -7 nT at 01/1321Z. Protons greater than 10 MeV
+at geosynchronous orbit reached a peak level of 177 pfu at 30/2115Z.
+Electrons greater than 2 MeV at geosynchronous orbit reached a peak
+level of 659 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (02 Oct), unsettled to
+major storm levels on day two (03 Oct) and quiet to unsettled levels on
+day three (04 Oct). Protons are expected to cross threshold on day one
+(02 Oct), are expected to cross threshold on day two (03 Oct) and have a
+chance of crossing threshold on day three (04 Oct).
+
+III.  Event probabilities 02 Oct-04 Oct
+Class M    10/10/10
+Class X    01/01/01
+Proton     99/75/40
+PCAF       red
+
+IV.  Penticton 10.7 cm Flux
+Observed           01 Oct 107
+Predicted   02 Oct-04 Oct 105/105/100
+90 Day Mean        01 Oct 111
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Sep  003/002
+Estimated Afr/Ap 01 Oct  004/006
+Predicted Afr/Ap 02 Oct-04 Oct  014/020-030/040-008/008
+
+VI.  Geomagnetic Activity Probabilities 02 Oct-04 Oct
+A.  Middle Latitudes
+Active                45/35/15
+Minor Storm           25/30/05
+Major-severe storm    05/10/01
+B.  High Latitudes
+Active                10/05/15
+Minor Storm           25/25/25
+Major-severe storm    65/65/25

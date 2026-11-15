@@ -1,0 +1,45 @@
+:Product: 0528RSGA.txt
+:Issued: 2012 May 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 149 Issued at 2200Z on 28 May 2012
+IA.  Analysis of Solar Active Regions and Activity from  27/2100Z
+to 28/2100Z:  Solar activity was very low.  Region 1491 (N22W70)
+produced a B7 flare at 28/1249Z, which was the largest flare of the
+period.  Region 1490 (S13E04) produced three nominal B-class flares
+during the period.  A CME associated with a filament eruption was
+observed in LASCO C2 imagery at 28/0800Z off of the northwest
+quadrant of the solar disk.  The CME does not appear to be Earth
+directed.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low for the next three days (29-31 May).
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z:
+The geomagnetic field was quiet to unsettled. The greater than 2 MeV
+electron flux at geosynchronous orbit reached high levels during the
+period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet for the next three days (29-31 May).
+III.  Event Probabilities 29 May-31 May
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           28 May 110
+Predicted   29 May-31 May  110/110/110
+90 Day Mean        28 May 117
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 May  003/005
+Estimated Afr/Ap 28 May  005/007
+Predicted Afr/Ap 29 May-31 May  004/005-004/005-004/005
+VI.  Geomagnetic Activity Probabilities 29 May-31 May
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/10
+Major-severe storm    05/05/05

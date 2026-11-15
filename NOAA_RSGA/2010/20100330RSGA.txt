@@ -1,0 +1,45 @@
+:Product: 0330RSGA.txt
+:Issued: 2010 Mar 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 089 Issued at 2200Z on 30 Mar 2010
+IA.  Analysis of Solar Active Regions and Activity from  29/2100Z
+to 30/2100Z:  Solar activity was very low.  Region 1057 (N15W22) has
+shown a slight decay and remains a Beta magnetic configuration. 
+Region 1059 (S23E36) has shown little change and is a H-type spot
+group.  The SOHO/LASCO C2 imagery observed a CME today off the
+northwest and southeast limbs.  An analysis of the activity indicate
+the source is likely a backside event and not expected to be
+geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low with a chance for an isolated C-class event.  There is a
+slight chance for a M-class event from Region 1057.
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z:
+The geomagnetic field has been quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominantly quiet for the next three days (31 March
+- 02 April).
+III.  Event Probabilities 31 Mar-02 Apr
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           30 Mar 083
+Predicted   31 Mar-02 Apr  082/082/082
+90 Day Mean        30 Mar 083
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Mar  005/004
+Estimated Afr/Ap 30 Mar  003/005
+Predicted Afr/Ap 31 Mar-02 Apr  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 31 Mar-02 Apr
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01

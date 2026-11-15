@@ -1,0 +1,47 @@
+:Product: 1128RSGA.txt
+:Issued: 2010 Nov 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 332 Issued at 2200Z on 28 Nov 2010
+IA.  Analysis of Solar Active Regions and Activity from  27/2100Z
+to 28/2100Z:  Solar activity has been very low. New Regions 1129
+(S25W76) a Bxo-Beta type spot group and Region 1130 (N13E00), a
+Csi-Beta type spot group, were numbered today. Region 1130 produced
+a B2 x-ray event at 28/1754Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a chance of isolated C-class events from Region 1130 for
+the next three days (29 November - 01 December).
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z:
+The geomagnetic field has been quiet to unsettled due to a recurrent
+coronal hole high speed stream.  Observations from the ACE
+spacecraft indicated solar wind speeds reached approximately 500
+km/s during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominately quiet to unsettled with a slight chance
+for isolated active periods during the next three days (29
+November-01 December).  The activity is forecast due to a recurrent
+coronal hole high speed stream becoming geoeffective.
+III.  Event Probabilities 29 Nov-01 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           28 Nov 080
+Predicted   29 Nov-01 Dec  080/080/080
+90 Day Mean        28 Nov 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Nov  005/012
+Estimated Afr/Ap 28 Nov  007/010
+Predicted Afr/Ap 29 Nov-01 Dec  006/007-007/007-007/007
+VI.  Geomagnetic Activity Probabilities 29 Nov-01 Dec
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor storm           05/05/05
+Major-severe storm    01/01/01

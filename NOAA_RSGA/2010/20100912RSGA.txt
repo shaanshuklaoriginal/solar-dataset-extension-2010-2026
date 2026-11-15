@@ -1,0 +1,40 @@
+:Product: 0912RSGA.txt
+:Issued: 2010 Sep 12 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 255 Issued at 2200Z on 12 Sep 2010
+IA.  Analysis of Solar Active Regions and Activity from  11/2100Z
+to 12/2100Z:  Solar activity was very low.  New Region 1107 (N33E62)
+rotated onto the disk as a simple, unipolar group.  Region 1106
+(S19E57) was quiet and stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a slight chance of C-class activity.
+IIA.  Geophysical Activity Summary 11/2100Z to 12/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet for the next three days (13 - 15
+September).
+III.  Event Probabilities 13 Sep-15 Sep
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           12 Sep 078
+Predicted   13 Sep-15 Sep  080/080/080
+90 Day Mean        12 Sep 078
+V.  Geomagnetic A Indices
+Observed Afr/Ap 11 Sep  001/001
+Estimated Afr/Ap 12 Sep  002/005
+Predicted Afr/Ap 13 Sep-15 Sep  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 13 Sep-15 Sep
+A.  Middle Latitudes
+Active                10/10/15
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/10/20
+Minor storm           01/01/01
+Major-severe storm    01/01/01

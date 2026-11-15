@@ -1,0 +1,48 @@
+:Product: 0717RSGA.txt
+:Issued: 2011 Jul 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 198 Issued at 2200Z on 17 Jul 2011
+IA.  Analysis of Solar Active Regions and Activity from  16/2100Z
+to 17/2100Z:  Solar activity has been at very low levels for the past
+24 hours. New Region 1257 (N19W56) emerged on the disk early in the
+period and is already classified as Dai-beta group. Region 1257 also
+produced the largest event of the period, a B7 flare at 17/1926Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low to low levels with a slight chance for M-class events for
+the next three days (18-19 July). The increase in forecasted
+activity is due to the growth of new Region 1257 and the return of
+old Region 1242 (N18, L=073).
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+The greater than 2 MeV electron flux at geosynchronous orbit reached
+high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels for the next two days
+(18-19 July) as a coronal hole high-speed stream (CH HSS) moves into
+a geoeffective position. Quiet to active conditions are expected on
+day three (20 July), as another CH HSS becomes geoeffective.
+III.  Event Probabilities 18 Jul-20 Jul
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           17 Jul 104
+Predicted   18 Jul-20 Jul  104/104/102
+90 Day Mean        17 Jul 097
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Jul  004/006
+Estimated Afr/Ap 17 Jul  003/005
+Predicted Afr/Ap 18 Jul-20 Jul  008/008-010/010-012/012
+VI.  Geomagnetic Activity Probabilities 18 Jul-20 Jul
+A.  Middle Latitudes
+Active                10/20/25
+Minor storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/25/35
+Minor storm           01/01/10
+Major-severe storm    01/01/01

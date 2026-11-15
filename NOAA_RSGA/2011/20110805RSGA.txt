@@ -1,0 +1,63 @@
+:Product: 0805RSGA.txt
+:Issued: 2011 Aug 05 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 217 Issued at 2200Z on 05 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  04/2100Z
+to 05/2100Z:  Solar activity was low.  Only low level C-flares were
+observed.  Region 1261 (N14W64) was the major producer for C-flare
+activity.  Region 1261 has decayed greatly in area and is now
+classified a Dsi spot class with a Beta-Gamma magnetic
+configuration.  Region 1263 (N16W31) has remained largely unchanged
+and maintains a Beta-Gamma-Delta magnetic configuration.  New Region
+1267 (S17E26) was numbered today.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for M-flares from Regions 1261 or 1263.
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z:
+The geomagnetic field began the period at unsettled levels from
+04/2100-05/0300Z.  Quiet levels prevailed until after 1800Z.  From
+1800-2100Z, minor to severe storm levels dominated.  Solar wind data
+from ACE showed a shock-like feature passing ACE at 04/2105Z which
+was followed by a 20 nT sudden impulse at 04/2155Z.  The solar phi
+angle showed rotation from negative to positive between 0300-1400Z. 
+An additional shock passage was seen at ACE at 1722Z followed by a
+noticeable increase in solar wind density, velocity and magnetic
+field.  An additional enhancement in the solar wind parameters was
+observed at 1834Z which include Bz fluctuation to -20 nT.  Although
+the interpretation is not yet certain, timing analysis and model
+simulation suggest that the 1722Z & 1834Z enhancements are the first
+two of the three expected CME passages.  GOES 15 observed
+magnetopause crossings between 1900Z-1915Z and 2000Z-2030Z.  GOES 13
+also observed magnetopause crossings between 2000Z-2030Z.  The
+greater than 10 MeV proton event that began at 04/0635Z reached a
+peak of 83 PFU at 05/1755Z and continues in progress.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to reach minor to major storm levels with a chance for
+severe storm periods on 06 August.  Heightened activity is expected
+due to continued effects from the CMEs of 02, 03, and 04 August. 
+Activity is expected to decrease to unsettled to active levels on 07
+August.  Quiet to unsettled conditions are expected on 08 August.
+III.  Event Probabilities 06 Aug-08 Aug
+Class M    40/40/35
+Class X    10/10/05
+Proton     95/50/25
+PCAF       red
+IV.  Penticton 10.7 cm Flux
+Observed           05 Aug 109
+Predicted   06 Aug-08 Aug  110/110/100
+90 Day Mean        05 Aug 096
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 Aug  003/004
+Estimated Afr/Ap 05 Aug  020/020
+Predicted Afr/Ap 06 Aug-08 Aug  035/035-015/018-008/010
+VI.  Geomagnetic Activity Probabilities 06 Aug-08 Aug
+A.  Middle Latitudes
+Active                20/25/10
+Minor storm           40/15/05
+Major-severe storm    35/05/00
+B.  High Latitudes
+Active                20/25/15
+Minor storm           35/20/05
+Major-severe storm    40/15/00

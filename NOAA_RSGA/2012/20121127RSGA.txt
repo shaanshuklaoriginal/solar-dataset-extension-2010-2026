@@ -1,0 +1,64 @@
+:Product: 1127RSGA.txt
+:Issued: 2012 Nov 27 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 332 Issued at 2200Z on 27 Nov 2012
+
+IA.  Analysis of Solar Active Regions and Activity from 26/2100Z to
+27/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1/Sf event observed
+at 27/1557Z from Region 1618 (N09W81). The region appears to be decaying
+but it is difficult to determine size and magnetic configuration with
+its proximity to the west limb. Region 1620 (S12W43) continued to show
+growth in its intermediate spots and developed magnetically into a
+beta-gamma-delta configuration. Two CMEs were observed this morning. The
+first became visible as an EUV wave in SDO/AIA 193 imagery beginning
+around 27/0245Z near N28E46 and appears to have been associated with a
+disappearing filament. The second CME appears in SDO/AIA 193 imagery at
+27/0530Z near N00W27. Further analysis is being conducted on these two
+events to determine geoeffectiveness.
+IB.  Solar Activity Forecast: Solar activity is expected to be at low to
+moderate levels on days one, two, and three (28 Nov, 29 Nov, 30 Nov).
+
+IIA.  Geophysical Activity Summary 26/2100Z to 27/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, continued to decrease from
+approximately 500 km/s to 415 km/s as the effects from the 23 November
+CME subside. Total IMF reached 5.7 nT at 26/2105Z. The maximum southward
+component of Bz reached -2.8 nT at 27/1722Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be mostly quiet on day one (28 Nov). Quiet to unsettled conditions
+with a chance for isolated active periods are expected on day two (29
+Nov) due to the anticipated arrival of the 26 November CME. Quiet to
+unsettled conditions are expected on day three (30 Nov) at this time due
+to coronal hole high speed stream effects, however, the results of the
+analysis on the events discussed above may change the latter half of
+this forecast slightly.
+
+III.  Event probabilities 28 Nov-30 Nov
+Class M    35/35/35
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           27 Nov 117
+Predicted   28 Nov-30 Nov 115/110/105
+90 Day Mean        27 Nov 123
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 26 Nov  006/004
+Estimated Afr/Ap 27 Nov  004/005
+Predicted Afr/Ap 28 Nov-30 Nov  006/005-012/015-007/010
+
+VI.  Geomagnetic Activity Probabilities 28 Nov-30 Nov
+A.  Middle Latitudes
+Active                10/30/20
+Minor Storm           05/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           15/30/25
+Major-severe storm    15/40/30

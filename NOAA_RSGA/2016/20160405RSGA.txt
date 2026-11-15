@@ -1,0 +1,50 @@
+:Product: 0405RSGA.txt
+:Issued: 2016 Apr 05 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 96 Issued at 2200Z on 05 Apr 2016
+
+IA.  Analysis of Solar Active Regions and Activity from 04/2100Z to
+05/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 2 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares on days one, two, and three (06 Apr,
+07 Apr, 08 Apr).
+
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 439 km/s at 05/0103Z. Total IMF reached 8 nT at
+05/0132Z. The maximum southward component of Bz reached -6 nT at
+05/1105Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 3924 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one and three (06 Apr, 08
+Apr) and quiet to active levels on day two (07 Apr).
+
+III.  Event probabilities 06 Apr-08 Apr
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           05 Apr 083
+Predicted   06 Apr-08 Apr 083/084/087
+90 Day Mean        05 Apr 099
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 Apr  006/007
+Estimated Afr/Ap 05 Apr  007/008
+Predicted Afr/Ap 06 Apr-08 Apr  007/008-011/012-009/010
+
+VI.  Geomagnetic Activity Probabilities 06 Apr-08 Apr
+A.  Middle Latitudes
+Active                25/35/25
+Minor Storm           10/15/10
+Major-severe storm    01/05/01
+B.  High Latitudes
+Active                15/10/15
+Minor Storm           25/30/30
+Major-severe storm    35/50/40

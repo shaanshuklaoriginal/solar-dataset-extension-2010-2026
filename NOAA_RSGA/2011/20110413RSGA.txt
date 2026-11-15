@@ -1,0 +1,51 @@
+:Product: 0413RSGA.txt
+:Issued: 2011 Apr 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 103 Issued at 2200Z on 13 Apr 2011
+IA.  Analysis of Solar Active Regions and Activity from  12/2100Z
+to 13/2100Z:  Solar activity was low during the past 24 hours. The
+majority of the C-class activity originated from Regions 1191
+(N08E56) and 1193 (N17E71). Region 1190 (N12W00) continues to be the
+most complex as an Eac-type group with a beta-gamma magnetic
+configuration, but has not produced much activity. Region 1193 was
+numbered today as it rotated onto the east limb and is a Dao-type
+group with a beta magnetic configuration.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with the chance for M-class activity increasing during the next
+three days (14-16 April) as new Region 1193 continues to rotate onto
+the disk.
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z:
+The geomagnetic field was unsettled to active with major storm
+periods observed at high latitudes during the past 24 hours. The
+activity was the result of elevated wind speeds associated with a
+coronal hole high speed stream (CH HSS).
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled with a chance for isolated active
+periods on day one (14 April) due to residual effects from the CH
+HSS. Mostly quiet conditions are expected for days two and three
+(15-16 April) as the effects from the CH HSS wane.
+III.  Event Probabilities 14 Apr-16 Apr
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           13 Apr 118
+Predicted   14 Apr-16 Apr  120/120/120
+90 Day Mean        13 Apr 102
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Apr  014/023
+Estimated Afr/Ap 13 Apr  012/012
+Predicted Afr/Ap 14 Apr-16 Apr  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 14 Apr-16 Apr
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

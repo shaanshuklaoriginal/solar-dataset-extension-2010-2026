@@ -1,0 +1,43 @@
+:Product: 0626RSGA.txt
+:Issued: 2010 Jun 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 177 Issued at 2200Z on 26 Jun 2010
+IA.  Analysis of Solar Active Regions and Activity from  25/2100Z
+to 26/2100Z:  Solar activity has been very low.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low. An isolated C-class event is still possible on day one (27
+June) as Region 1082 (N27W88) approaches the west limb.
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z:
+The geomagnetic field has been quiet to unsettled with an isolated
+active period at 26/0300-0600Z.  Solar wind speed data from ACE
+indicated the onset of a coronal hole high speed stream at 26/0215Z
+with solar wind speeds increasing to around 450 km/s.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominately unsettled with isolated active periods
+for days one thru three (27-29 June). Activity is forecast due to a
+recurrent coronal hole high speed stream.
+III.  Event Probabilities 27 Jun-29 Jun
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           26 Jun 075
+Predicted   27 Jun-29 Jun  077/077/078
+90 Day Mean        26 Jun 075
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Jun  008/008
+Estimated Afr/Ap 26 Jun  014/015
+Predicted Afr/Ap 27 Jun-29 Jun  012/013-010/012-010/010
+VI.  Geomagnetic Activity Probabilities 27 Jun-29 Jun
+A.  Middle Latitudes
+Active                20/10/10
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/15/15
+Minor storm           10/10/10
+Major-severe storm    01/01/01

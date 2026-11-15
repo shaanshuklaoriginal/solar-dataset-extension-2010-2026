@@ -1,0 +1,51 @@
+:Product: 0302RSGA.txt
+:Issued: 2012 Mar 02 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 062 Issued at 2200Z on 02 Mar 2012
+IA.  Analysis of Solar Active Regions and Activity from  01/2100Z
+to 02/2100Z:  Solar activity reached moderate levels today.  An M3/Sf
+flare was observed off the NE limb at 02/1746Z near N16.  As the
+region rotates on the visible disk, a more detailed analysis of its
+complexity can be determined.  STEREO B EUVI 195 imagery indicated a
+possible CME associated with the event beginning at 02/1746Z,
+however, further imagery from SOHO/LASCO will be needed to confirm.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with M-class activity likely from the new region rotating onto the
+NE limb.
+IIA.  Geophysical Activity Summary 01/2100Z to 02/2100Z:
+The geomagnetic field was quiet to active with an isolated minor
+storm period observed at high latitudes during the period 02/1200 -
+1500Z.  Activity was due to sustained periods of southward Bz of the
+interplanetary magnetic field coupled with an elevated solar wind
+speed around 450 km/s. The greater than 2 MeV electron flux at
+geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to continue at quiet to unsettled conditions on day 1 (03
+March).  Mostly quiet conditions are expected on day 2 (04 March). 
+A recurrent coronal high speed stream is expected increase
+conditions to quiet to unsettled levels on day 3 (05 March).
+III.  Event Probabilities 03 Mar-05 Mar
+Class M    55/55/55
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           02 Mar 108
+Predicted   03 Mar-05 Mar  110/110/110
+90 Day Mean        02 Mar 126
+V.  Geomagnetic A Indices
+Observed Afr/Ap 01 Mar  012/015
+Estimated Afr/Ap 02 Mar  008/010
+Predicted Afr/Ap 03 Mar-05 Mar  008/008-006/005-007/008
+VI.  Geomagnetic Activity Probabilities 03 Mar-05 Mar
+A.  Middle Latitudes
+Active                15/05/15
+Minor storm           05/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/15/20
+Minor storm           15/10/15
+Major-severe storm    05/01/05

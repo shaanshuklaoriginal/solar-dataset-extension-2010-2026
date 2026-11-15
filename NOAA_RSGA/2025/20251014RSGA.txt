@@ -1,0 +1,52 @@
+:Product: 1014RSGA.txt
+:Issued: 2025 Oct 15 1310 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 287 Issued at 2200Z on 14 Oct 2025
+
+IA.  Analysis of Solar Active Regions and Activity from 13/2100Z to
+14/2100Z: Solar activity has been at moderate levels for the past 24
+hours. There are currently 6 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(15 Oct, 16 Oct, 17 Oct).
+
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 742 km/s at 14/0146Z. Total IMF reached 5
+nT at 14/1938Z. The maximum southward component of Bz reached -3 nT at
+14/0019Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 5134 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (15 Oct), unsettled to major
+storm levels on day two (16 Oct) and unsettled to minor storm levels on
+day three (17 Oct). Protons have a slight chance of crossing threshold
+on days one, two, and three (15 Oct, 16 Oct, 17 Oct).
+
+III.  Event probabilities 15 Oct-17 Oct
+Class M    55/55/55
+Class X    15/15/15
+Proton     10/10/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           14 Oct 154
+Predicted   15 Oct-17 Oct 155/160/160
+90 Day Mean        14 Oct 153
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Oct  017/023
+Estimated Afr/Ap 14 Oct  008/008
+Predicted Afr/Ap 15 Oct-17 Oct  008/012-020/028-019/025
+
+VI.  Geomagnetic Activity Probabilities 15 Oct-17 Oct
+A.  Middle Latitudes
+Active                35/30/35
+Minor Storm           15/40/25
+Major-severe storm    01/20/05
+B.  High Latitudes
+Active                10/05/10
+Minor Storm           30/20/25
+Major-severe storm    45/75/65

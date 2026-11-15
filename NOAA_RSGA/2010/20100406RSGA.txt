@@ -1,0 +1,57 @@
+:Product: 0406RSGA.txt
+:Issued: 2010 Apr 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 096 Issued at 2200Z on 06 Apr 2010
+IA.  Analysis of Solar Active Regions and Activity from  05/2100Z
+to 06/2100Z:  Solar activity was very low. Todays flare activity
+consisted of a single B1 X-ray event at 0402Z from Region 1060
+(N26E32). In addition a small, possibly earthward directed CME was
+observed in the Stereo coronagraph images and was associated with
+disk activity in the SOHO EIT images beginning at about 0113Z, just
+north of Region 1061 (N14W24). Region 1061 appears to be growing
+slowly.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low, but there is a chance for an isolated C-class event from Region
+1061.
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z:
+The geomagnetic field was at active to minor storm levels for most of
+the day, with the exception of an interval of minor to major storm
+levels between 0000-0600Z. Solar wind observations from the ACE
+spacecraft showed a slow trend of increasingly negative Bz
+consistent with continued influence of yesterdays CME-driven
+activity. Peak negative Bz values reached -8 nT at about 1250Z.
+Solar wind velocity gradually decreased during the past 24 hours and
+was about 550 km/s at the end of the period. The greater than 2 MeV
+electron flux at geosynchronous orbit reached very high levels
+during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be active for the first day (07 April) due to a
+favorably positioned coronal hole. Activity levels are expected to
+be unsettled to active on the second day (08 April) due to
+persistence as well as possible effects from todays CME.
+Predominantly quiet levels are expected on the third day (09 April).
+III.  Event Probabilities 07 Apr-09 Apr
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           06 Apr 078
+Predicted   07 Apr-09 Apr  082/085/085
+90 Day Mean        06 Apr 083
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Apr  028/049
+Estimated Afr/Ap 06 Apr  025/030
+Predicted Afr/Ap 07 Apr-09 Apr  015/020-012/015-005/007
+VI.  Geomagnetic Activity Probabilities 07 Apr-09 Apr
+A.  Middle Latitudes
+Active                40/20/05
+Minor storm           20/10/01
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                45/25/05
+Minor storm           25/15/01
+Major-severe storm    10/05/01

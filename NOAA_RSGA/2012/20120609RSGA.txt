@@ -1,0 +1,58 @@
+:Product: 0609RSGA.txt
+:Issued: 2012 Jun 09 2245 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 161 Issued at 2200Z on 09 Jun 2012
+:::::::::Corrected Copy:::::::::::
+IA.  Analysis of Solar Active Regions and Activity from  08/2100Z
+to 09/2100Z:  Solar activity was moderate. Region 1499 (N16W31) was 
+the most active region producing two M-class x-ray events. The first
+event was an impulsive M1 flare at 09/1132Z and the second was also
+an impulsive M1/Sf event which occurred at 09/1645Z. Region 1499 
+also produced several C1 events at 09/0308Z, 1032Z, and 1527Z.
+Region 1499 was classified as a Cao type group with beta-gamma 
+magnetic characteristics. New Region 1504 (S18E67) was numbered 
+today and classified as a Cao type group with beta magnetic
+characteristics. New Region 1505(S09E63) was also numbered today and 
+classified as a Axx type group with alpha magnetic characteristics.
+There were no earth-directed CMEs observed during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+low with an increasing chance for occasional M-class activity for
+the next three days (10-12 June).
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z:
+The geomagnetic field activity was mostly quiet. A weak disturbance
+was observed on both ground and GOES magnetometers at 09/1841Z
+leading to the single unsettled period of the day. Solar wind speed
+at the ACE spacecraft continued to decline and ended the period near
+440 km/s. The Bz component of the interplanetary magentic field
+remained mostly neutral or positive. The greater than 2 MeV electron
+flux at geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled for the next three days (10-12
+June) with the anticiapted glancing blows from CMEs on 06 June and
+08 June and the arrival on 11 June of a coronal hole high speed
+stream.
+III.  Event Probabilities 10 Jun-12 Jun
+Class M    45/50/55
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           09 Jun 128
+Predicted   10 Jun-12 Jun  130/130/130
+90 Day Mean        09 Jun 117
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 Jun  009/009
+Estimated Afr/Ap 09 Jun  006/007
+Predicted Afr/Ap 10 Jun-12 Jun  007/010-007/010-007/010
+VI.  Geomagnetic Activity Probabilities 10 Jun-12 Jun
+A.  Middle Latitudes
+Active                20/20/20
+Minor storm           10/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           25/25/25
+Major-severe storm    30/30/30

@@ -1,0 +1,59 @@
+:Product: 0121RSGA.txt
+:Issued: 2012 Jan 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 021 Issued at 2200Z on 21 Jan 2012
+IA.  Analysis of Solar Active Regions and Activity from  20/2100Z
+to 21/2100Z:  Solar activity was low. Isolated low-level C-class
+flares were observed. Plage Region 1396 (N25W86) produced a C1 x-ray
+flare at 20/2112Z associated with a Type II radio sweep (estimated
+shock velocity 945 km/s) and a non-Earth-directed coronal mass
+ejection (CME). Region 1402 (N29W11) produced a long-duration C1 at
+20/2333Z associated with a weak Type IV radio sweep. Region 1402
+showed gradual trailer spot decay during the period and was
+classified as a Cko group with a beta magnetic configuration. Region
+1401 (N17W14) also showed gradual trailer spot decay and was
+classified as an Ehi group with a beta magnetic classification. New
+Regions 1408 (N08E69) and 1409 (N16E50) were numbered. Both were
+small and simply-structured.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+through the period (22 - 24 January) with a chance for an isolated
+M-class flare.
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z:
+The geomagnetic field was at mostly quiet levels with brief active to
+minor storm levels at high latitudes. A weak interplanetary shock
+was observed at the ACE spacecraft at around 21/0400Z. This was
+followed by a weak geomagnetic sudden impulse at 21/0502Z (7 nT,
+Boulder USGS magnetometer).
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at mostly quiet levels until late on day 1 (22
+January). Activity is forecast to increase to unsettled to active
+levels at around 22/1800Z and continue into day 2 (23 January) due
+to the expected arrival of the halo-CME observed on 19 January.
+There will also be a chance for minor storm levels during the CME
+passage. Field activity is expected to decrease to quiet to
+unsettled levels on day 3 (24 January) as CME effects subside.
+III.  Event Probabilities 22 Jan-24 Jan
+Class M    35/35/35
+Class X    01/01/01
+Proton     10/10/10
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           21 Jan 142
+Predicted   22 Jan-24 Jan  145/145/145
+90 Day Mean        21 Jan 143
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 Jan  003/004
+Estimated Afr/Ap 21 Jan  005/005
+Predicted Afr/Ap 22 Jan-24 Jan  009/010-020/025-007/008
+VI.  Geomagnetic Activity Probabilities 22 Jan-24 Jan
+A.  Middle Latitudes
+Active                25/40/10
+Minor storm           10/20/01
+Major-severe storm    01/05/01
+B.  High Latitudes
+Active                30/50/20
+Minor storm           20/25/10
+Major-severe storm    05/10/01

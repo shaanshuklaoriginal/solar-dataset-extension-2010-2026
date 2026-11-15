@@ -1,0 +1,43 @@
+:Product: 0903RSGA.txt
+:Issued: 2010 Sep 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 246 Issued at 2200Z on 03 Sep 2010
+IA.  Analysis of Solar Active Regions and Activity from  02/2100Z
+to 03/2100Z:  Solar activity was very low. Region 1105 (N18W22)
+produced the only x-ray event of the period, a B1.8 flare at
+03/1438Z. The three other regions on the disk remained quiet and
+stable.
+IB.  Solar Activity Forecast:  Solar activity is forecast to be very
+low with the chance for an isolated C-class flare for the next 3
+days (4-6 September).
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+forecast to be mostly quiet on day 1 (4 September), and quiet to
+active on days 2 and 3 (5-6 September) due to recurrent coronal hole
+effects.
+III.  Event Probabilities 04 Sep-06 Sep
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           03 Sep 077
+Predicted   04 Sep-06 Sep  078/078/076
+90 Day Mean        03 Sep 078
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Sep  005/008
+Estimated Afr/Ap 03 Sep  002/005
+Predicted Afr/Ap 04 Sep-06 Sep  005/005-008/010-008/008
+VI.  Geomagnetic Activity Probabilities 04 Sep-06 Sep
+A.  Middle Latitudes
+Active                20/30/30
+Minor storm           05/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/30/30
+Minor storm           05/10/10
+Major-severe storm    01/01/01

@@ -1,0 +1,47 @@
+:Product: 1225RSGA.txt
+:Issued: 2010 Dec 25 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 359 Issued at 2200Z on 25 Dec 2010
+IA.  Analysis of Solar Active Regions and Activity from  24/2100Z
+to 25/2100Z:  Solar activity was very low.  Two new regions were
+numbered today as Region 1136 (S22W57) and Region 1137 (N18E23). 
+Both regions are beta magnetic classifications.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low.
+IIA.  Geophysical Activity Summary 24/2100Z to 25/2100Z:
+The geomagnetic field was quiet.  Observations from the ACE
+spacecraft indicate a co-rotating interaction region signature, in
+advance of a coronal hole high speed stream, around 25/1430Z.  The
+IMF Bt reached +10 nT while the IMF Bz was at -7 nT.  Solar wind
+speeds have continued to increase through the period from 340 km/s
+to 400 km/s.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels for days one and two
+(26-27 December) due to a coronal hole high speed stream and
+possible effects from the CME on 23 December.  Quiet conditions are
+expected for day three (28 December).
+III.  Event Probabilities 26 Dec-28 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           25 Dec 079
+Predicted   26 Dec-28 Dec  080/080/082
+90 Day Mean        25 Dec 083
+V.  Geomagnetic A Indices
+Observed Afr/Ap 24 Dec  003/003
+Estimated Afr/Ap 25 Dec  005/005
+Predicted Afr/Ap 26 Dec-28 Dec  008/008-007/008-005/005
+VI.  Geomagnetic Activity Probabilities 26 Dec-28 Dec
+A.  Middle Latitudes
+Active                10/10/05
+Minor storm           01/01/01
+Major-severe storm    01/01/00
+B.  High Latitudes
+Active                20/20/05
+Minor storm           05/05/01
+Major-severe storm    01/01/01

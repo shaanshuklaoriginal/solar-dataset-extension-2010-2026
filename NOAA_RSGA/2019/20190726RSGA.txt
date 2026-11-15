@@ -1,0 +1,46 @@
+:Product: 0726RSGA.txt
+:Issued: 2019 Jul 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 207 Issued at 2200Z on 26 Jul 2019
+
+IA.  Analysis of Solar Active Regions and Activity from 25/2100Z to
+26/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 0 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+on days one, two, and three (27 Jul, 28 Jul, 29 Jul).
+
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 377 km/s at 25/2115Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one and two (27 Jul, 28 Jul)
+and quiet levels on day three (29 Jul).
+
+III.  Event probabilities 27 Jul-29 Jul
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           26 Jul 068
+Predicted   27 Jul-29 Jul 068/068/068
+90 Day Mean        26 Jul 069
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Jul  003/003
+Estimated Afr/Ap 26 Jul  003/004
+Predicted Afr/Ap 27 Jul-29 Jul  007/008-007/008-006/005
+
+VI.  Geomagnetic Activity Probabilities 27 Jul-29 Jul
+A.  Middle Latitudes
+Active                15/10/10
+Minor Storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/25/20
+Major-severe storm    15/20/15

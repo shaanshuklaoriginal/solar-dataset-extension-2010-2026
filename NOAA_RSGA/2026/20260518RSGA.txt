@@ -1,0 +1,50 @@
+:Product: 0518RSGA.txt
+:Issued: 2026 May 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 138 Issued at 2200Z on 18 May 2026
+
+IA.  Analysis of Solar Active Regions and Activity from 17/2100Z to
+18/2100Z: Solar activity has been at low levels for the past 24 hours.
+There are currently 6 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (19 May, 20 May,
+21 May).
+
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 590 km/s at 17/2134Z. Total IMF reached 5
+nT at 18/2027Z. The maximum southward component of Bz reached -5 nT at
+18/2027Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 6667 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (19 May), quiet levels
+on day two (20 May) and quiet to unsettled levels on day three (21 May).
+
+III.  Event probabilities 19 May-21 May
+Class M    40/40/40
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           18 May 105
+Predicted   19 May-21 May 110/115/115
+90 Day Mean        18 May 124
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 May  007/008
+Estimated Afr/Ap 18 May  011/015
+Predicted Afr/Ap 19 May-21 May  018/021-007/008-007/010
+
+VI.  Geomagnetic Activity Probabilities 19 May-21 May
+A.  Middle Latitudes
+Active                35/20/25
+Minor Storm           30/05/05
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                10/20/20
+Minor Storm           25/30/30
+Major-severe storm    60/25/25

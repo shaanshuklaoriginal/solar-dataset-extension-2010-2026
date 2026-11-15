@@ -1,0 +1,81 @@
+:Product: 0605RSGA.txt
+:Issued: 2011 Jun 05 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 156 Issued at 2200Z on 05 Jun 2011
+IA.  Analysis of Solar Active Regions and Activity from  04/2100Z
+to 05/2100Z:  Solar activity was at very low levels with only a
+single B3 x-ray event recorded at 05/0214Z from Region 1226
+(S21W38). New Region 1233 (S18W29) was numbered as a unipolar spot
+group. No significant changes were observed with the remaining
+regions on the disk. During the period, LASCO C3 and STEREO-B COR2
+imagery observed three separate CMEs. The first two CMEs were
+back-sided, and appeared to originate from the vicinity of old
+Region 1222 (N17, L=160) which rotated off the visible disk on 31
+May. CME number one was first observed in STEREO Ahead EUVI 195
+imagery at 04/0645Z and later in LASCO C3 imagery at 04/2212Z as a
+partial-halo CME lifting of the east limb. The plane-of-sky speed
+was estimated at about 1380 km/s. CME number two was first observed
+in STEREO Ahead EUVI 195 imagery at 04/2145Z and later in LASCO C3
+imagery at 05/0733ZZ as an asymmetric full-halo CME lifting off the
+east limb. The plane-of-sky speed for this CME was estimated at
+about 2160 km/s. A third CME originated from an eruptive, 16 degree
+filament centered near N34E37. The filament was first observed
+lifting off in SDO/AIA 193 imagery at 05/0341Z, with the
+partial-halo CME first visible in STEREO Behind COR2 imagery at
+05/0733Z. The plane-of-sky speed for the third CME was estimated at
+490 km/s.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance for an M-class event all three days (06 - 08
+June).
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z:
+The geomagnetic field was at quiet to major storm levels. The
+increase in activity was in response to the arrival of the 02 June
+CME, coupled with a recurrent coronal hole high speed wind stream.
+After the ACE spacecraft detected the initial interplanetary shock
+at 04/1958Z, wind velocities rose steadily for the next four hours
+and reached a peak during the period of 560 km/s at 05/0020Z. Bt
+reached a maximum of 28 nT at 05/0053Z while the Bz component of the
+interplanetary magnetic field (IMF) reached a maximum southward
+value of -19 nT at 04/2157Z. The Bz component remained strongly
+southward through about 05/0000Z where it turned strongly northward
+to about +18 nT through 05/0700Z. Thereafter, and through the
+balance of the period, the Bz component of the IMF did not vary much
+beyond +/- 7 nT. Associated with the first two CMEs, observed off
+the east limb, was a greater than 10 MeV proton enhancement that
+reached a maximum of 3.9 pfu at 05/0050Z. Proton flux values decayed
+to below 1 pfu after 05/0205Z and remained below through the
+remainder of the period. The greater than 2 MeV electron flux at
+geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled, with isolated high latitude
+active periods, on day one (06 June) due to lingering effects from
+the CME and recurrent coronal hole high speed stream. On days two
+and three (07 - 08 June), mostly quiet conditions are expected as
+the activity subsides. Other than the brief proton ehnhancement
+observed early on 05 June, no other effects are expected from the
+three CMEs observed on 04 and 05 June.
+III.  Event Probabilities 06 Jun-08 Jun
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           05 Jun 103
+Predicted   06 Jun-08 Jun  100/098/096
+90 Day Mean        05 Jun 106
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 Jun  011/015
+Estimated Afr/Ap 05 Jun  020/020
+Predicted Afr/Ap 06 Jun-08 Jun  008/010-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 06 Jun-08 Jun
+A.  Middle Latitudes
+Active                15/05/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/05/05
+Minor storm           10/01/01
+Major-severe storm    01/01/01

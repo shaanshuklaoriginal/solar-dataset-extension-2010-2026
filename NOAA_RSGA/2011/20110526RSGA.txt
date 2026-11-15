@@ -1,0 +1,51 @@
+:Product: 0526RSGA.txt
+:Issued: 2011 May 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 146 Issued at 2200Z on 26 May 2011
+IA.  Analysis of Solar Active Regions and Activity from  25/2100Z
+to 26/2100Z:  Solar activity was low.  A fast emerging flux region
+was numbered today as Region 1223 (S15E14).  This region produced
+two C-class events as it evolved.  The first was a C1 at 25/2103Z
+then followed by a second C1 at 25/2158Z.  It is configured as a Cso
+group with a beta magnetic classification.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low with a chance for a C-class event.
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z:
+The geomagnetic field was mainly quiet with an active period reported
+at 25/1800Z at mid-latitudes.  Observations from the ACE spacecraft
+indicated a possible co-rotating interaction region (CIR) at around
+25/1330Z.  Solar wind speed increased from around 340 to 390 km/s
+and density jumped to 6 p/cc.  Interplanetary magnetic field changes
+included an increase in Bt to +7 nT, while Bz dipped to -6 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly unsettled with isolated active periods, and
+isolated minor storms possible at high-latitudes, for the next three
+days (27-29 May).  Activity is expected due to a recurrent coronal
+hole high speed stream.  In addition, a disappearing filament
+observed at 25/0801Z may possibly disturb the field on day two (28
+May).
+III.  Event Probabilities 27 May-29 May
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           26 May 083
+Predicted   27 May-29 May  085/085/085
+90 Day Mean        26 May 108
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 May  002/004
+Estimated Afr/Ap 26 May  005/007
+Predicted Afr/Ap 27 May-29 May  010/010-015/015-010/012
+VI.  Geomagnetic Activity Probabilities 27 May-29 May
+A.  Middle Latitudes
+Active                20/25/20
+Minor storm           05/10/05
+Major-severe storm    01/05/01
+B.  High Latitudes
+Active                30/35/30
+Minor storm           10/15/10
+Major-severe storm    05/05/05

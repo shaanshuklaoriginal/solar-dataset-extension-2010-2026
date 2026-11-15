@@ -1,0 +1,45 @@
+:Product: 1022RSGA.txt
+:Issued: 2011 Oct 22 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 295 Issued at 2200Z on 22 Oct 2011
+IA.  Analysis of Solar Active Regions and Activity from  21/2100Z
+to 22/2100Z:  Solar activity was moderate. Region 1314 (N29W93)
+produced a long duration M1 flare at 22/1110Z associated with a CME
+off the west limb that is not expected to be geoeffective. A
+disappearing filament was observed at approximately 22/0058Z. An
+associated CME appears to be Earth-directed but further analysis is
+necessary to determine timing as images become available. New Region
+1330 (N04E66) was numbered today and is considered a Dso-beta type
+group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with M-class activity likely for the next three days (23-25
+October).
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z:
+The geomagnetic field was quiet during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet for the next three days (23-25 October).
+III.  Event Probabilities 23 Oct-25 Oct
+Class M    60/55/55
+Class X    10/05/05
+Proton     05/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           22 Oct 164
+Predicted   23 Oct-25 Oct  160/160/155
+90 Day Mean        22 Oct 122
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 Oct  005/005
+Estimated Afr/Ap 22 Oct  003/004
+Predicted Afr/Ap 23 Oct-25 Oct  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 23 Oct-25 Oct
+A.  Middle Latitudes
+Active                05/05/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01

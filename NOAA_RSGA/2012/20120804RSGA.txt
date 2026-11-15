@@ -1,0 +1,44 @@
+:Product: 0804RSGA.txt
+:Issued: 2012 Aug 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 217 Issued at 2200Z on 04 Aug 2012
+IA.  Analysis of Solar Active Regions and Activity from  03/2100Z
+to 04/2100Z:  Solar activity was low. Region 1539 (S22E31) produced a
+long duration C3/sf x-ray flare which began at 04/1104Z and ended at
+04/1649Z. An associated limb event CME was observed in SOHO LASCO as
+well as by STEREO coronagraphs, with an estimated speed of 905 km/s.
+ENLIL depicts trajectory of the transient between Earth and STEREO
+B, with a glancing blow expected beyond the forecast period. No new
+active regions were numbered today.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance for an isolated M-class over the next 3 days
+(5-7 August).
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+forecast to be primarily quiet over the next 3 days (5-7 August).
+III.  Event Probabilities 05 Aug-07 Aug
+Class M    20/20/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           04 Aug 139
+Predicted   05 Aug-07 Aug  140/140/140
+90 Day Mean        04 Aug 127
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Aug  008/007
+Estimated Afr/Ap 04 Aug  000/006
+Predicted Afr/Ap 05 Aug-07 Aug  006/005-006/005-006/005
+VI.  Geomagnetic Activity Probabilities 05 Aug-07 Aug
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           15/15/15
+Major-severe storm    05/05/05

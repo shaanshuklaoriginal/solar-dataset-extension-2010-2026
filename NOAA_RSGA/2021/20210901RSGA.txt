@@ -1,0 +1,54 @@
+:Product: 0901RSGA.txt
+:Issued: 2021 Sep 01 2345 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 244 Issued at 2200Z on 01 Sep 2021
+
+IA.  Analysis of Solar Active Regions and Activity from 31/2100Z to
+01/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+01/0854Z from Region 2860 (S27W64). There are currently 2 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares on days one and two (02 Sep, 03 Sep)
+and expected to be very low with a slight chance for a C-class flare on
+day three (04 Sep).
+
+IIA.  Geophysical Activity Summary 31/2100Z to 01/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 345 km/s at 01/1226Z. Total IMF reached 5 nT at
+01/0450Z. The maximum southward component of Bz reached -4 nT at
+01/0921Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 3639 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to major storm levels on day one (02 Sep), quiet to
+active levels on day two (03 Sep) and quiet levels on day three (04
+Sep).
+
+III.  Event probabilities 02 Sep-04 Sep
+Class M    05/05/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           01 Sep 084
+Predicted   02 Sep-04 Sep 084/082/080
+90 Day Mean        01 Sep 080
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 31 Aug  009/008
+Estimated Afr/Ap 01 Sep  010/012
+Predicted Afr/Ap 02 Sep-04 Sep  023/030-010/012-006/005
+
+VI.  Geomagnetic Activity Probabilities 02 Sep-04 Sep
+A.  Middle Latitudes
+Active                35/30/15
+Minor Storm           30/10/05
+Major-severe storm    10/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor Storm           25/30/25
+Major-severe storm    65/40/20

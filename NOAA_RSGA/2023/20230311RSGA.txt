@@ -1,0 +1,52 @@
+:Product: 0311RSGA.txt
+:Issued: 2023 Mar 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 70 Issued at 2200Z on 11 Mar 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 10/2100Z to
+11/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C4 event observed at
+11/0103Z from Region 3245 (S23W31). There are currently 10 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a slight chance for an M-class flare on days one, two, and three (12
+Mar, 13 Mar, 14 Mar).
+
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 474 km/s at 11/0830Z. Total IMF reached 6
+nT at 11/1621Z. The maximum southward component of Bz reached -5 nT at
+11/2041Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 955 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one and two (12 Mar, 13 Mar)
+and quiet levels on day three (14 Mar).
+
+III.  Event probabilities 12 Mar-14 Mar
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           11 Mar 157
+Predicted   12 Mar-14 Mar 160/165/170
+90 Day Mean        11 Mar 172
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Mar  010/011
+Estimated Afr/Ap 11 Mar  006/007
+Predicted Afr/Ap 12 Mar-14 Mar  009/010-008/008-005/005
+
+VI.  Geomagnetic Activity Probabilities 12 Mar-14 Mar
+A.  Middle Latitudes
+Active                20/20/15
+Minor Storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/25/20
+Major-severe storm    25/25/20

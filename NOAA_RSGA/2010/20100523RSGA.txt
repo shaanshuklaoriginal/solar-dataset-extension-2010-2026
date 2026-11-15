@@ -1,0 +1,46 @@
+:Product: 0523RSGA.txt
+:Issued: 2010 May 23 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 143 Issued at 2200Z on 23 May 2010
+IA.  Analysis of Solar Active Regions and Activity from  22/2100Z
+to 23/2100Z:  Solar activity was very low.  The STEREO COR2 imagery
+observed a CME around 23/1809Z.  This CME was correlated with GOES
+x-ray images originating from an area along a filament channel
+located between N24W05 to N01W23.  Associated with the CME was a
+long duration B1 x-ray flare at 23/1801Z.  Region 1072 (S15W09)
+continues to grow in white light areal coverage and sunspot count
+and has produced two low-level B-class flares during the period. 
+The region maintained a beta magnetic configuration.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low.  There is a chance for a C-class flare, and a slight chance for
+a M-class event, from Region 1072.
+IIA.  Geophysical Activity Summary 22/2100Z to 23/2100Z:
+The geomagnetic field was quiet.  The solar wind speed continued to
+average around 370 km/s through the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels for the next three days (24-26 May).
+III.  Event Probabilities 24 May-26 May
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           23 May 075
+Predicted   24 May-26 May  076/076/078
+90 Day Mean        23 May 078
+V.  Geomagnetic A Indices
+Observed Afr/Ap 22 May  002/004
+Estimated Afr/Ap 23 May  001/004
+Predicted Afr/Ap 24 May-26 May  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 24 May-26 May
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

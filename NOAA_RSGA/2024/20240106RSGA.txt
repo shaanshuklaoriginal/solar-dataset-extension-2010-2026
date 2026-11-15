@@ -1,0 +1,53 @@
+:Product: 0106RSGA.txt
+:Issued: 2024 Jan 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 6 Issued at 2200Z on 06 Jan 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 05/2100Z to
+06/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C7 event observed at
+06/1535Z from Region 3538 (N21W28). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+days one, two, and three (07 Jan, 08 Jan, 09 Jan).
+
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 399 km/s at 05/2129Z.  Protons greater than 10 MeV at
+geosynchronous orbit reached a peak level of 6 pfu at 06/0030Z.
+Electrons greater than 2 MeV at geosynchronous orbit reached a peak
+level of 155 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one, two, and three (07 Jan,
+08 Jan, 09 Jan). Protons have a slight chance of crossing threshold on
+days one, two, and three (07 Jan, 08 Jan, 09 Jan).
+
+III.  Event probabilities 07 Jan-09 Jan
+Class M    35/35/35
+Class X    10/10/10
+Proton     10/10/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           06 Jan 159
+Predicted   07 Jan-09 Jan 160/165/165
+90 Day Mean        06 Jan 148
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Jan  004/004
+Estimated Afr/Ap 06 Jan   NA/ NA
+Predicted Afr/Ap 07 Jan-09 Jan  008/008-007/010-007/008
+
+VI.  Geomagnetic Activity Probabilities 07 Jan-09 Jan
+A.  Middle Latitudes
+Active                20/30/15
+Minor Storm           05/15/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           30/30/15
+Major-severe storm    25/40/10

@@ -1,0 +1,47 @@
+:Product: 1209RSGA.txt
+:Issued: 2011 Dec 09 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 343 Issued at 2200Z on 09 Dec 2011
+IA.  Analysis of Solar Active Regions and Activity from  08/2100Z
+to 09/2100Z:  Solar activity was low.  Region 1374 (S17E54) produced
+a C3 flare at 09/1320Z.  Region 1374 had separation occurring within
+the main spot.  Growth was noted in Regions 1375 (N09E52) and 1372
+(N08E03).
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance for an M-class flare.
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z:
+The geomagnetic field was mostly quiet with an isolated active period
+at high latitudes occurring during the 09/1200-1500Z period.  Solar
+wind speed has remained relatively constant between 300 to 330 km/s
+while the total magnetic field has increased from 3 nT to 8 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet on Day 1 (10 December).  Activity is
+expected to increase to quiet to unsettled levels with a slight
+chance for active periods on Day 2 (11 December) due to effects from
+a coronal hole high speed stream (CH HSS).  A return to mostly quiet
+conditions is expected on day 3 (12 December).
+III.  Event Probabilities 10 Dec-12 Dec
+Class M    20/20/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           09 Dec 144
+Predicted   10 Dec-12 Dec  145/145/140
+90 Day Mean        09 Dec 146
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 Dec  002/002
+Estimated Afr/Ap 09 Dec  004/005
+Predicted Afr/Ap 10 Dec-12 Dec  006/005-007/008-006/005
+VI.  Geomagnetic Activity Probabilities 10 Dec-12 Dec
+A.  Middle Latitudes
+Active                05/13/05
+Minor storm           01/03/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/20/15
+Minor storm           13/15/13
+Major-severe storm    08/05/08

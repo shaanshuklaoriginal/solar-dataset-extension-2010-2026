@@ -1,0 +1,51 @@
+:Product: 0213RSGA.txt
+:Issued: 2010 Feb 13 2225 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+::::::::::CORRECTED COPY::::::::::
+SDF Number 044 Issued at 2200Z on 13 Feb 2010 
+IA.  Analysis of Solar Active Regions and Activity from  12/2100Z
+to 13/2100Z:  Solar activity was low.  Regions 1045 (N24W69) and 1046
+(N23W11) were stable during the period producing only low level
+C-class events.  Both regions maintained Beta-Gamma magnetic
+classifications.  New Region 1048 (N23E90) was numbered during the
+period after producing two C-class flares, the largest a C9.6 event
+at 13/1239Z, observed on SXI from around the east limb. No spots
+have been reported yet.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+to moderate with a chance for high activity on days 1-3 (14-16
+February).
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z:
+The geomagnetic field was mostly quiet with a single period of
+unsettled conditions from 13/15-18Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for day 1 (14 February).  Unsettled to active
+conditions with a chance for isolated minor storming is expected on
+day 2 (15 February) with an increased chance for minor storming on
+day 3 (16 February).  Activity is associated with the midday, day 2
+arrival of the 13 February CME, and a recurrent coronal hole high
+speed stream.
+III.  Event Probabilities 14 Feb-16 Feb
+Class M    70/70/70
+Class X    20/20/20
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           13 Feb 094
+Predicted   14 Feb-16 Feb  095/095/095
+90 Day Mean        13 Feb 079
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Feb  004/006
+Estimated Afr/Ap 13 Feb  002/005
+Predicted Afr/Ap 14 Feb-16 Feb  005/005-012/012-018/018
+VI.  Geomagnetic Activity Probabilities 14 Feb-16 Feb
+A.  Middle Latitudes
+Active                10/40/45
+Minor storm           01/30/35
+Major-severe storm    01/10/15
+B.  High Latitudes
+Active                15/45/45
+Minor storm           05/35/40
+Major-severe storm    01/10/15

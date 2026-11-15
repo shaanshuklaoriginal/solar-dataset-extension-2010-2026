@@ -1,0 +1,49 @@
+:Product: 0819RSGA.txt
+:Issued: 2011 Aug 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 231 Issued at 2200Z on 19 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  18/2100Z
+to 19/2100Z:  Solar activity was very low.  Region 1271 (N16E25) did
+not produce any significant activity during the past 24 hours,
+although it did retain a large Esi type spot group with beta-gamma
+magnetic characteristics.  The other two regions were small and
+simple.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+on Day 1 (20 Aug), becoming low with a chance for moderate activity
+on Days 2 and 3 (21-22 Aug) when old Region 1261 (N15, L=347)
+returns.
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z:
+The geomagnetic field was quiet and the solar wind at the ACE
+spacecraft was unremarkable.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels on Day 1 (20 Aug) and rise to
+unsettled levels with a chance for active conditions on Day 2 (21
+Aug).  The rise in activity is expected with the arrival of a
+coronal hole high speed stream.  By Day 3 (22 Aug), a return to
+mostly quiet conditions is expected as weak coronal hole effects
+wane.
+III.  Event Probabilities 20 Aug-22 Aug
+Class M    05/45/45
+Class X    01/05/10
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           19 Aug 098
+Predicted   20 Aug-22 Aug  100/100/100
+90 Day Mean        19 Aug 096
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Aug  001/003
+Estimated Afr/Ap 19 Aug  003/003
+Predicted Afr/Ap 20 Aug-22 Aug  005/005-010/012-005/005
+VI.  Geomagnetic Activity Probabilities 20 Aug-22 Aug
+A.  Middle Latitudes
+Active                15/25/10
+Minor storm           05/10/05
+Major-severe storm    01/05/05
+B.  High Latitudes
+Active                10/50/20
+Minor storm           05/15/05
+Major-severe storm    01/10/05

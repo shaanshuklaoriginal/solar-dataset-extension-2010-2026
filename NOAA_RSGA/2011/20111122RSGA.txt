@@ -1,0 +1,44 @@
+:Product: 1122RSGA.txt
+:Issued: 2011 Nov 22 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 326 Issued at 2200Z on 22 Nov 2011
+IA.  Analysis of Solar Active Regions and Activity from  21/2100Z
+to 22/2100Z:  Solar activity was low. Regions 1354 (S17E05) and 1356
+(N15E42) each produced low-level C-class events. The largest event
+was a C4 at 22/0404Z from Region 1356 which is classified as an
+Fki-type group with a beat-gamma magnetic configuration. New Region
+1358 (N20E80) was numbered today and is an Hsx-alpha type spot
+group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+for the next three days (23-25 November) with a chance for M-class
+activity from Region 1356.
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z:
+The geomagnetic field was mostly quiet during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet for the next three days (23-25
+November).
+III.  Event Probabilities 23 Nov-25 Nov
+Class M    30/30/30
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           22 Nov 142
+Predicted   23 Nov-25 Nov  140/145/145
+90 Day Mean        22 Nov 139
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 Nov  005/005
+Estimated Afr/Ap 22 Nov  005/005
+Predicted Afr/Ap 23 Nov-25 Nov  005/005-004/005-004/005
+VI.  Geomagnetic Activity Probabilities 23 Nov-25 Nov
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    00/00/00
+B.  High Latitudes
+Active                15/15/15
+Minor storm           13/13/13
+Major-severe storm    07/07/07

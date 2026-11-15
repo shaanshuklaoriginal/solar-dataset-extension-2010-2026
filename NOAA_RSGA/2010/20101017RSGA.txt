@@ -1,0 +1,63 @@
+:Product: 1017RSGA.txt
+:Issued: 2010 Oct 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 290 Issued at 2200Z on 17 Oct 2010
+IA.  Analysis of Solar Active Regions and Activity from  16/2100Z
+to 17/2100Z:  Solar activity was at low levels due to a few C-class
+events from Region 1112 (S20W44), the largest a C1.7 x-ray event
+observed at 17/0859Z. The region continued to evolve over the past
+24 hours, increasing in both area and extent, while maintaining
+Beta-Gamma magnetic characteristics. New Region 1116 (N22W14) was
+numbered as a simple bi-polar spot group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low to low levels all three days of the forecast period (18 -
+20 October), with a chance for M-class events from evolving Region
+1112.
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z:
+The geomagnetic field ranged from quiet to minor storm levels during
+the period. Activity was at quiet to unsettled levels until about
+17/0700Z when the field became disturbed. Geomagnetic activity
+increased to active to minor storm levels through 17/0900Z,
+returning to mostly quiet levels through the remainder of the
+period. At about 17/0400Z, signatures at the ACE satellite indicated
+gradual increases in temperature, density and wind velocity. The Bz
+component of the interplanetary magnetic field (IMF) turned
+southward, and remained south for about 7 hours, reaching a maximum
+deflection of -7nT at 17/0737Z. The Bt component of the IMF reached
+a maximum of 10nT at 17/0520Z. This short-lived disturbance is
+thought to have been a result of a glancing blow from the
+slow-moving CME observed on 10 October.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to active levels all three days of the
+forecast period (18 - 20 October). Isolated minor storm periods are
+possible on 19 October. A coronal hole high speed stream (CH HSS) is
+expected to rotate into a geoeffective position late on 18 October,
+followed by a second geoeffective CH HSS likely to arrive early on
+20 October. These features, coupled with possible effects from the
+CME observed on 14 October, expected to arrive on 19 October, are
+the reasons for the forecasted increase in geomagnetic activity.
+III.  Event Probabilities 18 Oct-20 Oct
+Class M    25/25/25
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           17 Oct 084
+Predicted   18 Oct-20 Oct  086/086/086
+90 Day Mean        17 Oct 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Oct  003/006
+Estimated Afr/Ap 17 Oct  009/013
+Predicted Afr/Ap 18 Oct-20 Oct  008/010-012/012-008/010
+VI.  Geomagnetic Activity Probabilities 18 Oct-20 Oct
+A.  Middle Latitudes
+Active                20/30/20
+Minor storm           05/15/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/35/25
+Minor storm           15/20/15
+Major-severe storm    01/01/01

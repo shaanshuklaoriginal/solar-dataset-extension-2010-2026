@@ -1,0 +1,55 @@
+:Product: 0211RSGA.txt
+:Issued: 2024 Feb 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 42 Issued at 2200Z on 11 Feb 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 10/2100Z to
+11/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a M9 event observed at
+10/2307Z from Region 3576 (S16W09). There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(12 Feb, 13 Feb, 14 Feb).
+
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 678 km/s at 11/1703Z. Total IMF reached 19
+nT at 11/0156Z. The maximum southward component of Bz reached -15 nT at
+11/0313Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 134 pfu at 11/0315Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 112 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (12 Feb), active to
+major storm levels on day two (13 Feb) and unsettled to minor storm
+levels on day three (14 Feb). Protons have a chance of crossing
+threshold on days one, two, and three (12 Feb, 13 Feb, 14 Feb).
+
+III.  Event probabilities 12 Feb-14 Feb
+Class M    65/65/65
+Class X    20/20/20
+Proton     25/25/25
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           11 Feb 180
+Predicted   12 Feb-14 Feb 182/180/180
+90 Day Mean        11 Feb 160
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Feb  004/004
+Estimated Afr/Ap 11 Feb  013/015
+Predicted Afr/Ap 12 Feb-14 Feb  012/018-025/038-017/023
+
+VI.  Geomagnetic Activity Probabilities 12 Feb-14 Feb
+A.  Middle Latitudes
+Active                40/40/40
+Minor Storm           25/35/25
+Major-severe storm    05/10/05
+B.  High Latitudes
+Active                10/05/10
+Minor Storm           25/25/25
+Major-severe storm    60/70/60

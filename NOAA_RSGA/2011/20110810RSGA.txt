@@ -1,0 +1,58 @@
+:Product: 0810RSGA.txt
+:Issued: 2011 Aug 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 222 Issued at 2200Z on 10 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  09/2100Z
+to 10/2100Z:  Solar activity was low.  Region 1263 (N17W93) produced
+a C6 x-ray flare at 10/1044Z, the largest flare of the past 24
+hours.  The magnetic complexity and area of Region 1263 decreased
+since yesterday and it ended the period as an Ekc type spot group
+with beta-gamma characteristics.  A Type II (659 km/s) radio
+emission occurred at 10/1607Z and was coincident with material
+movement and darkening on STEREO-B EUVI imagery in the northeast
+quadrant of the solar disk.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for moderate activity as Region 1263 rotates around
+the west limb.
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z:
+The geomagnetic field was predominantly quiet with one period of
+active levels at mid latitudes. The solar wind speed at the ACE
+spacecraft was near 550 km/s.  The Bz component of the
+interplanetary magnetic field remained within +/- 4 nT of zero.  A
+discontinuity in density and Phi angle was observed between 10/06Z
+and 07Z, when Phi became positive then rotated back to negative over
+the next 8 hours. The greater than 2 MeV electron flux at
+geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled on Day 1 (11 Aug) with a slight
+chance for active conditions, particularly at high latitudes.  The
+remaining two days (12-13 Aug) are expected to be predominantly
+quiet.  Detailed analysis of the CME associated with the X6 flare on
+09/0805Z suggests the bulk of the material will not be geoeffective.
+A slight disruption in the geomagnetic field may be observed with
+shock passage.
+III.  Event Probabilities 11 Aug-13 Aug
+Class M    30/05/01
+Class X    10/01/01
+Proton     30/05/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           10 Aug 090
+Predicted   11 Aug-13 Aug  095/085/085
+90 Day Mean        10 Aug 096
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Aug  005/009
+Estimated Afr/Ap 10 Aug  007/007
+Predicted Afr/Ap 11 Aug-13 Aug  007/007-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 11 Aug-13 Aug
+A.  Middle Latitudes
+Active                15/15/05
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/10/10
+Minor storm           10/05/05
+Major-severe storm    05/01/01

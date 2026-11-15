@@ -1,0 +1,53 @@
+:Product: 0505RSGA.txt
+:Issued: 2022 May 05 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 125 Issued at 2200Z on 05 May 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 04/2100Z to
+05/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M2 event observed at
+05/1410Z from Region 3006 (S29E50). There are currently 5 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a chance for X-class flares on days one, two, and three (06 May, 07
+May, 08 May).
+
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 410 km/s at 05/2000Z. Total IMF reached 10 nT at
+05/0008Z. The maximum southward component of Bz reached -6 nT at
+05/1638Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 1687 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (06 May) and quiet to unsettled levels
+on days two and three (07 May, 08 May). Protons have a slight chance of
+crossing threshold on days one, two, and three (06 May, 07 May, 08 May).
+
+III.  Event probabilities 06 May-08 May
+Class M    70/70/70
+Class X    25/25/25
+Proton     10/10/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           05 May 120
+Predicted   06 May-08 May 118/118/118
+90 Day Mean        05 May 119
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 May  006/007
+Estimated Afr/Ap 05 May  004/005
+Predicted Afr/Ap 06 May-08 May  006/005-007/008-008/008
+
+VI.  Geomagnetic Activity Probabilities 06 May-08 May
+A.  Middle Latitudes
+Active                10/25/25
+Minor Storm           01/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/25/25
+Major-severe storm    10/30/30

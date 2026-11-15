@@ -1,0 +1,53 @@
+:Product: 0219RSGA.txt
+:Issued: 2012 Feb 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 050 Issued at 2200Z on 19 Feb 2012
+IA.  Analysis of Solar Active Regions and Activity from  18/2100Z
+to 19/2100Z:  Solar activity was at low levels. New Region 1422
+(N15E02) produced a C1/Sf flare at 19/0851Z. This region developed
+rapidly on the disk as a 10 spot D-type group. The remainder of the
+disk and limb was quiet and stable with no Earth-directed CMEs
+detected.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance for M-class activity for the next three days
+(20 - 22 February), particularly from developing Region 1422.
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z:
+The geomagnetic field was at quiet to unsettled levels through about
+19/0200Z.  For the following 6 - 9 hours, active to minor storm
+conditions were prevalent. This increase in activity was due to
+effects from a geoeffective coronal hole high speed stream. The
+period ended with predominately quiet conditions with isolated high
+latitude active intervals. During the period, ACE solar wind
+velocities steadily increased from about 325 km/s, reaching a peak
+of about 500 km/s at 19/0700Z. Through the remainder of the period,
+wind speeds gradually decreased to 400 km/s. At 19/0220Z, the Bz
+component of the interplanetary magnetic field reached a maximum
+southward extent of -14 nT while Bt reached a maximum of 16 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at predominately quiet levels for the next three days
+(20 - 22 February).
+III.  Event Probabilities 20 Feb-22 Feb
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           19 Feb 105
+Predicted   20 Feb-22 Feb  110/115/115
+90 Day Mean        19 Feb 131
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Feb  003/004
+Estimated Afr/Ap 19 Feb  013/015
+Predicted Afr/Ap 20 Feb-22 Feb  004/005-003/005-003/005
+VI.  Geomagnetic Activity Probabilities 20 Feb-22 Feb
+A.  Middle Latitudes
+Active                10/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/10/10
+Minor storm           05/01/01
+Major-severe storm    01/01/01

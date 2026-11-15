@@ -1,0 +1,50 @@
+:Product: 1103RSGA.txt
+:Issued: 2023 Nov 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 307 Issued at 2200Z on 03 Nov 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 02/2100Z to
+03/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C4 event observed at
+03/0132Z from Region 3480 (S11E64). There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (04 Nov, 05 Nov,
+06 Nov).
+
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 506 km/s at 03/0844Z.  Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 2847 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (04 Nov) and quiet to
+active levels on days two and three (05 Nov, 06 Nov).
+
+III.  Event probabilities 04 Nov-06 Nov
+Class M    40/40/40
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           03 Nov 156
+Predicted   04 Nov-06 Nov 158/156/156
+90 Day Mean        03 Nov 149
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Nov  004/006
+Estimated Afr/Ap 03 Nov  005/005
+Predicted Afr/Ap 04 Nov-06 Nov  007/008-009/012-011/012
+
+VI.  Geomagnetic Activity Probabilities 04 Nov-06 Nov
+A.  Middle Latitudes
+Active                10/20/20
+Minor Storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/20
+Major-severe storm    20/20/20

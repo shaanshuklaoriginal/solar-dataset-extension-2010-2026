@@ -1,0 +1,48 @@
+:Product: 0613RSGA.txt
+:Issued: 2010 Jun 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 164 Issued at 2200Z on 13 Jun 2010
+IA.  Analysis of Solar Active Regions and Activity from  12/2100Z
+to 13/2100Z:  Solar activity was moderate during the past 24 hours. 
+Region 1079 (S23W95) produced an M1.0/SF flare at 0539Z which was
+associated with a Type II radio sweep.  Regions 1079 and 1080
+(S24W77) decayed to plage towards the end of the period.  Region
+1081 (N24W76) produced several C-class flares during the past 24
+hours and maintains a beta magnetic classification.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+for days 1 and 2 (14-15 June).  Activity is expected to be very low
+for day 3 (16 June).
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z:
+The geomagnetic field was quiet.  The greater than 2 MeV electron
+flux at geosynchronous orbit was at high levels during the past 24
+hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain quiet on days 1 and 2 (14-15 June).  Conditions
+are expected to be quiet to unsettled with a chance for isolated
+active periods on day 3 (16 June) due to a recurrent coronal hole
+high speed stream moving into a geoeffective position.
+III.  Event Probabilities 14 Jun-16 Jun
+Class M    05/05/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           13 Jun 076
+Predicted   14 Jun-16 Jun  076/074/072
+90 Day Mean        13 Jun 076
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Jun  001/003
+Estimated Afr/Ap 13 Jun  005/005
+Predicted Afr/Ap 14 Jun-16 Jun  005/005-005/005-010/010
+VI.  Geomagnetic Activity Probabilities 14 Jun-16 Jun
+A.  Middle Latitudes
+Active                05/05/30
+Minor storm           01/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/40
+Minor storm           01/01/15
+Major-severe storm    01/01/01

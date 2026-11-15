@@ -1,0 +1,58 @@
+:Product: 0401RSGA.txt
+:Issued: 2011 Apr 01 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 091 Issued at 2200Z on 01 Apr 2011
+IA.  Analysis of Solar Active Regions and Activity from  31/2100Z
+to 01/2100Z:  Solar activity remained at low levels. Region 1178
+(S17W36) produced a C1/Sf at 31/2221Z associated with a partial-halo
+CME that appeared to be directed southward, out of the ecliptic
+plane. Region 1178 decayed to a plage area during the period. Region
+1176 (S16W65) produced C3 flares at 01/0156Z and 01/0354Z, each of
+which were associated with CME activity. This CME activity also
+appeared to be directed southward, out of the ecliptic plane. Region
+1176 gradually decayed during the period with a loss of spot count
+and area. It was classified as an Fso-type with a simple beta
+magnetic configuration. Region 1183 (N17E01) showed a gradual
+increase in spot count and area and was classified as an Esi-type
+with a beta magnetic configuration. New Region 1184, a single-spot
+Axx-type, was numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+during the period (02 - 04 April) with a slight chance for moderate
+activity (isolated M-class).
+IIA.  Geophysical Activity Summary 31/2100Z to 01/2100Z:
+Geomagnetic activity increased to quiet to active levels. ACE solar
+wind observations indicated the onset of a coronal hole high-speed
+stream (CH HSS) at approximately 01/1600Z. Velocities increased to a
+peak of 495 km/s at 01/1801Z. IMF changes associated with the CH HSS
+included increased Bt (peaks to 12 nT during 01/2000 - 2100Z) and
+intervals of southward Bz (maximum deflection -10 nT at 01/1628Z).
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be at quiet to unsettled levels during day 1 (02 April)
+with a chance for active levels as CH HSS effects persist. Activity
+is expected to decrease to mostly quiet levels during days 2 - 3 (03
+- 04 April) as CH HSS effects subside.
+III.  Event Probabilities 02 Apr-04 Apr
+Class M    25/25/25
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           01 Apr 109
+Predicted   02 Apr-04 Apr  110/110/110
+90 Day Mean        01 Apr 098
+V.  Geomagnetic A Indices
+Observed Afr/Ap 31 Mar  002/003
+Estimated Afr/Ap 01 Apr  010/013
+Predicted Afr/Ap 02 Apr-04 Apr  007/007-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 02 Apr-04 Apr
+A.  Middle Latitudes
+Active                20/15/10
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/20/15
+Minor storm           10/10/01
+Major-severe storm    01/01/01

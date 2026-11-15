@@ -1,0 +1,51 @@
+:Product: 0411RSGA.txt
+:Issued: 2016 Apr 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 102 Issued at 2200Z on 11 Apr 2016
+
+IA.  Analysis of Solar Active Regions and Activity from 10/2100Z to
+11/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+11/2027Z from Region 2529 (N09E28). There are currently 2 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low with a
+slight chance for an M-class flare on days one, two, and three (12 Apr,
+13 Apr, 14 Apr).
+
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 422 km/s at 10/2101Z. Total IMF reached 11
+nT at 11/1608Z. The maximum southward component of Bz reached -7 nT at
+11/1426Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (12 Apr) and unsettled to
+minor storm levels on days two and three (13 Apr, 14 Apr).
+
+III.  Event probabilities 12 Apr-14 Apr
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           11 Apr 117
+Predicted   12 Apr-14 Apr 120/120/120
+90 Day Mean        11 Apr 098
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Apr  006/007
+Estimated Afr/Ap 11 Apr  004/006
+Predicted Afr/Ap 12 Apr-14 Apr  012/015-018/030-018/030
+
+VI.  Geomagnetic Activity Probabilities 12 Apr-14 Apr
+A.  Middle Latitudes
+Active                35/35/35
+Minor Storm           10/30/30
+Major-severe storm    01/20/20
+B.  High Latitudes
+Active                15/05/05
+Minor Storm           30/20/20
+Major-severe storm    45/75/75

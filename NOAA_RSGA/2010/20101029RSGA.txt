@@ -1,0 +1,49 @@
+:Product: 1029RSGA.txt
+:Issued: 2010 Oct 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 302 Issued at 2200Z on 29 Oct 2010
+IA.  Analysis of Solar Active Regions and Activity from  28/2100Z
+to 29/2100Z:  Solar activity remained at very low levels. Region 1117
+(N20W55) produced occasional B-class flares during the period. The
+largest of these was a B4 flare at 29/1732Z. Region 1117 showed a
+decrease in areal coverage and sunspot count. No new regions were
+numbered during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low to low levels, with a slight chance for an M-class event
+from Region 1117.
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z:
+The geomagnetic field was at quiet levels. The greater than 2 MeV
+electron flux at geosynchronous orbit reached high levels.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels for the first day (30
+October) due to a weak CME observed on 26 October. Activity is
+expected to decrease to quiet levels on the second day (31 October).
+Quiet to active levels are expected on the third day (01 November),
+with a slight chance for a  minor storm period at high latitudes.
+The increase in activity is expected due to a recurrent coronal hole
+high-speed stream.
+III.  Event Probabilities 30 Oct-01 Nov
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           29 Oct 086
+Predicted   30 Oct-01 Nov  084/084/082
+90 Day Mean        29 Oct 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 Oct  002/003
+Estimated Afr/Ap 29 Oct  004/005
+Predicted Afr/Ap 30 Oct-01 Nov  007/007-005/005-010/010
+VI.  Geomagnetic Activity Probabilities 30 Oct-01 Nov
+A.  Middle Latitudes
+Active                05/01/25
+Minor storm           01/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/01/30
+Minor storm           01/01/15
+Major-severe storm    01/01/05

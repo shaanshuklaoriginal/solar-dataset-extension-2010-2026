@@ -1,0 +1,56 @@
+:Product: 0520RSGA.txt
+:Issued: 2012 May 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 141 Issued at 2200Z on 20 May 2012
+IA.  Analysis of Solar Active Regions and Activity from  19/2100Z
+to 20/2100Z:  Solar activity was at very low levels. New Region 1487
+(N19W05) emerged on the disk as a simple bi-polar group. Region 1483
+(S25W43) developed additional trailer spots and is now classified as
+a D-type group. All other regions were quiet and stable. No
+Earth-directed CMEs were observed during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+predominately low levels for the next three days (21 - 23 May).  A
+slight chance for M-class activity exists all three days.
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z:
+The geomagnetic field was at quiet to active levels with an isolated
+minor storm interval during the 20/0300 - 0600Z period. At about
+20/0136Z, the ACE satellite observed an interplanetary (IP) shock
+passage with a corresponding weak sudden impulse observed at the
+Boulder magnetometer (15 nT) at 20/0215Z.  Prior to the IP shock,
+solar wind velocities were generally in the 400 km/s range, the Bz
+component of the interplanetary magnetic field (IMF) varied between
++/- 3 nT and the total field (Bt) was at 5 nT. Following the shock,
+wind speeds increased to about 475 km/s, Bz varied between +/- 8 nT
+and Bt increased to about 8 nT. The shock likely indicated the
+arrival of the 17 May CME.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at predominately quiet levels for day one (21 May).
+By days two and three (22 - 23 May), quiet to unsettled levels with
+a slight chance for isolated active periods are expected due to
+coronal hole high speed stream effects coupled with the arrival of
+the 18 May CME.
+III.  Event Probabilities 21 May-23 May
+Class M    15/15/15
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           20 May 131
+Predicted   21 May-23 May  130/130/135
+90 Day Mean        20 May 116
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 May  005/005
+Estimated Afr/Ap 20 May  010/012
+Predicted Afr/Ap 21 May-23 May  007/006-010/010-007/010
+VI.  Geomagnetic Activity Probabilities 21 May-23 May
+A.  Middle Latitudes
+Active                10/20/20
+Minor storm           01/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/25/25
+Minor storm           01/15/15
+Major-severe storm    01/01/01

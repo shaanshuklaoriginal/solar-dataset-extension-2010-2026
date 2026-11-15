@@ -1,0 +1,48 @@
+:Product: 1230RSGA.txt
+:Issued: 2011 Dec 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 364 Issued at 2200Z on 30 Dec 2011
+IA.  Analysis of Solar Active Regions and Activity from  29/2100Z
+to 30/2100Z:  Solar activity was moderate.  Two M-class flares were
+observed from Region 1389 (S22E44), an M2/Sf at 29/2151Z and a M1/Sn
+at 30/0309Z.  The region ended the period as an Ekc type group with
+beta magnetic characteristics.  The remaining regions were stable
+and magnetically simple.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for moderate levels, particularly from Region 1389,
+for the next three days (31 December - 02 January).
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z:
+The geomagnetic field was at quiet levels.  Solar wind speed at the
+ACE spacecraft was near 350 km/s.  Bz at ACE was briefly southward
+to -8 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at mostly quiet levels for day one (31 December),
+increasing to unsettled levels with a slight chance for active
+conditions on days two and three (01-02 January).  The increase in
+activity is expected with the arrival of a coronal hole high speed
+stream.
+III.  Event Probabilities 31 Dec-02 Jan
+Class M    40/40/40
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           30 Dec 141
+Predicted   31 Dec-02 Jan  145/145/145
+90 Day Mean        30 Dec 144
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Dec  007/007
+Estimated Afr/Ap 30 Dec  002/004
+Predicted Afr/Ap 31 Dec-02 Jan  005/005-008/010-007/010
+VI.  Geomagnetic Activity Probabilities 31 Dec-02 Jan
+A.  Middle Latitudes
+Active                05/10/10
+Minor storm           01/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/15/15
+Major-severe storm    05/15/15

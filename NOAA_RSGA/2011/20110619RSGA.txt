@@ -1,0 +1,50 @@
+:Product: 0619RSGA.txt
+:Issued: 2011 Jun 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 170 Issued at 2200Z on 19 Jun 2011
+IA.  Analysis of Solar Active Regions and Activity from  18/2100Z
+to 19/2100Z:  Solar activity was low. Regions 1234 (S16W74) and 1237
+(S15E39) each produced a C-class flare during the period. Region
+1234 showed no significant change as it approached the west limb.
+Region 1236 (N15E06) produced an isolated B-class flare. It showed
+no significant changes and remained an E-type group with a
+beta-gamma magnetic configuration. A C1/Sf flare from Region 1237 at
+19/1637Z was associated with a partial-halo coronal mass ejection
+(CME). The CME had an estimated plane-of-sky speed of 519 km/s and
+appeared to have an Earthward component. New Region 1238 (S17E11), a
+two-spot Axx group, was numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low during the period (20 - 22 June).
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z:
+Geomagnetic field activity was at quiet levels.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to increase to quiet to unsettled levels during days 1 - 2
+(20 - 21 June) with a chance for brief active periods due to a
+coronal hole high-speed stream. Activity is expected to decrease to
+quiet levels on day 3 (22 June). The CME mentioned above is not
+expected to disturb the field during the forecast period.
+III.  Event Probabilities 20 Jun-22 Jun
+Class M    15/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           19 Jun 099
+Predicted   20 Jun-22 Jun  100/095/095
+90 Day Mean        19 Jun 104
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Jun  004/004
+Estimated Afr/Ap 19 Jun  003/005
+Predicted Afr/Ap 20 Jun-22 Jun  007/008-007/008-005/005
+VI.  Geomagnetic Activity Probabilities 20 Jun-22 Jun
+A.  Middle Latitudes
+Active                20/20/10
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/25/15
+Minor storm           10/10/01
+Major-severe storm    01/01/01

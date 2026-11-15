@@ -1,0 +1,59 @@
+:Product: 0314RSGA.txt
+:Issued: 2012 Mar 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 074 Issued at 2200Z on 14 Mar 2012
+IA.  Analysis of Solar Active Regions and Activity from  13/2100Z
+to 14/2100Z:  Solar activity was moderate.  Region 1432 (N14E03)
+produced an M2/1N event at 14/1521Z associated with a faint CME as
+visible on LASCO C2 (plane-of-sky velocity 392 km/s) with a narrow
+northeast trajectory.  As of current, this CME is not expected to be
+geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+to moderate with a slight chance for an isolated X-class flare until
+Region 1429 (N19W77) rotates behind the limb.  On days 2 and 3
+(16-17 March) activity is expected to decrease to low levels with a
+chance for moderate flaring from Region 1432.
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z:
+The geomagnetic field was at quiet to unsettled levels reaching
+active levels at high latitudes.  Correction to yesterdays summary,
+the greater than 100 MeV event began at 13/1810Z, reached a peak
+value of 1 PFU at 13/1905Z, and ended at 13/2255Z.  The 10 MeV
+proton event greater than 100 PFU (S2-Moderate) event began at
+13/1855Z, reached a peak value of 469 PFU at 13/2045Z, and dropped
+below 100 PFU into S1-Minor threshold at 14/0955Z.  The proton event
+is currently around 33 PFU and gradually decreasing. The greater
+than 2 MeV electron flux at geosynchronous orbit was at high levels
+throughout the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be quiet to unsettled on 15 March.  Activity is expected
+to increase to active levels on 16 March due to effects from the 13
+March transient and a recurrent coronal hole high speed stream. 
+Activity is expected to return to mostly unsettled levels on 17
+March as effects from these two influences begin to wane slightly. 
+The greater than 10 MeV proton event is expected to continue to
+decrease over the next three days.
+III.  Event Probabilities 15 Mar-17 Mar
+Class M    70/40/40
+Class X    20/05/05
+Proton     90/40/70
+PCAF       red
+IV.  Penticton 10.7 cm Flux
+Observed           14 Mar 119
+Predicted   15 Mar-17 Mar  115/110/105
+90 Day Mean        14 Mar 125
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Mar  010/011
+Estimated Afr/Ap 14 Mar  006/008
+Predicted Afr/Ap 15 Mar-17 Mar  009/015-015/020-018/015
+VI.  Geomagnetic Activity Probabilities 15 Mar-17 Mar
+A.  Middle Latitudes
+Active                15/25/25
+Minor storm           05/05/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/20/15
+Minor storm           15/30/20
+Major-severe storm    05/35/20

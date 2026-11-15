@@ -1,0 +1,48 @@
+:Product: 0628RSGA.txt
+:Issued: 2011 Jun 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 179 Issued at 2200Z on 28 Jun 2011
+IA.  Analysis of Solar Active Regions and Activity from  27/2100Z
+to 28/2100Z:  Solar activity remained at very low levels. Three
+B-class flares were observed during the period. Region 1236 (N16,
+L=170) produced a long-duration B6 flare at 28/0107Z, as well as a
+B9 flare at 28/1321Z. New Regions 1242 (N18W03) and 1243 (N18E62)
+were numbered today. Both Regions are small and were classified as
+Cro-beta groups. Region 1243 produced a B3 flare at 28/0647Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low for the period (29 Jun - 1 July), with a chance for an isolated
+C-class flare.
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z:
+The geomagnetic field was at quiet levels. The greater than 2 MeV
+electron flux at geosynchronous orbit reached high levels during the
+period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet during days 1 and 2 (29 - 30 June). Activity is
+expected to be at quiet levels during most of day 3 (01 July), with
+an active period late in the day (01 July). The increase in activity
+is due to a recurrent coronal hole high speed stream.
+III.  Event Probabilities 29 Jun-01 Jul
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           28 Jun 087
+Predicted   29 Jun-01 Jul  088/088/088
+90 Day Mean        28 Jun 102
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Jun  004/005
+Estimated Afr/Ap 28 Jun  004/005
+Predicted Afr/Ap 29 Jun-01 Jul  005/005-005/005-007/008
+VI.  Geomagnetic Activity Probabilities 29 Jun-01 Jul
+A.  Middle Latitudes
+Active                10/10/15
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/20
+Minor storm           01/01/01
+Major-severe storm    01/01/01

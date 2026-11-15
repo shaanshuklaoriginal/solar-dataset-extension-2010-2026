@@ -1,0 +1,50 @@
+:Product: 0928RSGA.txt
+:Issued: 2019 Sep 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 271 Issued at 2200Z on 28 Sep 2019
+
+IA.  Analysis of Solar Active Regions and Activity from 27/2100Z to
+28/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 0 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+on days one, two, and three (29 Sep, 30 Sep, 01 Oct).
+
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z: The geomagnetic
+field has been at unsettled to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 713 km/s at 27/2328Z. Total IMF
+reached 7 nT at 27/2142Z. The maximum southward component of Bz reached
+-5 nT at 28/0433Z. Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 16380 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (29 Sep), quiet to
+active levels on day two (30 Sep) and quiet to unsettled levels on day
+three (01 Oct).
+
+III.  Event probabilities 29 Sep-01 Oct
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           28 Sep 067
+Predicted   29 Sep-01 Oct 067/067/067
+90 Day Mean        28 Sep 067
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Sep  015/017
+Estimated Afr/Ap 28 Sep  023/032
+Predicted Afr/Ap 29 Sep-01 Oct  015/020-010/012-007/010
+
+VI.  Geomagnetic Activity Probabilities 29 Sep-01 Oct
+A.  Middle Latitudes
+Active                35/30/25
+Minor Storm           25/10/10
+Major-severe storm    10/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor Storm           20/25/25
+Major-severe storm    60/40/35

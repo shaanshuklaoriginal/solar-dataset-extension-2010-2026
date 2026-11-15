@@ -1,0 +1,51 @@
+:Product: 0319RSGA.txt
+:Issued: 2012 Mar 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 079 Issued at 2200Z on 19 Mar 2012
+IA.  Analysis of Solar Active Regions and Activity from  18/2100Z
+to 19/2100Z:  Solar activity was low.  Region 1432 (N22W68) produced
+a C1/Sf event at 19/1351Z while developing spots in an area that was
+previously plage.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low for the next two days (20-21 March) until Regions 1432
+and 1435 (S26W62) exit the visible disk.  Activity is expected to
+decrease to very low levels with a chance for C-class activity on
+day three (22 March).
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z:
+Geomagnetic field activity was at mostly quiet levels.  An isolated
+period of active was observed for the 0300-0600Z synoptic period. 
+The enhanced activity followed what appeared to be the 15 March
+transient arrival at the ACE spacecraft around 19/0315Z.  Total
+field strength rose to 7nT, Bz turned southward to -7nT, wind speeds
+reached up to 590 km/s, and temperature and density showed a slight
+increase. The greater than 2 MeV electron flux at geosynchronous
+orbit was at high levels throughout the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be at quiet to unsettled levels on 20 March.  Activity
+is expected to decrease to mostly quiet levels for the rest of the
+period.
+III.  Event Probabilities 20 Mar-22 Mar
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           19 Mar 102
+Predicted   20 Mar-22 Mar  100/100/100
+90 Day Mean        19 Mar 123
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Mar  011/011
+Estimated Afr/Ap 19 Mar  008/009
+Predicted Afr/Ap 20 Mar-22 Mar  008/010-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 20 Mar-22 Mar
+A.  Middle Latitudes
+Active                15/05/10
+Minor storm           05/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           20/15/15
+Major-severe storm    10/05/15

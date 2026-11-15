@@ -1,0 +1,49 @@
+:Product: 0913RSGA.txt
+:Issued: 2020 Sep 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 257 Issued at 2200Z on 13 Sep 2020
+
+IA.  Analysis of Solar Active Regions and Activity from 12/2100Z to
+13/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 0 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+on days one, two, and three (14 Sep, 15 Sep, 16 Sep).
+
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 348 km/s at 13/2018Z. Total IMF reached 7 nT at
+13/1830Z. The maximum southward component of Bz reached -6 nT at
+13/1934Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 1508 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one, two, and three (14 Sep, 15 Sep, 16
+Sep).
+
+III.  Event probabilities 14 Sep-16 Sep
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           13 Sep 070
+Predicted   14 Sep-16 Sep 070/070/070
+90 Day Mean        13 Sep 070
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Sep  006/006
+Estimated Afr/Ap 13 Sep  004/005
+Predicted Afr/Ap 14 Sep-16 Sep  006/005-006/005-006/005
+
+VI.  Geomagnetic Activity Probabilities 14 Sep-16 Sep
+A.  Middle Latitudes
+Active                05/05/05
+Minor Storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           15/15/15
+Major-severe storm    10/10/10

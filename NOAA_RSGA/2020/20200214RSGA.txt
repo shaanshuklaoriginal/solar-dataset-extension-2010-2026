@@ -1,0 +1,47 @@
+:Product: 0214RSGA.txt
+:Issued: 2020 Feb 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 45 Issued at 2200Z on 14 Feb 2020
+
+IA.  Analysis of Solar Active Regions and Activity from 13/2100Z to
+14/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 0 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+on days one, two, and three (15 Feb, 16 Feb, 17 Feb).
+
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 360 km/s at 14/0005Z.  Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 1179 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one and two (15 Feb, 16 Feb) and quiet to
+unsettled levels on day three (17 Feb).
+
+III.  Event probabilities 15 Feb-17 Feb
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           14 Feb 071
+Predicted   15 Feb-17 Feb 071/071/071
+90 Day Mean        14 Feb 071
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Feb  001/002
+Estimated Afr/Ap 14 Feb  002/003
+Predicted Afr/Ap 15 Feb-17 Feb  006/005-006/005-008/010
+
+VI.  Geomagnetic Activity Probabilities 15 Feb-17 Feb
+A.  Middle Latitudes
+Active                10/10/20
+Minor Storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/25
+Major-severe storm    10/10/30

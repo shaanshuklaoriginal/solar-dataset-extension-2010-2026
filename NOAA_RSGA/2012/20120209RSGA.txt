@@ -1,0 +1,60 @@
+:Product: 0209RSGA.txt
+:Issued: 2012 Feb 09 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 040 Issued at 2200Z on 09 Feb 2012
+IA.  Analysis of Solar Active Regions and Activity from  08/2100Z
+to 09/2100Z:  Solar activity was at low levels due to C-class flaring
+from Region 1415 (N10W73), the largest a C2/Sf at 08/2217Z.  The
+region showed little change as it approached the west limb.  New
+Region 1416 (S16E24) emerged on the disk as a D-type spot group and
+produced two B9 x-ray events.  No Earth-directed CMEs were observed
+during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+at low levels for the next three days (10 - 12 February).  A slight
+chance for M-class activity exists on days two and three due to the
+anticipated return of old Region 1402 (N26, L=213).
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z:
+The geomagnetic field was at quiet to unsettled levels with isolated
+active periods observed at high latitudes.  ACE satellite wind
+velocities began the period at about 450 km/s and gradually
+decreased to near 360 km/s through 09/1230Z.  During this same time
+frame, the Bz component of the interplanetary magnetic field did not
+vary much beyond +/- 4 nT.  By 09/1230Z, an increase in temperature,
+density, velocity and Bt were recorded at ACE.  These signatures
+were indicative of a co-rotating interaction region in advance of a
+coronal high speed stream (CH HSS). The greater than 2 MeV electron
+flux at geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels with isolated high
+latitude active periods on day one (10 February).  This activity is
+due to effects from a geoeffective CH HSS.  By day two (11
+February), quiet to unsettled conditions are expected as the CH HSS
+rotates out of a geoeffective position.  Day three (12 February) is
+expected to see a return to quiet to unsettled levels with isolated
+high latitude active intervals due to another CH HSS that will move
+into a geoeffective position.
+III.  Event Probabilities 10 Feb-12 Feb
+Class M    05/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           09 Feb 099
+Predicted   10 Feb-12 Feb  105/115/120
+90 Day Mean        09 Feb 136
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 Feb  009/010
+Estimated Afr/Ap 09 Feb  007/008
+Predicted Afr/Ap 10 Feb-12 Feb  006/008-004/005-006/008
+VI.  Geomagnetic Activity Probabilities 10 Feb-12 Feb
+A.  Middle Latitudes
+Active                30/05/30
+Minor storm           10/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                40/10/40
+Minor storm           20/05/20
+Major-severe storm    01/01/01

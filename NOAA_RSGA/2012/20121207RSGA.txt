@@ -1,0 +1,46 @@
+:Product: 1207RSGA.txt
+:Issued: 2012 Dec 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 342 Issued at 2200Z on 07 Dec 2012
+
+IA.  Analysis of Solar Active Regions and Activity from 06/2100Z to
+07/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 2 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be at very
+low levels on days one, two, and three (08 Dec, 09 Dec, 10 Dec).
+
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 323 km/s at
+06/2313Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels for the next three days (08 Dec, 09 Dec, 10 Dec).
+
+III.  Event probabilities 08 Dec-10 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           07 Dec 097
+Predicted   08 Dec-10 Dec 100/100/105
+90 Day Mean        07 Dec 119
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Dec  002/001
+Estimated Afr/Ap 07 Dec  003/004
+Predicted Afr/Ap 08 Dec-10 Dec  005/005-005/005-006/005
+
+VI.  Geomagnetic Activity Probabilities 08 Dec-10 Dec
+A.  Middle Latitudes
+Active                05/05/05
+Minor Storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           10/10/10
+Major-severe storm    05/05/05

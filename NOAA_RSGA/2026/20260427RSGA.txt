@@ -1,0 +1,51 @@
+:Product: 0427RSGA.txt
+:Issued: 2026 Apr 27 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 117 Issued at 2200Z on 27 Apr 2026
+
+IA.  Analysis of Solar Active Regions and Activity from 26/2100Z to
+27/2100Z: Solar activity has been at high levels for the past 24 hours.
+There are currently 6 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a chance for X-class flares on days one, two, and three (28 Apr, 29
+Apr, 30 Apr).
+
+IIA.  Geophysical Activity Summary 26/2100Z to 27/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 490 km/s at 26/2217Z. Total IMF reached 6
+nT at 27/0449Z. The maximum southward component of Bz reached -3 nT at
+26/2103Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 373 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (28 Apr) and quiet to active levels on
+days two and three (29 Apr, 30 Apr). Protons have a slight chance of
+crossing threshold on days one, two, and three (28 Apr, 29 Apr, 30 Apr).
+
+III.  Event probabilities 28 Apr-30 Apr
+Class M    70/70/70
+Class X    25/25/25
+Proton     15/15/15
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           27 Apr 142
+Predicted   28 Apr-30 Apr 145/145/145
+90 Day Mean        27 Apr 129
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 26 Apr  013/014
+Estimated Afr/Ap 27 Apr  007/007
+Predicted Afr/Ap 28 Apr-30 Apr  005/005-009/012-014/014
+
+VI.  Geomagnetic Activity Probabilities 28 Apr-30 Apr
+A.  Middle Latitudes
+Active                10/20/30
+Minor Storm           01/05/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/15/15
+Minor Storm           20/25/20
+Major-severe storm    10/35/20

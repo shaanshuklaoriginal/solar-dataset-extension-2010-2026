@@ -1,0 +1,45 @@
+:Product: 0227RSGA.txt
+:Issued: 2011 Feb 27 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 058 Issued at 2200Z on 27 Feb 2011
+IA.  Analysis of Solar Active Regions and Activity from  26/2100Z
+to 27/2100Z:  Solar activity was low during the past 24 hours. 
+Region 1164 (N27E46) produced several C-class events, the largest of
+which was a C4/Sf observed at 27/0355Z. A possible filament eruption
+around N15E70 was visible on SDO/AIA imagery at approximately
+27/0930Z. An associated CME was observed on LASCO C2 at 27/1048Z but
+is not expected to be geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+for the next three days (28 February - 02 March). A chance for
+M-class activity exists from Region 1164.
+IIA.  Geophysical Activity Summary 26/2100Z to 27/2100Z:
+The geomagnetic field was quiet during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet on day one (28 February). Quiet to unsettled
+conditions are expected for days two and three (01-02 March) due to
+the effects of a recurrent coronal hole high speed stream.
+III.  Event Probabilities 28 Feb-02 Mar
+Class M    35/35/35
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           27 Feb 090
+Predicted   28 Feb-02 Mar  090/090/090
+90 Day Mean        27 Feb 087
+V.  Geomagnetic A Indices
+Observed Afr/Ap 26 Feb  002/004
+Estimated Afr/Ap 27 Feb  002/005
+Predicted Afr/Ap 28 Feb-02 Mar  005/005-008/010-008/010
+VI.  Geomagnetic Activity Probabilities 28 Feb-02 Mar
+A.  Middle Latitudes
+Active                05/20/20
+Minor storm           01/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/25/25
+Minor storm           01/10/10
+Major-severe storm    01/01/01

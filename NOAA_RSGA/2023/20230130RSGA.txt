@@ -1,0 +1,51 @@
+:Product: 0130RSGA.txt
+:Issued: 2023 Jan 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 30 Issued at 2200Z on 30 Jan 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 29/2100Z to
+30/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C3 event observed at
+30/1207Z. There are currently 5 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a slight chance for an M-class flare on days one, two, and three (31
+Jan, 01 Feb, 02 Feb).
+
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 466 km/s at 30/2059Z. Total IMF reached 8 nT at
+30/2041Z. The maximum southward component of Bz reached -6 nT at
+30/2034Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 997 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one and two (31 Jan, 01 Feb) and quiet to
+active levels on day three (02 Feb).
+
+III.  Event probabilities 31 Jan-02 Feb
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           30 Jan 136
+Predicted   31 Jan-02 Feb 135/135/140
+90 Day Mean        30 Jan 152
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Jan  005/004
+Estimated Afr/Ap 30 Jan  004/005
+Predicted Afr/Ap 31 Jan-02 Feb  005/005-005/005-010/012
+
+VI.  Geomagnetic Activity Probabilities 31 Jan-02 Feb
+A.  Middle Latitudes
+Active                10/10/35
+Minor Storm           01/01/15
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/10
+Minor Storm           20/20/25
+Major-severe storm    10/10/50

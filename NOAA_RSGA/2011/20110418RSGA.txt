@@ -1,0 +1,57 @@
+:Product: 0418RSGA.txt
+:Issued: 2011 Apr 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 108 Issued at 2200Z on 18 Apr 2011
+IA.  Analysis of Solar Active Regions and Activity from  17/2100Z
+to 18/2100Z:  Solar activity has been at low levels for the past 24
+hours. Region 1193 (N17E05) has been the most active, producing two
+low-level C-class events. Region 1193 has remained rather stable but
+continues to grow in sunspot number and magnetic complexity. At
+18/0348Z, a C1 flare was observed off the west limb. There was a
+non-earth directed CME associated with this event visible in LASCO
+C2 imagery at 18/0412Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a chance for M-class events for the next three days
+(19-21 April). Region 1190 (N13W68) is expected to rotate off the
+visible disk in the next two days, while a new flux Region, visible
+in STEREO Behind EIT imagery, is forecast to rotate onto the
+southeast limb early on 19 April.
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z:
+The geomagnetic field has been at quiet to unsettled levels for the
+past 24 hours. Quiet levels were observed till around 18/0634Z when
+a 24 nT Sudden Impulse (SI) was observed by the Boulder
+magnetometer. Following the arrival of this shock, mostly unsettled
+levels were observed at mid latitudes with isolated active periods
+at high latitudes. This increase in activity was due to the arrival
+of a slow moving CME, observed lifting off the solar disk on 15
+April.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels on day 1 (19 April). An increase to
+unsettled geomagnetic levels with a chance for active periods is
+expected on days 2 and 3 (20-21 April), due to the forecasted
+arrival of a coronal hole high speed stream.
+III.  Event Probabilities 19 Apr-21 Apr
+Class M    20/20/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           18 Apr 111
+Predicted   19 Apr-21 Apr  115/115/115
+90 Day Mean        18 Apr 104
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 Apr  002/005
+Estimated Afr/Ap 18 Apr  007/008
+Predicted Afr/Ap 19 Apr-21 Apr  005/005-010/010-010/010
+VI.  Geomagnetic Activity Probabilities 19 Apr-21 Apr
+A.  Middle Latitudes
+Active                10/35/25
+Minor storm           01/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/40/30
+Minor storm           01/15/10
+Major-severe storm    01/00/01

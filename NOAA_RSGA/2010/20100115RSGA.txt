@@ -1,0 +1,46 @@
+:Product: 0115RSGA.txt
+:Issued: 2010 Jan 15 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 015 Issued at 2200Z on 15 Jan 2010
+IA.  Analysis of Solar Active Regions and Activity from  14/2100Z
+to 15/2100Z:  Solar activity has been at low levels for the past 24
+hours. Region 1040 (N29W41) produced two long duration flares, a
+B8.1 flare 14/2139Z and a C1.3 flare at 15/0841Z. Region 1040 has
+remained stable and is classified as a Eki-beta with 16 spots.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+at very low to low levels for the next 24 hours. B-class flares and
+isolated C-class flares are expected. There is a slight chance for
+isolated M-class flares.
+IIA.  Geophysical Activity Summary 14/2100Z to 15/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain at quiet levels for day one (16 January). On day
+two (17 January), quiet to unsettled levels are expected due to the
+arrival of a coronal hole high-speed stream. On day three (18
+January), quiet levels are expected to return as the effects
+subside.
+III.  Event Probabilities 16 Jan-18 Jan
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           15 Jan 085
+Predicted   16 Jan-18 Jan  085/084/082
+90 Day Mean        15 Jan 076
+V.  Geomagnetic A Indices
+Observed Afr/Ap 14 Jan  003/004
+Estimated Afr/Ap 15 Jan  003/004
+Predicted Afr/Ap 16 Jan-18 Jan  005/005-007/007-005/005
+VI.  Geomagnetic Activity Probabilities 16 Jan-18 Jan
+A.  Middle Latitudes
+Active                05/10/05
+Minor storm           01/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/20/05
+Minor storm           01/10/01
+Major-severe storm    01/01/01

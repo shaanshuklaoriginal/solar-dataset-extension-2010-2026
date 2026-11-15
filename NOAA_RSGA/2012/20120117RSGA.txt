@@ -1,0 +1,52 @@
+:Product: 0117RSGA.txt
+:Issued: 2012 Jan 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 017 Issued at 2200Z on 17 Jan 2012
+IA.  Analysis of Solar Active Regions and Activity from  16/2100Z
+to 17/2100Z:  Solar activity reached moderate levels.  Region 1401
+(N18E38) produced an M1/1n at 17/0453Z.  The other significant spot
+group, Region 1402 (N28E40), was quiet during the period.  Both
+regions continued their growth phase in area and magnetic complexity
+and are both classified E-type Beta-Gamma groups.  New Region 1406
+(S23W55) emerged on the disk as a D-type group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+predominately low levels with a chance for M-class activity for the
+next three days (18 - 20 January).
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z:
+The geomagnetic field was at quiet to unsettled levels.  Solar wind
+velocities, as measured at the ACE satellite, steadily decayed
+during the past 24 hours from a high of near 500 km/s to a low of
+about 400 km/s at the end of the period.  The Bz component of the
+interplanetary magnetic field did not vary much beyond +/- 4 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at mostly quiet levels through day one and most of
+day two (18 - 19 January).  By late on day two and through day three
+(20 January), the field is expected to increase to quiet to
+unsettled conditions, with isolated active periods.  This activity
+is due to the anticipated effects from a glancing blow as a result
+of the 16 January CME.
+III.  Event Probabilities 18 Jan-20 Jan
+Class M    50/50/50
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           17 Jan 139
+Predicted   18 Jan-20 Jan  145/150/155
+90 Day Mean        17 Jan 144
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Jan  008/008
+Estimated Afr/Ap 17 Jan  005/005
+Predicted Afr/Ap 18 Jan-20 Jan  004/005-006/006-007/008
+VI.  Geomagnetic Activity Probabilities 18 Jan-20 Jan
+A.  Middle Latitudes
+Active                05/05/10
+Minor storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           15/15/20
+Major-severe storm    05/05/20

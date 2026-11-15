@@ -1,0 +1,43 @@
+:Product: 0319RSGA.txt
+:Issued: 2010 Mar 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 078 Issued at 2200Z on 19 Mar 2010
+IA.  Analysis of Solar Active Regions and Activity from  18/2100Z
+to 19/2100Z:  Solar activity was very low. Region 1054 (N16W69)
+produced the largest event of the period, a B7/sf flare, at
+18/2308Z.  An associated Type II radio sweep was observed by Palehua
+and Learmonth radio observatories at 18/2311Z.  Palehua reported a
+speed of 776km/s.  SOHO LASCO C2 depicted a weak, west limb CME. 
+Region 1056 (N18E22) remains stable and quiet.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+very low with only a slight chance for a C-class flare within the
+next 3 days (20-22 March).
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the next 3 days (20-22 March).
+III.  Event Probabilities 20 Mar-22 Mar
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           19 Mar 084
+Predicted   20 Mar-22 Mar  084/084/084
+90 Day Mean        19 Mar 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Mar  004/005
+Estimated Afr/Ap 19 Mar  003/005
+Predicted Afr/Ap 20 Mar-22 Mar  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 20 Mar-22 Mar
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor storm           05/05/05
+Major-severe storm    01/01/01

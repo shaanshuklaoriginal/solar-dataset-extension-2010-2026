@@ -1,0 +1,52 @@
+:Product: 0705RSGA.txt
+:Issued: 2021 Jul 05 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 186 Issued at 2200Z on 05 Jul 2021
+
+IA.  Analysis of Solar Active Regions and Activity from 04/2100Z to
+05/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+05/1843Z from Region 2836 (S26W78). There are currently 3 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low with a
+slight chance for an M-class flare on days one, two, and three (06 Jul,
+07 Jul, 08 Jul).
+
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 354 km/s at 05/0419Z. Total IMF reached 8
+nT at 05/1611Z. The maximum southward component of Bz reached -7 nT at
+05/1611Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 325 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (06 Jul) and quiet levels
+on days two and three (07 Jul, 08 Jul).
+
+III.  Event probabilities 06 Jul-08 Jul
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           05 Jul 089
+Predicted   06 Jul-08 Jul 090/085/082
+90 Day Mean        05 Jul 078
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 Jul  004/003
+Estimated Afr/Ap 05 Jul  008/009
+Predicted Afr/Ap 06 Jul-08 Jul  008/008-006/005-005/005
+
+VI.  Geomagnetic Activity Probabilities 06 Jul-08 Jul
+A.  Middle Latitudes
+Active                20/10/10
+Minor Storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/20/20
+Major-severe storm    25/20/20

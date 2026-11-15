@@ -1,0 +1,58 @@
+:Product: 0904RSGA.txt
+:Issued: 2012 Sep 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 248 Issued at 2200Z on 04 Sep 2012
+IA.  Analysis of Solar Active Regions and Activity from  03/2100Z
+to 04/2100Z:  Solar activity was low. Region 1564 (S14E14 -
+Esi/beta-gamma) was the most active region, producing occasional
+low-level C-class flares. It increased in spot count and area during
+the first half of the period, but showed gradual spot and penumbral
+decay during the latter half of the period. Region 1560 (N04W47 -
+Eai/beta-gamma-delta) showed a slight decrease in spots and area,
+but maintained a delta in its interior spots. No significant changes
+were observed in the remaining spotted regions and no new regions
+were numbered. No Earth-directed CME activity was observed during
+the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+through the period (05 - 07 September) with a chance for an isolated
+M-class flare.
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z:
+Geomagnetic field activity ranged from quiet to minor storm levels
+with major storm periods detected at high latitudes, all due to
+residual CME effects. The greater than 10 MeV proton event at
+geosynchronous orbit that began at 01/1335Z, reached a maximum of 59
+pfu at 02/0850Z, and ended at 04/0625Z.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at quiet to unsettled levels during days 1 - 2 (05 -
+06 September) with a chance for active levels. This is due to the
+arrival of CMEs observed on 02 September along with a co-rotating
+interaction region in advance of a coronal hole high-speed stream
+(CH HSS). The CMEs are expected to arrive around midday on day 1.
+The CH HSS is expected to commence on day 2. Field activity is
+expected to be at quiet to unsettled levels on day 3 (07 September)
+as CH HSS effects subside.
+III.  Event Probabilities 05 Sep-07 Sep
+Class M    25/25/25
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           04 Sep 138
+Predicted   05 Sep-07 Sep  135/135/130
+90 Day Mean        04 Sep 124
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Sep  023/040
+Estimated Afr/Ap 04 Sep  012/014
+Predicted Afr/Ap 05 Sep-07 Sep  010/012-010/010-007/008
+VI.  Geomagnetic Activity Probabilities 05 Sep-07 Sep
+A.  Middle Latitudes
+Active                20/15/15
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           30/20/25
+Major-severe storm    30/25/20

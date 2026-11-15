@@ -1,0 +1,43 @@
+:Product: 0621RSGA.txt
+:Issued: 2012 Jun 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 173 Issued at 2200Z on 21 Jun 2012
+IA.  Analysis of Solar Active Regions and Activity from  20/2100Z
+to 21/2100Z:  Solar activity was very low.  Region 1504 (S15W89)
+produced a long duration B7 flare at 21/1814Z which was the largest
+event of the period.  There were no Earth-directed CMEs observed
+during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+predominantly very low for the next three days.  There is a chance
+for an isolated C-class flare from Region 1504 on day 1 (22 June) as
+it approaches the west limb.
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z:
+The geomagnetic field was quiet. The greater than 2 MeV electron flux
+at geosynchronous orbit was at high levels throughout the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be quiet on 22-24 June.
+III.  Event Probabilities 22 Jun-24 Jun
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           21 Jun 098
+Predicted   22 Jun-24 Jun  095/095/095
+90 Day Mean        21 Jun 119
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 Jun  004/005
+Estimated Afr/Ap 21 Jun  003/003
+Predicted Afr/Ap 22 Jun-24 Jun  006/005-006/005-006/005
+VI.  Geomagnetic Activity Probabilities 22 Jun-24 Jun
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/10
+Major-severe storm    05/05/05

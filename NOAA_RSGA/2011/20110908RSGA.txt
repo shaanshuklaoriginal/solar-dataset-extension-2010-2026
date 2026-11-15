@@ -1,0 +1,55 @@
+:Product: 0908RSGA.txt
+:Issued: 2011 Sep 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 251 Issued at 2200Z on 08 Sep 2011
+IA.  Analysis of Solar Active Regions and Activity from  07/2100Z
+to 08/2100Z:  Solar activity was high. Region 1283 (N16W42) produced
+two major flares. The first was an X1/3b at 07/2238Z associated with
+weak Types II and IV radio sweeps, a 1300 sfu Tenflare, and a
+non-Earth-directed CME. The second was an M6/1n at 08/1546Z
+associated with a weak Type IV radio sweep. Region 1283 maintained a
+weak delta magnetic within the northern portion of its leader spots
+and showed trailer spot development during the period. Region 1289
+(N21E51) also showed trailer spot development during the period. No
+new regions were numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate during the period (09 - 11 September) with a chance for
+another X-class flare from Region 1283.
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z:
+Geomagnetic field activity was at quiet levels. The greater than 2
+MeV electron flux at geosynchronous orbit reached high levels during
+the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at quiet levels until late on day 1 (09 September).
+Activity is expected to increase to unsettled levels late on 09
+September with a chance for active levels due to a CME arrival. A
+further increase to unsettled  to active levels with a chance for
+minor storm levels is expected on day 2 (10 September) as the CME
+passage continues. A decrease to unsettled levels is expected on day
+3 (11 September). There will be a chance for a greater than 10 MeV
+proton event at geosynchronous orbit on day 1.
+III.  Event Probabilities 09 Sep-11 Sep
+Class M    75/70/65
+Class X    25/20/15
+Proton     20/15/10
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           08 Sep 110
+Predicted   09 Sep-11 Sep  105/105/100
+90 Day Mean        08 Sep 099
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Sep  005/006
+Estimated Afr/Ap 08 Sep  004/004
+Predicted Afr/Ap 09 Sep-11 Sep  010/012-020/022-012/015
+VI.  Geomagnetic Activity Probabilities 09 Sep-11 Sep
+A.  Middle Latitudes
+Active                25/30/20
+Minor storm           10/25/10
+Major-severe storm    01/05/01
+B.  High Latitudes
+Active                30/40/30
+Minor storm           15/30/15
+Major-severe storm    01/10/01

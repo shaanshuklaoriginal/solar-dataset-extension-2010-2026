@@ -1,0 +1,56 @@
+:Product: 0808RSGA.txt
+:Issued: 2023 Aug 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 220 Issued at 2200Z on 08 Aug 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 07/2100Z to
+08/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M3 event observed at
+08/0931Z from Region 3387 (N18W89). There are currently 9 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one and two (09 Aug,
+10 Aug) and expected to be low with a chance for M-class flares on day
+three (11 Aug).
+
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 603 km/s at 07/2216Z. Total IMF reached 8
+nT at 07/2132Z. The maximum southward component of Bz reached -6 nT at
+07/2157Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 45 pfu at 08/1720Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 720 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one and two (09 Aug, 10 Aug) and
+quiet levels on day three (11 Aug). Protons greater than 10 Mev are
+expected to cross threshold on day one (09 Aug) and have a chance of
+crossing threshold on day two (10 Aug).
+
+III.  Event probabilities 09 Aug-11 Aug
+Class M    55/55/40
+Class X    10/10/01
+Proton     99/25/01
+PCAF       yellow
+
+IV.  Penticton 10.7 cm Flux
+Observed           08 Aug 159
+Predicted   09 Aug-11 Aug 155/150/150
+90 Day Mean        08 Aug 166
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Aug  011/012
+Estimated Afr/Ap 08 Aug  014/016
+Predicted Afr/Ap 09 Aug-11 Aug  014/015-008/012-006/005
+
+VI.  Geomagnetic Activity Probabilities 09 Aug-11 Aug
+A.  Middle Latitudes
+Active                35/25/10
+Minor Storm           20/15/01
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                20/15/15
+Minor Storm           30/30/15
+Major-severe storm    30/45/10

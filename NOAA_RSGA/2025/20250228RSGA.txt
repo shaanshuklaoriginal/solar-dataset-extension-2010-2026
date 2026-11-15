@@ -1,0 +1,52 @@
+:Product: 0228RSGA.txt
+:Issued: 2025 Feb 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 59 Issued at 2200Z on 28 Feb 2025
+
+IA.  Analysis of Solar Active Regions and Activity from 27/2100Z to
+28/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C9 event observed at
+27/2324Z from Region 3998 (S14W84). There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (01 Mar, 02 Mar,
+03 Mar).
+
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z: The geomagnetic
+field has been at active to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 847 km/s at 28/1828Z. Total IMF
+reached 13 nT at 28/0344Z. The maximum southward component of Bz reached
+-10 nT at 27/2311Z.  Electrons greater than 2 MeV at geosynchronous
+orbit reached a peak level of 489 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (01 Mar) and quiet to
+unsettled levels on days two and three (02 Mar, 03 Mar).
+
+III.  Event probabilities 01 Mar-03 Mar
+Class M    30/30/30
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           28 Feb 155
+Predicted   01 Mar-03 Mar 155/155/155
+90 Day Mean        28 Feb 191
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Feb  024/029
+Estimated Afr/Ap 28 Feb  021/026
+Predicted Afr/Ap 01 Mar-03 Mar  014/015-007/010-008/008
+
+VI.  Geomagnetic Activity Probabilities 01 Mar-03 Mar
+A.  Middle Latitudes
+Active                45/20/15
+Minor Storm           25/05/05
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor Storm           25/30/25
+Major-severe storm    65/30/25

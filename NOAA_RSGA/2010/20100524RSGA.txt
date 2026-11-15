@@ -1,0 +1,47 @@
+:Product: 0524RSGA.txt
+:Issued: 2010 May 24 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 144 Issued at 2200Z on 24 May 2010
+IA.  Analysis of Solar Active Regions and Activity from  23/2100Z
+to 24/2100Z:  Solar activity was very low.  The STEREO and SOHO/LASCO
+imagery observed a CME today originating from the filament channel
+located around N15W32.  This event was first observed on the C2
+imagery around 24/1406Z.  The latest analysis indicated its
+signature as a partial halo CME.  A long duration B1 flare at
+24/1446Z was also associated with this event.  Region 1072 (S15W22)
+has decreased slightly in white light areal coverage and sunspot
+count and is a beta magnetic configuration.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a slight chance for a C-class flare from Region 1072.
+IIA.  Geophysical Activity Summary 23/2100Z to 24/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominantly quiet for the first two days (25-26
+May).  Unsettled to active conditions, with isolated minor storm
+levels, are expected on day three (27 May).  This increase is
+expected due to the CME activity of 23-24 May.
+III.  Event Probabilities 25 May-27 May
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           24 May 073
+Predicted   25 May-27 May  076/076/078
+90 Day Mean        24 May 078
+V.  Geomagnetic A Indices
+Observed Afr/Ap 23 May  000/002
+Estimated Afr/Ap 24 May  001/002
+Predicted Afr/Ap 25 May-27 May  005/005-005/005-015/017
+VI.  Geomagnetic Activity Probabilities 25 May-27 May
+A.  Middle Latitudes
+Active                05/05/30
+Minor storm           01/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/35
+Minor storm           01/01/15
+Major-severe storm    01/01/05

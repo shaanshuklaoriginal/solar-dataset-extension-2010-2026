@@ -1,0 +1,58 @@
+:Product: 0613RSGA.txt
+:Issued: 2011 Jun 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 164 Issued at 2200Z on 13 Jun 2011
+IA.  Analysis of Solar Active Regions and Activity from  12/2100Z
+to 13/2100Z:  Solar activity was at low levels. A C1 x-ray event was
+observed at 13/0055Z from an area of enhanced brightening on the
+east limb near N20. Region 1234 (S16E07) remained the only spotted
+region on the disk. The region produced a few B-class events, the
+largest a B9 x-ray event at 13/0616Z. Region 1234 indicated little
+change over the past 24 hours and remained a simple B-type, bi-polar
+group. A partial halo CME was observed lifting off the SE limb,
+first observed in C2 SOHO LASCO imagery at 13/0424Z, and later in C3
+imagery at 13/0454Z. The plane-of-sky velocity was estimated at near
+600 km/s. The CME appeared to originate from a bright area of plage
+centered near old Region 1223 (S17, L=125), first viewed in STEREO-B
+EUVI imagery at 13/0355Z as an area of northward surging.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low for the next three days (14 - 16 June) with a chance for an
+isolated C-class flare.
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z:
+The geomagnetic field was at quiet to unsettled levels. ACE solar
+wind data indicated the continued presence of a coronal hole high
+speed stream (CH HSS) with wind speeds averaging about 450 km/s. The
+greater than 10 MeV proton flux at geosynchronous orbit remained
+enhanced with a maximum flux reading of 4.8 pfu at 13/1010Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels for day one (14 June)
+with a chance for active levels due to continued CH HSS effects.
+Activity is expected to decrease to quiet levels on days two and
+three (15 - 16 June) as the CH HSS subsides. The greater than 10 MeV
+protons are expected to remain enhanced through 14 June, returning
+to background levels by 15 June.
+III.  Event Probabilities 14 Jun-16 Jun
+Class M    01/01/01
+Class X    01/01/01
+Proton     10/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           13 Jun 087
+Predicted   14 Jun-16 Jun  089/091/093
+90 Day Mean        13 Jun 103
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Jun  005/009
+Estimated Afr/Ap 13 Jun  008/008
+Predicted Afr/Ap 14 Jun-16 Jun  008/008-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 14 Jun-16 Jun
+A.  Middle Latitudes
+Active                15/05/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/10/05
+Minor storm           10/01/01
+Major-severe storm    01/01/01

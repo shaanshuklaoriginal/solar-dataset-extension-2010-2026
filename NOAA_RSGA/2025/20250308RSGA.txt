@@ -1,0 +1,52 @@
+:Product: 0308RSGA.txt
+:Issued: 2025 Mar 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 67 Issued at 2200Z on 08 Mar 2025
+
+IA.  Analysis of Solar Active Regions and Activity from 07/2100Z to
+08/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C3 event observed at
+08/1825Z. There are currently 5 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (09 Mar, 10 Mar,
+11 Mar).
+
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 616 km/s at 08/1756Z. Total IMF
+reached 18 nT at 08/1606Z. The maximum southward component of Bz reached
+-13 nT at 08/1535Z.  Electrons greater than 2 MeV at geosynchronous
+orbit reached a peak level of 491 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (09 Mar), unsettled to
+minor storm levels on day two (10 Mar) and unsettled to active levels on
+day three (11 Mar).
+
+III.  Event probabilities 09 Mar-11 Mar
+Class M    30/30/30
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           08 Mar 148
+Predicted   09 Mar-11 Mar 150/155/160
+90 Day Mean        08 Mar 188
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Mar  009/009
+Estimated Afr/Ap 08 Mar  011/016
+Predicted Afr/Ap 09 Mar-11 Mar  015/020-019/025-015/012
+
+VI.  Geomagnetic Activity Probabilities 09 Mar-11 Mar
+A.  Middle Latitudes
+Active                40/40/30
+Minor Storm           25/30/10
+Major-severe storm    05/05/01
+B.  High Latitudes
+Active                10/10/15
+Minor Storm           25/25/30
+Major-severe storm    60/65/40

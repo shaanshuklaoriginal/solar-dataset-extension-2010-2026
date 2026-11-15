@@ -1,0 +1,46 @@
+:Product: 0615RSGA.txt
+:Issued: 2012 Jun 15 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 167 Issued at 2200Z on 15 Jun 2012
+IA.  Analysis of Solar Active Regions and Activity from  14/2100Z
+to 15/2100Z:  Solar activity decreased to low levels.  Region 1504
+(S16W12) produced several C-class flares, the largest of which was a
+C3/Sf flare at 1324Z.  Although the magnetic configuration has
+simplified from a delta to a beta-gamma, the area of the region has
+increased.  The remaining regions were relatively stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+to moderate.  Isolated M-class flares are likely for the next three
+days (16 June-18 June), primarily from Region 1504.
+IIA.  Geophysical Activity Summary 14/2100Z to 15/2100Z:
+Geomagnetic field activity was at quiet levels.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be mostly quiet until late on day 1 (16 June) to early
+on day 2 (17 June).  Activity is then expected to increase to active
+levels with a chance for minor storm levels due to the combined
+effects from both the 13 and 14 June CMEs. On day 3 (18 June)
+conditions are expected to return to quiet to unsettled levels.
+III.  Event Probabilities 16 Jun-18 Jun
+Class M    65/65/65
+Class X    05/05/05
+Proton     20/20/20
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           15 Jun 145
+Predicted   16 Jun-18 Jun  145/145/145
+90 Day Mean        15 Jun 118
+V.  Geomagnetic A Indices
+Observed Afr/Ap 14 Jun  004/004
+Estimated Afr/Ap 15 Jun  002/004
+Predicted Afr/Ap 16 Jun-18 Jun  008/015-017/022-009/012
+VI.  Geomagnetic Activity Probabilities 16 Jun-18 Jun
+A.  Middle Latitudes
+Active                25/30/25
+Minor storm           10/20/10
+Major-severe storm    05/05/05
+B.  High Latitudes
+Active                15/10/15
+Minor storm           25/20/20
+Major-severe storm    40/50/30

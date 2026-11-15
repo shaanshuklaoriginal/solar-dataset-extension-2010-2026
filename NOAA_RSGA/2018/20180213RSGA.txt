@@ -1,0 +1,51 @@
+:Product: 0213RSGA.txt
+:Issued: 2018 Feb 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 44 Issued at 2200Z on 13 Feb 2018
+
+IA.  Analysis of Solar Active Regions and Activity from 12/2100Z to
+13/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 1 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares and a slight chance for an M-class
+flare on days one and two (14 Feb, 15 Feb) and expected to be very low
+with a chance for a C-class flares on day three (16 Feb).
+
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 337 km/s at 13/1820Z. Total IMF reached 5 nT at
+13/2009Z. The maximum southward component of Bz reached -4 nT at
+13/2018Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (14 Feb), unsettled to minor
+storm levels on day two (15 Feb) and quiet to minor storm levels on day
+three (16 Feb).
+
+III.  Event probabilities 14 Feb-16 Feb
+Class M    10/10/05
+Class X    01/01/01
+Proton     05/05/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           13 Feb 076
+Predicted   14 Feb-16 Feb 076/075/074
+90 Day Mean        13 Feb 072
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Feb  003/003
+Estimated Afr/Ap 13 Feb  003/004
+Predicted Afr/Ap 14 Feb-16 Feb  009/012-020/028-014/020
+
+VI.  Geomagnetic Activity Probabilities 14 Feb-16 Feb
+A.  Middle Latitudes
+Active                30/35/35
+Minor Storm           15/30/25
+Major-severe storm    01/10/05
+B.  High Latitudes
+Active                10/10/10
+Minor Storm           25/25/30
+Major-severe storm    45/60/55

@@ -1,0 +1,42 @@
+:Product: 0609RSGA.txt
+:Issued: 2010 Jun 10 1135 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 160 Issued at 2200Z on 09 Jun 2010
+IA.  Analysis of Solar Active Regions and Activity from  08/2100Z
+to 09/2100Z:  Solar activity was very low. Region 1078 (S21W60) has
+grown in size and magnetic complexity over the past 24 hours.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low with a chance for a C-class event from Region 1078 during
+the next 3 days (10-12 June).
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z:
+The geomagnetic field was quiet for the past 24 hours. The greater
+than 2 MeV electron flux at geosynchronous orbit was at high levels
+during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+forecast to be mostly quiet with a chance for an isolated period of
+unsettled conditions during the next 3 days (10-12 June).
+III.  Event Probabilities 10 Jun-12 Jun
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           09 Jun 072
+Predicted   10 Jun-12 Jun  072/072/070
+90 Day Mean        09 Jun 077
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 Jun  003/003
+Estimated Afr/Ap 09 Jun  003/003
+Predicted Afr/Ap 10 Jun-12 Jun  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 10 Jun-12 Jun
+A.  Middle Latitudes
+Active                25/25/25
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                30/30/30
+Minor storm           10/10/10
+Major-severe storm    01/01/01

@@ -1,0 +1,46 @@
+:Product: 0921RSGA.txt
+:Issued: 2010 Sep 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 264 Issued at 2200Z on 21 Sep 2010
+IA.  Analysis of Solar Active Regions and Activity from  20/2100Z
+to 21/2100Z:  Solar activity has been at low levels for the past 24
+hours. New Region 1109 (N19E75) was numbered today as it rotated
+onto the visible disk. Region 1109 produced a few C-class events,
+the largest was a C1 flare at 21/0738Z. Region 1108 (S30E14)
+decreased in areal coverage and sunspot number but has retained its
+bi-polar magnetic classification. Region 1106 (S22W69) has continued
+to decay and now has an alpha magnetic classification.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a slight chance for M-class activity for the next
+three days (22-24 September).
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at unsettled to active levels on days one and two
+(22-23 September) due to a recurrent coronal hole high-speed stream.
+Mostly unsettled levels are expected on day three (24 September).
+III.  Event Probabilities 22 Sep-24 Sep
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           21 Sep 085
+Predicted   22 Sep-24 Sep  088/088/088
+90 Day Mean        21 Sep 079
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 Sep  003/004
+Estimated Afr/Ap 21 Sep  006/008
+Predicted Afr/Ap 22 Sep-24 Sep  015/018-015/018-012/012
+VI.  Geomagnetic Activity Probabilities 22 Sep-24 Sep
+A.  Middle Latitudes
+Active                35/35/25
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                35/35/25
+Minor storm           10/10/01
+Major-severe storm    01/01/01

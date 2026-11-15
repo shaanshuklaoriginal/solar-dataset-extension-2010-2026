@@ -1,0 +1,52 @@
+:Product: 0815RSGA.txt
+:Issued: 2023 Aug 15 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 227 Issued at 2200Z on 15 Aug 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 14/2100Z to
+15/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C4 event observed at
+15/0657Z from Region 3395 (N12W87). There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a slight chance for an M-class flare on days one, two, and three (16
+Aug, 17 Aug, 18 Aug).
+
+IIA.  Geophysical Activity Summary 14/2100Z to 15/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 336 km/s at 15/0327Z. Total IMF reached 7 nT at
+15/1717Z. The maximum southward component of Bz reached -4 nT at
+15/1717Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 899 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one and two (16 Aug, 17 Aug) and
+quiet to unsettled levels on day three (18 Aug).
+
+III.  Event probabilities 16 Aug-18 Aug
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           15 Aug 158
+Predicted   16 Aug-18 Aug 160/160/155
+90 Day Mean        15 Aug 167
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 14 Aug  006/006
+Estimated Afr/Ap 15 Aug  005/005
+Predicted Afr/Ap 16 Aug-18 Aug  009/012-014/015-010/012
+
+VI.  Geomagnetic Activity Probabilities 16 Aug-18 Aug
+A.  Middle Latitudes
+Active                30/35/20
+Minor Storm           05/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/15/15
+Minor Storm           25/20/20
+Major-severe storm    20/30/20

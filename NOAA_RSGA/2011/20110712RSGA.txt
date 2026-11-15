@@ -1,0 +1,54 @@
+:Product: 0712RSGA.txt
+:Issued: 2011 Jul 12 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 193 Issued at 2200Z on 12 Jul 2011
+IA.  Analysis of Solar Active Regions and Activity from  11/2100Z
+to 12/2100Z:  Solar activity was low during the past 24 hours. Region
+1247 (S18W40) produced a C1 event at 12/1449Z and has decayed to a
+Cao-type region while maintaining a beta-gamma magnetic
+configuration. Region 1250 (S27E18) has shown slight growth in areal
+coverage and is now considered to have a beta-gamma classification.
+All other regions on the disk remained relatively quiet and stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance for an isolated M-class event for the next
+three days (12 July).
+IIA.  Geophysical Activity Summary 11/2100Z to 12/2100Z:
+The geomagnetic field was quiet to unsettled during the past 24
+hours. ACE spacecraft measurements indicated solar wind velocities
+reached approximately 760 km/s at 12/1530Z due to a geoeffective
+coronal hole high speed stream (CH HSS). The greater than 2 MeV
+electron flux at geosynchronous orbit reached high levels during the
+period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled with a chance for isolated active
+periods on day one (13 July) due to residual effects from the CH
+HSS. Conditions are expected to be unsettled to active with a chance
+for isolated minor storm conditions on day two (14 July) due to
+effects from the CME observed on 11 July. Mostly quiet conditions
+are expected to return on day three (15 July) as effects from the
+CME subside.
+III.  Event Probabilities 13 Jul-15 Jul
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           12 Jul 092
+Predicted   13 Jul-15 Jul  094/094/094
+90 Day Mean        12 Jul 098
+V.  Geomagnetic A Indices
+Observed Afr/Ap 11 Jul  010/013
+Estimated Afr/Ap 12 Jul  008/012
+Predicted Afr/Ap 13 Jul-15 Jul  010/012-015/015-005/007
+VI.  Geomagnetic Activity Probabilities 13 Jul-15 Jul
+A.  Middle Latitudes
+Active                15/20/10
+Minor storm           10/15/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/25/20
+Minor storm           10/15/10
+Major-severe storm    01/01/01

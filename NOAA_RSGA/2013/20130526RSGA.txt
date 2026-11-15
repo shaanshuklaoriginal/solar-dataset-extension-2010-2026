@@ -1,0 +1,54 @@
+:Product: 0526RSGA.txt
+:Issued: 2013 May 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 146 Issued at 2200Z on 26 May 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 25/2100Z to
+26/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C3 event observed at
+26/0957Z from Region 1756 (S20W13). There are currently 5 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (27 May, 28 May,
+29 May).
+
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed, as measured by the ACE spacecraft, reached a peak
+speed of 849 km/s at 25/2207Z. Total IMF reached 13 nT at 25/2258Z. The
+maximum southward component of Bz reached -5 nT at 26/0615Z. Protons
+greater than 10 MeV at geosynchronous orbit reached a peak level of 2
+pfu at 25/2115Z. Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 11636 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one and two (27 May, 28 May)
+and quiet levels on day three (29 May).
+
+III.  Event probabilities 27 May-29 May
+Class M    25/25/25
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           26 May 120
+Predicted   27 May-29 May 120/120/120
+90 Day Mean        26 May 123
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 May  025/040
+Estimated Afr/Ap 26 May  016/018
+Predicted Afr/Ap 27 May-29 May  010/010-007/008-006/005
+
+VI.  Geomagnetic Activity Probabilities 27 May-29 May
+A.  Middle Latitudes
+Active                20/10/10
+Minor Storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/20/20
+Major-severe storm    25/20/10

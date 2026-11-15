@@ -1,0 +1,23 @@
+:Product: 0422SRS.txt
+:Issued: 2026 Apr 22 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 112 Issued at 0030Z on 22 Apr 2026
+Report compiled from data received at SWO on 21 Apr
+I.  Regions with Sunspots.  Locations Valid at 21/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+4419 N15W37   313  0250 Eho  12   14 Beta-Gamma
+4420 N16E52   224  0060 Dao  06   06 Beta-Gamma
+4421 S09E72   204  0050 Cao  09   03 Beta
+4422 N09W30   306  0020 Cro  03   05 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 21/2400Z Apr
+Nmbr  Location  Lo
+None
+II. Regions Due to Return 22 Apr to 24 Apr
+Nmbr Lat    Lo
+4405 S28    183
+4413 N08    180
+4409 N02    178
+4408 N08    176

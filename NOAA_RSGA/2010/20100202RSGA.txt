@@ -1,0 +1,41 @@
+:Product: 0202RSGA.txt
+:Issued: 2010 Feb 02 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 033 Issued at 2200Z on 02 Feb 2010
+IA.  Analysis of Solar Active Regions and Activity from  01/2100Z
+to 02/2100Z:  Solar activity was very low. No flares were observed
+within the last 24 hours. Region 1041 rotated off the sun within the
+last 24 hours. Region 1043 (N25W05) decayed to an alpha
+classification. There was a CME observed off the west limb at
+01/1945Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+very low with only a slight chance for a C-class flare.
+IIA.  Geophysical Activity Summary 01/2100Z to 02/2100Z:
+The geomagnetic field was quiet to unsettled.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet.
+III.  Event Probabilities 03 Feb-05 Feb
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           02 Feb 075
+Predicted   03 Feb-05 Feb  075/078/080
+90 Day Mean        02 Feb 077
+V.  Geomagnetic A Indices
+Observed Afr/Ap 01 Feb  007/006
+Estimated Afr/Ap 02 Feb  007/006
+Predicted Afr/Ap 03 Feb-05 Feb  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 03 Feb-05 Feb
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

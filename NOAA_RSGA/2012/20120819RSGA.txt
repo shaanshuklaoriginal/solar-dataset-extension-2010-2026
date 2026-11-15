@@ -1,0 +1,55 @@
+:Product: 0819RSGA.txt
+:Issued: 2012 Aug 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 232 Issued at 2200Z on 19 Aug 2012
+IA.  Analysis of Solar Active Regions and Activity from  18/2100Z
+to 19/2100Z:  Solar activity was moderate.  Region 1548 (N19E62)
+produced two M-class flares, an M1/Sf at 18/2254Z and an M1/Sn flare
+at 18/2322Z.  Activity then decreased to low levels for the
+remainder of the period.  Region 1548 decreased in area and ended
+the period as a Cso type group with beta magnetic characteristics. 
+New Region 1549 (S16W30) was numbered today and also a simple
+Cso-beta type group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for an M-class event for the next three days (20-22
+August).
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z:
+The geomagnetic field ranged from quiet to unsettled levels.  A
+coronal hole high speed stream became geoeffective during the past
+24 hours.  At approximately 18/08Z, solar wind speed at the ACE
+spacecraft began increasing from about 400 km/s to 580 km/s. 
+Shortly after, the Bz component of the interplanetary magnetic field
+(IMF) became negative, eventually reaching -12nT.  Bz returned to
+positive values around 14Z.  Earth is currently in the positive
+sector of the IMF.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at mostly unsettled levels with a chance for active
+conditions on day 1 (20 August), decreasing to a slight chance on
+days 2-3 (21-22 August).  The disturbed conditions are expected in
+response to the continued presence of the coronal hole high speed
+stream.
+III.  Event Probabilities 20 Aug-22 Aug
+Class M    20/20/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           19 Aug 096
+Predicted   20 Aug-22 Aug  100/100/105
+90 Day Mean        19 Aug 125
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Aug  011/013
+Estimated Afr/Ap 19 Aug  010/013
+Predicted Afr/Ap 20 Aug-22 Aug  012/012-007/008-007/008
+VI.  Geomagnetic Activity Probabilities 20 Aug-22 Aug
+A.  Middle Latitudes
+Active                20/10/10
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/15/15
+Minor storm           30/20/20
+Major-severe storm    25/15/20

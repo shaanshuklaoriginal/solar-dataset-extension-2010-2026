@@ -1,0 +1,55 @@
+:Product: 1129RSGA.txt
+:Issued: 2023 Nov 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 333 Issued at 2200Z on 29 Nov 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 28/2100Z to
+29/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C8 event observed at
+28/2331Z from Region 3499 (S17W59). There are currently 12 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+days one, two, and three (30 Nov, 01 Dec, 02 Dec).
+
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 454 km/s at 29/0041Z. Total IMF reached 5 nT at
+28/2108Z. The maximum southward component of Bz reached -3 nT at
+29/1122Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 392 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to minor storm levels on day one (30 Nov), unsettled
+to severe storm levels on day two (01 Dec) and quiet to minor storm
+levels on day three (02 Dec). Protons have a slight chance of crossing
+threshold on days one and two (30 Nov, 01 Dec) and have a slight chance
+of crossing threshold on day three (02 Dec).
+
+III.  Event probabilities 30 Nov-02 Dec
+Class M    40/40/40
+Class X    10/10/10
+Proton     15/15/20
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           29 Nov 171
+Predicted   30 Nov-02 Dec 175/170/165
+90 Day Mean        29 Nov 150
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 Nov  006/006
+Estimated Afr/Ap 29 Nov  007/010
+Predicted Afr/Ap 30 Nov-02 Dec  020/030-037/054-018/022
+
+VI.  Geomagnetic Activity Probabilities 30 Nov-02 Dec
+A.  Middle Latitudes
+Active                35/20/35
+Minor Storm           25/35/25
+Major-severe storm    05/40/05
+B.  High Latitudes
+Active                10/10/15
+Minor Storm           20/20/20
+Major-severe storm    45/60/20

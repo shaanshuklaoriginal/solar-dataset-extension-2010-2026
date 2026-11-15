@@ -1,0 +1,59 @@
+:Product: 1009RSGA.txt
+:Issued: 2024 Oct 09 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 283 Issued at 2200Z on 09 Oct 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 08/2100Z to
+09/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a X1 event observed at
+09/0156Z from Region 3848 (N12W25). There are currently 5 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be moderate
+with a chance for X-class flares on days one and two (10 Oct, 11 Oct)
+and likely to be moderate with a chance for X-class flares on day three
+(12 Oct).
+
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 637 km/s at 09/0820Z. Total IMF
+reached 9 nT at 08/2223Z. The maximum southward component of Bz reached
+-9 nT at 08/2238Z.  Protons greater than 10 MeV at geosynchronous orbit
+reached a peak level of 1072 pfu at 09/2100Z. Protons greater than 100
+MeV at geosynchronous orbit reached a peak level of 3 pfu at 09/0805Z.
+Electrons greater than 2 MeV at geosynchronous orbit reached a peak
+level of 363 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to severe storm levels on day one (10 Oct), minor storm
+to severe storm levels on day two (11 Oct) and active to minor storm
+levels on day three (12 Oct). Protons are expected to cross threshold on
+day one (10 Oct), have a chance of crossing threshold on day two (11
+Oct) and have a chance of crossing threshold on day three (12 Oct).
+
+III.  Event probabilities 10 Oct-12 Oct
+Class M    75/75/70
+Class X    40/40/35
+Proton     75/50/30
+PCAF       red
+
+IV.  Penticton 10.7 cm Flux
+Observed           09 Oct 220
+Predicted   10 Oct-12 Oct 245/240/235
+90 Day Mean        09 Oct 224
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 Oct  029/053
+Estimated Afr/Ap 09 Oct  016/019
+Predicted Afr/Ap 10 Oct-12 Oct  070/125-086/122-030/042
+
+VI.  Geomagnetic Activity Probabilities 10 Oct-12 Oct
+A.  Middle Latitudes
+Active                10/10/30
+Minor Storm           30/30/25
+Major-severe storm    50/50/15
+B.  High Latitudes
+Active                05/05/10
+Minor Storm           10/10/20
+Major-severe storm    80/80/60

@@ -1,0 +1,60 @@
+:Product: 0714RSGA.txt
+:Issued: 2012 Jul 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 196 Issued at 2200Z on 14 Jul 2012
+IA.  Analysis of Solar Active Regions and Activity from  13/2100Z
+to 14/2100Z:  Solar activity has been at moderate levels for the past
+24 hours. Region 1521 (S21W47) produced an M1/1f x-ray event at
+0458Z.  As well as being partially responsible for todays M-class
+flare, Region 1520 (S17W35) also produced a C2/Sf event at 1410Z
+with an associated 150 sfu Tenflare. Elsewhere on the solar disk,
+Region 1519 (S16W56) and Region 1523 (S28E04) grew both in area and
+magnetic complexity, however, both have remained quiet and stable.
+No Earth directed CMEs were observed.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low to moderate levels for the next three days (15-17 July) as
+Region 1520 and Region 1521 continue to evolve.
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z:
+The geomagnetic field began the period at quiet levels until around
+1811Z, when a sudden impulse of 27 nT was observed by the Boulder
+magnetometer. 43 minutes earlier, at 1728Z, measurements made by the
+ACE spacecraft indicated a shock arrival. Solar wind speeds
+increased from 350 km/s to around 630 km/s and the IMF (total field)
+increased from 4 nT to around 17 nT, with extended periods of the Bz
+component hovering around -12 nT. All of these signatures are
+congruent with the arrival of a CME at ACE and later here at Earth.
+After the arrival of the CME, an increase from quiet to minor storm
+levels was observed. A greater than 10 MeV proton event began, 
+reached a peak of 96 pfu at 12/2225Z, and is still in progress. The
+greater than 2 MeV electron flux at geosynchronous orbit reached
+high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to active levels with a slight chance for
+minor storms on day one (15 July), as CME effects continue.
+Predominantly quiet levels are expected on days two and three (16-17
+July).
+III.  Event Probabilities 15 Jul-17 Jul
+Class M    70/70/70
+Class X    15/15/15
+Proton     99/50/20
+PCAF       red
+IV.  Penticton 10.7 cm Flux
+Observed           14 Jul 148
+Predicted   15 Jul-17 Jul  140/130/120
+90 Day Mean        14 Jul 128
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Jul  004/003
+Estimated Afr/Ap 14 Jul  010/018
+Predicted Afr/Ap 15 Jul-17 Jul  015/022-007/008-006/005
+VI.  Geomagnetic Activity Probabilities 15 Jul-17 Jul
+A.  Middle Latitudes
+Active                40/15/05
+Minor storm           15/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           20/20/10
+Major-severe storm    25/20/05

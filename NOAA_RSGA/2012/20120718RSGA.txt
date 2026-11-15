@@ -1,0 +1,50 @@
+:Product: 0718RSGA.txt
+:Issued: 2012 Jul 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 200 Issued at 2200Z on 18 Jul 2012
+IA.  Analysis of Solar Active Regions and Activity from  17/2100Z
+to 18/2100Z:  Solar Activity was low.  Region 1520 (S17W89), set to
+rotate off the west limb today,  produced all of todays flare
+activity, consisting of two C3 class events.  Region 1523 (S28W51)
+showed slight decay, while the remaining Regions 1524 (S16E37) and
+newly numbered 1525 (S22E36) were quiet and stable.  No Earth
+directed CMEs were observed during the period.
+IB.  Solar Activity Forecast:  Solar Activity is expected to be low
+with a chance for an isolated M-class event for the next 24 hours
+until 1520 rotates further around west limb.  Days two and three are
+expected to be low.
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z:
+Geomagnetic field activity was at generally quiet levels for the
+entire period.  A greater than 10 MeV proton event that began at
+17/1715Z continued throughout the period.  The peak value observed
+was 136 PFU at 18/0600Z after which the flux levels were generally
+decreasing. The greater than 2 MeV electron flux at geosynchronous
+orbit was at high levels throughout the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the next three days.  The greater than 10
+MeV proton event is expected to end on 19 July.
+III.  Event Probabilities 19 Jul-21 Jul
+Class M    30/10/05
+Class X    10/05/01
+Proton     80/10/01
+PCAF       yellow
+IV.  Penticton 10.7 cm Flux
+Observed           18 Jul 110
+Predicted   19 Jul-21 Jul  100/095/095
+90 Day Mean        18 Jul 129
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 Jul  009/018
+Estimated Afr/Ap 18 Jul  004/005
+Predicted Afr/Ap 19 Jul-21 Jul  007/005-006/005-006/005
+VI.  Geomagnetic Activity Probabilities 19 Jul-21 Jul
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/10
+Major-severe storm    05/05/05

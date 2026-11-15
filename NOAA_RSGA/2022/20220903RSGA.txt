@@ -1,0 +1,55 @@
+:Product: 0903RSGA.txt
+:Issued: 2022 Sep 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 246 Issued at 2200Z on 03 Sep 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 02/2100Z to
+03/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C3 event observed at
+03/1648Z from Region 3089 (S22W61). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+days one and two (04 Sep, 05 Sep) and expected to be very low with a
+chance for a C-class flares on day three (06 Sep).
+
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z: The geomagnetic
+field has been at unsettled to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 588 km/s at 03/1002Z. Total IMF
+reached 11 nT at 03/0726Z. The maximum southward component of Bz reached
+-9 nT at 03/0847Z.  Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 309 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to major storm levels on day one (04 Sep), quiet to
+minor storm levels on day two (05 Sep) and quiet to active levels on day
+three (06 Sep). Protons greater than 10 Mev have a slight chance of
+crossing threshold on days one and two (04 Sep, 05 Sep).
+
+III.  Event probabilities 04 Sep-06 Sep
+Class M    30/30/05
+Class X    10/10/01
+Proton     10/10/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           03 Sep 123
+Predicted   04 Sep-06 Sep 122/122/118
+90 Day Mean        03 Sep 121
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Sep  010/007
+Estimated Afr/Ap 03 Sep  019/024
+Predicted Afr/Ap 04 Sep-06 Sep  020/030-021/028-012/015
+
+VI.  Geomagnetic Activity Probabilities 04 Sep-06 Sep
+A.  Middle Latitudes
+Active                25/40/40
+Minor Storm           40/35/20
+Major-severe storm    25/15/05
+B.  High Latitudes
+Active                05/10/20
+Minor Storm           20/25/30
+Major-severe storm    75/60/35

@@ -1,0 +1,59 @@
+:Product: 0130RSGA.txt
+:Issued: 2014 Jan 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 30 Issued at 2200Z on 30 Jan 2014
+
+IA.  Analysis of Solar Active Regions and Activity from 29/2100Z to
+30/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a M6 event observed at
+30/1611Z from Region 1967 (S14E41). It also produced a Type II (2161
+km/s) radio emission, a Tenflare (220 sfu) and a coronal mass ejection
+which may have an Earth-directed component.  Analysis is underway. 
+There are currently 5 numbered sunspot regions on the disk.
+
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(31 Jan, 01 Feb, 02 Feb).
+
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+452 km/s at 30/0544Z. Total IMF reached 6 nT at 29/2100Z. The maximum
+southward component of Bz reached -4 nT at 30/0203Z.
+
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one, two, and three (31 Jan, 01 Feb, 02
+Feb). However, the potential for a glancing blow as early as Day 2 (01
+Feb) from the CME described above could push the geomagnetic field to
+unsettled to active levels with a slight chance for a minor (G1) storm
+period.  Well refrain from adding that to this forecast until after we
+have examined the WSA-Enlil model output.
+
+III.  Event probabilities 31 Jan-02 Feb
+Class M    60/60/60
+Class X    10/10/10
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           30 Jan 161
+Predicted   31 Jan-02 Feb 165/170/175
+90 Day Mean        30 Jan 152
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Jan  006/006
+Estimated Afr/Ap 30 Jan  007/007
+Predicted Afr/Ap 31 Jan-02 Feb  005/012-006/008-006/005
+
+VI.  Geomagnetic Activity Probabilities 31 Jan-02 Feb
+A.  Middle Latitudes
+Active                05/05/05
+Minor Storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           15/15/15
+Major-severe storm    05/05/05

@@ -1,0 +1,62 @@
+:Product: 0909RSGA.txt
+:Issued: 2011 Sep 09 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 252 Issued at 2200Z on 09 Sep 2011
+IA.  Analysis of Solar Active Regions and Activity from  08/2100Z
+to 09/2100Z:  Solar activity has been moderate. Region 1283 (N17W55)
+produced two M-class flares. The first was an M2/1n at 09/0611Z with
+an associated Type II radio sweep (estimated velocity 717 km/sec)
+and a non-geoeffective CME. The second was an M1/1f at 09/1249Z.
+Region 1283 showed penumbral and trailer spot decay. Region 1289
+(N22E37) developed a trailer spot with penumbra. New Region 1290
+(S15E29) was numbered during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate during the period (10 - 12 September) with a slight chance
+for another X-class flare from Region 1283.
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z:
+Geomagnetic field activity began the period at quiet levels then
+increased to active to major storm levels after 09/1245Z. An
+isolated severe storm period was observed from 09/1500 - 1800Z. Two
+sudden impulses (SI) were observed at 09/1243Z and 09/1250Z (16nT
+and 28nT respectively, as measured by the Boulder USGS
+magnetometer). At 09/1150Z, ACE data indicated an interplanetary
+shock arrival preceding the Boulder SIs. Bt reached up to 25nT, Bz
+dropped to -23nT, density spiked up to 35p/cc, wind speeds peaked at
+602km/s, and temperature increased. Activity was due to combined
+CMEs associated with 06 - 07 September major flare activity. The
+greater than 2 MeV electron flux at geosynchronous orbit reached
+high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be active on day 1 (10 September) due to continuing CME
+effects. Activity is expected to decrease on day 2 (11 September) to
+unsettled levels with a chance for active periods as CME effects
+subside, but a recurrent coronal hole high speed stream (CH HSS)
+will become geoeffective. Day 3 (12 September) unsettled activity is
+expected to continue under the effects of the CH HSS. There will be
+a slight chance for a greater than 10 MeV proton event at
+geosynchronous orbit during the period.
+III.  Event Probabilities 10 Sep-12 Sep
+Class M    70/65/60
+Class X    20/15/10
+Proton     15/10/05
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           09 Sep 112
+Predicted   10 Sep-12 Sep  110/110/110
+90 Day Mean        09 Sep 099
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 Sep  002/004
+Estimated Afr/Ap 09 Sep  018/035
+Predicted Afr/Ap 10 Sep-12 Sep  020/022-012/015-008/008
+VI.  Geomagnetic Activity Probabilities 10 Sep-12 Sep
+A.  Middle Latitudes
+Active                30/25/20
+Minor storm           25/10/05
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                40/30/25
+Minor storm           30/15/10
+Major-severe storm    10/01/01

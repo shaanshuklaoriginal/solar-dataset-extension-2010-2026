@@ -1,0 +1,44 @@
+:Product: 0930RSGA.txt
+:Issued: 2010 Sep 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 273 Issued at 2200Z on 30 Sep 2010
+IA.  Analysis of Solar Active Regions and Activity from  29/2100Z
+to 30/2100Z:  Solar activity was very low.  Region 1109 (N21W39)
+produced several B-class events.  Region 1109 has decreased in areal
+coverage and extent and is now a Dhi group with a beta magnetic
+configuration.  Region 1110 (N19W60) has also decreased in areal
+coverage and is now a Bxo group with a beta magnetic configuration. 
+Region 1111 (N24E42) is an A-type group with one spot.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with C-class activity likely.
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z:
+The geomagnetic field was quiet during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for days one and two (01-02 October).  Mostly
+quiet with a slight chance for isolated unsettled periods are
+expected for day three (03 October) due to recurrent activity.
+III.  Event Probabilities 01 Oct-03 Oct
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           30 Sep 090
+Predicted   01 Oct-03 Oct  087/087/084
+90 Day Mean        30 Sep 080
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Sep  002/005
+Estimated Afr/Ap 30 Sep  002/003
+Predicted Afr/Ap 01 Oct-03 Oct  005/005-005/005-007/007
+VI.  Geomagnetic Activity Probabilities 01 Oct-03 Oct
+A.  Middle Latitudes
+Active                05/05/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/15
+Minor storm           01/01/05
+Major-severe storm    01/01/01

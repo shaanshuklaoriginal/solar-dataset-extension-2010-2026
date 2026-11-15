@@ -1,0 +1,54 @@
+:Product: 0419RSGA.txt
+:Issued: 2024 Apr 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 110 Issued at 2200Z on 19 Apr 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 18/2100Z to
+19/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M2 event observed at
+19/0453Z from Region 3647 (S13E00). There are currently 14 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(20 Apr, 21 Apr, 22 Apr).
+
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z: The geomagnetic
+field has been at quiet to severe storm levels for the past 24 hours.
+Solar wind speed reached a peak of 515 km/s at 19/2034Z. Total IMF
+reached 18 nT at 19/1418Z. The maximum southward component of Bz reached
+-16 nT at 19/1549Z.  Electrons greater than 2 MeV at geosynchronous
+orbit reached a peak level of 118 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one and three (20 Apr, 22
+Apr) and quiet to active levels on day two (21 Apr). Protons have a
+slight chance of crossing threshold on days one, two, and three (20 Apr,
+21 Apr, 22 Apr).
+
+III.  Event probabilities 20 Apr-22 Apr
+Class M    75/75/75
+Class X    20/20/20
+Proton     20/20/20
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           19 Apr 213
+Predicted   20 Apr-22 Apr 220/220/215
+90 Day Mean        19 Apr 161
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Apr  005/004
+Estimated Afr/Ap 19 Apr  024/043
+Predicted Afr/Ap 20 Apr-22 Apr  007/010-011/012-008/008
+
+VI.  Geomagnetic Activity Probabilities 20 Apr-22 Apr
+A.  Middle Latitudes
+Active                25/35/20
+Minor Storm           10/15/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/30/25
+Major-severe storm    35/50/25

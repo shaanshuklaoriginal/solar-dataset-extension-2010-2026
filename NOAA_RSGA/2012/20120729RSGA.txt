@@ -1,0 +1,55 @@
+:Product: 0729RSGA.txt
+:Issued: 2012 Jul 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 211 Issued at 2200Z on 29 Jul 2012
+IA.  Analysis of Solar Active Regions and Activity from  28/2100Z
+to 29/2100Z:  Solar activity was moderate. Region 1532 (S21E33)
+produced a M2/1n x-ray event at 29/0622Z. No CME is expected in
+association with this event. There were two CMEs observed during the
+period. The first, associated with the M6/2n flare on 28 July, was
+visible in SOHO LASCO and the STEREO coronagraphs with a relatively
+slow speed (382 km/s estimated) and sourced from the southeast
+quadrant of the disk. ENLIL model runs suggest a possible weak
+glancing blow to earth, but beyond the forecast period. The second
+CME was associated with a erupted filament from the southeast
+quadrant just after 29/0000Z. Due to a lack of SOHO LASCO imagery,
+this event is only visible in STEREO A/B COR2, but appears to have a
+trajectory farther south and east than the first transient, and is
+not expected to be geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with the chance for isolated moderate conditions over the next 3
+days (30 July - 01 August).
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z:
+The geomagnetic field began the period at unsettled to active levels
+due to possible weak coronal hole (CH) effects and intermittent
+periods of southward Bz. From 06Z-21Z, the field has been quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active on day 1 (30 July) as weak CH
+effects persist. Quiet to unsettled conditions are expected on day 2
+(31 July) as conditions wane. Mostly quiet conditions are expected
+on day 3 (1 August).
+III.  Event Probabilities 30 Jul-01 Aug
+Class M    25/25/25
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           29 Jul 131
+Predicted   30 Jul-01 Aug  132/135/138
+90 Day Mean        29 Jul 126
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 Jul  011/011
+Estimated Afr/Ap 29 Jul  007/008
+Predicted Afr/Ap 30 Jul-01 Aug  011/012-008/008-004/005
+VI.  Geomagnetic Activity Probabilities 30 Jul-01 Aug
+A.  Middle Latitudes
+Active                25/15/05
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/15
+Minor storm           20/15/10
+Major-severe storm    30/20/05

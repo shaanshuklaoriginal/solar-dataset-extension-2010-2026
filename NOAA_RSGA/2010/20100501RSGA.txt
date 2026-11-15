@@ -1,0 +1,48 @@
+:Product: 0501RSGA.txt
+:Issued: 2010 May 01 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 121 Issued at 2200Z on 01 May 2010
+IA.  Analysis of Solar Active Regions and Activity from  30/2100Z
+to 01/2100Z:  Solar activity was low.  GOES-14 SXI imagery observed a
+C5.7/sf x-ray flare at 01/0139Z.  The source of this event was
+located just beyond the east limb at N24.  The remainder of the disk
+and limb was quiet and stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low with C-class flares likely including a slight chance of
+M-class activity, all due from the active area on the NE limb.
+IIA.  Geophysical Activity Summary 30/2100Z to 01/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for day one (02 May).  Quiet to unsettled
+levels, with isolated active levels, are expected on day two (03
+May).  A further increase in activity to unsettled to active, with
+isolated minor storm periods, is expected on day three (04 May). 
+Isolated major storm periods at high latitudes is also possible on
+day three.  The expected increase in activity on 03 - 04 May is due
+to a recurrent coronal hole high speed stream rotating into a
+geoeffective position.
+III.  Event Probabilities 02 May-04 May
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           01 May 078
+Predicted   02 May-04 May  080/082/084
+90 Day Mean        01 May 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Apr  002/004
+Estimated Afr/Ap 01 May  003/003
+Predicted Afr/Ap 02 May-04 May  005/005-010/012-018/035
+VI.  Geomagnetic Activity Probabilities 02 May-04 May
+A.  Middle Latitudes
+Active                05/20/30
+Minor storm           01/10/15
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                05/20/35
+Minor storm           01/15/20
+Major-severe storm    01/01/15

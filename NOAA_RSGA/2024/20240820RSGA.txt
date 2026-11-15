@@ -1,0 +1,53 @@
+:Product: 0820RSGA.txt
+:Issued: 2024 Aug 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 233 Issued at 2200Z on 20 Aug 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 19/2100Z to
+20/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M3 event observed at
+19/2152Z from Region 3796 (S03E55). There are currently 11 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(21 Aug, 22 Aug, 23 Aug).
+
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 404 km/s at 19/2239Z. Total IMF reached 7
+nT at 19/2159Z. The maximum southward component of Bz reached -6 nT at
+19/2117Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (21 Aug), quiet to active levels on day
+two (22 Aug) and quiet to unsettled levels on day three (23 Aug).
+Protons have a slight chance of crossing threshold on days one, two, and
+three (21 Aug, 22 Aug, 23 Aug).
+
+III.  Event probabilities 21 Aug-23 Aug
+Class M    65/65/65
+Class X    20/20/20
+Proton     10/10/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           20 Aug 244
+Predicted   21 Aug-23 Aug 245/240/240
+90 Day Mean        20 Aug 204
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 Aug  011/010
+Estimated Afr/Ap 20 Aug  007/007
+Predicted Afr/Ap 21 Aug-23 Aug  006/005-011/012-008/008
+
+VI.  Geomagnetic Activity Probabilities 21 Aug-23 Aug
+A.  Middle Latitudes
+Active                10/30/15
+Minor Storm           01/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/30/25
+Major-severe storm    15/40/25

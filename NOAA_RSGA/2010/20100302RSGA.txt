@@ -1,0 +1,42 @@
+:Product: 0302RSGA.txt
+:Issued: 2010 Mar 02 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 061 Issued at 2200Z on 02 Mar 2010
+IA.  Analysis of Solar Active Regions and Activity from  01/2100Z
+to 02/2100Z:  Solar activity was very low. Old Region 1045 (N19,
+L=251) is now visible on the northeast limb, however, no spots have
+been reported at this time. This region produced a long-duration
+B6.6 x-ray flare at 01/2226Z, associated with a CME from the east
+limb. Region 1052(S17W40) and 1053 (S23W50) remain simple, quiet
+sunspot groups.
+IB.  Solar Activity Forecast:  Solar Activity is expected to remain
+very low for the next 3 days (03-05 March).
+IIA.  Geophysical Activity Summary 01/2100Z to 02/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the next 3 days (03-05 March).
+III.  Event Probabilities 03 Mar-05 Mar
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           02 Mar 079
+Predicted   03 Mar-05 Mar  080/080/082
+90 Day Mean        02 Mar 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 01 Mar  004/005
+Estimated Afr/Ap 02 Mar  003/005
+Predicted Afr/Ap 03 Mar-05 Mar  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 03 Mar-05 Mar
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

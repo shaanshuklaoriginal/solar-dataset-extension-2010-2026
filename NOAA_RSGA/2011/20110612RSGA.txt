@@ -1,0 +1,57 @@
+:Product: 0612RSGA.txt
+:Issued: 2011 Jun 12 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 163 Issued at 2200Z on 12 Jun 2011
+IA.  Analysis of Solar Active Regions and Activity from  11/2100Z
+to 12/2100Z:  Solar activity remained very low. Isolated B-class
+x-ray flares occurred. A B8 flare at 12/1714Z was from a region just
+beyond the northeast limb. Region 1234 (S15E18) was the only spotted
+region on the disk and remained a simply-structured Bxo group. A
+prominence erupted from the west limb near N09W90 during 12/1341 -
+1443Z and was associated with a CME. The CME had an estimated
+plane-of-sky speed of 565 km/s and did not appear to be
+Earth-directed. No new regions were numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to very low
+during the period (13 - 15 June) with a chance for an isolated
+C-class flare.
+IIA.  Geophysical Activity Summary 11/2100Z to 12/2100Z:
+Geomagnetic activity was at quiet to unsettled levels during most of
+the period. An active period was observed at Boulder during 12/1200
+- 1500Z. ACE solar wind data indicated the continued presence of a
+coronal hole high-speed stream (CH HSS) with wind speeds in the 436
+to 485 km/s range. The greater than 10 MeV proton flux at
+geosynchronous orbit was slightly enhanced, likely associated with
+recent activity in old Region 1226 (S20, L=037), which departed the
+west limb on 09 June.
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be at quiet to unsettled levels during  days 1 - 2 (13 -
+14 June) with a chance for active levels due CH HSS effects.
+Activity is expected to decrease to quiet levels on day 3 (15 June)
+as the CH HSS begins to subside. There is a slight chance for a
+greater than 10 MeV proton event at geosynchronous orbit on day 1
+(13 June).
+III.  Event Probabilities 13 Jun-15 Jun
+Class M    01/01/01
+Class X    01/01/01
+Proton     10/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           12 Jun 085
+Predicted   13 Jun-15 Jun  084/084/084
+90 Day Mean        12 Jun 103
+V.  Geomagnetic A Indices
+Observed Afr/Ap 11 Jun  010/011
+Estimated Afr/Ap 12 Jun  010/010
+Predicted Afr/Ap 13 Jun-15 Jun  008/008-008/008-005/005
+VI.  Geomagnetic Activity Probabilities 13 Jun-15 Jun
+A.  Middle Latitudes
+Active                20/15/05
+Minor storm           10/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/20/10
+Minor storm           15/10/01
+Major-severe storm    01/01/01

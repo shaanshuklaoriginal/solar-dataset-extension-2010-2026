@@ -1,0 +1,51 @@
+:Product: 0930RSGA.txt
+:Issued: 2025 Sep 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 273 Issued at 2200Z on 30 Sep 2025
+
+IA.  Analysis of Solar Active Regions and Activity from 29/2100Z to
+30/2100Z: Solar activity has been at moderate levels for the past 24
+hours. There are currently 10 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(01 Oct, 02 Oct, 03 Oct).
+
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z: The geomagnetic
+field has been at unsettled to severe storm levels for the past 24
+hours. Solar wind speed reached a peak of 744 km/s at 30/1921Z. Total
+IMF reached 20 nT at 30/1139Z. The maximum southward component of Bz
+reached -17 nT at 30/0453Z.  Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 413 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to minor storm levels on day one (01 Oct), unsettled
+to active levels on day two (02 Oct) and quiet to active levels on day
+three (03 Oct).
+
+III.  Event probabilities 01 Oct-03 Oct
+Class M    60/60/60
+Class X    15/15/15
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           30 Sep 187
+Predicted   01 Oct-03 Oct 185/180/180
+90 Day Mean        30 Sep 151
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Sep  013/027
+Estimated Afr/Ap 30 Sep  040/064
+Predicted Afr/Ap 01 Oct-03 Oct  021/027-014/018-013/015
+
+VI.  Geomagnetic Activity Probabilities 01 Oct-03 Oct
+A.  Middle Latitudes
+Active                40/40/35
+Minor Storm           30/15/15
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor Storm           25/30/25
+Major-severe storm    65/55/45

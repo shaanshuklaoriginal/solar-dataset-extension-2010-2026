@@ -1,0 +1,52 @@
+:Product: 1212RSGA.txt
+:Issued: 2010 Dec 12 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 346 Issued at 2200Z on 12 Dec 2010
+IA.  Analysis of Solar Active Regions and Activity from  11/2100Z
+to 12/2100Z:  Solar activity was very low. A filament eruption
+occurred in the southwest quadrant and was first observed in
+STEREO-A imagery at about 12/0330Z. Coincident with the eruption was
+a long duration B4 x-ray event that peaked at 12/0628Z. During the
+past 24 hours, three separate CMEs were observed in LASCO C2
+imagery. The first was observed departing the southwest limb at
+12/0412Z. Subsequent CMEs were observed departing from the northeast
+limb at 12/0524Z and from the southeast limb at 12/0612Z.  The
+remainder of the disk and limb was largely unchanged.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low, with a slight chance for a C-class event from Region 1131
+(N31W58), for the next 3 days (13-15 December).
+IIA.  Geophysical Activity Summary 11/2100Z to 12/2100Z:
+The geomagnetic field was predominantly quiet.  At approximately
+12/1500Z, the field became unsettled to active in response to the
+arrival of a coronal hole high speed stream.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain quiet to unsettled, with isolated active periods,
+for Day 1 (13 December).  A return to mostly quiet conditions is
+expected for Days 2 and 3 (14-15 December) as the coronal hole high
+speed stream departs.  At this time, the three CMEs observed in the
+past 24 hours are not expected to be geoeffective.
+III.  Event Probabilities 13 Dec-15 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           12 Dec 089
+Predicted   13 Dec-15 Dec  090/090/088
+90 Day Mean        12 Dec 083
+V.  Geomagnetic A Indices
+Observed Afr/Ap 11 Dec  001/001
+Estimated Afr/Ap 12 Dec  005/005
+Predicted Afr/Ap 13 Dec-15 Dec  007/010-005/008-005/008
+VI.  Geomagnetic Activity Probabilities 13 Dec-15 Dec
+A.  Middle Latitudes
+Active                15/10/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/10/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01

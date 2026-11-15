@@ -1,0 +1,52 @@
+:Product: 0713RSGA.txt
+:Issued: 2022 Jul 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 194 Issued at 2200Z on 13 Jul 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 12/2100Z to
+13/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C2 event observed at
+12/2335Z from Region 3056 (S16E37). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+days one, two, and three (14 Jul, 15 Jul, 16 Jul).
+
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 564 km/s at 13/1837Z. Total IMF reached 7
+nT at 12/2234Z. The maximum southward component of Bz reached -3 nT at
+13/1318Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 210 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one, two, and three (14 Jul,
+15 Jul, 16 Jul).
+
+III.  Event probabilities 14 Jul-16 Jul
+Class M    35/35/35
+Class X    10/10/10
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           13 Jul 165
+Predicted   14 Jul-16 Jul 165/165/160
+90 Day Mean        13 Jul 129
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Jul  016/017
+Estimated Afr/Ap 13 Jul  011/013
+Predicted Afr/Ap 14 Jul-16 Jul  008/008-007/008-008/008
+
+VI.  Geomagnetic Activity Probabilities 14 Jul-16 Jul
+A.  Middle Latitudes
+Active                25/25/25
+Minor Storm           10/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/25/25
+Major-severe storm    35/35/35

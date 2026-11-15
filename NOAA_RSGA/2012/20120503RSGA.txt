@@ -1,0 +1,47 @@
+:Product: 0503RSGA.txt
+:Issued: 2012 May 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 124 Issued at 2200Z on 03 May 2012
+IA.  Analysis of Solar Active Regions and Activity from  02/2100Z
+to 03/2100Z:  Solar activity has been at low levels for the past 24
+hours. Multiple C-class events were observed during the period with
+the largest event being a C2/Sf x-ray flare from new Region 1475
+(N05E61). Even though Region 1475 is magnetically classified as an
+alpha group, it remains responsible for a majority of todays
+activity. There are currently seven sunspot regions on the disk,
+with many regions stable or in a waning phase. No Earth directed
+CMEs were observed in the past 24 hours.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a slight chance for M-class events for the next
+three days (04 - 06 May).
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z:
+The geomagnetic field has been at mostly quiet levels for the past 24
+hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at mostly quiet levels for the next three days (04 -
+06 May).
+III.  Event Probabilities 04 May-06 May
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           03 May 114
+Predicted   04 May-06 May  115/115/115
+90 Day Mean        03 May 112
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 May  004/004
+Estimated Afr/Ap 03 May  006/006
+Predicted Afr/Ap 04 May-06 May  006/005-006/005-006/005
+VI.  Geomagnetic Activity Probabilities 04 May-06 May
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor storm           05/05/05
+Major-severe storm    01/01/01

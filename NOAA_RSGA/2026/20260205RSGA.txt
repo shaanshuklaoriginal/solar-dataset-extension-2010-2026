@@ -1,0 +1,52 @@
+:Product: 0205RSGA.txt
+:Issued: 2026 Feb 05 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 36 Issued at 2200Z on 05 Feb 2026
+
+IA.  Analysis of Solar Active Regions and Activity from 04/2100Z to
+05/2100Z: Solar activity has been at high levels for the past 24 hours.
+There are currently 8 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be moderate
+with a chance for X-class flares on days one, two, and three (06 Feb, 07
+Feb, 08 Feb).
+
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 659 km/s at 05/2036Z. Total IMF
+reached 19 nT at 05/0226Z. The maximum southward component of Bz reached
+-16 nT at 05/0226Z.  Electrons greater than 2 MeV at geosynchronous
+orbit reached a peak level of 743 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to minor storm levels on day one (06 Feb), quiet to
+active levels on day two (07 Feb) and quiet to minor storm levels on day
+three (08 Feb). Protons have a chance of crossing threshold on days one,
+two, and three (06 Feb, 07 Feb, 08 Feb).
+
+III.  Event probabilities 06 Feb-08 Feb
+Class M    80/80/80
+Class X    35/35/35
+Proton     25/25/25
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           05 Feb 176
+Predicted   06 Feb-08 Feb 175/175/170
+90 Day Mean        05 Feb 152
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 Feb  008/011
+Estimated Afr/Ap 05 Feb  022/030
+Predicted Afr/Ap 06 Feb-08 Feb  016/020-013/015-016/020
+
+VI.  Geomagnetic Activity Probabilities 06 Feb-08 Feb
+A.  Middle Latitudes
+Active                40/30/40
+Minor Storm           30/10/20
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                10/15/10
+Minor Storm           20/30/25
+Major-severe storm    65/40/60

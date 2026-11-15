@@ -1,0 +1,51 @@
+:Product: 0907RSGA.txt
+:Issued: 2022 Sep 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 250 Issued at 2200Z on 07 Sep 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 06/2100Z to
+07/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+07/0141Z. There are currently 5 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares on days one, two, and three (08 Sep,
+09 Sep, 10 Sep).
+
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 608 km/s at 07/0027Z. Total IMF reached 5
+nT at 07/1910Z. The maximum southward component of Bz reached -5 nT at
+07/1612Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 15367 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one, two, and three (08 Sep,
+09 Sep, 10 Sep).
+
+III.  Event probabilities 08 Sep-10 Sep
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           07 Sep 126
+Predicted   08 Sep-10 Sep 125/125/125
+90 Day Mean        07 Sep 122
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Sep  014/019
+Estimated Afr/Ap 07 Sep  009/011
+Predicted Afr/Ap 08 Sep-10 Sep  008/010-007/008-007/008
+
+VI.  Geomagnetic Activity Probabilities 08 Sep-10 Sep
+A.  Middle Latitudes
+Active                25/20/20
+Minor Storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/20/20
+Minor Storm           20/20/20
+Major-severe storm    15/10/10

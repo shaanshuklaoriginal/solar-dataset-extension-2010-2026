@@ -1,0 +1,55 @@
+:Product: 0212RSGA.txt
+:Issued: 2023 Feb 12 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 43 Issued at 2200Z on 12 Feb 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 11/2100Z to
+12/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M3 event observed at
+12/0848Z from Region 3217 (S12E22). There are currently 12 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be moderate
+with a chance for X-class flares on days one and two (13 Feb, 14 Feb)
+and likely to be moderate with a slight chance for an X-class flare on
+day three (15 Feb).
+
+IIA.  Geophysical Activity Summary 11/2100Z to 12/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 529 km/s at 11/2159Z. Total IMF reached 6
+nT at 11/2222Z. The maximum southward component of Bz reached -4 nT at
+12/0215Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 1206 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (13 Feb) and quiet to active levels on
+days two and three (14 Feb, 15 Feb). Protons have a slight chance of
+crossing threshold on days one and two (13 Feb, 14 Feb) and have a
+slight chance of crossing threshold on day three (15 Feb).
+
+III.  Event probabilities 13 Feb-15 Feb
+Class M    80/75/65
+Class X    25/25/20
+Proton     20/20/15
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           12 Feb 200
+Predicted   13 Feb-15 Feb 200/195/190
+90 Day Mean        12 Feb 157
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 11 Feb  010/009
+Estimated Afr/Ap 12 Feb  007/008
+Predicted Afr/Ap 13 Feb-15 Feb  006/005-007/010-013/015
+
+VI.  Geomagnetic Activity Probabilities 13 Feb-15 Feb
+A.  Middle Latitudes
+Active                10/30/30
+Minor Storm           01/05/15
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/25/30
+Major-severe storm    20/35/45

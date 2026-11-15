@@ -1,0 +1,52 @@
+:Product: 0313RSGA.txt
+:Issued: 2011 Mar 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 072 Issued at 2200Z on 13 Mar 2011
+IA.  Analysis of Solar Active Regions and Activity from  12/2100Z
+to 13/2100Z:  Solar activity was low.  Regions 1166 (N10W65) and 1169
+(N20W34) have both produced C-class events.  The daily consensus has
+Region 1166 as decreased in both white light areal coverage and
+sunspot count with a Ekc type spot group and a beta-gamma magnetic
+classification.  Region 1169 has maintained its area and spot count
+and is a simple beta magnetic classification with a Cro type spot
+group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for an M-class event.
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z:
+The geomagnetic field was quiet to unsettled.  The ACE spacecraft
+observed solar wind speeds during the past 24 hours averaging around
+550 km/s with the interplanetary magnetic field Bz fluctuating
+between -4/+5 nT.  Observations suggest that the earth is still
+under the influence of the coronal hole high speed stream. The
+greater than 2 MeV electron flux at geosynchronous orbit reached
+high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled with a chance for isolated active
+levels for day one (14 March).  Days two and three (15-16 March) are
+expected to be predominately quiet as the effects from the coronal
+hole high speed stream subside.
+III.  Event Probabilities 14 Mar-16 Mar
+Class M    40/20/20
+Class X    05/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           13 Mar 113
+Predicted   14 Mar-16 Mar  110/110/110
+90 Day Mean        13 Mar 093
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Mar  010/013
+Estimated Afr/Ap 13 Mar  005/005
+Predicted Afr/Ap 14 Mar-16 Mar  008/008-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 14 Mar-16 Mar
+A.  Middle Latitudes
+Active                25/05/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                30/05/05
+Minor storm           10/01/01
+Major-severe storm    01/01/01

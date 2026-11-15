@@ -1,0 +1,55 @@
+:Product: 0325RSGA.txt
+:Issued: 2011 Mar 25 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 084 Issued at 2200Z on 25 Mar 2011
+IA.  Analysis of Solar Active Regions and Activity from  24/2100Z
+to 25/2100Z:  Solar activity was at low levels. Only isolated B-class
+and low-level C-class events were observed during the period, all
+from Region 1176 (S16E30). The region grew in area and spot count,
+mostly from new development just to the NNE of the large leader
+spot. Both Regions 1177 (N21E24) and 1178 (S15E55) developed
+penumbra in their leader spots and were classified as bi-polar
+C-type groups. Two new regions rotated on the disk during the
+period; Region 1180 (N26E66) and Region 1181 (S23E69), both H-type
+groups. A partial Halo CME was first observed at 24/1203Z in LASCO
+C3 imagery extending through the northern hemisphere of the solar
+disk. The likely source was from the M1/1f flare from Region 1176 at
+24/1207Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+for the next three days (26 - 28 March) with a chance for M-class
+activity, primarily from Region 1176.
+IIA.  Geophysical Activity Summary 24/2100Z to 25/2100Z:
+The geomagnetic field was quiet. ACE solar wind data indicated a
+gradual decrease in velocities from a high of near 500 km/s at
+24/2304Z to a low of about 400 km/s at 25/1438Z. During the period,
+IMF Bz was variable between +5 nT and -4 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at predominately quiet levels for the days one and
+two (26 - 27 March). By day three (28 March), quiet to unsettled
+conditions, with isolated active periods, are possible due to
+effects from the 24 March CME.
+III.  Event Probabilities 26 Mar-28 Mar
+Class M    40/40/40
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           25 Mar 113
+Predicted   26 Mar-28 Mar  120/125/130
+90 Day Mean        25 Mar 096
+V.  Geomagnetic A Indices
+Observed Afr/Ap 24 Mar  003/004
+Estimated Afr/Ap 25 Mar  003/004
+Predicted Afr/Ap 26 Mar-28 Mar  005/005-005/005-010/005
+VI.  Geomagnetic Activity Probabilities 26 Mar-28 Mar
+A.  Middle Latitudes
+Active                10/10/20
+Minor storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/25
+Minor storm           01/01/10
+Major-severe storm    01/01/01

@@ -1,0 +1,50 @@
+:Product: 0124RSGA.txt
+:Issued: 2013 Jan 24 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 24 Issued at 2200Z on 24 Jan 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 23/2100Z to
+24/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 4 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be at very
+low to low levels on days one, two, and three (25 Jan, 26 Jan, 27 Jan).
+
+IIA.  Geophysical Activity Summary 23/2100Z to 24/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 293 km/s at
+24/0206Z. Total IMF reached 6.2 nT at 24/2018Z. The maximum southward
+component of Bz reached -3.4 nT at 23/2353Z. Electrons greater than 2
+MeV at geosynchronous orbit reached a peak level of 241 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels for the next three days (25 Jan, 26
+Jan, 27 Jan) due to a combination of coronal hole high speed stream
+effects and possible weak effects from the CME observed on 23 Jan.
+
+III.  Event probabilities 25 Jan-27 Jan
+Class M    05/05/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           24 Jan 103
+Predicted   25 Jan-27 Jan 100/100/095
+90 Day Mean        24 Jan 120
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 23 Jan  001/002
+Estimated Afr/Ap 24 Jan  002/002
+Predicted Afr/Ap 25 Jan-27 Jan  006/008-009/015-013/020
+
+VI.  Geomagnetic Activity Probabilities 25 Jan-27 Jan
+A.  Middle Latitudes
+Active                15/25/30
+Minor Storm           05/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/30/30
+Major-severe storm    25/35/40

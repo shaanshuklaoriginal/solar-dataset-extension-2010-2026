@@ -1,0 +1,51 @@
+:Product: 1116RSGA.txt
+:Issued: 2023 Nov 16 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 320 Issued at 2200Z on 16 Nov 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 15/2100Z to
+16/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C2 event observed at
+16/0433Z. There are currently 3 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a slight chance for an M-class flare on days one, two, and three (17
+Nov, 18 Nov, 19 Nov).
+
+IIA.  Geophysical Activity Summary 15/2100Z to 16/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 449 km/s at 16/1308Z. Total IMF reached 6
+nT at 15/2353Z. The maximum southward component of Bz reached -5 nT at
+16/0603Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 277 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (17 Nov), quiet levels on
+day two (18 Nov) and quiet to minor storm levels on day three (19 Nov).
+
+III.  Event probabilities 17 Nov-19 Nov
+Class M    15/20/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           16 Nov 118
+Predicted   17 Nov-19 Nov 118/120/122
+90 Day Mean        16 Nov 147
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 15 Nov  011/011
+Estimated Afr/Ap 16 Nov  008/008
+Predicted Afr/Ap 17 Nov-19 Nov  008/008-005/005-012/015
+
+VI.  Geomagnetic Activity Probabilities 17 Nov-19 Nov
+A.  Middle Latitudes
+Active                15/10/40
+Minor Storm           05/01/15
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/15/20
+Major-severe storm    20/10/30

@@ -1,0 +1,55 @@
+:Product: 0801RSGA.txt
+:Issued: 2023 Aug 01 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 213 Issued at 2200Z on 01 Aug 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 31/2100Z to
+01/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a M3 event observed at
+01/0657Z from Region 3380 (S10W55). There are currently 10 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one and two (02 Aug,
+03 Aug) and expected to be low with a chance for M-class flares on day
+three (04 Aug).
+
+IIA.  Geophysical Activity Summary 31/2100Z to 01/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 496 km/s at 31/2128Z. Total IMF reached 12
+nT at 01/1726Z. The maximum southward component of Bz reached -5 nT at
+01/1614Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 2013 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (02 Aug), quiet to
+unsettled levels on day two (03 Aug) and quiet levels on day three (04
+Aug). Protons greater than 10 Mev have a slight chance of crossing
+threshold on days one and two (02 Aug, 03 Aug).
+
+III.  Event probabilities 02 Aug-04 Aug
+Class M    55/55/50
+Class X    10/10/05
+Proton     10/10/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           01 Aug 175
+Predicted   02 Aug-04 Aug 175/170/165
+90 Day Mean        01 Aug 165
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 31 Jul  008/008
+Estimated Afr/Ap 01 Aug  011/015
+Predicted Afr/Ap 02 Aug-04 Aug  014/018-009/010-006/005
+
+VI.  Geomagnetic Activity Probabilities 02 Aug-04 Aug
+A.  Middle Latitudes
+Active                35/20/10
+Minor Storm           25/05/01
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/20/15
+Major-severe storm    45/20/10

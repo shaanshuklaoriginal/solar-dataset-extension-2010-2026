@@ -1,0 +1,46 @@
+:Product: 1221RSGA.txt
+:Issued: 2011 Dec 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 355 Issued at 2200Z on 21 Dec 2011
+IA.  Analysis of Solar Active Regions and Activity from  20/2100Z
+to 21/2100Z:  Solar activity was low.  Region 1376 (N20W59) produced
+the largest flare of the period, a C6/Sn at 20/2250Z.  It was
+classified as a Dsi type group with Beta magnetic characteristics. 
+Regions 1382 (S14W10) and 1384 (N14E52) produced the majority of the
+activity over the past 24 hours, mostly low level C-class flares. 
+These regions were classified as Dsc and Cao regions, respectively,
+both with Beta magnetic characteristics. There were several CMEs
+observed on LASCO C2 imagery, none of which were Earth directed.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+low with a slight chance for an M-class event for the next three
+days (22-24 December).
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain at quiet levels for the next three days (22-24
+December).
+III.  Event Probabilities 22 Dec-24 Dec
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           21 Dec 145
+Predicted   22 Dec-24 Dec  145/140/140
+90 Day Mean        21 Dec 145
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 Dec  005/004
+Estimated Afr/Ap 21 Dec  003/003
+Predicted Afr/Ap 22 Dec-24 Dec  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 22 Dec-24 Dec
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/10
+Major-severe storm    05/05/05

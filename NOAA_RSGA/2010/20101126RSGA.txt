@@ -1,0 +1,43 @@
+:Product: 1126RSGA.txt
+:Issued: 2010 Nov 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 330 Issued at 2200Z on 26 Nov 2010
+IA.  Analysis of Solar Active Regions and Activity from  25/2100Z
+to 26/2100Z:  Solar activity has been very low. Region 1128 (S14E46)
+has grown slightly in extent and is a Bxo-Beta type spot group.
+IB.  Solar Activity Forecast:  Solar activity is expected to very
+low, with a slight chance for an isolated C-class event from Region
+1128.
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z:
+The geomagnetic field has been quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for day one (27 November). Day two (28
+November) is expected to be quiet with a slight chance for isolated
+unsettled periods due to the CME observed on 24 November becoming
+geo-effective. Conditions are expected to return to quiet levels on
+day three (29 November).
+III.  Event Probabilities 27 Nov-29 Nov
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           26 Nov 076
+Predicted   27 Nov-29 Nov  076/076/076
+90 Day Mean        26 Nov 082
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Nov  002/004
+Estimated Afr/Ap 26 Nov  001/002
+Predicted Afr/Ap 27 Nov-29 Nov  005/005-007/010-005/005
+VI.  Geomagnetic Activity Probabilities 27 Nov-29 Nov
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/15/10
+Minor storm           05/10/05
+Major-severe storm    01/01/01

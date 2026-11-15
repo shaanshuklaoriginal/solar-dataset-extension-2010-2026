@@ -1,0 +1,63 @@
+:Product: 0424RSGA.txt
+:Issued: 2012 Apr 24 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 115 Issued at 2200Z on 24 Apr 2012
+IA.  Analysis of Solar Active Regions and Activity from  23/2100Z
+to 24/2100Z:  Solar activity has been at low levels for the past 24
+hours with multiple C-class x-ray events. A C3 flare was observed at
+24/0745Z off the east limb from new Region 1467 (N14E72). Associated
+with this event, were both a type II radio sweep (estimated shock
+velocity of 1029 km/s) and a non-Earth directed CME. Two other new
+regions were numbered today, Region 1468 (N09E12) which rapidly
+emerged on the disk and Region 1469 (S21E68), which rotated onto the
+disk. The remaining active regions were stable and quiet today,
+except for Region 1465 (S19W12). Region 1465 showed a consolidation
+of both leader and follower spot groups into one cluster and is now
+classified as a beta-gamma-delta.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a slight chance for M-class activity for the next
+three days (25 - 27 April).
+IIA.  Geophysical Activity Summary 23/2100Z to 24/2100Z:
+The geomagnetic field ranged from quiet to major storm levels during
+the past 24 hours due to continued CME effects and the arrival of a
+coronal hole high speed stream (CH HSS). Early in the period, 
+measurements from the ACE spacecraft showed extensive southward
+(negative) periods of the Bz component of the IMF. Even though solar
+wind speeds remained well below nominal levels, these periods drove
+the majority of the geomagnetic activity. Around 24/0200Z, CH HSS
+characteristics were observed by the ACE spacecraft with solar wind
+density dropping off as the solar wind speed increased. At the time
+of this report, solar wind speeds had increased from around 350 km/s
+to around 630 km/s.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to active levels on day one (25 April) as
+the effects of a CH HSS continue. An increase to active with a
+chance for isolated minor storm periods is expected on day two (26
+April) as the CME from 23 April is expected to become geoeffective.
+Quiet to unsettled levels are expected on day three (27 April) as
+effects of the CME wane.
+III.  Event Probabilities 25 Apr-27 Apr
+Class M    20/20/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           24 Apr 134
+Predicted   25 Apr-27 Apr  130/130/125
+90 Day Mean        24 Apr 112
+V.  Geomagnetic A Indices
+Observed Afr/Ap 23 Apr  021/030
+Estimated Afr/Ap 24 Apr  021/031
+Predicted Afr/Ap 25 Apr-27 Apr  012/018-017/022-011/015
+VI.  Geomagnetic Activity Probabilities 25 Apr-27 Apr
+A.  Middle Latitudes
+Active                25/40/25
+Minor storm           10/20/10
+Major-severe storm    01/05/01
+B.  High Latitudes
+Active                45/50/40
+Minor storm           25/30/25
+Major-severe storm    15/15/10

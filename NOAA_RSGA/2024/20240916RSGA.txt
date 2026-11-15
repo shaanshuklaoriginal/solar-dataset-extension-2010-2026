@@ -1,0 +1,57 @@
+:Product: 0916RSGA.txt
+:Issued: 2024 Sep 16 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 260 Issued at 2200Z on 16 Sep 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 15/2100Z to
+16/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C5 event observed at
+16/0125Z from Region 3824 (S04W40). There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on day one (17 Sep) and
+expected to be low with a chance for M-class flares and a slight chance
+for an X-class flare on days two and three (18 Sep, 19 Sep).
+
+IIA.  Geophysical Activity Summary 15/2100Z to 16/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 580 km/s at 16/0606Z. Total IMF reached 10
+nT at 16/0947Z. The maximum southward component of Bz reached -9 nT at
+16/0932Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 4 pfu at 15/2150Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 2241 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to major storm levels on day one (17 Sep) and quiet to
+unsettled levels on days two and three (18 Sep, 19 Sep). Protons have a
+slight chance of crossing threshold on day one (17 Sep), have a slight
+chance of crossing threshold on day two (18 Sep) and have a slight
+chance of crossing threshold on day three (19 Sep).
+
+III.  Event probabilities 17 Sep-19 Sep
+Class M    55/45/40
+Class X    15/10/10
+Proton     20/15/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           16 Sep 170
+Predicted   17 Sep-19 Sep 170/170/170
+90 Day Mean        16 Sep 217
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 15 Sep  016/020
+Estimated Afr/Ap 16 Sep  022/027
+Predicted Afr/Ap 17 Sep-19 Sep  019/028-007/010-007/008
+
+VI.  Geomagnetic Activity Probabilities 17 Sep-19 Sep
+A.  Middle Latitudes
+Active                30/30/20
+Minor Storm           35/15/05
+Major-severe storm    25/05/01
+B.  High Latitudes
+Active                05/15/15
+Minor Storm           15/30/20
+Major-severe storm    80/50/25

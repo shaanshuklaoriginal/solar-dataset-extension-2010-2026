@@ -1,0 +1,52 @@
+:Product: 1224RSGA.txt
+:Issued: 2022 Dec 24 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 358 Issued at 2200Z on 24 Dec 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 23/2100Z to
+24/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C4 event observed at
+24/0414Z from Region 3169 (N20W21). There are currently 5 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low with a
+slight chance for an M-class flare on days one, two, and three (25 Dec,
+26 Dec, 27 Dec).
+
+IIA.  Geophysical Activity Summary 23/2100Z to 24/2100Z: The geomagnetic
+field has been at unsettled to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 685 km/s at 24/1012Z. Total IMF
+reached 11 nT at 24/0218Z. The maximum southward component of Bz reached
+-9 nT at 24/0359Z.  Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 1509 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one and two (25 Dec, 26 Dec) and
+unsettled to minor storm levels on day three (27 Dec).
+
+III.  Event probabilities 25 Dec-27 Dec
+Class M    10/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           24 Dec 133
+Predicted   25 Dec-27 Dec 133/135/136
+90 Day Mean        24 Dec 133
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 23 Dec  019/024
+Estimated Afr/Ap 24 Dec  020/025
+Predicted Afr/Ap 25 Dec-27 Dec  018/020-015/018-023/030
+
+VI.  Geomagnetic Activity Probabilities 25 Dec-27 Dec
+A.  Middle Latitudes
+Active                25/25/25
+Minor Storm           05/05/20
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                15/15/10
+Minor Storm           20/20/20
+Major-severe storm    25/20/50

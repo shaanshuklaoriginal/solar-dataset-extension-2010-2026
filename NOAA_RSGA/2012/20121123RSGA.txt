@@ -1,0 +1,66 @@
+:Product: 1123RSGA.txt
+:Issued: 2012 Nov 23 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 328 Issued at 2200Z on 23 Nov 2012
+
+IA.  Analysis of Solar Active Regions and Activity from 22/2100Z to
+23/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+23/1212Z from Region 1618 (N08W27). Although this region retained its
+beta-gamma-delta magnetic characteristics, it experienced intermediate
+penumbral decay. All other regions on the disk remained stable and
+quiet.  Between 1200 and 1300Z, a 29 degree filament was observed in SDO
+AIA 304 imagery lifting off from the southeast limb.  The subsequent CME
+was observed in STEREO-A and B COR2 imagery beginning around 1400Z. 
+Using geometric localization, a preliminary speed of approximately 550
+km/s was obtained.  This suggests an arrival at earth early on 27
+November.
+
+IB.  Solar Activity Forecast: Solar activity is expected to be at low
+levels, with a slight chance for moderate activity, for the entire
+forecast period (24-26 Nov).
+
+IIA.  Geophysical Activity Summary 22/2100Z to 23/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+at the ACE spacecraft reached 389km/s at 23/2117Z. Total IMF reached 12
+nT at 23/2116Z. The maximum southward component of Bz was -8.8 nT at
+23/2112Z. These values coincided with the arrival of an interplanetary
+shock at ACE around 23/2112Z from the 20 Nov CME.  The greater than 2
+MeV electron flux at geosynchronous orbit reached a maximum of 1408 pfu.
+
+IIB.  Geophysical Activity Forecast: Geomagnetic field activity is
+expected to begin at active levels and reach major storm levels early on
+day one (24 Nov) with the effects from the 20 Nov CME coupled with the
+anticipated arrival of  the 21 Nov CME.  On day two (25 Nov), conditions
+are expected to return to unsettled to active levels due to residual CME
+effects combined with a coronal hole high speed stream.  The unsettled
+levels may persist into day three (26 November).
+
+III.  Event probabilities 24 Nov-26 Nov
+Class M    20/20/20
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           23 Nov 126
+Predicted   24 Nov-26 Nov 125/120/115
+90 Day Mean        23 Nov 123
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 22 Nov  001/001
+Estimated Afr/Ap 23 Nov  005/007
+Predicted Afr/Ap 24 Nov-26 Nov  023/090-013/018-006/005
+
+VI.  Geomagnetic Activity Probabilities 24 Nov-26 Nov
+A.  Middle Latitudes
+Active                35/30/05
+Minor Storm           30/15/01
+Major-severe storm    10/05/01
+B.  High Latitudes
+Active                10/15/15
+Minor Storm           20/30/10
+Major-severe storm    65/50/05

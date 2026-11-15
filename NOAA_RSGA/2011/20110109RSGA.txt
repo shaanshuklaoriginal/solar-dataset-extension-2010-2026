@@ -1,0 +1,53 @@
+:Product: 0109RSGA.txt
+:Issued: 2011 Jan 09 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 009 Issued at 2200Z on 09 Jan 2011
+IA.  Analysis of Solar Active Regions and Activity from  08/2100Z
+to 09/2100Z:  Solar activity remained at very low levels. Region 1140
+(N32W49) produced a B1 flare at 09/1351Z. Region 1140 showed signs
+of decay with the loss of spots in the positive-polarity field just
+north of the main spot and was classified as an Hsx group. The
+remaining spot groups were A- and B-types with simple magnetic
+configurations, including newly numbered Regions 1144 (S16W36) and
+1145 (N15E35).
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low levels through the period (10 - 12 January).
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z:
+Geomagnetic field activity remained at quiet to unsettled levels. ACE
+solar wind measurements indicated Earth remained within a recurrent
+coronal hole high-speed stream. Solar wind velocities were variable
+in the 554 to 648 km/s range. IMF Bt showed a gradual increase with
+a peak value of 6 nT observed late in the period. IMF Bz was
+variable and ranged from +5 to -4 nT during the period. The greater
+than 2 MeV electron flux at geosynchronous orbit reached high levels
+during the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at quiet to unsettled levels during day 1 (10
+January) as the coronal hole high-speed stream persists. Field
+activity is expected to decrease to quiet levels during days 2 - 3
+(11 - 12 January) as the high-speed stream subsides.
+III.  Event Probabilities 10 Jan-12 Jan
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           09 Jan 083
+Predicted   10 Jan-12 Jan  082/082/080
+90 Day Mean        09 Jan 084
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 Jan  006/007
+Estimated Afr/Ap 09 Jan  004/005
+Predicted Afr/Ap 10 Jan-12 Jan  007/008-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 10 Jan-12 Jan
+A.  Middle Latitudes
+Active                15/10/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/15/10
+Minor storm           10/05/01
+Major-severe storm    01/01/01

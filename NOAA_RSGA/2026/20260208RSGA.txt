@@ -1,0 +1,52 @@
+:Product: 0208RSGA.txt
+:Issued: 2026 Feb 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 39 Issued at 2200Z on 08 Feb 2026
+
+IA.  Analysis of Solar Active Regions and Activity from 07/2100Z to
+08/2100Z: Solar activity has been at moderate levels for the past 24
+hours. There are currently 8 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a chance for X-class flares on days one, two, and three (09 Feb, 10
+Feb, 11 Feb).
+
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 565 km/s at 08/1537Z. Total IMF reached 8
+nT at 08/2056Z. The maximum southward component of Bz reached -6 nT at
+07/2143Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 1893 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to active levels on day one (09 Feb), quiet to
+unsettled levels on day two (10 Feb) and quiet levels on day three (11
+Feb). Protons have a chance of crossing threshold on days one, two, and
+three (09 Feb, 10 Feb, 11 Feb).
+
+III.  Event probabilities 09 Feb-11 Feb
+Class M    65/65/65
+Class X    25/25/25
+Proton     25/25/25
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           08 Feb 167
+Predicted   09 Feb-11 Feb 165/160/155
+90 Day Mean        08 Feb 151
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Feb  011/015
+Estimated Afr/Ap 08 Feb  009/012
+Predicted Afr/Ap 09 Feb-11 Feb  012/015-009/008-006/005
+
+VI.  Geomagnetic Activity Probabilities 09 Feb-11 Feb
+A.  Middle Latitudes
+Active                30/15/10
+Minor Storm           15/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           30/25/20
+Major-severe storm    45/25/20

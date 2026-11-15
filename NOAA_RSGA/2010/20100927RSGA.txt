@@ -1,0 +1,42 @@
+:Product: 0927RSGA.txt
+:Issued: 2010 Sep 27 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 270 Issued at 2200Z on 27 Sep 2010
+IA.  Analysis of Solar Active Regions and Activity from  26/2100Z
+to 27/2100Z:  Solar activity was very low.  Region 1109 (N22E02) has
+grown slightly in white light areal coverage and remains an E-type
+group with a beta magnetic configuration.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low with a chance for a C-class flare from Region 1109.
+IIA.  Geophysical Activity Summary 26/2100Z to 27/2100Z:
+The geomagnetic field was at quiet to unsettled levels.  Observations
+from the ACE spacecraft during the period show solar wind speeds
+ranging between 450-500 km/s and the IMF Bz between +5/-5 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at predominantly quiet levels with isolated unsettled
+periods for the next three days (28-30 September).
+III.  Event Probabilities 28 Sep-30 Sep
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           27 Sep 083
+Predicted   28 Sep-30 Sep  084/084/083
+90 Day Mean        27 Sep 080
+V.  Geomagnetic A Indices
+Observed Afr/Ap 26 Sep  008/006
+Estimated Afr/Ap 27 Sep  005/005
+Predicted Afr/Ap 28 Sep-30 Sep  007/007-007/007-005/005
+VI.  Geomagnetic Activity Probabilities 28 Sep-30 Sep
+A.  Middle Latitudes
+Active                10/10/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/05
+Minor storm           05/05/01
+Major-severe storm    01/01/01

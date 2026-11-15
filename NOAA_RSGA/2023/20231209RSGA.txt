@@ -1,0 +1,51 @@
+:Product: 1209RSGA.txt
+:Issued: 2023 Dec 09 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 343 Issued at 2200Z on 09 Dec 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 08/2100Z to
+09/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a M5 event observed at
+08/2307Z from Region 3511 (S22W45). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(10 Dec, 11 Dec, 12 Dec).
+
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 467 km/s at 09/1333Z.  Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 1133 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (10 Dec) and quiet to unsettled levels
+on days two and three (11 Dec, 12 Dec). Protons have a slight chance of
+crossing threshold on days one, two, and three (10 Dec, 11 Dec, 12 Dec).
+
+III.  Event probabilities 10 Dec-12 Dec
+Class M    55/55/55
+Class X    10/10/10
+Proton     10/10/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           09 Dec 128
+Predicted   10 Dec-12 Dec 128/125/120
+90 Day Mean        09 Dec 150
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 Dec  004/003
+Estimated Afr/Ap 09 Dec  003/003
+Predicted Afr/Ap 10 Dec-12 Dec  005/005-011/012-011/012
+
+VI.  Geomagnetic Activity Probabilities 10 Dec-12 Dec
+A.  Middle Latitudes
+Active                05/15/15
+Minor Storm           01/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           15/20/20
+Major-severe storm    05/10/10

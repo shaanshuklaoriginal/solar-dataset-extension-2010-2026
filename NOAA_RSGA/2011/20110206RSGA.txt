@@ -1,0 +1,44 @@
+:Product: 0206RSGA.txt
+:Issued: 2011 Feb 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 037 Issued at 2200Z on 06 Feb 2011
+IA.  Analysis of Solar Active Regions and Activity from  05/2100Z
+to 06/2100Z:  Solar activity has been at very low levels for the past
+24 hours.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low levels for the next three days (07-09 February).
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z:
+The geomagnetic field has been predominantly unsettled with an
+isolated active period from 06/0600Z-0900Z. This enhanced activity
+is due to the effects of a waning coronal hole high-speed stream (CH
+HSS). The greater than 2 MeV electron flux at geosynchronous orbit
+reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled on day one (07 February) as the
+effects of a CH HSS continue to wane. Predominantly quiet levels are
+expected on days two and three (08-09 February).
+III.  Event Probabilities 07 Feb-09 Feb
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           06 Feb 080
+Predicted   07 Feb-09 Feb  080/078/078
+90 Day Mean        06 Feb 083
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Feb  011/013
+Estimated Afr/Ap 06 Feb  008/010
+Predicted Afr/Ap 07 Feb-09 Feb  008/008-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 07 Feb-09 Feb
+A.  Middle Latitudes
+Active                20/05/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/10/10
+Minor storm           10/01/01
+Major-severe storm    01/01/01

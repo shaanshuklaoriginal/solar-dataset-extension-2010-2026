@@ -1,0 +1,44 @@
+:Product: 0320RSGA.txt
+:Issued: 2010 Mar 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 079 Issued at 2200Z on 20 Mar 2010
+IA.  Analysis of Solar Active Regions and Activity from  19/2100Z
+to 20/2100Z:  Solar activity was very low. Region 1054 (N16W82) has
+decayed to an Axx Alpha spot and has been quiet. Region 1056
+(N18E07) remains stable and quiet as a Bxo Beta region. A fast
+moving CME that overtook the CME from 19 March is visible off the
+west limb on LASCO C3.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+very low for the next 3 days (21-23 March).
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z:
+The geomagnetic field was mostly quiet with a brief period of
+unsettled to active conditions (03-09Z) due to extended Bz south and
+slightly elevated solar wind speeds near 420km/s.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain quiet with brief periods of unsettled conditions
+over the next 3 days (21-23 March).
+III.  Event Probabilities 21 Mar-23 Mar
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           20 Mar 084
+Predicted   21 Mar-23 Mar  084/084/084
+90 Day Mean        20 Mar 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 Mar  002/004
+Estimated Afr/Ap 20 Mar  007/006
+Predicted Afr/Ap 21 Mar-23 Mar  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 21 Mar-23 Mar
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor storm           05/05/05
+Major-severe storm    01/01/01

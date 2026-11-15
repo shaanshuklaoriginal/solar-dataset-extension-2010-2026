@@ -1,0 +1,49 @@
+:Product: 0603RSGA.txt
+:Issued: 2010 Jun 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 154 Issued at 2200Z on 03 Jun 2010
+IA.  Analysis of Solar Active Regions and Activity from  02/2100Z
+to 03/2100Z:  Solar activity has been at very low levels for the past
+24 hours. Region 1076 (S19W36) has grown in size and is magnetically
+classified as a beta group. No new regions were numbered today.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+at very low levels with a slight chance for C-class events for the
+next three days (04-06 June).
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z:
+The geomagnetic field ranged from quiet to active levels at mid
+latitudes with isolated storm periods from 0900Z-1500Z at high
+latitudes. Observations from the ACE spacecraft indicate a
+continuation of a high speed solar wind stream, with an increase in
+solar wind speed from 450 km/s to 550 km/s. The greater than 2 MeV
+electron flux at geosynchronous orbit was at high levels.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels with a slight chance for
+isolated active periods for the next two days (04-05 June). 
+Activity is due to a recurrent coronal hole high speed stream on day
+one and the arrival of a CME observed on 31 May on day two.
+Predominantly quiet conditions are expected on day three (06 June).
+III.  Event Probabilities 04 Jun-06 Jun
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           03 Jun 075
+Predicted   04 Jun-06 Jun  075/074/074
+90 Day Mean        03 Jun 077
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Jun  004/006
+Estimated Afr/Ap 03 Jun  010/010
+Predicted Afr/Ap 04 Jun-06 Jun  010/010-008/008-005/005
+VI.  Geomagnetic Activity Probabilities 04 Jun-06 Jun
+A.  Middle Latitudes
+Active                25/20/10
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                30/25/15
+Minor storm           10/10/01
+Major-severe storm    01/01/01

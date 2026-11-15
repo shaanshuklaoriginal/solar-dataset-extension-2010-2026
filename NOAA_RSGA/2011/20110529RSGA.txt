@@ -1,0 +1,58 @@
+:Product: 0529RSGA.txt
+:Issued: 2011 May 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 149 Issued at 2200Z on 29 May 2011
+IA.  Analysis of Solar Active Regions and Activity from  28/2100Z
+to 29/2100Z:  Solar activity was moderate.  At 29/1033Z, a
+long-duration M1/1F flare occurred from Region 1126 (S21E54).  The
+flare was accompanied by a Type II (554 km/s shock velocity) radio
+emission and a CME was later visible in both SOHO/LASCO and STEREO
+COR2 imagery.  The CME speed was estimated at 550 km/s using
+plane-of-sky measurements.  The CME is not expected to be
+geoeffective, based on its origin.  Region 1126 grew in area and
+spot count over the past 24 hours.  Two magnetically simple new
+regions, 1127 (S19E69) and 1128 (N17E67), were numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+to moderate.  More C-class events are expected and there is a
+continued chance of an M-class event.
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z:
+The geomagnetic field ranged from unsettled to minor storm levels.
+Solar wind speed rose above 500 km/s early in the period and ranged
+between 700-800 km/s for the remainder.  The Bz component of the
+interplanetary magnetic field fluctuated between +7 and -9 nT.  At
+the same time the wind speed increased, temperature increased,
+density decreased and the Phi angle became negative.  These
+observations were consistent with a geoeffective coronal hole high
+speed stream. The greater than 2 MeV electron flux at geosynchronous
+orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The goemagnetic field is
+expected to decline from predominantly unsettled to active levels on
+day 1 (30 May), to quiet to unsettled levels on days 2 and 3 (31 May
+- 01 Jun) as the coronal hole high speed stream wanes.  There
+remains a chance for isolated minor storm periods at high latitudes
+on day 1.
+III.  Event Probabilities 30 May-01 Jun
+Class M    40/40/40
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           29 May 111
+Predicted   30 May-01 Jun  110/110/110
+90 Day Mean        29 May 108
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 May  032/040
+Estimated Afr/Ap 29 May  025/043
+Predicted Afr/Ap 30 May-01 Jun  015/020-010/012-005/010
+VI.  Geomagnetic Activity Probabilities 30 May-01 Jun
+A.  Middle Latitudes
+Active                25/10/05
+Minor storm           10/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                35/20/05
+Minor storm           20/10/01
+Major-severe storm    10/05/01

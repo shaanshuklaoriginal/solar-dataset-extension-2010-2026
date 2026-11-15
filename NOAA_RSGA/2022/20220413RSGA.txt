@@ -1,0 +1,52 @@
+:Product: 0413RSGA.txt
+:Issued: 2022 Apr 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 103 Issued at 2200Z on 13 Apr 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 12/2100Z to
+13/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 3 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a slight chance for a C-class flare on day one (14 Apr) and
+expected to be very low with a chance for a C-class flares on days two
+and three (15 Apr, 16 Apr).
+
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 519 km/s at 13/0202Z. Total IMF reached 11
+nT at 13/0938Z. The maximum southward component of Bz reached -5 nT at
+13/0646Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 1415 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to major storm levels on day one (14 Apr), quiet to
+minor storm levels on day two (15 Apr) and quiet to active levels on day
+three (16 Apr).
+
+III.  Event probabilities 14 Apr-16 Apr
+Class M    01/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           13 Apr 099
+Predicted   14 Apr-16 Apr 100/103/105
+90 Day Mean        13 Apr 113
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Apr  010/011
+Estimated Afr/Ap 13 Apr  011/011
+Predicted Afr/Ap 14 Apr-16 Apr  023/035-015/020-012/012
+
+VI.  Geomagnetic Activity Probabilities 14 Apr-16 Apr
+A.  Middle Latitudes
+Active                25/35/30
+Minor Storm           40/30/10
+Major-severe storm    25/15/01
+B.  High Latitudes
+Active                05/05/15
+Minor Storm           15/20/25
+Major-severe storm    79/70/40

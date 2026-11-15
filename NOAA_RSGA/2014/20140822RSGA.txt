@@ -1,0 +1,52 @@
+:Product: 0822RSGA.txt
+:Issued: 2014 Aug 22 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 234 Issued at 2200Z on 22 Aug 2014
+
+IA.  Analysis of Solar Active Regions and Activity from 21/2100Z to
+22/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+22/0628Z from Region 2149 (N12E63). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (23 Aug, 24 Aug,
+25 Aug).
+
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+380 km/s at 22/1505Z. Total IMF reached 5 nT at 22/0634Z. The maximum
+southward component of Bz reached -3 nT at 22/0230Z. Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 288 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one, two, and three (23 Aug, 24 Aug, 25
+Aug).
+
+III.  Event probabilities 23 Aug-25 Aug
+Class M    30/30/30
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           22 Aug 126
+Predicted   23 Aug-25 Aug 130/140/145
+90 Day Mean        22 Aug 126
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 Aug  012/012
+Estimated Afr/Ap 22 Aug  005/005
+Predicted Afr/Ap 23 Aug-25 Aug  005/005-006/005-006/005
+
+VI.  Geomagnetic Activity Probabilities 23 Aug-25 Aug
+A.  Middle Latitudes
+Active                05/05/05
+Minor Storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           15/15/10
+Major-severe storm    05/05/05

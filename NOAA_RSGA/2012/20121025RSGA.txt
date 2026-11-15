@@ -1,0 +1,49 @@
+:Product: 1025RSGA.txt
+:Issued: 2012 Oct 25 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 299 Issued at 2200Z on 25 Oct 2012
+IA.  Analysis of Solar Active Regions and Activity from  24/2100Z
+to 25/2100Z:  Solar activity has been low.  Region 1598 (S12E18)
+produced a few low-level C-class events throughout the period, and
+remains the most magnetically complex region on the disk.  Although
+Region 1598 continues to decay, a weak Delta magnetic configuration
+was still observed in the regions trailer spots.  Region 1596
+(N07W21) is a moderately sized region with some magnetic complexity,
+but did not produce any flares during the period.  The other regions
+on the disk were either stable or decaying.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+to moderate with a chance for M-class events for the next three days
+(26 - 28 Oct) with Region 1598 the most likely source.
+IIA.  Geophysical Activity Summary 24/2100Z to 25/2100Z:
+The geomagnetic field was quiet for the past 24 hours.  Solar wind
+speed, as measured at the ACE spacecraft, was predominately steady
+around 350 km/s.  The Bz component of the interplanetary magnetic
+field ranged between +/- 4 nT. The greater than 2 MeV electron flux
+at geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the next three days (26 - 28 Oct).
+III.  Event Probabilities 26 Oct-28 Oct
+Class M    30/20/10
+Class X    05/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           25 Oct 130
+Predicted   26 Oct-28 Oct  125/120/115
+90 Day Mean        25 Oct 122
+V.  Geomagnetic A Indices
+Observed Afr/Ap 24 Oct  003/004
+Estimated Afr/Ap 25 Oct  003/004
+Predicted Afr/Ap 26 Oct-28 Oct  006/005-006/005-006/005
+VI.  Geomagnetic Activity Probabilities 26 Oct-28 Oct
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/10
+Major-severe storm    05/05/05

@@ -1,0 +1,43 @@
+:Product: 0831RSGA.txt
+:Issued: 2010 Aug 31 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 243 Issued at 2200Z on 31 Aug 2010
+IA.  Analysis of Solar Active Regions and Activity from  30/2100Z
+to 31/2100Z:  Solar activity has been at very low levels for the past
+24 hours. Region 1101 (N12W19) and Region 1102 (N28W40) both
+remained stable and quiet. No flares were observed on the visible
+disk. No new regions were numbered today.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low levels for the next three days (01-03 September).
+IIA.  Geophysical Activity Summary 30/2100Z to 31/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+The greater than 2 MeV electron flux at geosynchronous orbit was at
+high levels throughout the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels for the next three days (01-03
+September).
+III.  Event Probabilities 01 Sep-03 Sep
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           31 Aug 075
+Predicted   01 Sep-03 Sep  076/076/076
+90 Day Mean        31 Aug 077
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Aug  000/002
+Estimated Afr/Ap 31 Aug  000/004
+Predicted Afr/Ap 01 Sep-03 Sep  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 01 Sep-03 Sep
+A.  Middle Latitudes
+Active                10/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

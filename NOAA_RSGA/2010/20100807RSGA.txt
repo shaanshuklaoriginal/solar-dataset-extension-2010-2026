@@ -1,0 +1,42 @@
+:Product: 0807RSGA.txt
+:Issued: 2010 Aug 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 219 Issued at 2200Z on 07 Aug 2010
+IA.  Analysis of Solar Active Regions and Activity from  06/2100Z
+to 07/2100Z:  Solar activity was moderate. Region 1093 (N10E30)
+produced an M1/2f flare at 07/1824Z. Associated with this event were
+Tenflare signatures at 07/1827Z (110 sfu) and 07/1901Z (150 sfu)
+along with Type II (675 km/s) and Type IV radio sweeps.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low with C-class flares likely from Region 1093 and 1095
+(S18E19). A chance of M-class activity is possible from Region 1093.
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z:
+Geomagnetic field activity was quiet.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be mostly quiet with an isolated chance of unsettled
+levels during the next three days (08 - 10 August).
+III.  Event Probabilities 08 Aug-10 Aug
+Class M    25/25/25
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           07 Aug 085
+Predicted   08 Aug-10 Aug  084/082/080
+90 Day Mean        07 Aug 076
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Aug  006/008
+Estimated Afr/Ap 07 Aug  005/005
+Predicted Afr/Ap 08 Aug-10 Aug  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 08 Aug-10 Aug
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01

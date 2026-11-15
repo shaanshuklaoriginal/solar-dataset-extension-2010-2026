@@ -1,0 +1,46 @@
+:Product: 0321RSGA.txt
+:Issued: 2012 Mar 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 081 Issued at 2200Z on 21 Mar 2012
+IA.  Analysis of Solar Active Regions and Activity from  20/2100Z
+to 21/2100Z:  Solar activity was low. There were four C-class flares
+with three of these originating from the newly emerging Region 1440
+(S26W24).  The largest was a C2 flare that occurred at 1252Z. 
+Region 1440 showed development throughout the day and appears to
+have a small magnetic delta configuration in the trailing portion of
+the group.  There was a back-sided full halo CME from old Region
+1429 that was observed in LASCO C2 imagery beginning at 21/0736Z. 
+This CME is not expected to be geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with an slight chance for an isolated M-flare from Region 1440.
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z:
+The geomagnetic field has been quiet. The greater than 2 MeV electron
+flux at geosynchronous orbit was at high levels throughout the
+period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet for the next three days (22-24 March).
+III.  Event Probabilities 22 Mar-24 Mar
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           21 Mar 100
+Predicted   22 Mar-24 Mar  095/090/090
+90 Day Mean        21 Mar 122
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 Mar  004/005
+Estimated Afr/Ap 21 Mar  003/004
+Predicted Afr/Ap 22 Mar-24 Mar  007/007-006/005-006/005
+VI.  Geomagnetic Activity Probabilities 22 Mar-24 Mar
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           15/15/15
+Major-severe storm    05/05/05

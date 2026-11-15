@@ -1,0 +1,51 @@
+:Product: 0413RSGA.txt
+:Issued: 2012 Apr 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 104 Issued at 2200Z on 13 Apr 2012
+IA.  Analysis of Solar Active Regions and Activity from  12/2100Z
+to 13/2100Z:  Solar activity was very low. Region 1455 (N07W19)
+produced occasional B-class x-ray flares. It showed gradual spot and
+penumbral growth during the period as well as a mix of polarities in
+its intermediate and trailer portions, which indicated a beta-gamma
+magnetic structure. New Region 1457 (N22E41) was numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low during days 1 - 3 (14 - 16 April) with a chance for isolated
+C-class flares from Region 1455.
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z:
+Geomagnetic field activity ranged from quiet to minor storm levels
+with a brief period of major storm at high latitudes. The increased
+field activity was associated with a persistent coronal hole
+high-speed stream (CH HSS). Solar winds speeds gradually increased
+during the first half of the period (maximum speed 693 km/s at
+13/0846Z), then gradually decreased during the second half of the
+period (minimum speed 544 km/s at 13/1941Z).
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at quiet to unsettled levels during days 1 - 2 (14 -
+15 April) with a chance for active levels due to persistent CH HSS
+effects. Activity is expected to decrease to mostly quiet levels on
+day 3 (16 April) as the CH HSS subsides.
+III.  Event Probabilities 14 Apr-16 Apr
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           13 Apr 098
+Predicted   14 Apr-16 Apr  100/100/100
+90 Day Mean        13 Apr 114
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Apr  011/014
+Estimated Afr/Ap 13 Apr  014/020
+Predicted Afr/Ap 14 Apr-16 Apr  007/012-010/012-004/005
+VI.  Geomagnetic Activity Probabilities 14 Apr-16 Apr
+A.  Middle Latitudes
+Active                30/25/15
+Minor storm           20/15/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                35/30/20
+Minor storm           25/20/10
+Major-severe storm    01/01/01

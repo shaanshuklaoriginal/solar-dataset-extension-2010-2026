@@ -1,0 +1,55 @@
+:Product: 1105RSGA.txt
+:Issued: 2011 Nov 05 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 309 Issued at 2200Z on 05 Nov 2011
+IA.  Analysis of Solar Active Regions and Activity from  04/2100Z
+to 05/2100Z:  Solar activity was moderate. Region 1339 (N19E31)
+produced three M-class events during the past 24 hours, the largest
+of which was an M3/1F at 0335Z. The other two M flares were an M1 at
+1121Z and another M1 at 2038Z. Region 1339 continues to be the
+dominant group on the disk but showed a slight decrease in area and
+magnetic complexity. Nonetheless the group is still large (about
+1190 millionths) and still has at least two magnetic delta
+configurations. New Region 1340 (S09E61) was assigned and is a
+simple H-type sunspot group. White light imagery from SDO show two
+significant spot groups rotating around east limb at about 9 degrees
+north and 17 degrees north. These are assigned NOAA Region numbers
+1341 and 1342 respectively. The proximity of these regions to the
+limb makes it difficult to assess their size and complexity at this
+time.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate but with a slight chance for major flare activity (M5 or
+higher). In addition, as Region 1339 rotates closer to central
+meridian there will also be a slight chance for a proton producing
+event.
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z:
+The geomagnetic field was quiet during the past 24 hours. The proton
+enhancement that began on 04 October continued to show decreasing
+flux but was still slightly elevated above background levels.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the next three days.
+III.  Event Probabilities 06 Nov-08 Nov
+Class M    70/70/70
+Class X    10/10/10
+Proton     05/10/10
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           05 Nov 172
+Predicted   06 Nov-08 Nov  175/175/175
+90 Day Mean        05 Nov 127
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 Nov  003/004
+Estimated Afr/Ap 05 Nov  005/005
+Predicted Afr/Ap 06 Nov-08 Nov  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 06 Nov-08 Nov
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

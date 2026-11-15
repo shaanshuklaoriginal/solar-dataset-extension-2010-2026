@@ -1,0 +1,40 @@
+:Product: 0618RSGA.txt
+:Issued: 2010 Jun 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 169 Issued at 2200Z on 18 Jun 2010
+IA.  Analysis of Solar Active Regions and Activity from  17/2100Z
+to 18/2100Z:  Solar activity has been very low.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low.
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z:
+The geomagnetic field has been quiet.  Solar wind data from the ACE
+spacecraft indicates the continuation of a high speed solar wind
+stream, with wind speeds generally decreasing and reaching about
+around 500 km/s at the end of the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet.
+III.  Event Probabilities 19 Jun-21 Jun
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           18 Jun 070
+Predicted   19 Jun-21 Jun  071/071/071
+90 Day Mean        18 Jun 076
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 Jun  008/010
+Estimated Afr/Ap 18 Jun  005/005
+Predicted Afr/Ap 19 Jun-21 Jun  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 19 Jun-21 Jun
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

@@ -1,0 +1,59 @@
+:Product: 0614RSGA.txt
+:Issued: 2011 Jun 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 165 Issued at 2200Z on 14 Jun 2011
+IA.  Analysis of Solar Active Regions and Activity from  13/2100Z
+to 14/2100Z:  Solar activity was at low levels during the period. New
+Region 1236 (N17E64) rotated onto the disk as a D-type spot group
+and produced two low-level C-class events. A north-south oriented
+filament channel, located near the SE limb, erupted during the
+period. SDO/AIA 193 imagery revealed material movement along the
+large channel, first visible at 14/0609Z, and movement continued
+through about 14/1500Z. Associated with the filament eruption was a
+partial halo CME off the east limb, first visible in STEREO-Behind
+COR2 imagery at 14/0810Z. A plane-of-sky velocity was estimated at
+about 750 km/s. This CME does not appear to be Earth-directed.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a slight chance for an M-class event all three days
+of the forecast period (15 - 17 June).
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z:
+The geomagnetic field was at quiet to unsettled levels with an
+isolated active period observed between 14/0900 - 1200Z. This
+activity was due to continued effects from a recurrent coronal hole
+high speed stream. During the period, solar wind velocities rose
+steadily from near 450 km/s to about 550 km/s. The Bz component of
+the interplanetary magnetic field varied between +/- 8 nT while Bt
+varied between 5 and 10 nT. The greater than 10 MeV proton
+enhancement, present since 11 June, decayed to background levels
+early on 14 June.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels for day one (15 June),
+with a chance for active levels due to continued high speed stream
+effects. Activity is expected to decrease to mostly quiet levels on
+days two and three (16 - 17 June) as high speed stream effects
+subside.
+III.  Event Probabilities 15 Jun-17 Jun
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           14 Jun 099
+Predicted   15 Jun-17 Jun  100/105/105
+90 Day Mean        14 Jun 103
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Jun  006/008
+Estimated Afr/Ap 14 Jun  008/008
+Predicted Afr/Ap 15 Jun-17 Jun  008/008-005/005-005/007
+VI.  Geomagnetic Activity Probabilities 15 Jun-17 Jun
+A.  Middle Latitudes
+Active                15/05/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/10/05
+Minor storm           10/01/01
+Major-severe storm    01/01/01

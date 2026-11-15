@@ -1,0 +1,66 @@
+:Product: 0809RSGA.txt
+:Issued: 2011 Aug 09 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 221 Issued at 2200Z on 09 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  08/2100Z
+to 09/2100Z:  Solar activity was high.  Region 1263 (N17W83) produced
+an X6/2b flare at 09/0805Z, the largest x-ray event so far in Cycle
+24.  This flare was accompanied by multi-frequency radio emissions,
+including a Tenflare (710sfu), and Type II (1551 km/s) and IV
+signatures. A full halo CME was subsequently observed in LASCO C3
+imagery at 09/0906Z.  Initial plane-of-sky speed was estimated to be
+about 1000 km/s.  Earlier in the period, a CME was observed in LASCO
+C3 imagery at 0406Z.  This event was attributed to an M2/1b flare
+from Region 1263 at 09/03435Z.  While the area of Region 1263
+diminished over the last 24 hours, the longitudinal extent expanded,
+and the region ended the period as an Ehc type spot group with a
+beta-gamma-delta magnetic configuration.
+IB.  Solar Activity Forecast:  Solar activity is likely to be low to
+moderate.  A slight chance for an isolated X-class flare, and/or
+proton event, remains for Day 1 (10 August). Event probabilities are
+expected to gradually decrease as Region 1263 rotates around the
+west limb.
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z:
+The geomagnetic field was quiet to unsettled through the period under
+the continued influence of a coronal hole high speed stream.  Solar
+wind speed at the ACE spacecraft was approximately 600 km/s for most
+of the period.  The Bz component of the interplanetary magnetic
+field was predominantly near zero. The greater than 100 MeV protons
+crossed the 1 pfu event threshold at 09/0825Z, reached a maximum of
+2 pfu at 09/0855Z, and ended at 09/1045Z.  The greater than 10 MeV
+protons crossed the 10 pfu event threshold at 09/0845Z, reached a
+maximum of 26 pfu at 09/1210Z, and ended at 09/1715Z. The greater
+than 2 MeV electron flux at geosynchronous orbit reached high levels
+during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominantly quiet to unsettled for the next three
+days (10-12 August).  Unsettled conditions are expected on Day 1 (10
+August) as a weak remnant of the 08 August CME arrives.  Currently,
+a return to mostly quiet conditions is expected on Days 2 and 3
+(11-12 August).  Analysis of the 09/0906Z CME is presently underway
+to determine its potential geoeffectiveness.
+III.  Event Probabilities 10 Aug-12 Aug
+Class M    60/40/20
+Class X    10/10/05
+Proton     99/60/10
+PCAF       Yellow
+IV.  Penticton 10.7 cm Flux
+Observed           09 Aug 098
+Predicted   10 Aug-12 Aug  095/085/085
+90 Day Mean        09 Aug 096
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 Aug  008/010
+Estimated Afr/Ap 09 Aug  008/008
+Predicted Afr/Ap 10 Aug-12 Aug  010/010-007/007-005/005
+VI.  Geomagnetic Activity Probabilities 10 Aug-12 Aug
+A.  Middle Latitudes
+Active                20/15/05
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/20/10
+Minor storm           10/05/05
+Major-severe storm    05/05/01

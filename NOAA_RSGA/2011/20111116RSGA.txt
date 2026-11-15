@@ -1,0 +1,44 @@
+:Product: 1116RSGA.txt
+:Issued: 2011 Nov 16 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 320 Issued at 2200Z on 16 Nov 2011
+IA.  Analysis of Solar Active Regions and Activity from  15/2100Z
+to 16/2100Z:  Solar activity was moderate due to an M-class flare
+observed during the period.  Region 1348 (N20,L088), which rotated
+off of the west limb, produced an M1/1f at 15/2235Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for isolated M-class activity through the period (17 -
+19 November).
+IIA.  Geophysical Activity Summary 15/2100Z to 16/2100Z:
+The geomagnetic field was at quiet levels throughout the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet on day one (17 November).  By day two
+and three (18 - 19 November), the field is expected to be at quiet
+to unsettled levels with isolated active periods, in response to a
+possible glancing blow from the coronal mass ejection observed late
+on 14 November.
+III.  Event Probabilities 17 Nov-19 Nov
+Class M    40/40/40
+Class X    05/05/05
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           16 Nov 142
+Predicted   17 Nov-19 Nov  145/150/150
+90 Day Mean        16 Nov 136
+V.  Geomagnetic A Indices
+Observed Afr/Ap 15 Nov  007/006
+Estimated Afr/Ap 16 Nov  004/003
+Predicted Afr/Ap 17 Nov-19 Nov  005/005-007/007-008/008
+VI.  Geomagnetic Activity Probabilities 17 Nov-19 Nov
+A.  Middle Latitudes
+Active                06/10/10
+Minor storm           02/02/02
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                16/17/17
+Minor storm           17/22/22
+Major-severe storm    10/13/13

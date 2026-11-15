@@ -1,0 +1,40 @@
+:Product: 0425RSGA.txt
+:Issued: 2011 Apr 25 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 115 Issued at 2200Z on 25 Apr 2011
+IA.  Analysis of Solar Active Regions and Activity from  24/2100Z
+to 25/2100Z:  Solar activity was very low.
+IB.  Solar Activity Forecast:  Solar activity is forecast to be very
+low to low with a slight chance for a M-class flare from Region 1195
+(S16W12) for the next 3 days (26-28 April).
+IIA.  Geophysical Activity Summary 24/2100Z to 25/2100Z:
+The geomagnetic field was quiet to unsettled during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+forecast to be mostly quiet on days 1 and 2 (26-27 April), and quiet
+to unsettled with a chance for active conditions on day 3 (28 April)
+due to recurrent coronal hole effects.
+III.  Event Probabilities 26 Apr-28 Apr
+Class M    10/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           25 Apr 112
+Predicted   26 Apr-28 Apr  110/110/110
+90 Day Mean        25 Apr 106
+V.  Geomagnetic A Indices
+Observed Afr/Ap 24 Apr  006/006
+Estimated Afr/Ap 25 Apr  005/005
+Predicted Afr/Ap 26 Apr-28 Apr  005/005-005/005-008/008
+VI.  Geomagnetic Activity Probabilities 26 Apr-28 Apr
+A.  Middle Latitudes
+Active                05/05/20
+Minor storm           01/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/30
+Minor storm           01/01/10
+Major-severe storm    01/01/01

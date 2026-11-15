@@ -1,0 +1,57 @@
+:Product: 0718RSGA.txt
+:Issued: 2023 Jul 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 199 Issued at 2200Z on 18 Jul 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 17/2100Z to
+18/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a M5 event observed at
+18/0006Z from Region 3363 (S21W86). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on day one (19 Jul) and
+expected to be low with a chance for M-class flares and a slight chance
+for an X-class flare on days two and three (20 Jul, 21 Jul).
+
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 556 km/s at 17/2204Z. Total IMF
+reached 7 nT at 17/2134Z. The maximum southward component of Bz reached
+-6 nT at 18/0121Z.  Protons greater than 10 MeV at geosynchronous orbit
+reached a peak level of 619 pfu at 18/0615Z. Electrons greater than 2
+MeV at geosynchronous orbit reached a peak level of 936 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one and three (19 Jul, 21 Jul)
+and quiet to minor storm levels on day two (20 Jul). Protons are
+expected to cross threshold on day one (19 Jul), are likely to cross
+threshold on day two (20 Jul) and have a chance of crossing threshold on
+day three (21 Jul).
+
+III.  Event probabilities 19 Jul-21 Jul
+Class M    55/45/45
+Class X    20/20/15
+Proton     95/70/50
+PCAF       red
+
+IV.  Penticton 10.7 cm Flux
+Observed           18 Jul 219
+Predicted   19 Jul-21 Jul 210/210/210
+90 Day Mean        18 Jul 161
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 Jul  019/023
+Estimated Afr/Ap 18 Jul  016/021
+Predicted Afr/Ap 19 Jul-21 Jul  010/012-018/028-015/020
+
+VI.  Geomagnetic Activity Probabilities 19 Jul-21 Jul
+A.  Middle Latitudes
+Active                30/35/35
+Minor Storm           10/30/20
+Major-severe storm    01/15/05
+B.  High Latitudes
+Active                25/15/20
+Minor Storm           25/25/25
+Major-severe storm    20/50/40

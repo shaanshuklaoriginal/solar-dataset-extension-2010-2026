@@ -1,0 +1,43 @@
+:Product: 0122RSGA.txt
+:Issued: 2010 Jan 22 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 022 Issued at 2200Z on 22 Jan 2010
+IA.  Analysis of Solar Active Regions and Activity from  21/2100Z
+to 22/2100Z:  Solar activity has been at very low levels for the past
+24 hours. Region 1041 (S25E50) produced several B-class flares, the
+largest being a B9 flare at 22/1711Z. Region 1041 is stable and
+classified as a Eso-beta with 7 spots.  New Region 1042 (N22W28)
+emerged on the disk today and is classified as a Cso-beta with 3
+spots.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low to low levels with a slight chance for a M-class flare.
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain at quiet levels for the next three days (23-25
+January).
+III.  Event Probabilities 23 Jan-25 Jan
+Class M    20/20/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           22 Jan 082
+Predicted   23 Jan-25 Jan  085/085/086
+90 Day Mean        22 Jan 077
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 Jan  004/004
+Estimated Afr/Ap 22 Jan  003/005
+Predicted Afr/Ap 23 Jan-25 Jan  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 23 Jan-25 Jan
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    00/00/00
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    00/00/00

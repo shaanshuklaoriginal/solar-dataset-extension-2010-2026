@@ -1,0 +1,45 @@
+:Product: 0710RSGA.txt
+:Issued: 2010 Jul 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 191 Issued at 2200Z on 10 Jul 2010
+IA.  Analysis of Solar Active Regions and Activity from  09/2100Z
+to 10/2100Z:  Solar activity was very low.  Region 1087 (S19E57) is a
+beta magnetic configuration and produced two B-class flares during
+the period.  The region shows occasional point brightenings and is
+growing in both white light areal coverage and sunspot count.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low.  There is a chance for a C-class flare, and a slight
+chance for a M-class event, from Region 1087.
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z:
+The geomagnetic field was quiet.  The greater than 2 MeV electron
+flux at geosynchronous orbit was at high levels.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels for days one and two (11-12 July). 
+Quiet to unsettled levels, with isolated active conditions, are
+expected for day three (13 July) due to a recurrent coronal hole
+high speed stream.
+III.  Event Probabilities 11 Jul-13 Jul
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           10 Jul 080
+Predicted   11 Jul-13 Jul  080/080/078
+90 Day Mean        10 Jul 075
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Jul  004/005
+Estimated Afr/Ap 10 Jul  001/002
+Predicted Afr/Ap 11 Jul-13 Jul  005/005-005/005-008/008
+VI.  Geomagnetic Activity Probabilities 11 Jul-13 Jul
+A.  Middle Latitudes
+Active                05/05/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/20
+Minor storm           01/01/05
+Major-severe storm    01/01/01

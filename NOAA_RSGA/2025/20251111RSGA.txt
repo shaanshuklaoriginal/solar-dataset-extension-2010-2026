@@ -1,0 +1,56 @@
+:Product: 1111RSGA.txt
+:Issued: 2025 Nov 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 315 Issued at 2200Z on 11 Nov 2025
+
+IA.  Analysis of Solar Active Regions and Activity from 10/2100Z to
+11/2100Z: Solar activity has been at high levels for the past 24 hours.
+There are currently 8 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be high on
+days one, two, and three (12 Nov, 13 Nov, 14 Nov).
+
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 521 km/s at 10/2114Z. Total IMF reached 7
+nT at 10/2243Z. The maximum southward component of Bz reached -4 nT at
+10/2253Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 157 pfu at 11/1505Z. Protons greater than 100 MeV at
+geosynchronous orbit reached a peak level of 29 pfu at 11/1635Z.
+Electrons greater than 2 MeV at geosynchronous orbit reached a peak
+level of 10890 pfu, however data was suspect due to proton
+contamination.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at active to severe storm levels on day one (12 Nov), unsettled to
+severe storm levels on day two (13 Nov) and unsettled to minor storm
+levels on day three (14 Nov). Protons are expected to cross threshold on
+day one (12 Nov), are expected to cross threshold on day two (13 Nov)
+and are likely to cross threshold on day three (14 Nov).
+
+III.  Event probabilities 12 Nov-14 Nov
+Class M    85/85/85
+Class X    55/55/55
+Proton     99/75/55
+PCAF       red
+
+IV.  Penticton 10.7 cm Flux
+Observed           11 Nov 168
+Predicted   12 Nov-14 Nov 170/170/165
+90 Day Mean        11 Nov 152
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Nov  009/014
+Estimated Afr/Ap 11 Nov  012/014
+Predicted Afr/Ap 12 Nov-14 Nov  066/109-030/055-016/022
+
+VI.  Geomagnetic Activity Probabilities 12 Nov-14 Nov
+A.  Middle Latitudes
+Active                20/25/35
+Minor Storm           35/35/25
+Major-severe storm    40/35/05
+B.  High Latitudes
+Active                05/05/10
+Minor Storm           15/15/30
+Major-severe storm    85/79/55

@@ -1,0 +1,44 @@
+:Product: 0423RSGA.txt
+:Issued: 2010 Apr 23 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 113 Issued at 2200Z on 23 Apr 2010
+IA.  Analysis of Solar Active Regions and Activity from  22/2100Z
+to 23/2100Z:  Solar activity was very low. No flares were observed
+and the visible disk remained spotless. A CME was visible in both
+Stereo A and B coronagraphs leaving the sun around 22/00Z with
+trajectories suggesting a potentially geoeffective event.  SOHO
+LASCO data gaps in C2 and C3 imagery prohibit confirmation of a halo at this time.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+very low for the next 3 days (24-26 April).
+IIA.  Geophysical Activity Summary 22/2100Z to 23/2100Z:
+The geomagnetic field was mostly quiet to unsettled, with the
+exception of a brief period of minor storming and active conditions
+between 00-06Z. This activity was due to elevated solar wind speeds
+from a coronal hole and a brief switch to negative polarity.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the next 3 days (24-26 April).
+III.  Event Probabilities 24 Apr-26 Apr
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           23 Apr 075
+Predicted   24 Apr-26 Apr  075/075/080
+90 Day Mean        23 Apr 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 22 Apr  004/006
+Estimated Afr/Ap 23 Apr  012/014
+Predicted Afr/Ap 24 Apr-26 Apr  005/008-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 24 Apr-26 Apr
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/10
+Major-severe storm    01/01/01

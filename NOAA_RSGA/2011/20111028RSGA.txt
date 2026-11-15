@@ -1,0 +1,57 @@
+:Product: 1028RSGA.txt
+:Issued: 2011 Oct 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 301 Issued at 2200Z on 28 Oct 2011
+IA.  Analysis of Solar Active Regions and Activity from  27/2100Z
+to 28/2100Z:  Solar activity was low. Three C-flares occurred during
+the past 24 hours, one from Region 1333 (N15W02) and two from Region
+1324 (N13W63). Region 1324 showed emergence of new flux during the
+past 24 hours. Region 1333s growth has slowed considerably and the
+region is currently a small D-type sunspot group with about 50
+millionths in sunspot area. Region 1330 (N08W09) continues to be the
+largest group on the disk with about 450 millionths area and a
+beta-gamma magnetic classification, but did not produce any flares.
+A CME was noted from the northeast limb entering the LASCO C3 field
+of view around 1254Z on the 27th and was associated with a filament
+eruption and post eruptive loop arcade in the northeast quadrant.
+The CME appears to be moving too far north of the ecliptic to be
+geoeffective. An additional CME was observed off the southwest limb
+and entered the C3 field of view at 0218Z on the 28th. STEREO
+coronagraph observations clearly showed that this was a backsided
+event and therefore the event is not expected to be geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low.
+There is a slight chance for an isolated M-class event with Regions
+1330, 1324, and 1333 the most likely sources.
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the first part of day one (29 October). An
+increase to unsettled levels  with a chance for active periods is
+expected beginning late on the 29th and continuing through the first
+and second days (30-31 October). The increase is expected due to a
+high speed stream from coronal hole.
+III.  Event Probabilities 29 Oct-31 Oct
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           28 Oct 134
+Predicted   29 Oct-31 Oct  135/135/130
+90 Day Mean        28 Oct 124
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Oct  004/004
+Estimated Afr/Ap 28 Oct  003/003
+Predicted Afr/Ap 29 Oct-31 Oct  007/008-010/010-010/010
+VI.  Geomagnetic Activity Probabilities 29 Oct-31 Oct
+A.  Middle Latitudes
+Active                10/25/25
+Minor storm           05/15/15
+Major-severe storm    01/05/05
+B.  High Latitudes
+Active                15/35/35
+Minor storm           05/25/25
+Major-severe storm    01/15/15

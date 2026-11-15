@@ -1,0 +1,53 @@
+:Product: 1024RSGA.txt
+:Issued: 2014 Oct 24 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 297 Issued at 2200Z on 24 Oct 2014
+
+IA.  Analysis of Solar Active Regions and Activity from 23/2100Z to
+24/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M4 event observed at
+24/0748Z from Region 2192 (S12W21). There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be moderate
+with a chance for X-class flares on days one, two, and three (25 Oct, 26
+Oct, 27 Oct).
+
+IIA.  Geophysical Activity Summary 23/2100Z to 24/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+512 km/s at 24/0635Z. Total IMF reached 7 nT at 24/0059Z. The maximum
+southward component of Bz reached -5 nT at 24/1435Z. Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 6243 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one and two (25 Oct, 26 Oct)
+and quiet to active levels on day three (27 Oct). Protons have a chance
+of crossing threshold 25-27 Oct.
+
+III.  Event probabilities 25 Oct-27 Oct
+Class M    85/85/85
+Class X    45/45/45
+Proton     35/40/45
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           24 Oct 218
+Predicted   25 Oct-27 Oct 220/220/220
+90 Day Mean        24 Oct 139
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 23 Oct  008/009
+Estimated Afr/Ap 24 Oct  010/013
+Predicted Afr/Ap 25 Oct-27 Oct  009/010-007/010-011/012
+
+VI.  Geomagnetic Activity Probabilities 25 Oct-27 Oct
+A.  Middle Latitudes
+Active                15/15/30
+Minor Storm           05/05/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/25/30
+Major-severe storm    25/25/40

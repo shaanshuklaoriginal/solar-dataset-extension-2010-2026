@@ -1,0 +1,57 @@
+:Product: 0423RSGA.txt
+:Issued: 2012 Apr 23 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 114 Issued at 2200Z on 23 Apr 2012
+IA.  Analysis of Solar Active Regions and Activity from  22/2100Z
+to 23/2100Z:  Solar activity has been at low levels for the past 24
+hours. There are currently 8 active regions on the disk, with 5
+regions having sunspots. The spotted regions on the disk all
+remained rather quiet and stable throughout the period. However,
+around plage Region 1461 (N10W19), two C-class events were observed
+today with associated Earth directed CMEs.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a chance for M-class x-ray events for the next three
+days (24 - 26 April).
+IIA.  Geophysical Activity Summary 22/2100Z to 23/2100Z:
+The geomagnetic field has been at quiet to minor storm levels for the
+past 24 hours. Observations made by the ACE spacecraft, around
+23/0200Z, indicated the arrival of a CME that lifted off the solar
+disk on 19 April. Solar wind velocities increased from 350 - 400
+km/s with the total IMF reaching around 18 nT. The Boulder
+magnetometer measured a 31 nT sudden impulse at 23/0325Z in
+conjunction with the CME arrival here at Earth. From then on, active
+to minor storm levels were observed due to multiple periods of
+sustained negative Bz.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to active levels with a slight chance for a
+minor storm on day 1 (24 April) as effects from the CME wane and a
+coronal hole high speed stream (CH HSS) moves in. Quiet to active
+levels are expected on day two (25 April) as the effects of the CH
+HSS continue.  An increase to quiet to minor storm levels are
+expected on day three (26 April) as the two CMEs, observed earlier
+in the period, are expected to become geoeffective.
+III.  Event Probabilities 24 Apr-26 Apr
+Class M    30/30/30
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           23 Apr 142
+Predicted   24 Apr-26 Apr  140/140/135
+90 Day Mean        23 Apr 112
+V.  Geomagnetic A Indices
+Observed Afr/Ap 22 Apr  007/008
+Estimated Afr/Ap 23 Apr  016/025
+Predicted Afr/Ap 24 Apr-26 Apr  012/018-008/012-011/018
+VI.  Geomagnetic Activity Probabilities 24 Apr-26 Apr
+A.  Middle Latitudes
+Active                40/25/40
+Minor storm           15/05/15
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                50/40/50
+Minor storm           30/20/30
+Major-severe storm    10/05/10

@@ -1,0 +1,54 @@
+:Product: 1023RSGA.txt
+:Issued: 2010 Oct 23 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 296 Issued at 2200Z on 23 Oct 2010
+IA.  Analysis of Solar Active Regions and Activity from  22/2100Z
+to 23/2100Z:  Solar activity was very low. Region 1117 (N22E28) grew
+in area and spots as well as increased in magnetic complexity. It
+produced a B4 x-ray flare at 23/2011Z. The characteristics of Region
+1115 (S29W36) did not change much, though it produced a B3 x-ray
+flare at 26/1738Z. The leading edge of the CME from a disappearing
+filament on 21 October was visible on both STEREO A and B HI1
+images.
+IB.  Solar Activity Forecast:  Solar activity is forecast to be
+predominately low with a chance for a C-class flare on days 1-3
+(24-26 October).
+IIA.  Geophysical Activity Summary 22/2100Z to 23/2100Z:
+The geomagnetic field was mostly unsettled to active with a period of
+minor to major storming at high latitudes between 23/1200-1500Z as
+the result of coronal hole effects. Solar wind speeds were near or
+above 650 km/s throughout most of the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+forecast to be unsettled to active with isolated periods of minor
+storming likely at all latitudes and a chance for major storming at
+high latitudes for days 1-2 (24-25 October). Conditions are forecast
+to be mostly unsettled to active with a chance for an isolated minor
+storm on day 3 (26 October) at all latitudes. The elevated activity
+is expected in part to a large, favorably positioned coronal hole as
+well as a possible glancing blow on 25 October from the
+aforementioned CME.
+III.  Event Probabilities 24 Oct-26 Oct
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           23 Oct 084
+Predicted   24 Oct-26 Oct  084/084/084
+90 Day Mean        23 Oct 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 22 Oct  004/006
+Estimated Afr/Ap 23 Oct  012/025
+Predicted Afr/Ap 24 Oct-26 Oct  015/020-015/018-012/012
+VI.  Geomagnetic Activity Probabilities 24 Oct-26 Oct
+A.  Middle Latitudes
+Active                30/30/50
+Minor storm           50/50/30
+Major-severe storm    20/20/10
+B.  High Latitudes
+Active                10/10/40
+Minor storm           50/50/40
+Major-severe storm    40/40/20

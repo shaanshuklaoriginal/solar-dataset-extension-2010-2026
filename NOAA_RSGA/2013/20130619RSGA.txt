@@ -1,0 +1,51 @@
+:Product: 0619RSGA.txt
+:Issued: 2013 Jun 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 170 Issued at 2200Z on 19 Jun 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 18/2100Z to
+19/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C8 event observed at
+19/0954Z. There are currently 6 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (20 Jun, 21 Jun,
+22 Jun).
+
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 332 km/s at
+19/0818Z. Total IMF reached 7 nT at 19/1950Z. The maximum southward
+component of Bz reached -5 nT at 18/2356Z. Electrons greater than 2 MeV
+at geosynchronous orbit reached a peak level of 110 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one and two (20 Jun, 21 Jun) and
+quiet to unsettled levels on day three (22 Jun).
+
+III.  Event probabilities 20 Jun-22 Jun
+Class M    30/30/30
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           19 Jun 123
+Predicted   20 Jun-22 Jun 125/130/135
+90 Day Mean        19 Jun 121
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Jun  007/004
+Estimated Afr/Ap 19 Jun  004/005
+Predicted Afr/Ap 20 Jun-22 Jun  008/010-014/018-012/012
+
+VI.  Geomagnetic Activity Probabilities 20 Jun-22 Jun
+A.  Middle Latitudes
+Active                25/35/30
+Minor Storm           05/20/10
+Major-severe storm    01/05/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           35/30/25
+Major-severe storm    30/55/40

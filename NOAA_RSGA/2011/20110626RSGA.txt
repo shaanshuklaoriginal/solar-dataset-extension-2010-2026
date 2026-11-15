@@ -1,0 +1,45 @@
+:Product: 0626RSGA.txt
+:Issued: 2011 Jun 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 177 Issued at 2200Z on 26 Jun 2011
+IA.  Analysis of Solar Active Regions and Activity from  25/2100Z
+to 26/2100Z:  Solar activity was at very low levels. No significant
+flares were observed. Region 1236 (N16W92) is rotating off the west
+limb today. Region 1241 (N18W32) remained a Bxo-beta group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low through the period, with a chance for an isolated C-class flare.
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z:
+The geomagnetic field was at quiet to unsettled levels, with an
+isolated active period at high latitudes. Observations of solar wind
+from the ACE spacecraft indicated speeds ranged from 595 km/s to 486
+km/s, as the coronal hole high speed stream began to gradually
+subside. The greater than 2 MeV electron flux at geosynchronous
+orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels on days one and two (27
+- 28 June). Quiet levels are expected on day three (29 June).
+III.  Event Probabilities 27 Jun-29 Jun
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           26 Jun 090
+Predicted   27 Jun-29 Jun  088/086/086
+90 Day Mean        26 Jun 102
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Jun  005/007
+Estimated Afr/Ap 26 Jun  005/007
+Predicted Afr/Ap 27 Jun-29 Jun  005/006-005/006-005/005
+VI.  Geomagnetic Activity Probabilities 27 Jun-29 Jun
+A.  Middle Latitudes
+Active                15/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/10/10
+Minor storm           05/01/01
+Major-severe storm    01/01/01

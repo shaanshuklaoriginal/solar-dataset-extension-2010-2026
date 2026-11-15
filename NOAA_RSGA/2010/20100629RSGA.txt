@@ -1,0 +1,48 @@
+:Product: 0629RSGA.txt
+:Issued: 2010 Jun 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 180 Issued at 2200Z on 29 Jun 2010
+IA.  Analysis of Solar Active Regions and Activity from  28/2100Z
+to 29/2100Z:  Solar activity has been very low.  A B1 level x-ray
+event was observed at 29/0503Z. New Region 1085 (S23W24) was
+numbered today.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a slight chance for an isolated C-class event.
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z:
+The geomagnetic field has been predominately quiet with an isolated
+unsettled period at 29/0900-1200Z. Observations from the ACE
+satellite indicates the continuation of a high speed solar wind
+stream, with winds speeds at about 540 km/s through out the period.
+The greater than 2 MeV electron flux at geosynchronous orbit was at
+high levels today.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active on days one and two (30 June-01
+July) with isolated minor storm levels at high latitudes.  Quiet to
+unsettled conditions are expected on day three (02 July).  The
+increase in activity is forecast due to a recurrent coronal hole
+high speed stream.
+III.  Event Probabilities 30 Jun-02 Jul
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           29 Jun 074
+Predicted   30 Jun-02 Jul  075/075/075
+90 Day Mean        29 Jun 075
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 Jun  006/007
+Estimated Afr/Ap 29 Jun  007/007
+Predicted Afr/Ap 30 Jun-02 Jul  015/015-012/012-010/010
+VI.  Geomagnetic Activity Probabilities 30 Jun-02 Jul
+A.  Middle Latitudes
+Active                25/20/15
+Minor storm           10/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                30/25/20
+Minor storm           10/10/05
+Major-severe storm    05/05/01

@@ -1,0 +1,51 @@
+:Product: 0420RSGA.txt
+:Issued: 2025 Apr 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 110 Issued at 2200Z on 20 Apr 2025
+
+IA.  Analysis of Solar Active Regions and Activity from 19/2100Z to
+20/2100Z: Solar activity has been at moderate levels for the past 24
+hours. There are currently 7 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (21 Apr, 22 Apr,
+23 Apr).
+
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 455 km/s at 20/0206Z. Total IMF
+reached 13 nT at 20/1930Z. The maximum southward component of Bz reached
+-9 nT at 20/1901Z.  Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 801 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (21 Apr), quiet to major
+storm levels on day two (22 Apr) and unsettled to major storm levels on
+day three (23 Apr).
+
+III.  Event probabilities 21 Apr-23 Apr
+Class M    40/40/40
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           20 Apr 156
+Predicted   21 Apr-23 Apr 160/165/165
+90 Day Mean        20 Apr 174
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 Apr  018/018
+Estimated Afr/Ap 20 Apr  014/014
+Predicted Afr/Ap 21 Apr-23 Apr  010/012-023/035-024/035
+
+VI.  Geomagnetic Activity Probabilities 21 Apr-23 Apr
+A.  Middle Latitudes
+Active                15/35/35
+Minor Storm           05/40/40
+Major-severe storm    01/20/15
+B.  High Latitudes
+Active                15/05/05
+Minor Storm           20/15/20
+Major-severe storm    20/80/75

@@ -1,0 +1,52 @@
+:Product: 1207RSGA.txt
+:Issued: 2025 Dec 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 341 Issued at 2200Z on 07 Dec 2025
+
+IA.  Analysis of Solar Active Regions and Activity from 06/2100Z to
+07/2100Z: Solar activity has been at low levels for the past 24 hours.
+There are currently 7 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(08 Dec, 09 Dec, 10 Dec).
+
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 732 km/s at 06/2106Z. Total IMF reached 9
+nT at 07/1318Z. The maximum southward component of Bz reached -5 nT at
+07/0216Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 1452 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on days one and three (08 Dec, 10
+Dec) and minor storm to severe storm levels on day two (09 Dec). Protons
+have a slight chance of crossing threshold on days one, two, and three
+(08 Dec, 09 Dec, 10 Dec).
+
+III.  Event probabilities 08 Dec-10 Dec
+Class M    65/65/65
+Class X    15/15/15
+Proton     15/15/15
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           07 Dec 194
+Predicted   08 Dec-10 Dec 190/190/185
+90 Day Mean        07 Dec 148
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Dec  015/016
+Estimated Afr/Ap 07 Dec  011/013
+Predicted Afr/Ap 08 Dec-10 Dec  013/018-048/070-022/033
+
+VI.  Geomagnetic Activity Probabilities 08 Dec-10 Dec
+A.  Middle Latitudes
+Active                30/20/35
+Minor Storm           30/30/35
+Major-severe storm    20/50/20
+B.  High Latitudes
+Active                05/05/05
+Minor Storm           20/15/20
+Major-severe storm    70/85/75

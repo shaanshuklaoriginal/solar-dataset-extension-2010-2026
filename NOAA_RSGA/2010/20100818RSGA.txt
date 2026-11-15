@@ -1,0 +1,48 @@
+:Product: 0818RSGA.txt
+:Issued: 2010 Aug 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 230 Issued at 2200Z on 18 Aug 2010
+IA.  Analysis of Solar Active Regions and Activity from  17/2100Z
+to 18/2100Z:  Solar activity was low. Region 1099 (N17W110) produced
+two C-class flares during the period. The largest of these was a
+long-duration C4 flare at 18/0548Z, with an associated Type-II radio
+sweep with an estimated velocity of 545 km/s. SOHO C3 imagery
+observed a partial-halo CME at 18/0600Z. This CME is not expected to
+be Earth-directed. No new regions were numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low, with a slight chance for a C-class flare.
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z:
+The geomagnetic field was predominantly quiet, with an unsettled
+period observed at 18/0600Z. An enhancement of the greater than 10
+MeV proton flux at geosynchronous orbit began at around 18/0800Z and
+was associated with the long-duration C4 flare at 18/0548Z. The
+enhancement peaked around mid-period, then gradually decreased.
+Todays Penticton 10.7 cm Flux value was estimated.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominantly quiet for the next three days (19-21
+August).
+III.  Event Probabilities 19 Aug-21 Aug
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           18 Aug 081
+Predicted   19 Aug-21 Aug  081/080/080
+90 Day Mean        18 Aug 077
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 Aug  003/005
+Estimated Afr/Ap 18 Aug  004/005
+Predicted Afr/Ap 19 Aug-21 Aug  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 19 Aug-21 Aug
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01

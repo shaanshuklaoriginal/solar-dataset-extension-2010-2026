@@ -1,0 +1,43 @@
+:Product: 1015RSGA.txt
+:Issued: 2011 Oct 15 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 288 Issued at 2200Z on 15 Oct 2011
+IA.  Analysis of Solar Active Regions and Activity from  14/2100Z
+to 15/2100Z:  Solar activity was low. There are 8 numbered regions on
+the disk producing weak C-class flares.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with C-class flares expected and a chance for M-class flares for the
+next 3 days (16-18 October).
+IIA.  Geophysical Activity Summary 14/2100Z to 15/2100Z:
+The geomagnetic field was mostly quiet, with the exception of an
+isolated period of unsettled conditions 15/00-03Z, due to increased
+solar wind speeds combined with a period of southward Bz.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active days 1-2 (16-17 October) due to
+CH HSS effects. Conditions are forecast to be mostly quiet on day 3
+(18 October) as solar wind speeds wane.
+III.  Event Probabilities 16 Oct-18 Oct
+Class M    40/40/40
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           15 Oct 138
+Predicted   16 Oct-18 Oct  140/140/140
+90 Day Mean        15 Oct 117
+V.  Geomagnetic A Indices
+Observed Afr/Ap 14 Oct  001/002
+Estimated Afr/Ap 15 Oct  010/010
+Predicted Afr/Ap 16 Oct-18 Oct  010/010-008/008-005/005
+VI.  Geomagnetic Activity Probabilities 16 Oct-18 Oct
+A.  Middle Latitudes
+Active                40/30/20
+Minor storm           30/10/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                50/40/20
+Minor storm           40/10/01
+Major-severe storm    05/01/01

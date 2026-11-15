@@ -1,0 +1,44 @@
+:Product: 0221RSGA.txt
+:Issued: 2012 Feb 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 052 Issued at 2200Z on 21 Feb 2012
+IA.  Analysis of Solar Active Regions and Activity from  20/2100Z
+to 21/2100Z:  Solar activity was low.  There was one C-class flare
+during the past 24 hours, a C1 at 21/1148Z from Region 1422
+(N15W24).  This region continues to be the largest group on the
+disk.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low.
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z:
+The geomagnetic field has been quiet to unsettled.  ACE data has
+shown a steady decline in solar wind speed. The greater than 2 MeV
+electron flux at geosynchronous orbit reached high levels during the
+period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the next 36 hours.  An increase to
+unsettled levels is expected mid-day on 23 February and continuing
+through 24 February due to a coronal hole high speed stream.
+III.  Event Probabilities 22 Feb-24 Feb
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           21 Feb 103
+Predicted   22 Feb-24 Feb  100/100/100
+90 Day Mean        21 Feb 130
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 Feb  014/017
+Estimated Afr/Ap 21 Feb  007/007
+Predicted Afr/Ap 22 Feb-24 Feb  006/005-007/008-007/010
+VI.  Geomagnetic Activity Probabilities 22 Feb-24 Feb
+A.  Middle Latitudes
+Active                01/10/15
+Minor storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/20/15
+Minor storm           10/20/20
+Major-severe storm    01/10/20

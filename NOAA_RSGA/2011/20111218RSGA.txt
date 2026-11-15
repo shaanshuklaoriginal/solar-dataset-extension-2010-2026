@@ -1,0 +1,41 @@
+:Product: 1218RSGA.txt
+:Issued: 2011 Dec 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 352 Issued at 2200Z on 18 Dec 2011
+IA.  Analysis of Solar Active Regions and Activity from  17/2100Z
+to 18/2100Z:  Solar activity was low.  The largest flare in the past
+24 hours was a C3 at 17/2255Z from Region 1376 (N20W18).  New Region
+1381 (S18E19) was also responsible for low level activity.  New
+Region 1382 (S18E25) was also assigned.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low during the period.
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet for the next three days (19-21
+December).
+III.  Event Probabilities 19 Dec-21 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           18 Dec 128
+Predicted   19 Dec-21 Dec  128/128/128
+90 Day Mean        18 Dec 145
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 Dec  002/000
+Estimated Afr/Ap 18 Dec  002/001
+Predicted Afr/Ap 19 Dec-21 Dec  006/005-005/005-004/005
+VI.  Geomagnetic Activity Probabilities 19 Dec-21 Dec
+A.  Middle Latitudes
+Active                05/05/01
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           20/20/05
+Major-severe storm    10/10/01

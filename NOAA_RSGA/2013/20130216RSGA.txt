@@ -1,0 +1,52 @@
+:Product: 0216RSGA.txt
+:Issued: 2013 Feb 16 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 47 Issued at 2200Z on 16 Feb 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 15/2100Z to
+16/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 5 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be at very
+low levels with a chance for C-class flares on days one, two, and three
+(17 Feb, 18 Feb, 19 Feb).
+
+IIA.  Geophysical Activity Summary 15/2100Z to 16/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+440 km/s at 16/1325Z. Total IMF reached 12.6 nT at 16/1257Z. The maximum
+southward component of Bz reached -10.1 nT at 16/1532Z. Electrons
+greater than 2 MeV at geosynchronous orbit reached a peak level of 408
+pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at predominantly quiet levels for the next two days (17 and 18
+Feb). An increase to quiet to unsettled levels is expected on day three
+(19 Feb) due to possible CME effects.
+
+III.  Event probabilities 17 Feb-19 Feb
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           16 Feb 103
+Predicted   17 Feb-19 Feb 110/110/110
+90 Day Mean        16 Feb 116
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 15 Feb  003/003
+Estimated Afr/Ap 16 Feb  005/007
+Predicted Afr/Ap 17 Feb-19 Feb  006/005-006/005-007/008
+
+VI.  Geomagnetic Activity Probabilities 17 Feb-19 Feb
+A.  Middle Latitudes
+Active                10/10/20
+Minor Storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/20
+Minor Storm           15/15/25
+Major-severe storm    10/10/25

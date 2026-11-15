@@ -1,0 +1,43 @@
+:Product: 0520RSGA.txt
+:Issued: 2010 May 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 140 Issued at 2200Z on 20 May 2010
+IA.  Analysis of Solar Active Regions and Activity from  19/2100Z
+to 20/2100Z:  Solar activity has been very low. The visible disk
+remained spotless.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low.
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z:
+The geomagnetic field has been quiet to unsettled with one isolated
+active period at 20/0300Z. Solar wind data from ACE indicated a
+steady decay in velocity from 525 km/s to 475 km/s.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled with an isolated active period
+possible during day one (21 May). Quiet to unsettled conditions are
+expected on days two and three (May 22-23) as the coronal hole high
+speed stream subsides.
+III.  Event Probabilities 21 May-23 May
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           20 May 069
+Predicted   21 May-23 May  070/072/072
+90 Day Mean        20 May 079
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 May  007/008
+Estimated Afr/Ap 20 May  010/010
+Predicted Afr/Ap 21 May-23 May  008/008-006/007-005/005
+VI.  Geomagnetic Activity Probabilities 21 May-23 May
+A.  Middle Latitudes
+Active                25/15/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                30/20/10
+Minor storm           10/01/01
+Major-severe storm    01/01/01

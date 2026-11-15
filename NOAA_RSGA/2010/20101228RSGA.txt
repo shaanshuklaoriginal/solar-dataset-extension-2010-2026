@@ -1,0 +1,51 @@
+:Product: 1228RSGA.txt
+:Issued: 2010 Dec 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 362 Issued at 2200Z on 28 Dec 2010
+IA.  Analysis of Solar Active Regions and Activity from  27/2100Z
+to 28/2100Z:  Solar activity was very low. Region 1138 (N13W26)
+developed a beta-gamma magnetic configuration during the period, but
+the region remained quiet.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+predominately very low levels for the next three days (29 - 31
+December). A slight chance for C-class activity exists from Region
+1138.
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z:
+The geomagnetic field ranged from quiet to minor storm levels during
+the period. At approximately 28/0930Z, effects from the 23 December
+CME impacted Earths magnetic field. Observations from the ACE
+spacecraft indicated a sharp decrease in the Bz component of the IMF
+(-13nT at 28/1401Z) while the Bt component reached a maximum value
+of 14nT at 28/1315Z. The field responded with an isolated minor
+storm period from 28/1200 - 1500Z at all latitudes. Thereafter,
+storm conditions diminished to unsettled to active levels through
+the end of the summary period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels for day one of the
+forecast period (29 December) and mostly quiet for days two and
+three (30 - 31 December).
+III.  Event Probabilities 29 Dec-31 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           28 Dec 081
+Predicted   29 Dec-31 Dec  082/084/084
+90 Day Mean        28 Dec 083
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Dec  001/002
+Estimated Afr/Ap 28 Dec  009/012
+Predicted Afr/Ap 29 Dec-31 Dec  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 29 Dec-31 Dec
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01

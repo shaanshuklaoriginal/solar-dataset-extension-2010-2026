@@ -1,0 +1,52 @@
+:Product: 0208RSGA.txt
+:Issued: 2010 Feb 08 2210 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+:::::::::: CORRECTED COPY ::::::::::
+SDF Number 039 Issued at 2200Z on 08 Feb 2010
+IA.  Analysis of Solar Active Regions and Activity from  07/2100Z
+to 08/2100Z:  Solar activity was moderate.  Region 1045 (N23W17)
+produced three M-class events in the last 24 hours.  STEREO and
+SOHO/LASCO imagery observed CME activity with each of the three
+events.  The largest event was a M4 at 08/0743Z with an associated
+Tenflare of 150 sfu.  This region has continued to grow in both
+white light area coverage and sunspot count and is a magnetic
+beta-gamma-delta configuration.  There were two additional Tenflares
+observed during the period (both associated with Region 1045
+events), a C7/Sf at 08/0415Z with a 100 sfu Tenflare, and a C8/1f at
+08/0523Z with a 100 sfu Tenflare.  A new region was numbered today
+as Region 1047 (S15E70).
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate with M-class flares likely.  There is a slight chance for a
+X-class event from Region 1045.
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z:
+The geomagnetic field was quiet.  One unsettled period at
+mid-latitudes was reported at 08/1600Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominantly unsettled with isolated active
+conditions for the next three days (09-11 February).  These
+conditions are forecast due to the recent CME activity.
+III.  Event Probabilities 09 Feb-11 Feb
+Class M    70/70/70
+Class X    15/15/15
+Proton     05/05/05
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           08 Feb 094
+Predicted   09 Feb-11 Feb  096/096/094
+90 Day Mean        08 Feb 078
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Feb  002/003
+Estimated Afr/Ap 08 Feb  003/005
+Predicted Afr/Ap 09 Feb-11 Feb  008/008-008/009-010/010
+VI.  Geomagnetic Activity Probabilities 09 Feb-11 Feb
+A.  Middle Latitudes
+Active                25/25/25
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                30/30/35
+Minor storm           05/05/10
+Major-severe storm    02/01/05

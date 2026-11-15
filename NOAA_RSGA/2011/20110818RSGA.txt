@@ -1,0 +1,50 @@
+:Product: 0818RSGA.txt
+:Issued: 2011 Aug 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 230 Issued at 2200Z on 18 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  17/2100Z
+to 18/2100Z:  Solar activity was low.  Both Regions 1271 (N15E38) and
+1272 (S22E41) produced C1/Sf flares during the past 24 hours. 
+Region 1271 became more consolidated during the period, but remained
+a large Ehc type spot group with beta magnetic characteristics.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for moderate activity.  The continued persistence of
+Region 1271, as well as the return of old Region 1261 on Day 2 (20
+Aug), make moderate activity more probable.  During the last
+rotation, old Region 1261 produced five M-class events including an
+M9 and CME on 04 August.
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z:
+The geomagnetic field was quiet and the ambient solar wind
+unremarkable. The greater than 2 MeV electron flux at geosynchronous
+orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominantly quiet for the first two days of the
+forecast period (19-20 Aug).  A recurrent coronal hole high speed
+stream is expected to become geoeffective on Day 3 (21 Aug) leading
+to unsettled conditions with a chance for active periods at high
+latitudes.
+III.  Event Probabilities 19 Aug-21 Aug
+Class M    45/45/45
+Class X    10/10/10
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           18 Aug 098
+Predicted   19 Aug-21 Aug  098/100/100
+90 Day Mean        18 Aug 096
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 Aug  006/006
+Estimated Afr/Ap 18 Aug  005/005
+Predicted Afr/Ap 19 Aug-21 Aug  005/005-005/005-010/012
+VI.  Geomagnetic Activity Probabilities 19 Aug-21 Aug
+A.  Middle Latitudes
+Active                05/10/20
+Minor storm           01/05/05
+Major-severe storm    01/05/05
+B.  High Latitudes
+Active                05/10/50
+Minor storm           05/05/15
+Major-severe storm    01/01/10

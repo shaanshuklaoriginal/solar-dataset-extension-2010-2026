@@ -1,0 +1,45 @@
+:Product: 1223RSGA.txt
+:Issued: 2010 Dec 23 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 357 Issued at 2200Z on 23 Dec 2010
+IA.  Analysis of Solar Active Regions and Activity from  22/2100Z
+to 23/2100Z:  Solar activity was very low.  A partial halo CME was
+observed off the southwest quadrant of the sun on the SOHO/LASCO C2
+imagery around 23/0736Z.  The event was also observed on C3 and
+STEREO ahead/behind COR2 imagery.  The source of the event is a
+possible disappearing filament just transiting around the visible
+disk in the southwest.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low.
+IIA.  Geophysical Activity Summary 22/2100Z to 23/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for day one (24 December).  Quiet to slightly
+unsettled levels are expected for day two (25 December) due to a
+solar sector boundary crossing.  Mostly quiet conditions are
+expected to return for day three (26 December).
+III.  Event Probabilities 24 Dec-26 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           23 Dec 080
+Predicted   24 Dec-26 Dec  078/078/080
+90 Day Mean        23 Dec 083
+V.  Geomagnetic A Indices
+Observed Afr/Ap 22 Dec  001/000
+Estimated Afr/Ap 23 Dec  001/005
+Predicted Afr/Ap 24 Dec-26 Dec  005/005-007/007-005/005
+VI.  Geomagnetic Activity Probabilities 24 Dec-26 Dec
+A.  Middle Latitudes
+Active                05/10/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/15/05
+Minor storm           01/05/01
+Major-severe storm    01/01/01

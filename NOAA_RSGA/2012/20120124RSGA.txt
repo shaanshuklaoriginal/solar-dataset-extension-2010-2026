@@ -1,0 +1,64 @@
+:Product: 0124RSGA.txt
+:Issued: 2012 Jan 24 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 024 Issued at 2200Z on 24 Jan 2012
+IA.  Analysis of Solar Active Regions and Activity from  23/2100Z
+to 24/2100Z:  Solar activity was at low levels.  Low-level C-class
+events were observed from Region 1401 (N16W53) and Region 1402
+(N29W48).  Region 1401 indicated slight decay while Region 1402
+showed some growth in the trailer spots.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+during the period (25 - 27 January) with M-class activity likely
+from Regions 1401 and 1402.
+IIA.  Geophysical Activity Summary 23/2100Z to 24/2100Z:
+The geomagnetic field was at quiet to active levels with isolated
+minor to major storm periods.  At 24/1431Z, an interplanetary shock
+passage was recorded at the ACE satellite with a corresponding
+sudden impulse of 22 nT observed at the Boulder magnetometer at
+24/1504Z.  At the time of the IP shock passage, Bt reached a maximum
+of 37 nT at 24/1439Z while the Bz component of the interplanetary
+magnetic field hit a maximum northward extent of 27 nT at 24/1436Z
+and a maximum southward extent of -16 nT at 24/1807Z.  Wind
+velocity, as measured at the SOHO spacecraft, were observed at shock
+passage near 750 km/s with post shock passage speeds near 650 km/s. 
+The greater than 100 MeV proton flux event that began at 23/0445Z,
+reached a maximum of 2 pfu at 23/0750Z and ended at 23/2050Z.  The
+greater than 10 MeV proton flux event that began at 23/0530Z,
+reached a new maximum of 6310 pfu at 24/1530Z and was still in
+progress at the time of this writing.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at unsettled to minor storm levels, with isolated
+major storm intervals, on day one (25 January) as effects from the
+arrival of the 23 January CME persist.  By day two (26 January), the
+field is expected to be at mostly quiet levels as CME effects wane. 
+Quiet to unsettled levels, with isolated active periods, are
+expected on day three (27 January) due to a recurrent coronal hole
+high speed stream rotating into a geoeffective position.  The
+greater than 10 MeV proton flux event is expected to remain above
+threshold through 26 January, falling to background levels by 27
+January.
+III.  Event Probabilities 25 Jan-27 Jan
+Class M    60/60/60
+Class X    10/10/10
+Proton     99/99/50
+PCAF       in progress
+IV.  Penticton 10.7 cm Flux
+Observed           24 Jan 136
+Predicted   25 Jan-27 Jan  140/140/135
+90 Day Mean        24 Jan 143
+V.  Geomagnetic A Indices
+Observed Afr/Ap 23 Jan  007/011
+Estimated Afr/Ap 24 Jan  022/030
+Predicted Afr/Ap 25 Jan-27 Jan  018/020-005/005-007/008
+VI.  Geomagnetic Activity Probabilities 25 Jan-27 Jan
+A.  Middle Latitudes
+Active                35/10/25
+Minor storm           20/05/05
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                40/15/35
+Minor storm           25/05/15
+Major-severe storm    10/01/05

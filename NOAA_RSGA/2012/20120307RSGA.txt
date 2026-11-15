@@ -1,0 +1,80 @@
+:Product: 0307RSGA.txt
+:Issued: 2012 Mar 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 067 Issued at 2200Z on 07 Mar 2012
+IA.  Analysis of Solar Active Regions and Activity from  06/2100Z
+to 07/2100Z:  Solar activity was high. Region 1429 (N17E15) produced
+an X5/3B long-duration flare with maximum at 07/0024Z. The event was
+associated with type II and type IV radio sweeps and a full halo,
+though slightly asymmetric coronal mass ejection (CME). The CME had
+an estimated plane of sky speed of about 2200 km/s. During the decay
+of the X5 x-ray event, Region 1430 (N21W00) produced an X1/Sf at
+0114Z. Region 1429 dominates the disk with an area of about 1300
+millionths. Observations show slight separation of the central spots
+but the region continues to be large and magnetically complex;
+multiple deltas are clearly evident as well as a dominant east-west
+polarity inversion line. Region 1430 showed steady growth during the
+past 24 hours. Region 1428 (S17W05) also showed growth during the
+period but was relatively quiet and stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate to high. M-class level activity is expected to continue and
+there continues to be a good chance for an additional major flare
+and/or proton producing event from Region 1429. In addition, the
+growth trend in 1430 suggests that it may also contribute to the
+M-flare activity during the next three days.
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z:
+The geomagnetic field ranged from quiet to major storm levels during
+the past 24 hours. Activity levels were initially quiet to unsettled
+until an interplanetary shock arrived. The shock was seen at ACE at
+07/0334Z and was followed by a sudden storm commencement (SSC) at
+Earth at 07/0421Z. Although solar wind speeds did not increase
+greatly, the interplanetary magnetic field (IMF) and density did
+increase markedly and the Bz component had numerous intervals of
+fairly strong southward orientation (with the strongest negative
+intervals at about -15 to -20 nT). Geomagnetic activity increased to
+minor to major storm levels following the SSC with some periods of
+severe storm levels at high latitudes. The disturbance most likely
+originated from the X1/halo CME that occurred on 05 March. A greater
+than 10 MeV proton event began at 07/0500Z and has reached a peak so
+far of 1630 PFU at 1540Z. A greater than 100 MeV proton event also
+occurred, beginning at 07/0405Z and reaching an apparent maximum of
+69 PFU at 07/1525Z. Both of these events continue in progress and
+are clearly associated with todays X5/Full halo CME event.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be active initially on day 1 (08 March) but is expected
+to increase to major storm levels with a likelihood for isolated
+severe storm levels after the arrival of the CME from todays
+X5/full halo event. The arrival time is estimated to be sometime
+between 0600-1000Z. Minor to major storm levels are expected to
+continue partway (6-12 hours) into the second day (09 March), but a
+decline to predominantly active levels is expected for the remainder
+of the day. Predominantly unsettled levels are expected for the
+third day (10 March). The greater than 10 MeV proton event is
+expected to continue through the first day and is also likely to
+continue partway through the second day. The greater than 100 Mev
+proton event is expected to slowly decline over the next 24 hours.
+III.  Event Probabilities 08 Mar-10 Mar
+Class M    85/85/85
+Class X    40/40/40
+Proton     99/80/50
+PCAF       red
+IV.  Penticton 10.7 cm Flux
+Observed           07 Mar 136
+Predicted   08 Mar-10 Mar  140/140/135
+90 Day Mean        07 Mar 125
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Mar  010/009
+Estimated Afr/Ap 07 Mar  036/050
+Predicted Afr/Ap 08 Mar-10 Mar  047/075-018/028-007/015
+VI.  Geomagnetic Activity Probabilities 08 Mar-10 Mar
+A.  Middle Latitudes
+Active                15/20/25
+Minor storm           40/40/15
+Major-severe storm    45/30/05
+B.  High Latitudes
+Active                05/25/15
+Minor storm           10/35/30
+Major-severe storm    85/25/45

@@ -1,0 +1,47 @@
+:Product: 1031RSGA.txt
+:Issued: 2012 Oct 31 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 305 Issued at 2200Z on 31 Oct 2012
+IA.  Analysis of Solar Active Regions and Activity from  30/2100Z
+to 31/2100Z:  Solar activity was low.  Regions 1596 (N06, L=152) and
+1598 (S11W65) both produced C1 flares at 31/0507Z and 31/1139Z
+respectively.  No Earth-directed coronal mass ejections (CMEs) were
+observed during the reporting period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a chance for C-flare activity.
+IIA.  Geophysical Activity Summary 30/2100Z to 31/2100Z:
+The geomagnetic field was at quiet to unsettled levels.  A sudden
+impulse of 13 nT was observed at the Boulder magnetometer at
+31/1539Z due to the arrival of a CME. The greater than 2 MeV
+electron flux at geosynchronous orbit reached high levels during the
+period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active with a chance for minor storm
+levels on day one (01 November) due to continued CME effects.  Quiet
+to unsettled levels with a slight chance for active conditions are
+expected on days 2 and 3 (02 - 03 November) as effects subside.
+III.  Event Probabilities 01 Nov-03 Nov
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           31 Oct 104
+Predicted   01 Nov-03 Nov  105/100/095
+90 Day Mean        31 Oct 120
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Oct  001/002
+Estimated Afr/Ap 31 Oct  003/006
+Predicted Afr/Ap 01 Nov-03 Nov  014/020-007/010-007/008
+VI.  Geomagnetic Activity Probabilities 01 Nov-03 Nov
+A.  Middle Latitudes
+Active                45/20/15
+Minor storm           15/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor storm           30/25/20
+Major-severe storm    60/25/20

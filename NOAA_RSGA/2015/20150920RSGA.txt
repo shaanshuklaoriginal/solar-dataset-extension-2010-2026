@@ -1,0 +1,56 @@
+:Product: 0920RSGA.txt
+:Issued: 2015 Sep 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 263 Issued at 2200Z on 20 Sep 2015
+
+IA.  Analysis of Solar Active Regions and Activity from 19/2100Z to
+20/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M2 event observed at
+20/1803Z from Region 2415 (S19W56). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (21 Sep, 22 Sep,
+23 Sep).
+
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z: The geomagnetic
+field has been at unsettled to severe storm levels for the past 24
+hours. Solar wind speed, as measured by the ACE spacecraft, reached a
+peak speed of 627 km/s at 20/0711Z. Total IMF reached 22 nT at 20/0536Z.
+The maximum southward component of Bz reached -17 nT at 20/0535Z.
+Protons greater than 10 MeV at geosynchronous orbit reached a peak level
+of 3 pfu at 20/2045Z. Electrons greater than 2 MeV at geosynchronous
+orbit reached a peak level of 383 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to minor storm levels on day one (21 Sep), unsettled
+to active levels on day two (22 Sep) and quiet to unsettled levels on
+day three (23 Sep). Protons greater than 10 Mev have a slight chance of
+crossing threshold on days one and two (21 Sep, 22 Sep).
+
+III.  Event probabilities 21 Sep-23 Sep
+Class M    40/40/40
+Class X    05/05/05
+Proton     10/10/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           20 Sep 110
+Predicted   21 Sep-23 Sep 110/110/110
+90 Day Mean        20 Sep 104
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 Sep  012/011
+Estimated Afr/Ap 20 Sep  031/044
+Predicted Afr/Ap 21 Sep-23 Sep  022/020-014/012-007/008
+
+VI.  Geomagnetic Activity Probabilities 21 Sep-23 Sep
+A.  Middle Latitudes
+Active                40/25/10
+Minor Storm           20/10/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/15/20
+Minor Storm           30/30/25
+Major-severe storm    50/35/20

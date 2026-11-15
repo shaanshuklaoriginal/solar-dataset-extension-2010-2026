@@ -1,0 +1,58 @@
+:Product: 0624RSGA.txt
+:Issued: 2013 Jun 24 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 175 Issued at 2200Z on 24 Jun 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 23/2100Z to
+24/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C9 event observed at
+24/1132Z from Region 1778 (S16E49). There are currently 6 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for isolated M-class flares on day one (25 Jun) and expected to
+be low with a slight chance for an M-class flare on day two (26 Jun) and
+likely to be low with a slight chance for an M-class flare on day three
+(27 Jun).
+
+IIA.  Geophysical Activity Summary 23/2100Z to 24/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+618 km/s at 24/1112Z. Total IMF reached 6 nT at 23/2107Z. The maximum
+southward component of Bz reached -5 nT at 23/2115Z. Protons greater
+than 10 MeV at geosynchronous orbit reached a peak level of 14 pfu at
+24/0520Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 10700 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one and two (25 Jun, 26 Jun)
+and quiet to active levels on day three (27 Jun). Protons have a chance
+of crossing threshold on day one (25 Jun), have a slight chance of
+crossing threshold on day two and three (26-27 Jun).
+
+III.  Event probabilities 25 Jun-27 Jun
+Class M    30/20/10
+Class X    05/05/01
+Proton     30/20/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           24 Jun 121
+Predicted   25 Jun-27 Jun 115/115/110
+90 Day Mean        24 Jun 123
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 23 Jun  016/018
+Estimated Afr/Ap 24 Jun  013/015
+Predicted Afr/Ap 25 Jun-27 Jun  009/010-006/008-009/015
+
+VI.  Geomagnetic Activity Probabilities 25 Jun-27 Jun
+A.  Middle Latitudes
+Active                15/10/30
+Minor Storm           01/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/20/25
+Major-severe storm    20/15/40

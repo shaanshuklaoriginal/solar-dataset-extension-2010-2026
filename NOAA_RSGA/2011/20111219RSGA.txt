@@ -1,0 +1,47 @@
+:Product: 1219RSGA.txt
+:Issued: 2011 Dec 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 353 Issued at 2200Z on 19 Dec 2011
+IA.  Analysis of Solar Active Regions and Activity from  18/2100Z
+to 19/2100Z:  Solar activity has been at very low levels for the past
+24  hours. A total of 9 numbered regions populate the visible disk.
+Regions 1376 (N19W31) has been the most active region in the past
+few days. The largest flare of the period was a B8 x-ray event at
+1413Z from Region 1376. Both Regions 1381 (S18E10) and 1382 (S18E18)
+continue to grow and evolve and remain the most magnetically complex
+regions on the disk. Regions 1383 (N04E68) was numbered early in the
+period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+predominantly low levels for the next three days (20 - 22 December).
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be remain at quiet levels for the next three days (20 -
+22 December). Even though quiet conditions are expected, a small
+coronal hole high speed stream is expected to become geoeffective on
+day 1 (20 December).
+III.  Event Probabilities 20 Dec-22 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           19 Dec 128
+Predicted   20 Dec-22 Dec  130/130/125
+90 Day Mean        19 Dec 145
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Dec  003/002
+Estimated Afr/Ap 19 Dec  003/004
+Predicted Afr/Ap 20 Dec-22 Dec  006/006-004/005-004/005
+VI.  Geomagnetic Activity Probabilities 20 Dec-22 Dec
+A.  Middle Latitudes
+Active                05/01/01
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/10
+Major-severe storm    05/01/01

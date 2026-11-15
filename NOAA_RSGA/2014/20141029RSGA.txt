@@ -1,0 +1,56 @@
+:Product: 1029RSGA.txt
+:Issued: 2014 Oct 29 2245 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 302 Issued at 2200Z on 29 Oct 2014
+
+IA.  Analysis of Solar Active Regions and Activity from 28/2100Z to
+29/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a M1 event observed at
+29/1433Z from Region 2192 (S12W84). There are currently 6 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a chance for X-class flares on day one (30 Oct) and likely to be
+low with a chance for M-class flares and a slight chance for an X-class
+flare on day two (31 Oct) and likely to be low with a slight chance for
+an M-class flare on day three (01 Nov).
+
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+454 km/s at 28/2128Z. Total IMF reached 6 nT at 28/2143Z. The maximum
+southward component of Bz reached -5 nT at 28/2349Z. Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 1466 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (30 Oct) and quiet to
+unsettled levels on days two and three (31 Oct, 01 Nov). Protons greater
+than 10 Mev have a chance of crossing threshold on day one (30 Oct) and
+have a slight chance of crossing threshold on day two (31 Oct).
+
+III.  Event probabilities 30 Oct-01 Nov
+Class M    65/25/10
+Class X    35/20/05
+Proton     35/20/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           29 Oct 150
+Predicted   30 Oct-01 Nov 145/135/135
+90 Day Mean        29 Oct 142
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 Oct  011/011
+Estimated Afr/Ap 29 Oct  008/010
+Predicted Afr/Ap 30 Oct-01 Nov  011/012-008/008-007/008
+
+VI.  Geomagnetic Activity Probabilities 30 Oct-01 Nov
+A.  Middle Latitudes
+Active                30/25/15
+Minor Storm           10/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/25/25
+Major-severe storm    40/35/25

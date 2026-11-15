@@ -1,0 +1,56 @@
+:Product: 1104RSGA.txt
+:Issued: 2015 Nov 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 308 Issued at 2200Z on 04 Nov 2015
+
+IA.  Analysis of Solar Active Regions and Activity from 03/2100Z to
+04/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M3 event observed at
+04/1352Z from Region 2443 (N06W09). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(05 Nov, 06 Nov, 07 Nov).
+
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z: The geomagnetic
+field has been at unsettled to minor storm levels for the past 24 hours.
+Solar wind speed, as measured by the ACE spacecraft, reached a peak
+speed of 770 km/s at 04/0405Z. Total IMF reached 10 nT at 04/0325Z. The
+maximum southward component of Bz reached -8 nT at 04/0444Z. Electrons
+greater than 2 MeV at geosynchronous orbit reached a peak level of 4404
+pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (05 Nov), quiet to
+active levels on day two (06 Nov) and quiet to unsettled levels on day
+three (07 Nov). Protons have a slight chance of crossing threshold on
+day one (05 Nov) and have a slight chance of crossing threshold on days
+two and three (06 Nov, 07 Nov).
+
+III.  Event probabilities 05 Nov-07 Nov
+Class M    65/60/60
+Class X    10/10/10
+Proton     15/10/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           04 Nov 114
+Predicted   05 Nov-07 Nov 115/110/110
+90 Day Mean        04 Nov 105
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Nov  023/028
+Estimated Afr/Ap 04 Nov  028/041
+Predicted Afr/Ap 05 Nov-07 Nov  014/015-010/012-007/008
+
+VI.  Geomagnetic Activity Probabilities 05 Nov-07 Nov
+A.  Middle Latitudes
+Active                45/25/20
+Minor Storm           15/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/15/20
+Minor Storm           30/30/25
+Major-severe storm    55/30/25

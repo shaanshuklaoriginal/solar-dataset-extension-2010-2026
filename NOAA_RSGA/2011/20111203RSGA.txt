@@ -1,0 +1,54 @@
+:Product: 1203RSGA.txt
+:Issued: 2011 Dec 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 337 Issued at 2200Z on 03 Dec 2011
+IA.  Analysis of Solar Active Regions and Activity from  02/2100Z
+to 03/2100Z:  Solar activity has been at low levels for the past 24
+hours. Region 1363 (S22E16)  has been the most active region on the
+disk, with multiple C-class events. Region 1363 also continues to
+grow in spot count, areal coverage, and magnetic complexity
+(beta-gamma). New Region 1366 (N17E65) was numbered early in the
+period as it rotated onto the visible disk. Multiple CMEs have been
+observed in the past 24 hours, but none appear to have any Earth
+directed components.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a chance for M-class events for the next three days
+(04-06 December).
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z:
+The geomagnetic field has been at predominantly quiet levels for the
+past 24 hours. Slightly elevated activity was observed at high
+latitudes, with an isolated period at minor storm levels, do to the
+arrival of a transient CME. Signatures from the ACE spacecraft
+indicated this transients arrival around 02/1800Z with a slight
+increase in the lower energy protons,  an increase in solar wind
+speeds coupled with elevated solar wind density, and finally an
+increase in total IMF intensity around 8 nT. The Penticton 10 cm
+flux is estimated today at 160 sfu.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be a predominantly quiet levels for the next three days
+(04-06 December).
+III.  Event Probabilities 04 Dec-06 Dec
+Class M    30/30/30
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           03 Dec 160
+Predicted   04 Dec-06 Dec  165/165/160
+90 Day Mean        03 Dec 143
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Dec  004/004
+Estimated Afr/Ap 03 Dec  007/008
+Predicted Afr/Ap 04 Dec-06 Dec  005/005-005/005-003/005
+VI.  Geomagnetic Activity Probabilities 04 Dec-06 Dec
+A.  Middle Latitudes
+Active                01/01/01
+Minor storm           00/00/00
+Major-severe storm    00/00/00
+B.  High Latitudes
+Active                13/13/13
+Minor storm           08/07/07
+Major-severe storm    02/01/01

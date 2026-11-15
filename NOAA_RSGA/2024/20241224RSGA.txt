@@ -1,0 +1,55 @@
+:Product: 1224RSGA.txt
+:Issued: 2024 Dec 24 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 359 Issued at 2200Z on 24 Dec 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 23/2100Z to
+24/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a M4 event observed at
+24/0019Z from Region 3932 (S18E13). There are currently 12 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(25 Dec, 26 Dec, 27 Dec).
+
+IIA.  Geophysical Activity Summary 23/2100Z to 24/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 649 km/s at 24/0747Z. Total IMF reached 6
+nT at 24/0048Z. The maximum southward component of Bz reached -5 nT at
+24/0053Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 2 pfu at 23/2205Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 802 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (25 Dec), unsettled to
+minor storm levels on day two (26 Dec) and quiet to active levels on day
+three (27 Dec). Protons have a slight chance of crossing threshold on
+days one, two, and three (25 Dec, 26 Dec, 27 Dec).
+
+III.  Event probabilities 25 Dec-27 Dec
+Class M    75/75/75
+Class X    10/10/10
+Proton     10/10/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           24 Dec 259
+Predicted   25 Dec-27 Dec 260/260/255
+90 Day Mean        24 Dec 203
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 23 Dec  011/010
+Estimated Afr/Ap 24 Dec  008/010
+Predicted Afr/Ap 25 Dec-27 Dec  018/025-018/025-009/010
+
+VI.  Geomagnetic Activity Probabilities 25 Dec-27 Dec
+A.  Middle Latitudes
+Active                40/45/30
+Minor Storm           30/30/10
+Major-severe storm    05/05/01
+B.  High Latitudes
+Active                10/05/15
+Minor Storm           20/20/30
+Major-severe storm    65/70/40

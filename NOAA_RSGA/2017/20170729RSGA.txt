@@ -1,0 +1,51 @@
+:Product: 0729RSGA.txt
+:Issued: 2017 Jul 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 210 Issued at 2200Z on 29 Jul 2017
+
+IA.  Analysis of Solar Active Regions and Activity from 28/2100Z to
+29/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 1 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares and a slight chance for an M-class
+flare on day one (30 Jul) and likely to be low with a slight chance for
+an M-class flare on days two and three (31 Jul, 01 Aug).
+
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 459 km/s at 29/1813Z. Total IMF reached 5 nT at
+29/0024Z. The maximum southward component of Bz reached -3 nT at
+29/0816Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 8287 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (30 Jul), quiet to active levels on day
+two (31 Jul) and quiet to unsettled levels on day three (01 Aug).
+
+III.  Event probabilities 30 Jul-01 Aug
+Class M    10/20/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           29 Jul 070
+Predicted   30 Jul-01 Aug 075/082/082
+90 Day Mean        29 Jul 075
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 Jul  007/007
+Estimated Afr/Ap 29 Jul  005/005
+Predicted Afr/Ap 30 Jul-01 Aug  006/005-010/012-010/010
+
+VI.  Geomagnetic Activity Probabilities 30 Jul-01 Aug
+A.  Middle Latitudes
+Active                10/30/20
+Minor Storm           01/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/30/30
+Major-severe storm    10/40/30

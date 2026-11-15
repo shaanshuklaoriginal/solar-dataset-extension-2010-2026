@@ -1,0 +1,52 @@
+:Product: 0202RSGA.txt
+:Issued: 2013 Feb 02 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 33 Issued at 2200Z on 02 Feb 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 01/2100Z to
+02/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C2 event observed at
+02/1958Z from Region 1667 (N23E49). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for C-class flares on days one, two, and three (03 Feb, 04
+Feb, 05 Feb).
+
+IIA.  Geophysical Activity Summary 01/2100Z to 02/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed at the ACE spacecraft, reached a peak speed of 529 km/s at
+02/1457Z. Total IMF reached 11.5 nT at 02/0147Z. The maximum southward
+component of Bz reached -8.5 nT at 02/0221Z. Electrons greater than 2
+MeV at geosynchronous orbit reached a peak level of 108 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels for the next three days (03 Feb, 04 Feb,
+05 Feb).
+
+III.  Event probabilities 03 Feb-05 Feb
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           02 Feb 112
+Predicted   03 Feb-05 Feb 110/115/115
+90 Day Mean        02 Feb 120
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 01 Feb  004/004
+Estimated Afr/Ap 02 Feb  009/009
+Predicted Afr/Ap 03 Feb-05 Feb  012/015-009/012-007/008
+
+VI.  Geomagnetic Activity Probabilities 03 Feb-05 Feb
+A.  Middle Latitudes
+Active                25/25/10
+Minor Storm           10/10/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/25/20
+Major-severe storm    35/35/15

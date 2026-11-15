@@ -1,0 +1,52 @@
+:Product: 0429RSGA.txt
+:Issued: 2026 Apr 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 119 Issued at 2200Z on 29 Apr 2026
+
+IA.  Analysis of Solar Active Regions and Activity from 28/2100Z to
+29/2100Z: Solar activity has been at low levels for the past 24 hours.
+There are currently 6 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(30 Apr, 01 May, 02 May).
+
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 367 km/s at 28/2137Z. Total IMF reached 6 nT at
+29/1732Z. The maximum southward component of Bz reached -3 nT at
+29/1622Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 459 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (30 Apr), quiet to unsettled
+levels on day two (01 May) and quiet levels on day three (02 May).
+Protons have a slight chance of crossing threshold on days one, two, and
+three (30 Apr, 01 May, 02 May).
+
+III.  Event probabilities 30 Apr-02 May
+Class M    65/65/65
+Class X    10/10/10
+Proton     10/10/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           29 Apr 143
+Predicted   30 Apr-02 May 140/135/132
+90 Day Mean        29 Apr 129
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 Apr  003/003
+Estimated Afr/Ap 29 Apr  003/004
+Predicted Afr/Ap 30 Apr-02 May  010/014-007/008-005/005
+
+VI.  Geomagnetic Activity Probabilities 30 Apr-02 May
+A.  Middle Latitudes
+Active                30/15/15
+Minor Storm           15/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/15
+Major-severe storm    20/20/10

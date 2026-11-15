@@ -1,0 +1,46 @@
+:Product: 0516RSGA.txt
+:Issued: 2012 May 16 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 137 Issued at 2200Z on 16 May 2012
+IA.  Analysis of Solar Active Regions and Activity from  15/2100Z
+to 16/2100Z:  Solar activity was low. Region 1476 (N13W73) produced a
+few C-class flares while continuing to decay. Regions 1482 (N13E10)
+and 1484 (N09E38) also produced a few low level C-class events. A
+pair of CMEs associated with apparent filament eruptions were
+observed in LASCO C2/C3, but neither appear to be earth directed.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low for the next 3 days (17-19 May).
+IIA.  Geophysical Activity Summary 15/2100Z to 16/2100Z:
+The geomagnetic field was mostly quiet. The greater than 2 MeV
+electron flux at geosynchronous orbit reached high levels during the
+period.
+IIB.  Geophysical Activity Forecast:  With the exception of an
+isolated unsettled or active period early on day 1 (17 May) from an
+expected solar sector boundary crossing, geomagnetic field
+conditions are expected to be mostly quiet throughout the period
+(17-19 May).
+III.  Event Probabilities 17 May-19 May
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           16 May 131
+Predicted   17 May-19 May  130/130/130
+90 Day Mean        16 May 115
+V.  Geomagnetic A Indices
+Observed Afr/Ap 15 May  005/005
+Estimated Afr/Ap 16 May  007/008
+Predicted Afr/Ap 17 May-19 May  004/005-004/005-004/005
+VI.  Geomagnetic Activity Probabilities 17 May-19 May
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           01/01/01
+Major-severe storm    01/01/01

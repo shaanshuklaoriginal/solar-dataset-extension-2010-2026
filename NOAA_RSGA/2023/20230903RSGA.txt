@@ -1,0 +1,51 @@
+:Product: 0903RSGA.txt
+:Issued: 2023 Sep 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 246 Issued at 2200Z on 03 Sep 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 02/2100Z to
+03/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a M6 event observed at
+03/0836Z from Region 3413 (N10W0*). There are currently 5 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low on
+days one, two, and three (04 Sep, 05 Sep, 06 Sep).
+
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z: The geomagnetic
+field has been at unsettled to major storm levels for the past 24 hours.
+Solar wind speed reached a peak of 567 km/s at 02/2104Z. Total IMF
+reached 9 nT at 02/2134Z. The maximum southward component of Bz reached
+-7 nT at 02/2305Z.  Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 836 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one and two (04 Sep, 05 Sep) and
+quiet to unsettled levels on day three (06 Sep).
+
+III.  Event probabilities 04 Sep-06 Sep
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           03 Sep 131
+Predicted   04 Sep-06 Sep 130/135/130
+90 Day Mean        03 Sep 163
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Sep  025/038
+Estimated Afr/Ap 03 Sep  020/028
+Predicted Afr/Ap 04 Sep-06 Sep  010/012-011/012-007/010
+
+VI.  Geomagnetic Activity Probabilities 04 Sep-06 Sep
+A.  Middle Latitudes
+Active                35/35/25
+Minor Storm           20/20/10
+Major-severe storm    05/05/01
+B.  High Latitudes
+Active                20/20/20
+Minor Storm           30/30/20
+Major-severe storm    30/30/15

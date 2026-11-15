@@ -1,0 +1,42 @@
+:Product: 0326RSGA.txt
+:Issued: 2012 Mar 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 086 Issued at 2200Z on 26 Mar 2012
+IA.  Analysis of Solar Active Regions and Activity from  25/2100Z
+to 26/2100Z:  Solar activity has been at low levels.  Region 1442
+(N12W01) produced a C1/Sf flare at 26/0642Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for an M-class flare.  Old Region 1429 (N19, L=295) is
+expected to return late on day 2 (28 March), further increasing the
+possibility of an M-class event.
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z:
+The geomagnetic field was at quiet levels.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet on 27 March, increasing to unsettled to
+active conditions on 28 and 29 March due to a solar sector boundary
+followed by a negative polarity coronal hole.
+III.  Event Probabilities 27 Mar-29 Mar
+Class M    25/40/55
+Class X    05/10/15
+Proton     01/05/10
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           26 Mar 102
+Predicted   27 Mar-29 Mar  100/105/110
+90 Day Mean        26 Mar 120
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Mar  004/005
+Estimated Afr/Ap 26 Mar  004/005
+Predicted Afr/Ap 27 Mar-29 Mar  006/005-013/015-007/010
+VI.  Geomagnetic Activity Probabilities 27 Mar-29 Mar
+A.  Middle Latitudes
+Active                05/35/25
+Minor storm           01/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           15/30/35
+Major-severe storm    05/45/30

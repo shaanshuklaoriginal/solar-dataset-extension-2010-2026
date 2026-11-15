@@ -1,0 +1,56 @@
+:Product: 0101RSGA.txt
+:Issued: 2024 Jan 01 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 1 Issued at 2200Z on 01 Jan 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 31/2100Z to
+01/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a X5 event observed at
+31/2155Z from Region 3536 (N05E75). There are currently 3 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a chance for X-class flares on days one, two, and three (02 Jan, 03
+Jan, 04 Jan).
+
+IIA.  Geophysical Activity Summary 31/2100Z to 01/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed was estimated to have reached a peak around 350 km/s. Total
+IMF reached 11 nT at 01/2044Z. The maximum southward component of Bz
+reached -11 nT at 01/2100Z.  Protons greater than 10 MeV at
+geosynchronous orbit reached a peak level of 2 pfu at 01/0035Z.
+Electrons greater than 2 MeV at geosynchronous orbit reached a peak
+level of 203 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to minor storm levels on day one (02 Jan), quiet to
+active levels on day two (03 Jan) and quiet to unsettled levels on day
+three (04 Jan). Protons have a chance of crossing threshold on days one,
+two, and three (02 Jan, 03 Jan, 04 Jan).
+
+III.  Event probabilities 02 Jan-04 Jan
+Class M    60/60/60
+Class X    25/25/25
+Proton     25/25/25
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           01 Jan 136
+Predicted   02 Jan-04 Jan 140/140/145
+90 Day Mean        01 Jan 149
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 31 Dec  002/002
+Estimated Afr/Ap 01 Jan  007/009
+Predicted Afr/Ap 02 Jan-04 Jan  018/026-011/014-008/008
+
+VI.  Geomagnetic Activity Probabilities 02 Jan-04 Jan
+A.  Middle Latitudes
+Active                40/30/20
+Minor Storm           25/15/05
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor Storm           25/30/25
+Major-severe storm    60/45/25

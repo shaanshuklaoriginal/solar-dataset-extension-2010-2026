@@ -1,0 +1,52 @@
+:Product: 0322RSGA.txt
+:Issued: 2026 Mar 22 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 81 Issued at 2200Z on 22 Mar 2026
+
+IA.  Analysis of Solar Active Regions and Activity from 21/2100Z to
+22/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 7 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on day one (23 Mar) and likely to be low
+with a slight chance for an M-class flare on days two and three (24 Mar,
+25 Mar).
+
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z: The geomagnetic
+field has been at unsettled to severe storm levels for the past 24
+hours. Solar wind speed reached a peak of 716 km/s at 22/2027Z. Total
+IMF reached 14 nT at 22/0849Z. The maximum southward component of Bz
+reached -11 nT at 22/1432Z.  Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 1309 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to major storm levels on day one (23 Mar), quiet to
+active levels on day two (24 Mar) and quiet to unsettled levels on day
+three (25 Mar).
+
+III.  Event probabilities 23 Mar-25 Mar
+Class M    25/20/20
+Class X    05/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           22 Mar 120
+Predicted   23 Mar-25 Mar 120/120/122
+90 Day Mean        22 Mar 141
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 Mar  027/044
+Estimated Afr/Ap 22 Mar  040/077
+Predicted Afr/Ap 23 Mar-25 Mar  024/034-013/014-011/012
+
+VI.  Geomagnetic Activity Probabilities 23 Mar-25 Mar
+A.  Middle Latitudes
+Active                30/35/35
+Minor Storm           35/15/15
+Major-severe storm    25/01/01
+B.  High Latitudes
+Active                05/10/10
+Minor Storm           20/25/25
+Major-severe storm    75/50/50

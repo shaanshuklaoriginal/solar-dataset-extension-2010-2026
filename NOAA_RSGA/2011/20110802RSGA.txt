@@ -1,0 +1,62 @@
+:Product: 0802RSGA.txt
+:Issued: 2011 Aug 02 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 214 Issued at 2200Z on 02 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  01/2100Z
+to 02/2100Z:  Solar activity was moderate during the past 24 hours.
+Region 1261 (N15W21) produced a long duration M1/1N flare at
+02/0619Z with associated Type IV, Type II (estimated speed of 1067
+km/s), and Tenflare (220 sfu) radio emissions. LASCO C3 imagery
+indicated a full halo coronal mass ejection also associated with
+this event. Region 1261 maintained its Fkc type spot group
+classification and Beta-Gamma-Delta magnetic configuration. Region
+1263 ((N17E08) produced multiple C-class events and maintained its
+Beta-Gamma-Delta configuration.  Region 1260 (N15W21) remained quiet
+and stable.  Region 1265 (N16W80) was quiet as it began to rotate
+off the visible disk.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+to moderate with a slight chance for a major event for the next
+three days (03-05 August). Region 1261 and Region 1263 are both
+capable of producing a major event and both have a slight chance of
+producing an energetic proton event.
+IIA.  Geophysical Activity Summary 01/2100Z to 02/2100Z:
+The geomagnetic field was quiet during the past 24 hours. Solar wind
+data observed at the ACE satellite indicated a decrease in solar
+wind speed from 550 km/s to 450 km/s as the effects from the coronal
+hole high speed stream waned.  The GOES 13 satellite observed an
+enhancement of the 10 MeV protons associated with the periods M1
+flare.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet on day one (03 August). Day two is expected to
+be predominately quiet with chance a for isolated active conditions
+late in the day. Day three (05 August) is expected to be unsettled
+to active with a chance for minor storm conditions. The increase in
+activity is forecast due to the expected arrival of the coronal mass
+ejection from 02/0616Z. Due to the enhanced environment there is a
+chance for the 10 MeV protons to cross event thresholds with shock
+arrival.
+III.  Event Probabilities 03 Aug-05 Aug
+Class M    65/65/60
+Class X    10/10/10
+Proton     15/15/20
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           02 Aug 122
+Predicted   03 Aug-05 Aug  120/120/120
+90 Day Mean        02 Aug 095
+V.  Geomagnetic A Indices
+Observed Afr/Ap 01 Aug  006/009
+Estimated Afr/Ap 02 Aug  005/005
+Predicted Afr/Ap 03 Aug-05 Aug  005/005-012/012-020/025
+VI.  Geomagnetic Activity Probabilities 03 Aug-05 Aug
+A.  Middle Latitudes
+Active                05/40/45
+Minor storm           01/15/20
+Major-severe storm    01/05/10
+B.  High Latitudes
+Active                05/40/45
+Minor storm           01/15/20
+Major-severe storm    01/05/10

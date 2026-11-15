@@ -1,0 +1,60 @@
+:Product: 0513RSGA.txt
+:Issued: 2012 May 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 134 Issued at 2200Z on 13 May 2012
+IA.  Analysis of Solar Active Regions and Activity from  12/2100Z
+to 13/2100Z:  Solar activity has been at low levels for the past 24
+hours. Region 1476 (N09W33) continues to be the most dominant region
+on the disk with an area of 840 millionths and is magnetically
+classified as beta-gamma-delta. However, Region 1476 is currently in
+a decay phase and only producing C-class x-ray events. Region 1479
+(N15E40) was split into two sunspot groups after magnetogram
+analysis, with the leader group retaining  the Region 1479 number,
+and the trailer group being numbered Region 1482 (N14E51). Three new
+regions were also numbered today, Region 1481 (S10E61), Region 1483
+(S27E51) and Region 1484 (N10E75).
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a chance for M-class events for the next three days
+(14 - 16 May) as Region 1476 continues to rotate towards the west
+limb of the solar disk.
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z:
+The geomagnetic field has been at quiet to unsettled levels with
+isolated periods at minor storm levels observed at high latitudes.
+Measurements, by the ACE spacecraft, indicate the waning effects of
+the latest coronal hole high speed stream, as solar wind speeds
+decreased from 600 km/s to around 500 km/s. The greater than 2 MeV
+electron flux at geosynchronous orbit reached high levels during the
+period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels with a chance for active
+periods on day one (14 May), as a CME, observed leaving the solar
+disk on 12 May, is forecasted to become geoeffective. Most of the
+mass of this CME event is expected to miss Earth, thus quiet to
+unsettled levels with a chance of active levels, are also expected
+on day two (15 May). As effects of the CME wane, a return to quiet
+to unsettled levels is expected on day three (16 May).
+III.  Event Probabilities 14 May-16 May
+Class M    35/35/35
+Class X    05/05/05
+Proton     05/05/05
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           13 May 131
+Predicted   14 May-16 May  130/130/130
+90 Day Mean        13 May 114
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 May  008/010
+Estimated Afr/Ap 13 May  010/010
+Predicted Afr/Ap 14 May-16 May  007/010-014/012-006/008
+VI.  Geomagnetic Activity Probabilities 14 May-16 May
+A.  Middle Latitudes
+Active                20/30/10
+Minor storm           05/10/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                30/35/20
+Minor storm           15/25/10
+Major-severe storm    01/10/01

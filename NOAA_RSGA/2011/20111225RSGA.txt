@@ -1,0 +1,53 @@
+:Product: 1225RSGA.txt
+:Issued: 2011 Dec 25 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 359 Issued at 2200Z on 25 Dec 2011
+IA.  Analysis of Solar Active Regions and Activity from  24/2100Z
+to 25/2100Z:  Solar activity was moderate.  New Region 1387 (S22W28)
+produced a M4/1N flare at 25/1816Z.  This event was accompanied by
+Type II (1019 km/s) and Type IV radio emissions.  This region grew
+rapidly, ending the period as a Dao type group with Beta magnetic
+characteristics.  Coronagraph imagery was not yet available to
+determine the characteristics of the CME.  Earlier in the period, a
+filament eruption occurred near N21W15.  Analysis of this event
+using LASCO imagery indicated a speed near 400 km/s.  Evaluation of
+the geoeffective potential of both the flare and filament eruption
+is ongoing.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate, with a chance for further M-class activity from Region
+1387.
+IIA.  Geophysical Activity Summary 24/2100Z to 25/2100Z:
+The geomagnetic field was quiet.  An enhancement of the 10 MeV proton
+flux at the ACE spacecraft was observed following the M4/1N flare
+mentioned earlier.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mosly quiet on Days 1 and 2 (26-27 December).  
+Initial predictions are for the CME to arrive late on Day 3 (28
+December), bringing unsettled to active levels with a slight chance
+for minor storm conditions at high latitudes.  The arrival estimate
+will be refined as new data becomes available.
+III.  Event Probabilities 26 Dec-28 Dec
+Class M    50/50/50
+Class X    05/05/05
+Proton     05/05/05
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           25 Dec 144
+Predicted   26 Dec-28 Dec  150/155/155
+90 Day Mean        25 Dec 144
+V.  Geomagnetic A Indices
+Observed Afr/Ap 24 Dec  002/001
+Estimated Afr/Ap 25 Dec  000/001
+Predicted Afr/Ap 26 Dec-28 Dec  006/005-006/005-007/007
+VI.  Geomagnetic Activity Probabilities 26 Dec-28 Dec
+A.  Middle Latitudes
+Active                05/20/25
+Minor storm           01/05/15
+Major-severe storm    01/05/05
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/20/30
+Major-severe storm    05/25/40

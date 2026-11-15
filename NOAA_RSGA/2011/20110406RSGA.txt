@@ -1,0 +1,49 @@
+:Product: 0406RSGA.txt
+:Issued: 2011 Apr 06 2225 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+:::::::::: CORRECTED COPY ::::::::::
+SDF Number 096 Issued at 2200Z on 06 Apr 2011
+IA.  Analysis of Solar Active Regions and Activity from  05/2100Z
+to 06/2100Z:  Solar activity increased to low levels. A C1 flare was
+observed off the east limb at 06/1807Z. Region 1184 (N16W41) showed
+an increase in area and spot number. New Region 1186 (N22E58) was
+numbered as an Axx spot with two spots.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low during the next three days.
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z:
+The geomagnetic field was at quiet to active levels, with an isolated
+minor storm period observed at mid-latitudes and major storm levels
+at high latitudes. The increase in activity is due to a CME
+associated with a B8/Sf flare at 02/2347Z. The greater than 2 MeV
+electron flux at geosynchronous orbit reached high levels during the
+period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels, with isolated active
+levels at high latitudes, on day one (07 April). Activity is
+expected to decrease to predominantly quiet levels on day two (08
+April). Quiet to unsettled levels are expected, with isolated active levels on day three (09 April), due to expected coronal hole high-speed stream effects.
+III.  Event Probabilities 07 Apr-09 Apr
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           06 Apr 117
+Predicted   07 Apr-09 Apr  117/117/117
+90 Day Mean        06 Apr 099
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Apr  004/007
+Estimated Afr/Ap 06 Apr  019/020
+Predicted Afr/Ap 07 Apr-09 Apr  008/008-005/005-010/010
+VI.  Geomagnetic Activity Probabilities 07 Apr-09 Apr
+A.  Middle Latitudes
+Active                25/15/35
+Minor storm           10/01/15
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                30/20/40
+Minor storm           15/05/20
+Major-severe storm    01/01/05

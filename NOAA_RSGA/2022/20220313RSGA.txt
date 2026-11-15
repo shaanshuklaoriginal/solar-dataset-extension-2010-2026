@@ -1,0 +1,53 @@
+:Product: 0313RSGA.txt
+:Issued: 2022 Mar 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 72 Issued at 2200Z on 13 Mar 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 12/2100Z to
+13/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C4 event observed at
+13/0323Z from Region 2962 (N27W49). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (14 Mar, 15 Mar,
+16 Mar).
+
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z: The geomagnetic
+field has been at quiet to major storm levels for the past 24 hours.
+Solar wind speed reached a peak of 580 km/s at 13/1047Z. Total IMF
+reached 25 nT at 13/1708Z. The maximum southward component of Bz reached
+-18 nT at 13/1636Z.  Electrons greater than 2 MeV at geosynchronous
+orbit reached a peak level of 583 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to major storm levels on day one (14 Mar), unsettled
+to minor storm levels on day two (15 Mar) and quiet to unsettled levels
+on day three (16 Mar).
+
+III.  Event probabilities 14 Mar-16 Mar
+Class M    25/25/25
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           13 Mar 123
+Predicted   14 Mar-16 Mar 120/120/115
+90 Day Mean        13 Mar 110
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Mar  007/010
+Estimated Afr/Ap 13 Mar  020/034
+Predicted Afr/Ap 14 Mar-16 Mar  020/030-015/020-011/012
+
+VI.  Geomagnetic Activity Probabilities 14 Mar-16 Mar
+A.  Middle Latitudes
+Active                30/35/20
+Minor Storm           35/30/05
+Major-severe storm    25/10/01
+B.  High Latitudes
+Active                05/05/20
+Minor Storm           15/20/30
+Major-severe storm    80/65/25

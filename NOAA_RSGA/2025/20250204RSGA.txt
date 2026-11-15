@@ -1,0 +1,53 @@
+:Product: 0204RSGA.txt
+:Issued: 2025 Feb 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 35 Issued at 2200Z on 04 Feb 2025
+
+IA.  Analysis of Solar Active Regions and Activity from 03/2100Z to
+04/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a M4 event observed at
+04/1121Z from Region 3981 (N07W03). There are currently 9 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(05 Feb, 06 Feb, 07 Feb).
+
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 484 km/s at 03/2236Z. Total IMF reached 8 nT at
+03/2121Z. The maximum southward component of Bz reached -4 nT at
+04/0331Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 319 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one and two (05 Feb, 06 Feb) and quiet to
+unsettled levels on day three (07 Feb). Protons have a slight chance of
+crossing threshold on days one, two, and three (05 Feb, 06 Feb, 07 Feb).
+
+III.  Event probabilities 05 Feb-07 Feb
+Class M    85/85/85
+Class X    20/20/20
+Proton     15/15/15
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           04 Feb 212
+Predicted   05 Feb-07 Feb 220/220/215
+90 Day Mean        04 Feb 193
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Feb  004/002
+Estimated Afr/Ap 04 Feb  007/009
+Predicted Afr/Ap 05 Feb-07 Feb  005/005-006/005-007/008
+
+VI.  Geomagnetic Activity Probabilities 05 Feb-07 Feb
+A.  Middle Latitudes
+Active                10/10/25
+Minor Storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/20/30
+Major-severe storm    20/15/30

@@ -1,0 +1,48 @@
+:Product: 0223RSGA.txt
+:Issued: 2012 Feb 23 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 054 Issued at 2200Z on 23 Feb 2012
+IA.  Analysis of Solar Active Regions and Activity from  22/2100Z
+to 23/2100Z:  Solar activity was very low.  Region 1422 (N15W52)
+showed decay in its trailing spots.  A new region appeared on the NE
+limb and was numbered Region 1423 (N18E70).  Two CMEs were observed
+overnight; the first off the North limb, observed in LASCO C2
+imagery beginning at approximately 23/0148Z and the second beginning
+at 23/0824Z off the NW limb.  The second CME was associated with a
+filament eruption on the NW limb first seen in SDO/AIA 193 imagery
+at 23/0746Z.  None of the CMEs are expected to be geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low levels with a chance for a C-class activity.
+IIA.  Geophysical Activity Summary 22/2100Z to 23/2100Z:
+The geomagnetic field was quiet.  Solar wind speed at the ACE
+spacecraft decreased from approximately 530 km/s to 440 km/s while
+the Bz component of the Interplanetary Magnetic Field did not vary
+much beyond +/- 4 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to continue at mostly quiet conditions for the forecast
+period (24 - 26 February).
+III.  Event Probabilities 24 Feb-26 Feb
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           23 Feb 103
+Predicted   24 Feb-26 Feb  105/105/100
+90 Day Mean        23 Feb 130
+V.  Geomagnetic A Indices
+Observed Afr/Ap 22 Feb  009/009
+Estimated Afr/Ap 23 Feb  002/003
+Predicted Afr/Ap 24 Feb-26 Feb  004/005-004/005-004/005
+VI.  Geomagnetic Activity Probabilities 24 Feb-26 Feb
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/10
+Major-severe storm    05/05/05

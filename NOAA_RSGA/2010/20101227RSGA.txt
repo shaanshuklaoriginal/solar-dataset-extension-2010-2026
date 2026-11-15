@@ -1,0 +1,41 @@
+:Product: 1227RSGA.txt
+:Issued: 2010 Dec 27 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 361 Issued at 2200Z on 27 Dec 2010
+IA.  Analysis of Solar Active Regions and Activity from  26/2100Z
+to 27/2100Z:  Solar activity was very low. New Region 1138 (N13W12)
+was numbered during the period as a Dao bi-polar group and produced
+several B-class events. Regions 1136 (S22W84) and 1137 (N18E00) were
+spotless.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low for the next three days (28 - 30 December) with a slight chance
+of C-class activity from the Region 1138.
+IIA.  Geophysical Activity Summary 26/2100Z to 27/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the next three days (28 - 30 December).
+III.  Event Probabilities 28 Dec-30 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           27 Dec 080
+Predicted   28 Dec-30 Dec  082/082/084
+90 Day Mean        27 Dec 083
+V.  Geomagnetic A Indices
+Observed Afr/Ap 26 Dec  002/002
+Estimated Afr/Ap 27 Dec  003/002
+Predicted Afr/Ap 28 Dec-30 Dec  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 28 Dec-30 Dec
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01

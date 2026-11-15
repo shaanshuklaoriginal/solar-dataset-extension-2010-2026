@@ -1,0 +1,56 @@
+:Product: 1008RSGA.txt
+:Issued: 2012 Oct 08 2235 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 282 Issued at 2200Z on 08 Oct 2012
+:::::::::::CORRECTED COPY:::::::::::::::::::
+IA.  Analysis of Solar Active Regions and Activity from  07/2100Z
+to 08/2100Z:  Solar activity was moderate. A M2 x-ray event occurred
+at 08/1117Z from a region that has not yet rotated around the east
+limb. Two CMEs were observed by LASCO C2/C3 coming off the east limb
+early in the period, however neither are expected to be
+geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low on day 1 (9 October). Activity is forecast to increase to
+low on day 2 (10 October) and low with the a chance for moderate
+levels on day 3 (11 October) as the new region emerges around the
+east limb.
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z:
+The geomagnetic field began the period at unsettled levels before the
+arrival of the CME from 05 October around 08/0445Z. At that time, a
+transient passage was observed at ACE and was then followed by a
+subsequent sudden impulse (21nT at Boulder) to Earths magnetic
+field at 08/0515Z. Conditions increased to active levels for a sole
+period, before major storm levels began and lasted for two periods
+(06-12Z). The remainder of the day saw a recovery back to unsettled
+and active levels.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+forecast to be at minor storm levels (G1) on day 1 (09 October) as
+CME effects continue. Days 2 and 3 (10-11 October) are forecast to
+be quiet to unsettled with possible isolated active levels
+persisting, due to a coronal hole that is expected to move into a
+potentially geoeffective position.
+III.  Event Probabilities 09 Oct-11 Oct
+Class M    05/10/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           08 Oct 103
+Predicted   09 Oct-11 Oct  100/100/100
+90 Day Mean        08 Oct 119
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Oct  004/005
+Estimated Afr/Ap 08 Oct  024/035
+Predicted Afr/Ap 09 Oct-11 Oct  017/020-007/012-007/008
+VI.  Geomagnetic Activity Probabilities 09 Oct-11 Oct
+A.  Middle Latitudes
+Active                35/20/10
+Minor storm           20/10/05
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                20/15/15
+Minor storm           25/20/20
+Major-severe storm    35/25/15

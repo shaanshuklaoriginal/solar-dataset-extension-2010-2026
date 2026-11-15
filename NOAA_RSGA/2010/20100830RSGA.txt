@@ -1,0 +1,47 @@
+:Product: 0830RSGA.txt
+:Issued: 2010 Aug 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 242 Issued at 2200Z on 30 Aug 2010
+IA.  Analysis of Solar Active Regions and Activity from  29/2100Z
+to 30/2100Z:  Solar activity has been at very low levels for the past
+24 hours. Region 1102 (N28W26) produced several low level B-class
+events. Region 1101 (N13W06) remained stable and quiet and Region
+1102 has grown in areal coverage and sunspot number. No new regions
+were numbered today.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low levels with a slight chance for an isolated C-class events
+for the next three days (31 August - 02 September).
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+The greater than 2 MeV electron flux at geosynchronous orbit was at
+high levels throughout the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels on day one (31 August)
+due to a coronal hole high speed stream becoming geoeffective.
+Mostly quiet levels are expected to return on days two and three (01
+September - 02 September).
+III.  Event Probabilities 31 Aug-02 Sep
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           30 Aug 075
+Predicted   31 Aug-02 Sep  075/076/076
+90 Day Mean        30 Aug 077
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Aug  002/002
+Estimated Afr/Ap 30 Aug  000/005
+Predicted Afr/Ap 31 Aug-02 Sep  007/008-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 31 Aug-02 Sep
+A.  Middle Latitudes
+Active                15/10/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/15/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

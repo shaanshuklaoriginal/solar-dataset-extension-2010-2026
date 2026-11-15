@@ -1,0 +1,51 @@
+:Product: 1213RSGA.txt
+:Issued: 2024 Dec 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 348 Issued at 2200Z on 13 Dec 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 12/2100Z to
+13/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M2 event observed at
+13/1124Z from Region 3917 (S08W56). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate on
+days one, two, and three (14 Dec, 15 Dec, 16 Dec).
+
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 362 km/s at 12/2210Z. Total IMF reached 7 nT at
+13/1211Z. The maximum southward component of Bz reached -6 nT at
+13/1544Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 834 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (14 Dec) and quiet to unsettled levels
+on days two and three (15 Dec, 16 Dec).
+
+III.  Event probabilities 14 Dec-16 Dec
+Class M    55/55/55
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           13 Dec 164
+Predicted   14 Dec-16 Dec 165/165/170
+90 Day Mean        13 Dec 200
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Dec  004/003
+Estimated Afr/Ap 13 Dec  004/005
+Predicted Afr/Ap 14 Dec-16 Dec  005/005-008/010-009/008
+
+VI.  Geomagnetic Activity Probabilities 14 Dec-16 Dec
+A.  Middle Latitudes
+Active                10/20/20
+Minor Storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/30/25
+Major-severe storm    15/30/25

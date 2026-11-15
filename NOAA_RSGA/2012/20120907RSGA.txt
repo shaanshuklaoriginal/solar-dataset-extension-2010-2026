@@ -1,0 +1,44 @@
+:Product: 0907RSGA.txt
+:Issued: 2012 Sep 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 251 Issued at 2200Z on 07 Sep 2012
+IA.  Analysis of Solar Active Regions and Activity from  06/2100Z
+to 07/2100Z:  Solar activity was low. Regions 1560 (N05W89) and 1562
+(S20W63) each produced a few low-level C flares. Region 1562
+continued to grow in areal coverage overnight. New Region 1567
+(N17E56) was numbered today. The region is a simple Bxo-beta type
+spot group. All other regions on the disk were quiet and stable. No
+Earth-directed CMEs were observed during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance for isolated M-class activity for the next
+three days (08-10 September).
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z:
+The geomagnetic field was mostly quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain mostly quiet for the next three days (08-10
+September).
+III.  Event Probabilities 08 Sep-10 Sep
+Class M    20/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           07 Sep 133
+Predicted   08 Sep-10 Sep  125/120/115
+90 Day Mean        07 Sep 124
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Sep  012/012
+Estimated Afr/Ap 07 Sep  008/008
+Predicted Afr/Ap 08 Sep-10 Sep  007/007-007/007-007/007
+VI.  Geomagnetic Activity Probabilities 08 Sep-10 Sep
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/15/15
+Minor storm           20/20/20
+Major-severe storm    10/10/10

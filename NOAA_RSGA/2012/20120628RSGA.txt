@@ -1,0 +1,53 @@
+:Product: 0628RSGA.txt
+:Issued: 2012 Jun 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 180 Issued at 2200Z on 28 Jun 2012
+IA.  Analysis of Solar Active Regions and Activity from  27/2100Z
+to 28/2100Z:  Solar activity increased to moderate levels. Region
+1513 (N17E45) produced an impulsive M2/1b flare at 28/1612Z along
+with occasional B- and C-class flares including a long-duration
+C2/Sf at 28/1948Z. Region 1513 showed a minor increase in spot count
+and an increase in magnetic complexity (beta-gamma). Region 1512
+(S15W02) maintained its beta-gamma magnetic configuration, but
+showed little change during the period. This region produced
+occasional B- and C-class flares during the period. No new regions
+were numbered. No Earth-directed coronal mass ejections occurred
+during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+during the period (29 June - 01 July) with a chance for another
+M-class flare.
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z:
+Geomagnetic field activity was at quiet to (briefly) unsettled
+levels.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at quiet to unsettled levels on day 1 (29 June) with
+a chance for active levels due to the arrival of a co-rotating
+interaction region in advance of a recurrent coronal hole high-speed
+stream (CH HSS). Field activity is expected to increase to unsettled
+to active levels during days 2 - 3 (30 June - 01 July) with a chance
+for minor storm levels due to CH HSS effects.
+III.  Event Probabilities 29 Jun-01 Jul
+Class M    30/30/30
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           28 Jun 120
+Predicted   29 Jun-01 Jul  115/115/120
+90 Day Mean        28 Jun 118
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Jun  008/007
+Estimated Afr/Ap 28 Jun  007/009
+Predicted Afr/Ap 29 Jun-01 Jul  009/010-015/018-013/015
+VI.  Geomagnetic Activity Probabilities 29 Jun-01 Jul
+A.  Middle Latitudes
+Active                15/25/25
+Minor storm           05/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/15/15
+Minor storm           25/30/30
+Major-severe storm    20/40/35

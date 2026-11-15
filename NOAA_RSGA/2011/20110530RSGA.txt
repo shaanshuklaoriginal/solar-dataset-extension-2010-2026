@@ -1,0 +1,70 @@
+:Product: 0530RSGA.txt
+:Issued: 2011 May 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 150 Issued at 2200Z on 30 May 2011
+IA.  Analysis of Solar Active Regions and Activity from  29/2100Z
+to 30/2100Z:  Solar activity was low.  Five C-class x-ray events were
+observed in the past 24 hours.  Region 1224 (N20W56) produced a C3
+event at 30/0252Z which was accompanied by a faint, but potentially
+geoeffective, CME seen in STEREO-B COR2 imagery at 30/1209Z with a
+plane-of-sky speed estimate of 610 km/s.  Region 1224 grew slightly
+and ended the period as a Dso type group with Beta-Gamma magnetic
+characteristics.  Region 1227 (S18E54) was also associated with CME
+activity. At 30/1101Z, this region produced a C2/Sn flare
+accompanied by a Type II sweep (1697 km/s) and CME observed in LASCO
+C2 imagery (estimated speed 420 km/s). Earlier in the period, Region
+1227 produced a C8/Sf that peaked at 29/2120Z. GOES-15 x-ray
+signatures indicated this event began at 29/2011Z with northward
+surging evident by 29/2035Z. At 29/2124Z, LASCO C2 imagery observed
+a potentially geoeffective CME with an estimated plane-of-sky
+velocity of 1576 km/s. Associated with this flare were Type II (1548
+km/s), Type IV and 10 cm (520 sfu) radio signatures. Region 1227
+ended the period as a Dsi type group with Beta-Gamma magnetic
+characteristics.  Region 1226 (S21E42) produced a C3/Sf flare at
+30/0549Z and a C7/Sn flare at 30/0605Z.  This region ended the
+period as a Dki type group with Beta-Gamma magnetic characteristics.
+New Region 1229 (N16E38) was numbered and classified as a Cao type
+group with Beta magnetic characteristics.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for M-class events for the next three days (31 May -
+02 Jun).
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z:
+The geomagnetic field ranged from quiet to active levels.  A coronal
+hole high speed stream continued to cause disturbed geomagnetic
+conditions.  Some signs of weakening were evident at the ACE
+spacecraft as solar wind speed decreased from near 700 km/s to about
+600 km/s, the total interplanetary magnetic field strength decreased
+to less than 5 nT and the average Bz component was approximately 0
+nT. The greater than 2 MeV electron flux at geosynchronous orbit was
+at high levels throughout the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled on days 1 and 2  (31 May - 1 Jun)
+as the coronal hole high speed stream wanes.  Conditions are
+expected to remain unsettled with a chance for active periods on day
+3 (02 Jun) due to the potential influence from the 29 and 30 May
+CMEs.
+III.  Event Probabilities 31 May-02 Jun
+Class M    40/40/40
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           30 May 112
+Predicted   31 May-02 Jun  115/115/115
+90 Day Mean        30 May 108
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 May  017/032
+Estimated Afr/Ap 30 May  007/018
+Predicted Afr/Ap 31 May-02 Jun  010/015-007/010-010/012
+VI.  Geomagnetic Activity Probabilities 31 May-02 Jun
+A.  Middle Latitudes
+Active                20/05/10
+Minor storm           10/01/05
+Major-severe storm    05/01/05
+B.  High Latitudes
+Active                20/05/20
+Minor storm           10/01/20
+Major-severe storm    05/01/10

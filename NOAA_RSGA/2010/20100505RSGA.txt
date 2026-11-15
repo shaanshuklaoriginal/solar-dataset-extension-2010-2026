@@ -1,0 +1,53 @@
+:Product: 0505RSGA.txt
+:Issued: 2010 May 05 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 125 Issued at 2200Z on 05 May 2010
+IA.  Analysis of Solar Active Regions and Activity from  04/2100Z
+to 05/2100Z:  Solar activity increased to moderate levels. Region
+1069 (N41W40) produced an M1/Sf flare at 05/1719Z and a C8 flare at
+05/1152Z, as well as occasional lesser B- and C-class flares. Region
+1069 gradually increased in area and maintained a beta-gamma
+magnetic configuration. Region 1066 (S26W22) produced a B4 flare at
+05/1618Z associated with an EIT-wave/dimming event. New Region 1070
+(N21W08), a small simple B-type spot group, was assigned late in the
+period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+during days 1 - 3 (06 - 08 May) with a chance for isolated M-class
+flares from Region 1069.
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z:
+Geomagnetic field activity was at quiet to (briefly) unsettled
+levels. ACE solar wind measurements indicated Earth remained within
+a subsiding coronal hole high-speed stream. Velocities gradually
+decreased from 620 to 538 km/sec during the summary period. The
+greater than 2 MeV electron flux at geosynchronous orbit reached
+high levels during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at mostly quiet levels during days 1 - 2 (06 - 07
+May) as the coronal hole high-speed stream continues to subside.
+Field activity is expected to increase to unsettled levels on day 3
+(08 May) in response to the B4 wave/dimming event mentioned above.
+III.  Event Probabilities 06 May-08 May
+Class M    30/30/30
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           05 May 083
+Predicted   06 May-08 May  084/084/084
+90 Day Mean        05 May 082
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 May  007/010
+Estimated Afr/Ap 05 May  006/008
+Predicted Afr/Ap 06 May-08 May  005/005-005/005-010/010
+VI.  Geomagnetic Activity Probabilities 06 May-08 May
+A.  Middle Latitudes
+Active                10/05/15
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/10/20
+Minor storm           05/01/01
+Major-severe storm    01/01/01

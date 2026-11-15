@@ -1,0 +1,51 @@
+:Product: 0108RSGA.txt
+:Issued: 2011 Jan 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 008 Issued at 2200Z on 08 Jan 2011
+IA.  Analysis of Solar Active Regions and Activity from  07/2100Z
+to 08/2100Z:  Solar activity remained at very low levels. Region 1139
+(S29W87) produced a B2 flare at 08/0923Z as it approached the west
+limb. Region 1140 (N33W36) showed no significant changes and
+remained a C-type group with minor magnetic complexity. Region 1143
+(S23E02) decayed to a B-type group with a simple bipolar magnetic
+configuration. No new regions were numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low through the period (09 - 11 January).
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z:
+Geomagnetic field activity was at quiet to unsettled levels. ACE
+solar wind data indicated Earth remained under the influence of a
+recurrent coronal hole high-speed stream. Solar wind velocities
+varied from 581 to 672 km/s during the period. Interplanetary
+magnetic field (IMF) intensity remained enhanced (peak 6 nT), while
+IMF Bz was variable at -4 to +6 nT. The greater than 2 MeV electron
+flux at geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at quiet to unsettled levels during days 1 - 2 (09 -
+10 January). Field activity is expected to decrease to quiet levels
+on day 3 (11 January) as the coronal hole high-speed stream
+subsides.
+III.  Event Probabilities 09 Jan-11 Jan
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           08 Jan 085
+Predicted   09 Jan-11 Jan  084/084/082
+90 Day Mean        08 Jan 084
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Jan  010/011
+Estimated Afr/Ap 08 Jan  007/008
+Predicted Afr/Ap 09 Jan-11 Jan  007/008-007/008-005/005
+VI.  Geomagnetic Activity Probabilities 09 Jan-11 Jan
+A.  Middle Latitudes
+Active                20/15/10
+Minor storm           10/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                30/25/15
+Minor storm           15/10/05
+Major-severe storm    01/01/01

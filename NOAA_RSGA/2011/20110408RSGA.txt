@@ -1,0 +1,52 @@
+:Product: 0408RSGA.txt
+:Issued: 2011 Apr 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 098 Issued at 2200Z on 08 Apr 2011
+IA.  Analysis of Solar Active Regions and Activity from  07/2100Z
+to 08/2100Z:  Solar activity was at very low levels. Region 1185
+(N20E14) produced a B7/Sf flare at 08/1824Z. Region 1185 was
+redefined to detach two separate spot groups: Region 1185 and new
+Region 1189 (N23E11). Region 1185 is now configured as a Cso group
+with a beta magnetic configuration with 14 spots. New Region 1189
+was numbered as a Dso group with a beta magnetic configuration with
+6 spots. Region 1188 (S25W06) was numbered as a Cro group with a
+beta magnetic configuration with 3 spots. Region 1187 (S18E50)
+increased to a Cso group with 4 spots. Region 1183 (N14, L=140)
+rotated off the limb. A back-sided full-halo CME was observed on
+SOHO/LASCO C3 imagery at 07/2342Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low to low levels for the next three days (09-11 April).
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z:
+The geomagnetic field was predominantly quiet, with isolated
+unsettled levels.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels, with active levels at
+high latitudes on day one (09 April). Quiet to unsettled levels are
+expected, with isolated active levels at mid latitudes and minor
+storm levels at high latitudes, on days two and three (10-11 April).
+The increase in activity is due to a coronal hole high-speed stream.
+III.  Event Probabilities 09 Apr-11 Apr
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           08 Apr 109
+Predicted   09 Apr-11 Apr  100/095/100
+90 Day Mean        08 Apr 100
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Apr  004/006
+Estimated Afr/Ap 08 Apr  005/005
+Predicted Afr/Ap 09 Apr-11 Apr  008/008-010/010-010/010
+VI.  Geomagnetic Activity Probabilities 09 Apr-11 Apr
+A.  Middle Latitudes
+Active                15/35/35
+Minor storm           01/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/40/40
+Minor storm           05/15/10
+Major-severe storm    01/05/05

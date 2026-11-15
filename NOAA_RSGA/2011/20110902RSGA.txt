@@ -1,0 +1,62 @@
+:Product: 0902RSGA.txt
+:Issued: 2011 Sep 02 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 245 Issued at 2200Z on 02 Sep 2011
+IA.  Analysis of Solar Active Regions and Activity from  01/2100Z
+to 02/2100Z:  Solar activity was at low levels due a to C1/Sf flare
+at 02/1516Z from Region 1281 (S20E01). During the period, the region
+decayed slightly in area and spot count and remained a D-type,
+bi-polar spot group. Region 1283 (N13E37) produced an impulsive
+B8/Sf flare at 02/0852Z. The region showed penumbral development in
+the trailer spots and was classified as a D-type, bi-polar spot
+group. Region 1282 (N25W40) indicated an increase in area and
+longitudinal extent and was classified as an E-type, bi-polar spot
+group. A CME was observed lifting off the SE limb, first seen in
+SOHO LASCO/C2 imagery at 02/0748Z. A plane-of-sky speed was
+estimated at 375 km/s. The source of this CME appears to have
+originated from a filament channel centered near S28E42. Material
+motion was first observed on SDO/AIA 193 imagery at 02/0554Z. At
+this time, there does not appear to be an Earthward-directed
+component.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+through the period (03 - 05 September) with a slight chance for
+M-class activity.
+IIA.  Geophysical Activity Summary 01/2100Z to 02/2100Z:
+The geomagnetic field was quiet. Solar wind speeds, as measured at
+the ACE spacecraft, were steady below 300 km/s through the period. A
+phi angle change from negative (toward) to positive (away) was
+observed at approximately 02/0900Z. The Bz component of the
+interplanetary magnetic field was predominately negative through the
+period at about -4 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels, with a slight chance
+for active periods, on days one and two (03 - 04 September). This
+increase in activity is due to a recurrent coronal hole high speed
+stream expected to rotate into a geoeffective position early on 03
+September. By day three (05 September), field activity is expected
+to return to mostly quiet levels.
+III.  Event Probabilities 03 Sep-05 Sep
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           02 Sep 115
+Predicted   03 Sep-05 Sep  115/115/110
+90 Day Mean        02 Sep 097
+V.  Geomagnetic A Indices
+Observed Afr/Ap 01 Sep  001/003
+Estimated Afr/Ap 02 Sep  003/005
+Predicted Afr/Ap 03 Sep-05 Sep  008/008-008/008-005/005
+VI.  Geomagnetic Activity Probabilities 03 Sep-05 Sep
+A.  Middle Latitudes
+Active                20/20/15
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/25/20
+Minor storm           10/10/05
+Major-severe storm    01/01/01

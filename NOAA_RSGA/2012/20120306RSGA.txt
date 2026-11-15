@@ -1,0 +1,68 @@
+:Product: 0306RSGA.txt
+:Issued: 2012 Mar 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 066 Issued at 2200Z on 06 Mar 2012
+IA.  Analysis of Solar Active Regions and Activity from  05/2100Z
+to 06/2100Z:  Solar activity was high. There were five M-class x-ray
+events during the past 24 hours, all from Region 1429 (N17E31). The
+largest event was an M2/1n 06/1241Z. None of these events was
+associated with a CME that would be expected to be geoeffective.
+Region 1429 dominates the disk in area (about 1010 millionths), and
+exhibited growth during the period. The trailer portion showed the
+most development but has separated a bit from the main cluster of
+spots. The central portion is magnetically complex and shows
+multiple deltas as well as strong shear along a pair of east-west
+polarity inversion lines. Region 1428 (S17E08) also showed some
+growth during the period (area of 280 millionths) but is simple
+magnetically and was relatively quiet.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate. Additional M-class events from Region 1429 are likely.
+There is also a chance for a major flare and/or proton producing
+event from Region 1429 during the next three days (07-09 March).
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z:
+The geomagnetic field ranged from quiet to active levels with
+isolated minor storm periods at high latitudes. ACE solar wind
+measurements of the interplanetary magnetic field showed steady
+strengthening during the period and there were numerous intervals of
+weakly southward Bz. The greater than 10 MeV proton enhancement
+continued throughout the period and reached a peak value of 4 PFU at
+06/1335Z. The flux appeared to be on a slow declining trend at the
+end of the period. The greater than 2 MeV electron flux at
+geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active with a chance for minor storm
+periods during the next 24 hours (07 March). The increase in
+activity is expected due to combined effects from a co-rotating
+interaction region with the CME that occurred on 04 March
+(associated with the M2 x-ray event). Later in the day additional
+effects are expected due to a glancing blow from the full halo CME
+associated with the X1 x-ray event that occurred on 05 March.
+Predominantly unsettled levels with a chance for active periods are
+expected for the second day (08 March) as effects from the
+anticipated disturbance should diminish. Predominantly quiet levels
+are expected for the third day (09 March).
+III.  Event Probabilities 07 Mar-09 Mar
+Class M    80/80/80
+Class X    30/30/30
+Proton     30/30/30
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           06 Mar 138
+Predicted   07 Mar-09 Mar  140/140/135
+90 Day Mean        06 Mar 125
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Mar  011/009
+Estimated Afr/Ap 06 Mar  009/009
+Predicted Afr/Ap 07 Mar-09 Mar  013/020-010/015-006/007
+VI.  Geomagnetic Activity Probabilities 07 Mar-09 Mar
+A.  Middle Latitudes
+Active                30/20/05
+Minor storm           10/10/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           35/15/10
+Major-severe storm    40/10/05

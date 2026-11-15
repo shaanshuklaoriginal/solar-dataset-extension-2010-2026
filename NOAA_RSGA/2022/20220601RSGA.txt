@@ -1,0 +1,48 @@
+:Product: 0601RSGA.txt
+:Issued: 2022 Jun 01 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 152 Issued at 2200Z on 01 Jun 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 31/2100Z to
+01/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 4 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares and a slight chance for an M-class
+flare on days one, two, and three (02 Jun, 03 Jun, 04 Jun).
+
+IIA.  Geophysical Activity Summary 31/2100Z to 01/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 527 km/s at 01/0301Z.  Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 6865 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one, two, and three (02 Jun, 03 Jun, 04
+Jun).
+
+III.  Event probabilities 02 Jun-04 Jun
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           01 Jun 104
+Predicted   02 Jun-04 Jun 105/105/105
+90 Day Mean        01 Jun 128
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 31 May  008/011
+Estimated Afr/Ap 01 Jun  006/005
+Predicted Afr/Ap 02 Jun-04 Jun  005/005-004/005-006/005
+
+VI.  Geomagnetic Activity Probabilities 02 Jun-04 Jun
+A.  Middle Latitudes
+Active                10/10/10
+Minor Storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/20/15
+Minor Storm           20/20/15
+Major-severe storm    10/10/10

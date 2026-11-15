@@ -1,0 +1,49 @@
+:Product: 0123RSGA.txt
+:Issued: 2013 Jan 23 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 23 Issued at 2200Z on 23 Jan 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 22/2100Z to
+23/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 4 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be at low
+levels on days one, two, and three (24 Jan, 25 Jan, 26 Jan).
+
+IIA.  Geophysical Activity Summary 22/2100Z to 23/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 311 km/s at
+23/0055Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 367 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (24Jan). Quiet to unsettled levels are
+expected for days two and three (24 Jan, 25 Jan) due to the anticipated
+onset of a coronal hole high speed stream.
+
+III.  Event probabilities 24 Jan-26 Jan
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           23 Jan 105
+Predicted   24 Jan-26 Jan 105/100/100
+90 Day Mean        23 Jan 120
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 22 Jan  001/001
+Estimated Afr/Ap 23 Jan  002/002
+Predicted Afr/Ap 24 Jan-26 Jan  006/005-006/008-007/008
+
+VI.  Geomagnetic Activity Probabilities 24 Jan-26 Jan
+A.  Middle Latitudes
+Active                10/15/15
+Minor Storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           15/25/20
+Major-severe storm    15/25/20

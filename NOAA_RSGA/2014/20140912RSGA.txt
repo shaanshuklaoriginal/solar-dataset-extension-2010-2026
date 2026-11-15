@@ -1,0 +1,56 @@
+:Product: 0912RSGA.txt
+:Issued: 2014 Sep 13 1455 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 255 Issued at 2200Z on 12 Sep 2014
+
+IA.  Analysis of Solar Active Regions and Activity from 11/2100Z to
+12/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+11/2126Z. There are currently 7 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be moderate
+with a chance for X-class flares on days one, two, and three (13 Sep, 14
+Sep, 15 Sep).
+
+IIA.  Geophysical Activity Summary 11/2100Z to 12/2100Z: The geomagnetic
+field has been at quiet to major storm levels for the past 24 hours.
+Solar wind speed, as measured by the ACE spacecraft, reached a peak
+speed of 672 km/s at 12/1534Z. Total IMF reached 31 nT at 12/1813Z. The
+maximum southward component of Bz reached -15 nT at 12/1945Z. Protons
+greater than 10 MeV at geosynchronous orbit reached a peak level of 126
+pfu at 12/1555Z. Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 504 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at active to severe storm levels on day one (13 Sep), unsettled to
+minor storm levels on day two (14 Sep) and quiet to active levels on day
+three (15 Sep). Protons are expected to cross threshold on days one and
+two (13 Sep, 14 Sep) and are expected to cross threshold on day three
+(15 Sep).
+
+III.  Event probabilities 13 Sep-15 Sep
+Class M    75/75/75
+Class X    40/40/40
+Proton     99/99/90
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           12 Sep 152
+Predicted   13 Sep-15 Sep 150/150/150
+90 Day Mean        12 Sep 130
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 11 Sep  016/013
+Estimated Afr/Ap 12 Sep  026/047
+Predicted Afr/Ap 13 Sep-15 Sep  040/050-018/025-011/012
+
+VI.  Geomagnetic Activity Probabilities 13 Sep-15 Sep
+A.  Middle Latitudes
+Active                25/40/30
+Minor Storm           35/25/10
+Major-severe storm    35/05/01
+B.  High Latitudes
+Active                05/10/15
+Minor Storm           15/20/30
+Major-severe storm    85/65/40

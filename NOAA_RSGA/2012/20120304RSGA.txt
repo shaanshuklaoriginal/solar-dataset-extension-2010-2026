@@ -1,0 +1,59 @@
+:Product: 0304RSGA.txt
+:Issued: 2012 Mar 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 064 Issued at 2200Z on 04 Mar 2012
+IA.  Analysis of Solar Active Regions and Activity from  03/2100Z
+to 04/2100Z:  Solar activity was moderate.  A long duration M2/1N
+flare was observed at 04/1052Z from Region 1429 (N18E55). 
+Associated with the event was a 750 sfu Tenflare, Type IV Radio
+Sweep, and a CME first visible in STEREO B COR 2 Imagery at 04/1210Z
+(estimated speed of 840 km/s).  This region is classified as a Dkc
+spot group with a Beta-Gamma-Delta magnetic configuration.  Further
+analysis of the CME will be necessary as imagery becomes available,
+however there appears to be a partial Earth-directed component.  A
+glancing blow is possible from this event.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low to moderate levels with a slight chance for an X-class flare
+from Region 1429.
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z:
+The geomagnetic field was at quiet to active conditions with an
+isolated major storm period observed at high latitudes between
+04/0900 - 1200Z.  Activity was due to extended periods of the
+negative Bz component of the interplanetary magnetic field near -5
+nT.   The solar wind speed at the ACE spacecraft was relatively
+steady near 380 km/s. The greater than 2 MeV electron flux at
+geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet on day 1 (05 March).  Activity levels
+are expected to increase on day 2 (06 March) due to a possible
+glancing blow from todays CME associated with the M2/1N flare. 
+Unsettled to active conditions are expected with isolated minor
+storm periods possible.  Conditions are expected to settle down to
+mostly quiet to unsettled conditions by day 3 (07 March) as the
+effects of the CME wane.  There is a slight chance for a greater
+than 10 MeV proton event from Region 1429 for the forecast period.
+III.  Event Probabilities 05 Mar-07 Mar
+Class M    60/60/60
+Class X    15/15/15
+Proton     15/15/15
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           04 Mar 120
+Predicted   05 Mar-07 Mar  120/120/115
+90 Day Mean        04 Mar 125
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Mar  008/009
+Estimated Afr/Ap 04 Mar  012/012
+Predicted Afr/Ap 05 Mar-07 Mar  006/005-012/015-007/008
+VI.  Geomagnetic Activity Probabilities 05 Mar-07 Mar
+A.  Middle Latitudes
+Active                05/30/15
+Minor storm           01/15/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/35/20
+Minor storm           10/25/15
+Major-severe storm    01/15/10

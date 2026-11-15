@@ -1,0 +1,52 @@
+:Product: 1119RSGA.txt
+:Issued: 2022 Nov 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 323 Issued at 2200Z on 19 Nov 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 18/2100Z to
+19/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+19/1256Z from Region 3150 (N22W55). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (20 Nov, 21 Nov,
+22 Nov).
+
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 393 km/s at 19/0930Z. Total IMF reached 12
+nT at 19/1001Z. The maximum southward component of Bz reached -7 nT at
+18/2102Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 134 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to minor storm levels on days one and two (20 Nov, 21
+Nov) and quiet to active levels on day three (22 Nov).
+
+III.  Event probabilities 20 Nov-22 Nov
+Class M    25/25/25
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           19 Nov 115
+Predicted   20 Nov-22 Nov 115/115/120
+90 Day Mean        19 Nov 133
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Nov  005/005
+Estimated Afr/Ap 19 Nov  009/012
+Predicted Afr/Ap 20 Nov-22 Nov  019/030-020/026-011/012
+
+VI.  Geomagnetic Activity Probabilities 20 Nov-22 Nov
+A.  Middle Latitudes
+Active                35/40/35
+Minor Storm           30/30/20
+Major-severe storm    15/15/05
+B.  High Latitudes
+Active                05/05/10
+Minor Storm           20/25/30
+Major-severe storm    70/70/50

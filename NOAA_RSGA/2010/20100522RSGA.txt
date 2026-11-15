@@ -1,0 +1,41 @@
+:Product: 0522RSGA.txt
+:Issued: 2010 May 22 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 142 Issued at 2200Z on 22 May 2010
+IA.  Analysis of Solar Active Regions and Activity from  21/2100Z
+to 22/2100Z:  Solar activity was very low.  Region 1072 (S16E08) has
+grown in both white light areal coverage and sunspot count and
+remains a beta magnetic configuration.  No x-ray flares were
+observed during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low.
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z:
+The geomagnetic field was quiet.  Solar wind velocity observed from
+the ACE spacecraft show speeds averaging around 370 km/s.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels for the next three days (23-25 May).
+III.  Event Probabilities 23 May-25 May
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           22 May 073
+Predicted   23 May-25 May  074/075/075
+90 Day Mean        22 May 078
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 May  004/005
+Estimated Afr/Ap 22 May  002/005
+Predicted Afr/Ap 23 May-25 May  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 23 May-25 May
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

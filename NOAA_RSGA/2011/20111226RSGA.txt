@@ -1,0 +1,56 @@
+:Product: 1226RSGA.txt
+:Issued: 2011 Dec 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 360 Issued at 2200Z on 26 Dec 2011
+IA.  Analysis of Solar Active Regions and Activity from  25/2100Z
+to 26/2100Z:  Solar activity has been at moderate levels for the past
+24 hour. Region 1387 (S22W42) has produced two M-class flares, the
+largest being an M2/Sf event at 26/2030Z. Region 1387 continues to
+grow, in areal coverage and magnetic complexity as it rotates into a
+more geoeffective location. Region 1386 (S17E37) also continues to
+grow and evolve. A proton enhancement at geosynchronous orbit was
+observed by the GOES 13 spacecraft, with a max flux of 3 pfu at
+26/0135. This enhancement appears to be correlated to the M4/1n
+flare from Region 1387 on 25 December. Protons were again at
+background level at the time of this report. Over the past 36 hours,
+5 CMEs have been observed in STEREO and LASCO C2 and C3 imagery.
+Three CMEs were associated with eruptive filaments and two were
+associated with flares from Region 1387. Of these five CMEs two are
+forecast to become geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+moderate levels with a slight chance for X-class events for the next
+three days (27 - 29 December).
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain at predominantly quiet levels on day one (27
+December). An increase to quiet to active levels with a chance for
+an isolated minor storm period on days two and three (28 -29
+December) is expected as two CMEs, from filament eruptions on 25
+December and 26 December, are expected to arrive on 28 December and
+early on 29 December,  respectfully.
+III.  Event Probabilities 27 Dec-29 Dec
+Class M    70/70/70
+Class X    10/10/10
+Proton     10/10/10
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           26 Dec 146
+Predicted   27 Dec-29 Dec  150/150/145
+90 Day Mean        26 Dec 144
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Dec  003/002
+Estimated Afr/Ap 26 Dec  001/001
+Predicted Afr/Ap 27 Dec-29 Dec  004/005-013/018-015/018
+VI.  Geomagnetic Activity Probabilities 27 Dec-29 Dec
+A.  Middle Latitudes
+Active                01/40/40
+Minor storm           01/25/25
+Major-severe storm    01/05/05
+B.  High Latitudes
+Active                15/40/40
+Minor storm           05/30/30
+Major-severe storm    01/15/20

@@ -1,0 +1,58 @@
+:Product: 0917RSGA.txt
+:Issued: 2011 Sep 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 260 Issued at 2200Z on 17 Sep 2011
+IA.  Analysis of Solar Active Regions and Activity from  16/2100Z
+to 17/2100Z:  Solar activity was low during the past 24 hours.
+Regions 1289 (N22W67) and 1290 (S13W84) each produced C-class
+events, the largest a long duration C2 event from Region 1289 at
+16/2351Z. An associated CME first became visible on LASCO C2 imagery
+at 16/2348Z and had an estimated plane-of-sky speed of 575 km/s.
+Further analysis will be conducted to determine geoeffectiveness.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for isolated M-class flares for the next three days
+(18-20 September).
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z:
+The geomagnetic field was quiet until approximately 17/0400Z when
+effects from the 14 September CME arrived at Earth. A shock was
+observed at ACE at 17/0256Z which was followed by a sudden impulse
+of 21 nT observed by the Boulder magnetometer. Solar wind speeds
+increased from approximately 350 km/s to 450 km/s along with a
+noticeable increase in temperature and density. The interplanetary
+magnetic field Bt reached +14 nT and there were several extended
+periods of southward Bz with a maximum deviation of -12 nT.
+Conditions at Earth increased to active levels following shock
+arrival with an isolated minor storm period at 17/1800Z. Solar wind
+speeds peaked at 550 km/s around 17/1115Z but have since decreased
+to approximately 450 km/s. The greater than 2 MeV electron flux at
+geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled with a slight chance for isolated
+active periods on day one (18 September) as effects from the 14
+September CME subside. Mostly quiet conditions are expected for days
+two and three (19-20 September).
+III.  Event Probabilities 18 Sep-20 Sep
+Class M    30/35/35
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           17 Sep 145
+Predicted   18 Sep-20 Sep  145/145/145
+90 Day Mean        17 Sep 102
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Sep  002/002
+Estimated Afr/Ap 17 Sep  023/032
+Predicted Afr/Ap 18 Sep-20 Sep  010/010-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 18 Sep-20 Sep
+A.  Middle Latitudes
+Active                20/10/05
+Minor storm           10/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/15/05
+Minor storm           15/05/01
+Major-severe storm    01/01/01

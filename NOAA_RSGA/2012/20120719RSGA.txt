@@ -1,0 +1,55 @@
+:Product: 0719RSGA.txt
+:Issued: 2012 Jul 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 201 Issued at 2200Z on 19 Jul 2012
+IA.  Analysis of Solar Active Regions and Activity from  18/2100Z
+to 19/2100Z:  Solar activity was high.  Shortly after rotating off
+the west limb, Region 1520 (S17W90) produced a long duration M7
+event with max at 19/0558Z.  The event was associated with a Type II
+sweep (1110 km/s), a Tenflare (1000 sfu), and a Type IV sweep.  A
+partial-halo CME was subsequently observed in SOHO/LASCO C3
+coronagraph imagery beginning at 19/0606Z with an estimated
+plane-of-sky speed of about 1500 km/s.  This CME is not expected to
+be geoeffective.  Region 1523 (S28W64) and Region 1524 (S16W24)
+showed slight decay.  Region 1525 (S22W23) increased over the course
+of the period and produced a C-flare.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+throughout the period.
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z:
+Geomagnetic field activity was generally quiet.  The greater than 10
+MeV proton event that began at 17/1715Z continued with an
+enhancement from the 19/0513 M7 event, reaching a max value of 79
+PFU at 19/1425Z during the analysis interval. The greater than 2 MeV
+electron flux at geosynchronous orbit was at high levels throughout
+the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be at quiet levels for the first and second days (20-21
+July).  An increase to unsettled levels with a chance for active
+periods is expected on the third day (22 July) due to a favorably
+positioned coronal hole.  The greater than 10 MeV proton event that
+began 17/1715 is expected to end on 20 July.
+III.  Event Probabilities 20 Jul-22 Jul
+Class M    10/01/01
+Class X    01/01/01
+Proton     90/20/01
+PCAF       red
+IV.  Penticton 10.7 cm Flux
+Observed           19 Jul 100
+Predicted   20 Jul-22 Jul  095/095/100
+90 Day Mean        19 Jul 128
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Jul  005/004
+Estimated Afr/Ap 19 Jul  005/006
+Predicted Afr/Ap 20 Jul-22 Jul  006/005-006/005-011/012
+VI.  Geomagnetic Activity Probabilities 20 Jul-22 Jul
+A.  Middle Latitudes
+Active                05/05/30
+Minor storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/30
+Major-severe storm    05/05/35

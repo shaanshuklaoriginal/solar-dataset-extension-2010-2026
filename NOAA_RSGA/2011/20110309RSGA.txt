@@ -1,0 +1,57 @@
+:Product: 0309RSGA.txt
+:Issued: 2011 Mar 09 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 068 Issued at 2200Z on 09 Mar 2011
+IA.  Analysis of Solar Active Regions and Activity from  08/2100Z
+to 09/2100Z:  Solar activity was moderate.  Two M1 x-ray flares were
+observed from Region 1166 (N09W12) which was an Ekc spot group with
+a Beta-Gamma-Delta magnetic classification.  The area of this region
+and the number of spots increased over the last 24 hours.  Region
+1169 (N20E18) also grew in area and number of spots over the past 24
+hours, ending the period as an Esc type spot group with a Beta-Gamma
+magnetic classification.  The remaining regions were either small
+and magnetically simple (Region 1170) or decaying (Region 1164) and
+rotating off the visible disk.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+moderate for day 1 (10 March) with a chance for M-class activity
+from Region 1166 or Region 1169.
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z:
+The geomagnetic field was quiet.  The greater than 10 MeV proton flux
+remained above the 10 pfu threshold throughout the past 24 hours. 
+Solar wind speed measured at the STEREO-A spacecraft jumped from
+approximately 650 km/s to 870 km/s near 09/0700Z.  This jump was
+accompanied by southward Bz to -20nT.  These observations were
+consistent with a shock passage from the CME that originated on
+07/2012Z. The greater than 2 MeV electron flux at geosynchronous
+orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active, with isolated minor storm
+periods possible at high latitudes on day one (10 March), and
+primarily unsettled conditions on days two and three (11-12 March). 
+The CME from 07 March is expected to arrive mid-day on 10 March,
+leading to the elevated activity.
+III.  Event Probabilities 10 Mar-12 Mar
+Class M    50/40/30
+Class X    05/05/01
+Proton     75/50/20
+PCAF       yellow
+IV.  Penticton 10.7 cm Flux
+Observed           09 Mar 143
+Predicted   10 Mar-12 Mar  145/145/140
+90 Day Mean        09 Mar 092
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 Mar  004/005
+Estimated Afr/Ap 09 Mar  005/008
+Predicted Afr/Ap 10 Mar-12 Mar  020/022-012/018-008/008
+VI.  Geomagnetic Activity Probabilities 10 Mar-12 Mar
+A.  Middle Latitudes
+Active                25/25/25
+Minor storm           20/15/01
+Major-severe storm    10/05/01
+B.  High Latitudes
+Active                35/35/35
+Minor storm           25/20/05
+Major-severe storm    15/10/05

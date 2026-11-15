@@ -1,0 +1,45 @@
+:Product: 1204RSGA.txt
+:Issued: 2011 Dec 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 338 Issued at 2200Z on 04 Dec 2011
+IA.  Analysis of Solar Active Regions and Activity from  03/2100Z
+to 04/2100Z:  Solar activity has been at low levels for the past 24
+hours. Region 1363 (S21E04) continues to grow in sunspot number and
+magnetic complexity (beta-gamma-delta). The largest event of the
+period was a C4 x-ray event at 04/1615Z from Region 1362 (N08W18).
+New region 1367 (S18E36) emerged on the disk early in the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a chance for M-class x-ray events for the next three
+days (05-07 December).
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z:
+The geomagnetic field has been at predominantly quiet levels for the
+past 24 hours. An isolated period at minor storm levels was observed
+at high latitudes, due to weak coronal hole high speed stream effects.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at predominantly quiet levels for the next three days
+(05-07 December).
+III.  Event Probabilities 05 Dec-07 Dec
+Class M    30/30/30
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           04 Dec 164
+Predicted   05 Dec-07 Dec  165/170/165
+90 Day Mean        04 Dec 144
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Dec  007/009
+Estimated Afr/Ap 04 Dec  005/005
+Predicted Afr/Ap 05 Dec-07 Dec  006/005-004/005-005/005
+VI.  Geomagnetic Activity Probabilities 05 Dec-07 Dec
+A.  Middle Latitudes
+Active                02/02/02
+Minor storm           01/01/01
+Major-severe storm    00/00/00
+B.  High Latitudes
+Active                14/14/14
+Minor storm           09/09/09
+Major-severe storm    03/03/03

@@ -1,0 +1,57 @@
+:Product: 0804RSGA.txt
+:Issued: 2011 Aug 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 216 Issued at 2200Z on 04 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  03/2100Z
+to 04/2100Z:  Solar activity was high.  Region 1261 (N15W49) produced
+a M9/2B at 0357Z.  This event had associated Type II and Type IV
+radio sweeps and a CME with an approximate speed of 2100 km/s in
+STEREO A COR-2 imagery.  Region 1261 has appeared to decay in the
+southern most trailing spots and is classified as a Dai spot class
+with a Beta-Gamma-Delta magnetic classification.  Region 1263
+(N17W18) has been relatively stable, only managing a few C-class
+flares.  Region 1263 is classified as a Dki spot class with a
+Beta-Gamma-Delta magnetic classification.  New Region 1266 (N18E38)
+was numbered today.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate to high.  Further M-class activity is expected from Region
+1261.  Region 1263 has the potential for M-class activity as well. 
+There continues to be a chance for isolated major flare activity.
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z:
+The geomagnetic field was quiet.  The greater than 10 MeV proton flux
+at geosynchronous orbit crossed the 10 PFU threshold at 0635Z and
+reached a peak of 80.1 PFU at 1030Z.  The greater than 100 MeV
+proton flux at geosynchronous orbit crossed the 1 PFU threshold at
+0510Z and reached a peak of 1.8 PFU at 0740Z.  This proton event was
+associated with the M9 flare at 0357Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at minor to major storm levels with a chance for
+severe storm periods as the effects of three CMEs are expected to
+impact the Earths geomagnetic field early on 05 August.  Active to
+minor storm levels are expected on 06 August.  Unsettled to active
+levels are expected on 07 August.
+III.  Event Probabilities 05 Aug-07 Aug
+Class M    75/75/65
+Class X    15/15/10
+Proton     95/50/30
+PCAF       red
+IV.  Penticton 10.7 cm Flux
+Observed           04 Aug 116
+Predicted   05 Aug-07 Aug  115/110/110
+90 Day Mean        04 Aug 096
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Aug  003/003
+Estimated Afr/Ap 04 Aug  005/005
+Predicted Afr/Ap 05 Aug-07 Aug  050/050-030/030-015/020
+VI.  Geomagnetic Activity Probabilities 05 Aug-07 Aug
+A.  Middle Latitudes
+Active                15/30/25
+Minor storm           35/30/15
+Major-severe storm    50/20/05
+B.  High Latitudes
+Active                15/30/25
+Minor storm           30/30/20
+Major-severe storm    55/30/15

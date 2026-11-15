@@ -1,0 +1,47 @@
+:Product: 0516RSGA.txt
+:Issued: 2011 May 16 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 136 Issued at 2200Z on 16 May 2011
+IA.  Analysis of Solar Active Regions and Activity from  15/2100Z
+to 16/2100Z:  Solar activity was low during the past 24 hours. Region
+1208 (N08W64) produced a C4 event at 15/2334Z. An associated CME was
+first observed on LASCO C2 imagery at 16/0024Z and had an estimated
+plane-of-sky speed of 250 km/s. It is not expected to be
+geoeffective. New Region 1216 (S14E66) was numbered today and is
+considered an Hsx group at this time.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+low for the next three days (17-19 May).
+IIA.  Geophysical Activity Summary 15/2100Z to 16/2100Z:
+The geomagnetic field was quiet to unsettled with an isolated active
+period at 15/1800Z due the effects of a recurrent coronal hole high
+speed stream (CH HSS).
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled with a chance for isolated active
+periods for day one (17 May). A decline from quiet to unsettled to
+mostly quiet conditions is expected on days two and three (18-19
+May) as the CH HSS gradually subsides.
+III.  Event Probabilities 17 May-19 May
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           16 May 092
+Predicted   17 May-19 May  090/090/095
+90 Day Mean        16 May 109
+V.  Geomagnetic A Indices
+Observed Afr/Ap 15 May  009/011
+Estimated Afr/Ap 16 May  010/012
+Predicted Afr/Ap 17 May-19 May  008/010-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 17 May-19 May
+A.  Middle Latitudes
+Active                10/10/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/10/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01

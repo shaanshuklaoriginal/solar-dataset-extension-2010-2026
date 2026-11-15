@@ -1,0 +1,71 @@
+:Product: 1121RSGA.txt
+:Issued: 2012 Nov 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 326 Issued at 2200Z on 21 Nov 2012
+
+IA.  Analysis of Solar Active Regions and Activity from 20/2100Z to
+21/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was an M3 event at 21/1530Z
+from Region 1618 (N09E01) associated with Type IV and II radio sweeps
+(estimated velocity of 1918 km/s), a 200 sfu Tenflare, and a CME. More
+imagery is needed to determine the trajectory, however, it is expected
+to be Earth-directed due to the location of the region. Region 1618 also
+produced an M1/1n flare at 21/0656Z associated with Type IV and II radio
+sweeps (estimated velocity of 720 km/s) and a CME. This CME appears to
+have a slight Earthward component but the majority of ejecta is directed
+Eastward as visible on imagery. Region 1618 developed into a
+beta-gamma-delta magnetic configuration. A filament eruption occurred
+between 20/2305Z to 21/0200Z at around N27E17 with a 14 degree
+heliographic extent. This filament eruption does not appear to have a
+CME associated with it. There are currently 5 numbered sunspot regions
+on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be at
+moderate with a chance for high levels on days one, two, and three (22
+Nov, 23 Nov, 24 Nov). Region 1618 is expected to produce M-class flares.
+A chance for an isolated X-class flare exists for this region.
+
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+488 km/s at 21/0307Z. Total IMF reached 7 nT at 20/2228Z. The maximum
+southward component of Bz reached -6.4 nT at 20/2350Z. Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 857 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (22 Nov). On day two (23
+Nov) conditions are expected to increase to unsettled to minor storm
+levels with a chance for major storm levels due to the arrival of 21 and
+22 Nov CMEs. Conditions are expected to decrease to unsettled to active
+with a chance for minor storm levels on day three (24 Nov) with CME
+effects combined with a favorably positioned coronal hole. A chance for
+a proton event exists on days one, two, and three (22 Nov, 23 Nov, 24
+Nov) due to a chance of high solar flare activity and a favorable
+position of Region 1618.
+
+III.  Event probabilities 22 Nov-24 Nov
+Class M    70/70/70
+Class X    30/30/30
+Proton     30/30/30
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           21 Nov 140
+Predicted   22 Nov-24 Nov 140/135/135
+90 Day Mean        21 Nov 122
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 Nov  010/013
+Estimated Afr/Ap 21 Nov  007/008
+Predicted Afr/Ap 22 Nov-24 Nov  010/012-023/030-014/020
+
+VI.  Geomagnetic Activity Probabilities 22 Nov-24 Nov
+A.  Middle Latitudes
+Active                20/35/40
+Minor Storm           05/30/20
+Major-severe storm    01/10/05
+B.  High Latitudes
+Active                20/10/10
+Minor Storm           30/20/25
+Major-severe storm    25/65/60

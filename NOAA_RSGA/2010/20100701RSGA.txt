@@ -1,0 +1,43 @@
+:Product: 0701RSGA.txt
+:Issued: 2010 Jul 01 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 182 Issued at 2200Z on 01 Jul 2010
+IA.  Analysis of Solar Active Regions and Activity from  30/2100Z
+to 01/2100Z:  Solar activity was very low during the past 24 hours.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low throughout the forecast period (02-04 July).
+IIA.  Geophysical Activity Summary 30/2100Z to 01/2100Z:
+The geomagnetic field was mostly unsettled with an isolated active
+period from 03-06Z.  The greater than 2 MeV electron flux at
+geosynchronous orbit was at high levels during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled with a chance for isolated active
+periods at high latitudes on days 1 and 2 (02-03 July) due to a
+recurrent coronal hole high speed stream.  Mostly quiet conditions
+are expected on day 3 (04 July) as the effects from the coronal hole
+high speed stream subside.
+III.  Event Probabilities 02 Jul-04 Jul
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           01 Jul 073
+Predicted   02 Jul-04 Jul  072/072/074
+90 Day Mean        01 Jul 075
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Jun  015/019
+Estimated Afr/Ap 01 Jul  012/012
+Predicted Afr/Ap 02 Jul-04 Jul  010/012-008/010-006/008
+VI.  Geomagnetic Activity Probabilities 02 Jul-04 Jul
+A.  Middle Latitudes
+Active                20/20/10
+Minor storm           10/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                35/30/20
+Minor storm           15/10/10
+Major-severe storm    01/01/01

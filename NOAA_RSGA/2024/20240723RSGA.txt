@@ -1,0 +1,55 @@
+:Product: 0723RSGA.txt
+:Issued: 2024 Jul 23 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 205 Issued at 2200Z on 23 Jul 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 22/2100Z to
+23/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M2 event observed at
+23/1428Z. There are currently 10 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(24 Jul, 25 Jul, 26 Jul).
+
+IIA.  Geophysical Activity Summary 22/2100Z to 23/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 334 km/s at 23/2003Z. Total IMF reached 16
+nT at 23/2039Z. The maximum southward component of Bz reached -5 nT at
+22/2154Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 24 pfu at 23/1040Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 136 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to major storm levels on day one (24 Jul), quiet to
+active levels on day two (25 Jul) and quiet levels on day three (26
+Jul). Protons are expected to cross threshold on day one (24 Jul) and
+have a slight chance of crossing threshold on days two and three (25
+Jul, 26 Jul).
+
+III.  Event probabilities 24 Jul-26 Jul
+Class M    60/60/60
+Class X    15/15/15
+Proton     99/15/15
+PCAF       yellow
+
+IV.  Penticton 10.7 cm Flux
+Observed           23 Jul 176
+Predicted   24 Jul-26 Jul 180/182/180
+90 Day Mean        23 Jul 186
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 22 Jul  009/008
+Estimated Afr/Ap 23 Jul  006/007
+Predicted Afr/Ap 24 Jul-26 Jul  019/024-011/012-006/005
+
+VI.  Geomagnetic Activity Probabilities 24 Jul-26 Jul
+A.  Middle Latitudes
+Active                30/30/10
+Minor Storm           35/10/01
+Major-severe storm    20/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor Storm           20/30/20
+Major-severe storm    70/40/15

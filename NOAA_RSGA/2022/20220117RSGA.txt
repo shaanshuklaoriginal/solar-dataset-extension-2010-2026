@@ -1,0 +1,52 @@
+:Product: 0117RSGA.txt
+:Issued: 2022 Jan 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 17 Issued at 2200Z on 17 Jan 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 16/2100Z to
+17/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C2 event observed at
+17/1415Z from Region 2930 (N21W45). There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low with a
+slight chance for an M-class flare on days one, two, and three (18 Jan,
+19 Jan, 20 Jan).
+
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 628 km/s at 16/2127Z. Total IMF reached 6
+nT at 17/0504Z. The maximum southward component of Bz reached -4 nT at
+16/2102Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 2021 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one and three (18 Jan, 20
+Jan) and quiet levels on day two (19 Jan).
+
+III.  Event probabilities 18 Jan-20 Jan
+Class M    15/15/15
+Class X    01/01/01
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           17 Jan 114
+Predicted   18 Jan-20 Jan 114/110/108
+90 Day Mean        17 Jan 096
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Jan  016/014
+Estimated Afr/Ap 17 Jan  008/011
+Predicted Afr/Ap 18 Jan-20 Jan  010/010-006/005-007/005
+
+VI.  Geomagnetic Activity Probabilities 18 Jan-20 Jan
+A.  Middle Latitudes
+Active                20/10/20
+Minor Storm           10/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/20/25
+Major-severe storm    30/20/25

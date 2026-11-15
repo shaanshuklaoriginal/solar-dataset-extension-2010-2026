@@ -1,0 +1,52 @@
+:Product: 1128RSGA.txt
+:Issued: 2011 Nov 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 332 Issued at 2200Z on 28 Nov 2011
+IA.  Analysis of Solar Active Regions and Activity from  27/2100Z
+to 28/2100Z:  Solar activity was low.  The largest flare of the
+period was a C3 at 28/1830Z from Region 1361 (N18E21).  Region 1361
+had decay in its intermediate spots with slight growth in its
+trailer spot.  Region 1362 (N07E60) has shown numerous smaller
+trailer spots since rotating further into view.  An eruptive
+filament was first observed at 28/0534Z in SDO AIA 304 imagery near
+Region 1362.  A CME, likely associated with this event, was seen
+shortly after in STEREO A COR2 imagery beginning at 28/0809Z.  The
+ejecta was mostly directed off the west limb as observed in
+SOHO/LASCO imagery.  This event is not expected to be geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to continue
+at low levels with a slight chance for an M-class flare.
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z:
+The geomagnetic field was quiet.  The greater than 10 MeV proton
+event above 10 PFUs began at 26/1125Z, reached a maximum flux of 80
+PFUs at 27/0125Z, and ended at 28/0145Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active with a chance for minor storm
+periods on days 1-2 (29-30 November).  Activity is due to a
+combination of a coronal hole high speed stream (CH HSS) and the
+coronal mass ejection (CME) from 26/0712Z.  On day 3 (01 December)
+mostly quiet to unsettled conditions are expected.
+III.  Event Probabilities 29 Nov-01 Dec
+Class M    10/10/10
+Class X    01/01/01
+Proton     10/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           28 Nov 138
+Predicted   29 Nov-01 Dec  140/145/145
+90 Day Mean        28 Nov 141
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Nov  005/006
+Estimated Afr/Ap 28 Nov  006/005
+Predicted Afr/Ap 29 Nov-01 Dec  012/018-011/012-007/008
+VI.  Geomagnetic Activity Probabilities 29 Nov-01 Dec
+A.  Middle Latitudes
+Active                38/31/17
+Minor storm           15/12/04
+Major-severe storm    01/01/00
+B.  High Latitudes
+Active                16/15/16
+Minor storm           30/30/25
+Major-severe storm    43/43/22

@@ -1,0 +1,47 @@
+:Product: 0106RSGA.txt
+:Issued: 2012 Jan 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 006 Issued at 2200Z on 06 Jan 2012
+IA.  Analysis of Solar Active Regions and Activity from  05/2100Z
+to 06/2100Z:  Solar activity has been at low levels for the past 24
+hours. The largest event of the period was a C2 flare at 06/1125Z
+from Region 1392 (N19W32). A new emerging flux region was numbered
+today as Region 1394 (N18E42).
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a slight chance for M-class events for the next
+three days (07-09 January).
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z:
+The geomagnetic field has been predominantly quiet levels for the
+past 24 hours. Solar wind characteristics, as measured by the ACE
+spacecraft, indicate the arrival of a coronal hole high speed stream
+(CH HSS) with solar wind speeds increasing from around 330 - 450
+km/s.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled for the next two days (07-08
+January) as the effects the CH HSS wane. A return to mostly quiet
+levels is expected on day three (09 January).
+III.  Event Probabilities 07 Jan-09 Jan
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           06 Jan 136
+Predicted   07 Jan-09 Jan  135/130/130
+90 Day Mean        06 Jan 145
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Jan  006/005
+Estimated Afr/Ap 06 Jan  003/004
+Predicted Afr/Ap 07 Jan-09 Jan  009/010-010/010-007/008
+VI.  Geomagnetic Activity Probabilities 07 Jan-09 Jan
+A.  Middle Latitudes
+Active                30/30/10
+Minor storm           10/10/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                40/40/15
+Minor storm           20/20/05
+Major-severe storm    01/01/01

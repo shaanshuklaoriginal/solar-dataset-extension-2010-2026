@@ -1,0 +1,54 @@
+:Product: 0826RSGA.txt
+:Issued: 2025 Aug 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 238 Issued at 2200Z on 26 Aug 2025
+
+IA.  Analysis of Solar Active Regions and Activity from 25/2100Z to
+26/2100Z: Solar activity has been at moderate levels for the past 24
+hours. There are currently 13 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(27 Aug, 28 Aug, 29 Aug).
+
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 441 km/s at 26/0446Z. Total IMF reached 8
+nT at 26/1959Z. The maximum southward component of Bz reached -6 nT at
+26/0402Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 11 pfu at 26/2110Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 368 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (27 Aug) and quiet to
+unsettled levels on days two and three (28 Aug, 29 Aug). Protons are
+expected to cross threshold on day one (27 Aug), have a slight chance of
+crossing threshold on day two (28 Aug) and have a slight chance of
+crossing threshold on day three (29 Aug).
+
+III.  Event probabilities 27 Aug-29 Aug
+Class M    60/60/65
+Class X    10/10/15
+Proton     95/10/15
+PCAF       yellow
+
+IV.  Penticton 10.7 cm Flux
+Observed           26 Aug 202
+Predicted   27 Aug-29 Aug 200/200/205
+90 Day Mean        26 Aug 138
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Aug  007/ 008
+Estimated Afr/Ap 26 Aug  009/010
+Predicted Afr/Ap 27 Aug-29 Aug  009/010-009/008-008/008
+
+VI.  Geomagnetic Activity Probabilities 27 Aug-29 Aug
+A.  Middle Latitudes
+Active                25/20/20
+Minor Storm           10/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           30/30/30
+Major-severe storm    40/25/25

@@ -1,0 +1,46 @@
+:Product: 0505RSGA.txt
+:Issued: 2011 May 05 2220 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 125 Issued at 2200Z on 05 May 2011
+:::::::::: CORRECTED COPY ::::::::::
+IA.  Analysis of Solar Active Regions and Activity from  04/2100Z
+to 05/2100Z:  Solar activity was very low during the past 24 hours. 
+Region 1204 (N17W00) produced a B8 x-ray event at 05/1756Z.  New
+Region 1207 (N24E40) was numbered today as a simple bi-polar group.
+The remaining active regions were quiet and stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low during days one through three (06-08 May).
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z:
+The geomagnetic field was quiet to unsettled during the past 24
+hours. Observations from the ACE spacecraft indicated the solar wind
+speed remained steady at about 400 km/s during the period. The
+greater than 2 MeV electron flux at geosynchronous orbit reached
+high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled on days one through three (06-08
+May).
+III.  Event Probabilities 06 May-08 May
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           05 May 105
+Predicted   06 May-08 May  105/105/105
+90 Day Mean        05 May 109
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 May  003/006
+Estimated Afr/Ap 05 May  006/007
+Predicted Afr/Ap 06 May-08 May  005/007-007/007-007/007
+VI.  Geomagnetic Activity Probabilities 06 May-08 May
+A.  Middle Latitudes
+Active                05/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor storm           01/10/10
+Major-severe storm    01/01/01

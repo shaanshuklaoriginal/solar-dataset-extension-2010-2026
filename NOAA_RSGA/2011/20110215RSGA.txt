@@ -1,0 +1,59 @@
+:Product: 0215RSGA.txt
+:Issued: 2011 Feb 15 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 046 Issued at 2200Z on 15 Feb 2011
+IA.  Analysis of Solar Active Regions and Activity from  14/2100Z
+to 15/2100Z:  Solar activity has been high. Region 1158 (S21W27)
+produced an X2 x-ray event at 15/0156Z associated with a Tenflare
+and a Type II radio sweep. A halo CME was associated with this event
+and had an estimated plane-of-sky speed around 710 km/s. Region 1158
+has increased in area to 600 millionths and has a beta-gamma-delta
+magnetic classification. This region also produced multiple C-class
+events the largest being a C4 at 15/0432Z. New Region 1161 (N11E38)
+has grown and is currently a magnetically simple D-type sunspot
+group, but did not produce any flares.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate with a chance for isolated high activity for the next three
+days (16-18 February). Region 1158 is the most likely source for
+activity.
+IIA.  Geophysical Activity Summary 14/2100Z to 15/2100Z:
+The geomagnetic field has been predominately quiet with isolated
+unsettled conditions to begin the period.  Solar wind data from the
+ACE satellite indicated a drop in total field to around 4nT as the
+effects from yesterdays transient subsided. GOES-13 indicated an
+enhancement of the greater than 10MeV protons starting at 15/0710Z
+and peaking around 2.6 PFU at geosynchronous orbit. Solar wind
+velocities did increase slightly to around 500 km/s most likely due
+to a favorably positioned coronal hole.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled on day one (16 February).  Day two
+(17 February) is expected to be quiet to active with a chance for
+minor storming late in the period. Day three (18 February) is
+expected to be unsettled to active with a  chance for minor
+storming.  The increase in activity is forecast due to expected
+arrival of the CME from the X2 event described in part IA.
+III.  Event Probabilities 16 Feb-18 Feb
+Class M    60/60/60
+Class X    20/20/20
+Proton     15/15/15
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           15 Feb 113
+Predicted   16 Feb-18 Feb  103/100/100
+90 Day Mean        15 Feb 084
+V.  Geomagnetic A Indices
+Observed Afr/Ap 14 Feb  006/010
+Estimated Afr/Ap 15 Feb  004/006
+Predicted Afr/Ap 16 Feb-18 Feb  008/010-018/018-025/025
+VI.  Geomagnetic Activity Probabilities 16 Feb-18 Feb
+A.  Middle Latitudes
+Active                15/25/35
+Minor storm           01/15/20
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                20/45/45
+Minor storm           05/25/25
+Major-severe storm    00/05/05

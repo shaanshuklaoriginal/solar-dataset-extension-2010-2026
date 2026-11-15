@@ -1,0 +1,40 @@
+:Product: 0428RSGA.txt
+:Issued: 2010 Apr 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 118 Issued at 2200Z on 28 Apr 2010
+IA.  Analysis of Solar Active Regions and Activity from  27/2100Z
+to 28/2100Z:  Solar activity was very low.  New Region 1063 (N16E14)
+was numbered today and is  magnetically classified as a Beta group. 
+No flares were observed during the past 24 hours.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low.
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominantly quiet for the next three days (29 April
+- 01 May).
+III.  Event Probabilities 29 Apr-01 May
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           28 Apr 076
+Predicted   29 Apr-01 May  076/076/076
+90 Day Mean        28 Apr 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Apr  003/004
+Estimated Afr/Ap 28 Apr  004/004
+Predicted Afr/Ap 29 Apr-01 May  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 29 Apr-01 May
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

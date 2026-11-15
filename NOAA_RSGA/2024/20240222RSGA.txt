@@ -1,0 +1,53 @@
+:Product: 0222RSGA.txt
+:Issued: 2024 Feb 22 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 53 Issued at 2200Z on 22 Feb 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 21/2100Z to
+22/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a X1 event observed at
+21/2307Z from Region 3590 (N17E38). There are currently 2 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(23 Feb, 24 Feb, 25 Feb).
+
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 377 km/s at 21/2339Z. Total IMF reached 8 nT at
+21/2209Z. The maximum southward component of Bz reached -5 nT at
+22/0438Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one and two (23 Feb, 24 Feb) and quiet to
+minor storm levels on day three (25 Feb). Protons have a slight chance
+of crossing threshold on days one, two, and three (23 Feb, 24 Feb, 25
+Feb).
+
+III.  Event probabilities 23 Feb-25 Feb
+Class M    55/55/55
+Class X    20/20/20
+Proton     10/10/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           22 Feb 173
+Predicted   23 Feb-25 Feb 175/180/180
+90 Day Mean        22 Feb 163
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 Feb  003/002
+Estimated Afr/Ap 22 Feb  006/006
+Predicted Afr/Ap 23 Feb-25 Feb  006/005-006/005-015/020
+
+VI.  Geomagnetic Activity Probabilities 23 Feb-25 Feb
+A.  Middle Latitudes
+Active                10/10/25
+Minor Storm           01/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/25
+Major-severe storm    20/20/35

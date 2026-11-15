@@ -1,0 +1,42 @@
+:Product: 0208RSGA.txt
+:Issued: 2012 Feb 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 039 Issued at 2200Z on 08 Feb 2012
+IA.  Analysis of Solar Active Regions and Activity from  07/2100Z
+to 08/2100Z:  Solar activity was low. Region 1410 (N16W90) produced a
+slow rise and fall, limb event, C7 x-ray flare at 07/2216Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low for the next 3 days (09-11 February).
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z:
+The geomagnetic field was mostly unsettled over the period due to
+elevated ambient solar wind speeds and periods of southward Bz.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet to unsettled with isolated active
+periods for days 1-2 (09-10 February) due to coronal hole effects.
+Conditions should return to mostly quiet levels on day 3 (11
+February).
+III.  Event Probabilities 09 Feb-11 Feb
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           08 Feb 097
+Predicted   09 Feb-11 Feb  100/100/100
+90 Day Mean        08 Feb 137
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Feb  010/015
+Estimated Afr/Ap 08 Feb  010/010
+Predicted Afr/Ap 09 Feb-11 Feb  008/008-008/008-005/005
+VI.  Geomagnetic Activity Probabilities 09 Feb-11 Feb
+A.  Middle Latitudes
+Active                30/30/05
+Minor storm           10/10/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                40/40/10
+Minor storm           20/20/01
+Major-severe storm    01/01/01

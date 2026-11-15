@@ -1,0 +1,45 @@
+:Product: 0515RSGA.txt
+:Issued: 2011 May 15 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 135 Issued at 2200Z on 15 May 2011
+IA.  Analysis of Solar Active Regions and Activity from  14/2100Z
+to 15/2100Z:  Solar activity was low during the past 24 hours. Region
+1208 (N11W48) produced an isolated C1/Sf at 15/1620Z. This region
+grew in area and is classified as an Eso type sunspot group. Region
+1214 (S21E01) grew but remained a simple magnetic bi-polar group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low during the next three days (16-18 May).
+IIA.  Geophysical Activity Summary 14/2100Z to 15/2100Z:
+The geomagnetic field was quiet to active during the past 24 hours. 
+Observations from the ACE spacecraft indicate the onset of a coronal
+hole high speed stream (CH HSS).  Solar wind velocities increased
+throughout the period to about 590 km/s.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominately quiet to unsettled, with a slight
+chance for isolated active periods on days one and two (16-17 May). 
+Day three (18 May) is expected to be quiet as the CH HSS subsides.
+III.  Event Probabilities 16 May-18 May
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           15 May 095
+Predicted   16 May-18 May  092/092/090
+90 Day Mean        15 May 110
+V.  Geomagnetic A Indices
+Observed Afr/Ap 14 May  003/004
+Estimated Afr/Ap 15 May  011/011
+Predicted Afr/Ap 16 May-18 May  008/008-008/008-005/005
+VI.  Geomagnetic Activity Probabilities 16 May-18 May
+A.  Middle Latitudes
+Active                15/15/05
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/20/10
+Minor storm           10/10/01
+Major-severe storm    01/01/01

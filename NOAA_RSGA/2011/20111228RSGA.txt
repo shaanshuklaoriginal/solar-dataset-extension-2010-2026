@@ -1,0 +1,53 @@
+:Product: 1228RSGA.txt
+:Issued: 2011 Dec 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 362 Issued at 2200Z on 28 Dec 2011
+IA.  Analysis of Solar Active Regions and Activity from  27/2100Z
+to 28/2100Z:  Solar activity has been at low levels for the past 24
+hours. Region 1386 (S18E08), Region 1387 (S21W70) and New Region
+1389 (S20E70) have all produced C-class events, the largest being
+from Region 1389, which was a C7/1F flare at 1425Z. Region 1386 and
+1387 both continue to grow and evolve, but have yet to produce
+major solar activity. Several small non-Earth directed CMEs were
+observed during the summary period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low to moderate levels for the next three days (29 - 31 December).
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+Signatures observed by the ACE spacecraft indicate the arrival of a
+small CME around 0950Z. Solar wind speeds increased from around 250
+km/s to 280 km/s with and increase in the total IMF to around 14 nT.
+This transient appears to be from an unknown event, perhaps on 24
+December. The lower energetic particle sensors on the ACE spacecraft
+continue to gradually increase, indicating another approaching CME.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to active levels with a chance for isolated
+minor storm levels on day one (29 December) as multiple CMEs are
+expected to arrive. Quiet to unsettled level are expected on day two
+(30 December) as effects the previous CMEs wane. Predominantly
+quiet levels are expected on day three (31 December).
+III.  Event Probabilities 29 Dec-31 Dec
+Class M    40/40/40
+Class X    01/01/01
+Proton     10/10/10
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           28 Dec 145
+Predicted   29 Dec-31 Dec  145/140/140
+90 Day Mean        28 Dec 144
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Dec  002/001
+Estimated Afr/Ap 28 Dec  003/004
+Predicted Afr/Ap 29 Dec-31 Dec  015/022-012/012-005/005
+VI.  Geomagnetic Activity Probabilities 29 Dec-31 Dec
+A.  Middle Latitudes
+Active                25/15/01
+Minor storm           10/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           25/20/10
+Major-severe storm    20/20/01

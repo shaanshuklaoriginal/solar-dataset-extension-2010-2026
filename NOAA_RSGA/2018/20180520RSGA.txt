@@ -1,0 +1,49 @@
+:Product: 0520RSGA.txt
+:Issued: 2018 May 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 140 Issued at 2200Z on 20 May 2018
+
+IA.  Analysis of Solar Active Regions and Activity from 19/2100Z to
+20/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 0 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+on days one, two, and three (21 May, 22 May, 23 May).
+
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 444 km/s at 20/1533Z. Total IMF reached 5 nT at
+20/0220Z. The maximum southward component of Bz reached -4 nT at
+20/0510Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 626 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one and two (21 May, 22 May) and quiet to
+active levels on day three (23 May).
+
+III.  Event probabilities 21 May-23 May
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           20 May 069
+Predicted   21 May-23 May 069/069/069
+90 Day Mean        20 May 069
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 May  003/003
+Estimated Afr/Ap 20 May  004/004
+Predicted Afr/Ap 21 May-23 May  006/005-006/005-011/015
+
+VI.  Geomagnetic Activity Probabilities 21 May-23 May
+A.  Middle Latitudes
+Active                10/10/30
+Minor Storm           01/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           15/15/30
+Major-severe storm    10/10/40

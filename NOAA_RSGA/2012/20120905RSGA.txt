@@ -1,0 +1,60 @@
+:Product: 0905RSGA.txt
+:Issued: 2012 Sep 05 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 249 Issued at 2200Z on 05 Sep 2012
+IA.  Analysis of Solar Active Regions and Activity from  04/2100Z
+to 05/2100Z:  Solar activity was low. Region 1564 (S14E01 -
+Esi/beta-gamma) produced occasional C-class flares including a C6 at
+05/0347Z and a C7/Sn at 05/0806Z, neither of which were associated
+with significant radio emission. Region 1564 showed gradual spot and
+penumbral decay during the period, but retained a beta-gamma
+configuration due to polarity mixing in the vicinity of its
+intermediate spots. Region 1560 (N04W58 - Eai/beta-gamma-delta)
+showed minor spot loss in its trailer portion during the period. It
+retained a delta within its intermediate spots, but the delta
+appeared to be dissipating. The remaining spotted region were
+unremarkable. No new regions were numbered. No Earth-directed CME
+activity occurred during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+through the period (06 - 08 September) with a chance for an isolated
+M-class flare during days 1 - 2.
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z:
+Geomagnetic field activity ranged from quiet to major storm levels
+with a brief period of severe storm levels at high latitudes. An
+interplanetary shock passed the ACE spacecraft at 04/2203Z
+indicating the arrival of the CMEs observed on 02 September. Field
+activity increased to major storm levels during 05/0000 - 0300Z
+following the shock, then decreased to minor storm levels during
+05/0300 - 0600Z. A further decrease to active levels occurred during
+05/0300 - 0900Z. Quiet to unsettled levels occurred during the rest
+of the period with active to minor storm levels detected at high
+latitudes.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at quiet to unsettled levels through the period (06 -
+08 September) with a chance for active levels on day 1 due to
+possible weak coronal hole high-speed stream effects.
+III.  Event Probabilities 06 Sep-08 Sep
+Class M    25/25/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           05 Sep 133
+Predicted   06 Sep-08 Sep  130/130/125
+90 Day Mean        05 Sep 124
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 Sep  014/016
+Estimated Afr/Ap 05 Sep  021/029
+Predicted Afr/Ap 06 Sep-08 Sep  008/010-007/008-007/007
+VI.  Geomagnetic Activity Probabilities 06 Sep-08 Sep
+A.  Middle Latitudes
+Active                15/15/10
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/20
+Minor storm           20/25/20
+Major-severe storm    25/20/10

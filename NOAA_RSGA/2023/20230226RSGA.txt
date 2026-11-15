@@ -1,0 +1,56 @@
+:Product: 0226RSGA.txt
+:Issued: 2023 Feb 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 57 Issued at 2200Z on 26 Feb 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 25/2100Z to
+26/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C5 event observed at
+26/1200Z from Region 3235 (N19W34). There are currently 6 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(27 Feb, 28 Feb, 01 Mar).
+
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 599 km/s at 26/2100Z. Total IMF
+reached 21 nT at 26/2058Z. The maximum southward component of Bz reached
+-17 nT at 26/2058Z.  Protons greater than 10 MeV at geosynchronous orbit
+reached a peak level of 58 pfu at 26/0440Z. Electrons greater than 2 MeV
+at geosynchronous orbit reached a peak level of 141 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at active to severe storm levels on day one (27 Feb), unsettled to
+major storm levels on day two (28 Feb) and unsettled to active levels on
+day three (01 Mar). Protons are expected to cross threshold on day one
+(27 Feb), have a chance of crossing threshold on day two (28 Feb) and
+have a chance of crossing threshold on day three (01 Mar).
+
+III.  Event probabilities 27 Feb-01 Mar
+Class M    65/65/65
+Class X    15/15/15
+Proton     99/50/25
+PCAF       yellow
+
+IV.  Penticton 10.7 cm Flux
+Observed           26 Feb 159
+Predicted   27 Feb-01 Mar 155/150/150
+90 Day Mean        26 Feb 167
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Feb  009/010
+Estimated Afr/Ap 26 Feb  017/022
+Predicted Afr/Ap 27 Feb-01 Mar  037/056-020/032-014/016
+
+VI.  Geomagnetic Activity Probabilities 27 Feb-01 Mar
+A.  Middle Latitudes
+Active                15/30/35
+Minor Storm           35/35/25
+Major-severe storm    50/25/05
+B.  High Latitudes
+Active                01/05/10
+Minor Storm           10/20/25
+Major-severe storm    90/75/60

@@ -1,0 +1,56 @@
+:Product: 0528RSGA.txt
+:Issued: 2011 May 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 148 Issued at 2200Z on 28 May 2011
+IA.  Analysis of Solar Active Regions and Activity from  27/2100Z
+to 28/2100Z:  Solar activity was low.  Region 1226 (S19E65) produced
+the majority of the flare activity, including a C8 x-ray event at
+28/0331Z.  The region grew rapidly in size, spot count and
+complexity over the past 24 hours, ending the period as an Eai spot
+group with Beta-Gamma magnetic characteristics.  Region 1224
+(N20W28), a Dso class group with Beta magnetic characteristics, also
+grew over the past 24 hours.
+IB.  Solar Activity Forecast:  Solar activity is likely to remain low
+for the next three days (29-31 May) with a slight chance for an
+M-class event.
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z:
+Geomagnetic field activity ranged from unsettled to major storm
+levels over the past 24 hours.  The ACE spacecraft observed the Bz
+component of the interplanetary magnetic field turned southward
+(negative) at approximately 25/0530Z.  The field generally ranged
+from -5 nT to -12 nT between 27/2130Z to 28/1230Z. The prolonged
+southward Bz resulted in substantial geomagnetic disruption and was
+attributed to the arrival of a coronal hole high speed stream
+possibly coupled with effects from the 25 May filament eruption. 
+Solar wind speed rose above 500 km/s after 28/0530Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain at unsettled to active levels, with isolated
+minor storm periods, on days 1 and 2 (29-30 May), becoming
+predominantly unsettled on day 3 (31 May). This activity is in
+response to the continued influence of the coronal hole high speed
+stream.
+III.  Event Probabilities 29 May-31 May
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           28 May 101
+Predicted   29 May-31 May  100/100/100
+90 Day Mean        28 May 108
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 May  007/011
+Estimated Afr/Ap 28 May  032/035
+Predicted Afr/Ap 29 May-31 May  020/020-015/015-010/010
+VI.  Geomagnetic Activity Probabilities 29 May-31 May
+A.  Middle Latitudes
+Active                20/20/15
+Minor storm           20/15/05
+Major-severe storm    10/05/01
+B.  High Latitudes
+Active                30/30/20
+Minor storm           25/20/10
+Major-severe storm    15/10/05

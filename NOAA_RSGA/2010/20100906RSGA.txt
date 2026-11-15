@@ -1,0 +1,44 @@
+:Product: 0906RSGA.txt
+:Issued: 2010 Sep 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 249 Issued at 2200Z on 06 Sep 2010
+IA.  Analysis of Solar Active Regions and Activity from  05/2100Z
+to 06/2100Z:  Solar activity has been low. Region 1105 (N19W64)
+produced a C2/Sf flare at 06/1459Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low.
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z:
+The geomagnetic field has been quiet to active. An isolated active
+period occurred between 06/0300-0600Z. Solar wind, as measured at
+the ACE spacecraft, indicated a 10 nT enhancement of the total field
+with the Bz component reaching around -8 nT during the enhanced
+activity interval.  The greater than 2 MeV electron flux at
+geosynchronous orbit briefly reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the two days (07-08 September), and quiet
+to unsettled on day three (09 September).
+III.  Event Probabilities 07 Sep-09 Sep
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           06 Sep 080
+Predicted   07 Sep-09 Sep  079/079/078
+90 Day Mean        06 Sep 078
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Sep  004/004
+Estimated Afr/Ap 06 Sep  005/005
+Predicted Afr/Ap 07 Sep-09 Sep  005/005-005/005-005/008
+VI.  Geomagnetic Activity Probabilities 07 Sep-09 Sep
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           05/05/05
+Major-severe storm    01/01/01

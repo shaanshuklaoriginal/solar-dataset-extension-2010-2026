@@ -1,0 +1,39 @@
+:Product: 0122RSGA.txt
+:Issued: 2011 Jan 22 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 022 Issued at 2200Z on 22 Jan 2011
+IA.  Analysis of Solar Active Regions and Activity from  21/2100Z
+to 22/2100Z:  Solar activity was low. Region 1149 (N17W19) has grown
+in area and produced a C2 flare at 22/0828Z.  Region 1147 (N24W22)
+was quiet and stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance for an isolated M-class flare from Region 1149.
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the next three days (23 - 25 January).
+III.  Event Probabilities 23 Jan-25 Jan
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           22 Jan 088
+Predicted   23 Jan-25 Jan  088/088/088
+90 Day Mean        22 Jan 084
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 Jan  002/003
+Estimated Afr/Ap 22 Jan  005/005
+Predicted Afr/Ap 23 Jan-25 Jan  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 23 Jan-25 Jan
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01

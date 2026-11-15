@@ -1,0 +1,23 @@
+:Product: 0711SRS.txt
+:Issued: 2025 Jul 11 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 192 Issued at 0030Z on 11 Jul 2025
+Report compiled from data received at SWO on 10 Jul
+I.  Regions with Sunspots.  Locations Valid at 10/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+4130 S10W65   141  0010 Axx  01   01 Alpha
+4134 S21W73   149  0010 Axx  01   01 Alpha
+4135 S09E29   047  0060 Cso  06   04 Beta
+4136 N19E53   023  0180 Dai  10   09 Beta-Gamma
+4137 N18W34   110  0080 Dao  04   07 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 10/2400Z Jul
+Nmbr  Location  Lo
+4132  S17W63   139
+II. Regions Due to Return 11 Jul to 13 Jul
+Nmbr Lat    Lo
+4117 S14    322
+4120 N05    317
+4118 S13    311

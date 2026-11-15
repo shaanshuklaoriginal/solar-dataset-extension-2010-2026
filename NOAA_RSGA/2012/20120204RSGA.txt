@@ -1,0 +1,51 @@
+:Product: 0204RSGA.txt
+:Issued: 2012 Feb 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 035 Issued at 2200Z on 04 Feb 2012
+IA.  Analysis of Solar Active Regions and Activity from  03/2100Z
+to 04/2100Z:  Solar activity was at very low levels.  A six degree
+long filament eruption was visible in SDO/AIA 304 imagery, first
+observed at about 03/2031Z.  The filament was centered near N25W27,
+just to the northeast of Region 1410 (N16W44).  SOHO LASCO C2
+imagery observed a slow-moving CME off the north limb of the disk,
+first visible at 04/0836Z.  At this time, the CME does not appear to
+have an Earthward-directed component.  New Region 1414 (S06W19)
+emerged on the disk as a simple B-type beta group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a chance for C-class activity for the next three days (05 -
+07 February).
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z:
+The geomagnetic field was at mostly quiet levels at middle latitudes
+while active to minor storm periods were observed at high latitudes.
+ACE satellite observations indicated a steady increase in wind
+velocities through the period from about 400 km/s to near 460 km/s. 
+The Bz component of the interplanetary magnetic field did not vary
+much beyond +/- 5 nT for the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at mostly quiet levels for the next three days (05 -
+07 February).
+III.  Event Probabilities 05 Feb-07 Feb
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           04 Feb 107
+Predicted   05 Feb-07 Feb  105/105/105
+90 Day Mean        04 Feb 140
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Feb  004/006
+Estimated Afr/Ap 04 Feb  007/008
+Predicted Afr/Ap 05 Feb-07 Feb  005/005-004/005-004/005
+VI.  Geomagnetic Activity Probabilities 05 Feb-07 Feb
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           01/01/01
+Major-severe storm    01/01/01

@@ -1,0 +1,51 @@
+:Product: 1011RSGA.txt
+:Issued: 2022 Oct 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 284 Issued at 2200Z on 11 Oct 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 10/2100Z to
+11/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M3 event observed at
+11/0842Z from Region 3112 (N22W54). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+days one, two, and three (12 Oct, 13 Oct, 14 Oct).
+
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 517 km/s at 11/0419Z.  Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 4649 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (12 Oct) and quiet levels on
+days two and three (13 Oct, 14 Oct). Protons have a slight chance of
+crossing threshold on days one, two, and three (12 Oct, 13 Oct, 14 Oct).
+
+III.  Event probabilities 12 Oct-14 Oct
+Class M    45/45/45
+Class X    10/10/10
+Proton     10/10/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           11 Oct 150
+Predicted   12 Oct-14 Oct 150/150/146
+90 Day Mean        11 Oct 130
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Oct  008/008
+Estimated Afr/Ap 11 Oct  007/007
+Predicted Afr/Ap 12 Oct-14 Oct  009/012-006/005-006/005
+
+VI.  Geomagnetic Activity Probabilities 12 Oct-14 Oct
+A.  Middle Latitudes
+Active                30/10/10
+Minor Storm           10/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/15/20
+Minor Storm           25/20/20
+Major-severe storm    20/20/10

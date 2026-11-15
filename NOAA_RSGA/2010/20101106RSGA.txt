@@ -1,0 +1,46 @@
+:Product: 1106RSGA.txt
+:Issued: 2010 Nov 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 310 Issued at 2200Z on 06 Nov 2010
+IA.  Analysis of Solar Active Regions and Activity from  05/2100Z
+to 06/2100Z:  Solar activity was at high levels. Region 1121 (S18W48)
+produced an M5/1N flare at 06/1536Z. Associated with this event were
+discrete radio emissions ranging from 4,995 MHz - 15,400 MHz, as
+well as a 100 sfu Tenflare observed at 06/1534Z. Region 1121 was
+classified as an Eai spot group with a beta magnetic classification.
+Region 1120 (N41W13) continued to decay. New Region 1122 (N13W02)
+was classified as a Cso spot group with a beta magnetic
+classification.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low to moderate levels.  M-class flares are expected.
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z:
+The geomagnetic field was at quiet levels.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels on day one (07 November). Quiet to
+unsettled levels, with isolated active levels at high latitudes, are
+expected on days two and three (08-09 November).
+III.  Event Probabilities 07 Nov-09 Nov
+Class M    85/85/85
+Class X    20/20/20
+Proton     05/05/05
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           06 Nov 089
+Predicted   07 Nov-09 Nov  090/090/090
+90 Day Mean        06 Nov 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Nov  002/002
+Estimated Afr/Ap 06 Nov  001/005
+Predicted Afr/Ap 07 Nov-09 Nov  005/005-007/008-007/008
+VI.  Geomagnetic Activity Probabilities 07 Nov-09 Nov
+A.  Middle Latitudes
+Active                10/15/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/20/15
+Minor storm           01/05/01
+Major-severe storm    01/01/01

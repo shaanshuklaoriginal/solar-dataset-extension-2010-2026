@@ -1,0 +1,48 @@
+:Product: 0316RSGA.txt
+:Issued: 2010 Mar 16 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 075 Issued at 2200Z on 16 Mar 2010
+IA.  Analysis of Solar Active Regions and Activity from  15/2100Z
+to 16/2100Z:  Solar activity was at very low levels for the past 24
+hours. Region 1054 (N14W25) was in a gradual decay phase with
+decreased spot count and area as well as a decrease in magnetic
+complexity. No new regions were numbered today.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low levels for the next three days (17-19 March) with a chance
+for an isolated C-class flare from Region 1054.
+IIA.  Geophysical Activity Summary 15/2100Z to 16/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+Solar wind observations from the ACE spacecraft showed a minor
+increase is speed values ranging from 350-440 km/s indicating the
+arrival of a coronal hole high-speed stream.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels for the next two days
+(17-18 March) due to a coronal hole high-speed stream on day one and
+the arrival of partial halo CME arriving on day two. Geomagnetic
+activity levels are expected to return to quiet levels on day three
+(19 March).
+III.  Event Probabilities 17 Mar-19 Mar
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           16 Mar 085
+Predicted   17 Mar-19 Mar  084/084/084
+90 Day Mean        16 Mar 082
+V.  Geomagnetic A Indices
+Observed Afr/Ap 15 Mar  002/003
+Estimated Afr/Ap 16 Mar  005/006
+Predicted Afr/Ap 17 Mar-19 Mar  007/007-007/007-005/005
+VI.  Geomagnetic Activity Probabilities 17 Mar-19 Mar
+A.  Middle Latitudes
+Active                25/30/10
+Minor storm           10/10/05
+Major-severe storm    05/05/01
+B.  High Latitudes
+Active                25/30/10
+Minor storm           15/15/05
+Major-severe storm    05/05/01

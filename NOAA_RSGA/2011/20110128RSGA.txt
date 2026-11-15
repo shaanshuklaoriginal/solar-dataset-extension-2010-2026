@@ -1,0 +1,47 @@
+:Product: 0128RSGA.txt
+:Issued: 2011 Jan 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 028 Issued at 2200Z on 28 Jan 2011
+IA.  Analysis of Solar Active Regions and Activity from  27/2100Z
+to 28/2100Z:  Solar activity has been at moderate levels for the past
+24 hours. A R1 Radio blackout was observed in association with a M1
+flare at 28/0103Z from Region 1149 (N17, L = 349). A CME observed in
+LASCO C2 imagery at 28/0206Z and a Type II radio sweep, observed at
+28/0101Z with an estimated velocity of 732 km/s, were both
+associated with this event. Two new regions were numbered today,
+Region 1150 (S22E62) and Region 1151 (N09W60).
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low levels with a chance for C-class events for the next three
+days (29-31 January).
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+A proton enhancement was observed by the GOES 13 spacecraft reaching
+a max of 2.8 pfu at 28/1625Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels for the next three days (29-31
+January).
+III.  Event Probabilities 29 Jan-31 Jan
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           28 Jan 081
+Predicted   29 Jan-31 Jan  080/080/080
+90 Day Mean        28 Jan 084
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Jan  002/003
+Estimated Afr/Ap 28 Jan  004/005
+Predicted Afr/Ap 29 Jan-31 Jan  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 29 Jan-31 Jan
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01

@@ -1,0 +1,55 @@
+:Product: 0801RSGA.txt
+:Issued: 2011 Aug 01 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 213 Issued at 2200Z on 01 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  31/2100Z
+to 01/2100Z:  Solar activity was low during the past 24 hours. Region
+1261 (N18W08) produced the largest event of the period a C4/1F flare
+at 01/0732Z. Region 1261 has continued to develop in area and
+magnetic complexity and is classified as an Fkc type spot group with
+a Beta-Gamma-Delta magnetic configuration. Region 1263 (N127E21) has
+maintained its Beta-Gamma-Delta classification and produced three
+low level C-class events. Region 1260 (N18W36) and Region 1265
+(N17W67) remained stable and quiet, while Region 1264 (S23W07) has
+decayed to spotless plage.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+to moderate with a slight chance for a major event for the next
+three days (02-04 August).  Region 1261 is the most likely source
+for a major x-ray event and has a slight chance to produce an
+energetic proton event.
+IIA.  Geophysical Activity Summary 31/2100Z to 01/2100Z:
+The geomagnetic field has been quiet to unsettled. Solar wind data
+observed at the ACE satellite indicated that the coronal hole high
+speed stream has subsided with wind speeds decreasing from 700 km/s
+to about 550 km/s during the past 24 hours. A solar sector boundary
+crossing was observed at 1305Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominately quiet to unsettled on day one (02
+August) as the effects of the coronal hole high speed stream
+continues to wane.  Days two and three (03-04 August) are expected
+to be quiet.
+III.  Event Probabilities 02 Aug-04 Aug
+Class M    60/60/50
+Class X    10/10/05
+Proton     10/10/05
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           01 Aug 125
+Predicted   02 Aug-04 Aug  130/125/125
+90 Day Mean        01 Aug 095
+V.  Geomagnetic A Indices
+Observed Afr/Ap 31 Jul  007/008
+Estimated Afr/Ap 01 Aug  007/008
+Predicted Afr/Ap 02 Aug-04 Aug  007/007-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 02 Aug-04 Aug
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/05/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01

@@ -1,0 +1,42 @@
+:Product: 0306RSGA.txt
+:Issued: 2010 Mar 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 065 Issued at 2200Z on 06 Mar 2010
+IA.  Analysis of Solar Active Regions and Activity from  05/2100Z
+to 06/2100Z:  Solar activity was very low. Only low-level B-class
+events were observed during the period. A filament near N17E23
+disappeared between 06/0521Z and 06/0656Z. A CME was observed on the
+east limb at approximately 06/0703Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low for the next three days (07 - 09 March).
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z:
+The geomagnetic field was quiet during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet on day one (07 March). Quiet to unsettled
+levels are expected on days two and three (08 - 09 March) in
+response to the CME observed on 06 March.
+III.  Event Probabilities 07 Mar-09 Mar
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           06 Mar 078
+Predicted   07 Mar-09 Mar  080/080/080
+90 Day Mean        06 Mar 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Mar  001/002
+Estimated Afr/Ap 06 Mar  005/005
+Predicted Afr/Ap 07 Mar-09 Mar  005/005-007/008-007/008
+VI.  Geomagnetic Activity Probabilities 07 Mar-09 Mar
+A.  Middle Latitudes
+Active                05/15/15
+Minor storm           01/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/20/20
+Minor storm           01/10/10
+Major-severe storm    01/01/01

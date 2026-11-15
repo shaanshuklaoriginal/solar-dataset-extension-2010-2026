@@ -1,0 +1,44 @@
+:Product: 0103RSGA.txt
+:Issued: 2012 Jan 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 003 Issued at 2200Z on 03 Jan 2012
+IA.  Analysis of Solar Active Regions and Activity from  02/2100Z
+to 03/2100Z:  Solar activity was very low.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low for the next 3 days (4-6 January).
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z:
+The geomagnetic field ranged from quiet to active conditions across
+all latitudes. The activity was the result of sporadic polarity
+shifts accompanied  by a period of extended southward Bz.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet to unsettled days 1-2 (4-5 January) as
+fluctuating polarity is expected to continue prior to a forecasted
+solar sector boundary crossing (SSBC) on day 2. On day 3 (6
+January), the onset of a coronal high speed steam (CH HSS) is
+expected to produce unsettled and active conditions with a minor
+storm possible at onset.
+III.  Event Probabilities 04 Jan-06 Jan
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           03 Jan 135
+Predicted   04 Jan-06 Jan  140/140/140
+90 Day Mean        03 Jan 144
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Jan  004/004
+Estimated Afr/Ap 03 Jan  005/007
+Predicted Afr/Ap 04 Jan-06 Jan  007/008-007/008-011/012
+VI.  Geomagnetic Activity Probabilities 04 Jan-06 Jan
+A.  Middle Latitudes
+Active                25/25/50
+Minor storm           05/05/30
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                25/25/40
+Minor storm           20/20/50
+Major-severe storm    05/05/10

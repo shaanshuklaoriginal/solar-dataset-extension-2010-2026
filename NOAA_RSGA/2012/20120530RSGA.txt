@@ -1,0 +1,42 @@
+:Product: 0530RSGA.txt
+:Issued: 2012 May 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 151 Issued at 2200Z on 30 May 2012
+IA.  Analysis of Solar Active Regions and Activity from  29/2100Z
+to 30/2100Z:  Solar activity was low during the past 24 hours. A C1
+x-ray event was observed at 30/0850Z from a region around the east
+limb. All spot groups on the disk remained relatively quiet and
+stable. No Earth-directed CMEs were observed during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low with C-class activity likely for the next three days (31
+May - 02 June).
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z:
+The geomagnetic field was quiet for the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet for the next three days (31 May - 02
+June).
+III.  Event Probabilities 31 May-02 Jun
+Class M    01/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           30 May 111
+Predicted   31 May-02 Jun  110/110/110
+90 Day Mean        30 May 117
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 May  005/005
+Estimated Afr/Ap 30 May  007/007
+Predicted Afr/Ap 31 May-02 Jun  004/005-004/005-004/005
+VI.  Geomagnetic Activity Probabilities 31 May-02 Jun
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           15/15/15
+Major-severe storm    05/05/05

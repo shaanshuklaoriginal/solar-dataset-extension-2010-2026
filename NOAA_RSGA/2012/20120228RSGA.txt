@@ -1,0 +1,55 @@
+:Product: 0228RSGA.txt
+:Issued: 2012 Feb 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 059 Issued at 2200Z on 28 Feb 2012
+IA.  Analysis of Solar Active Regions and Activity from  27/2100Z
+to 28/2100Z:  Solar activity was very low during the past 24 hours.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low for the next three days (29 Feb - 02 Mar) with just a slight
+chance for an isolated C-class flare.
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z:
+The geomagnetic field ranged from quiet to active levels with a
+period of minor storm levels at some observatories during the local
+nighttime hours. Quiet conditions prevailed from the beginning of
+the period until about 07Z when a substorm interval began and
+continued through about 09Z. The planetary activity reached active
+levels but several individual stations attained minor storm levels
+during the disturbance. Activity promptly returned to predominantly
+quiet levels after the substorm and remained quiet for the rest of
+the period. The disturbance was preceded by about two hours of
+southward interplanetary magnetic field (IMF) seen at the ACE
+spacecraft (0510-0702Z, with maximum southward deflection of -11
+nT). The IMF was otherwise predominantly northwards during the
+interval. ACE data also indicated a solar sector boundary crossing
+at about 1534Z. The greater than 10 MeV protons observed by GOES
+returned to background levels late on the 27th and remained there
+through the end of the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the first two days (29 Feb - 01 Mar). A
+slight increase to quiet to unsettled levels is expected on the
+third day (02 Mar) due to a small but well positioned coronal hole.
+III.  Event Probabilities 29 Feb-02 Mar
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           28 Feb 103
+Predicted   29 Feb-02 Mar  105/105/105
+90 Day Mean        28 Feb 128
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Feb  012/019
+Estimated Afr/Ap 28 Feb  008/009
+Predicted Afr/Ap 29 Feb-02 Mar  006/005-006/005-007/008
+VI.  Geomagnetic Activity Probabilities 29 Feb-02 Mar
+A.  Middle Latitudes
+Active                05/05/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/25
+Major-severe storm    05/05/15

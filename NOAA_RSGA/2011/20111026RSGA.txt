@@ -1,0 +1,54 @@
+:Product: 1026RSGA.txt
+:Issued: 2011 Oct 26 2205 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 299 Issued at 2200Z on 26 Oct 2011
+IA.  Analysis of Solar Active Regions and Activity from  25/2100Z
+to 26/2100Z:  Solar activity was at low levels due to a single C1
+x-ray event at 26/1001Z from Region 1324 (N12W38).  Associated with
+this event was a partial-halo CME, first observed in LASCO C2
+imagery lifting off the NW limb at 26/1000Z.  GOES-15 SXI imagery
+first observed material movement from Region 1324 in a W-NW
+direction at about 26/0800Z.  Limited imagery prevented a thorough
+analysis of the CMEs potential geoeffectiveness. The region
+exhibited significant decay in area and spot count and was
+classified as a beta magnetic configuration.  Regions 1325 (N17W12)
+and 1327 (S20W67) also indicated decay in both area coverage and
+spot count.  The remaining regions were unchanged.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance for M-class activity all three days (27 - 29
+October).
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z:
+The geomagnetic field was quiet at all latitudes. Solar wind speeds
+decayed through the period from near 550 km/s to about 400 km/s
+while the Bz component of the interplanetary magnetic field did not
+vary much beyond +/- 4 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet on day one (27 October).  Quiet to unsettled
+conditions are expected on days two and three (28 - 29 October) as a
+recurrent coronal hole high speed stream rotates into a geoeffective
+position.
+III.  Event Probabilities 27 Oct-29 Oct
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           26 Oct 132
+Predicted   27 Oct-29 Oct  130/130/130
+90 Day Mean        26 Oct 124
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Oct  027/033
+Estimated Afr/Ap 26 Oct  003/005
+Predicted Afr/Ap 27 Oct-29 Oct  005/005-007/007-007/008
+VI.  Geomagnetic Activity Probabilities 27 Oct-29 Oct
+A.  Middle Latitudes
+Active                05/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/15/20
+Minor storm           05/10/10
+Major-severe storm    01/01/01

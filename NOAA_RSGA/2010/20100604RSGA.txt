@@ -1,0 +1,54 @@
+:Product: 0604RSGA.txt
+:Issued: 2010 Jun 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 155 Issued at 2200Z on 04 Jun 2010
+IA.  Analysis of Solar Active Regions and Activity from  03/2100Z
+to 04/2100Z:  Solar activity has been at very low levels for the past
+24 hours. Region 1076 (S19W49) has decayed in white light areal
+coverage but remains a beta magnetic classification. No flares were
+observed. However, a full-halo CME was observed on LASCO C2 imagery
+at 04/1202Z. The CME appears to be a backsided event and is not
+expected to become geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low levels with a slight chance for C-class events for the next
+three days (05-07 June).
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z:
+The geomagnetic field has been at quiet to active levels with an
+isolated minor storm period from 0000Z-0300Z for the past 24 hours.
+Solar wind data from the ACE spacecraft indicate the continuation of
+a high speed solar wind stream with wind speeds around 550 km/s. The
+greater than 2 MeV electron flux at geosynchronous orbit was at high
+levels during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at unsettled levels with a chance for an isolated
+active period for the first day (05 June) due to persistence and the
+forecasted arrival of the CME observed on 31 May. Mostly quiet
+conditions are expected on the second day (06 June). Quiet to
+unsettled conditions are expected with a chance for active periods
+on the third day (07 June) due to a coronal hole high-speed stream
+moving into geoeffective position.
+III.  Event Probabilities 05 Jun-07 Jun
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           04 Jun 072
+Predicted   05 Jun-07 Jun  072/072/072
+90 Day Mean        04 Jun 077
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Jun  013/013
+Estimated Afr/Ap 04 Jun  012/015
+Predicted Afr/Ap 05 Jun-07 Jun  010/010-005/005-008/010
+VI.  Geomagnetic Activity Probabilities 05 Jun-07 Jun
+A.  Middle Latitudes
+Active                30/15/30
+Minor storm           10/05/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                35/20/35
+Minor storm           15/05/15
+Major-severe storm    01/01/01

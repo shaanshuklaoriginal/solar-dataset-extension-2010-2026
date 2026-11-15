@@ -1,0 +1,47 @@
+:Product: 0928RSGA.txt
+:Issued: 2011 Sep 28 2205 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 271 Issued at 2200Z on 28 Sep 2011
+IA.  Analysis of Solar Active Regions and Activity from  27/2100Z
+to 28/2100Z:  Solar activity was moderate. Region 1302 (N13W04)
+produced an M1/1n flare at 28/1328Z. Region 1302 also produced a
+C9/1n flare at 28/1232Z associated with a 390 sfu Tenflare.
+Occasional C-class flares were observed during the period. New
+Region 1307 (N14E75) was numbered today.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for an isolated M- and  X-flare from Region 1302.
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z:
+The geomagnetic field ranged from unsettled to minor storm levels,
+due to substorming. The greater than 10 MeV protons at
+geosynchronous orbit were enhanced during the period. Wind speeds
+reached 548 km/s at 27/2132Z and decreased to approximately 450 km/s
+at 28/1716Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled, with isolated active levels at
+high latitudes, on day one (29 September). Predominantly quiet
+levels are expected on days two and three (30 September-01 October).
+III.  Event Probabilities 29 Sep-01 Oct
+Class M    50/50/50
+Class X    30/30/30
+Proton     10/10/10
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           28 Sep 133
+Predicted   29 Sep-01 Oct  130/130/125
+90 Day Mean        28 Sep 109
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Sep  022/030
+Estimated Afr/Ap 28 Sep  014/022
+Predicted Afr/Ap 29 Sep-01 Oct  008/012-005/005-008/008
+VI.  Geomagnetic Activity Probabilities 29 Sep-01 Oct
+A.  Middle Latitudes
+Active                15/05/15
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/10/20
+Minor storm           05/01/01
+Major-severe storm    01/01/01

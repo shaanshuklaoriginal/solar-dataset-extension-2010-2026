@@ -1,0 +1,46 @@
+:Product: 1007RSGA.txt
+:Issued: 2011 Oct 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 280 Issued at 2200Z on 07 Oct 2011
+IA.  Analysis of Solar Active Regions and Activity from  06/2100Z
+to 07/2100Z:  Solar activity was low. Region 1313 (S16E39) produced a
+C1/Sf at 07/0121Z. Region 1305 (N11W91) continued to produce C-class
+activity as it rotated around the west limb. All of the other
+regions on the disk remained relatively stable during the past 24
+hours.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance for moderate activity for the next three days
+(08-10 October).
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z:
+The geomagnetic field was quiet to unsettled during the past 24
+hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet on day one (08 October). Quiet to
+unsettled conditions are expected on days two and three (09-10
+October) due to effects from a recurrent coronal hole high speed
+stream.
+III.  Event Probabilities 08 Oct-10 Oct
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           07 Oct 122
+Predicted   08 Oct-10 Oct  125/130/130
+90 Day Mean        07 Oct 114
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Oct  006/007
+Estimated Afr/Ap 07 Oct  006/008
+Predicted Afr/Ap 08 Oct-10 Oct  005/005-010/012-007/008
+VI.  Geomagnetic Activity Probabilities 08 Oct-10 Oct
+A.  Middle Latitudes
+Active                10/20/15
+Minor storm           01/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/20/15
+Minor storm           01/10/05
+Major-severe storm    01/01/01

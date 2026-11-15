@@ -1,0 +1,42 @@
+:Product: 0808RSGA.txt
+:Issued: 2010 Aug 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 220 Issued at 2200Z on 08 Aug 2010
+IA.  Analysis of Solar Active Regions and Activity from  07/2100Z
+to 08/2100Z:  Solar activity was very low. Only B-class flares were
+observed during the past 24 hours.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low with C-class flares likely from Regions 1093 (N10E15) and
+1095 (S17E08). A chance of M-class activity is possible from Region
+1093.
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z:
+Geomagnetic field activity was quiet. The greater than 2 MeV electron
+flux at geosynchronous orbit was at high levels again today.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be mostly quiet with a chance of isolated unsettled
+levels for the next three days (09 - 11 August).
+III.  Event Probabilities 09 Aug-11 Aug
+Class M    25/25/25
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           08 Aug 083
+Predicted   09 Aug-11 Aug  082/082/082
+90 Day Mean        08 Aug 076
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Aug  004/005
+Estimated Afr/Ap 08 Aug  005/005
+Predicted Afr/Ap 09 Aug-11 Aug  005/005-005/005-007/008
+VI.  Geomagnetic Activity Probabilities 09 Aug-11 Aug
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/15
+Minor storm           01/01/01
+Major-severe storm    01/01/01

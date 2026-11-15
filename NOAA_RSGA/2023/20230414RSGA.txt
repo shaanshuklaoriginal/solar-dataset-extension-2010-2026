@@ -1,0 +1,52 @@
+:Product: 0414RSGA.txt
+:Issued: 2023 Apr 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 104 Issued at 2200Z on 14 Apr 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 13/2100Z to
+14/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+14/1618Z from Region 3282 (N11E52). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (15 Apr, 16 Apr,
+17 Apr).
+
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 412 km/s at 13/2217Z. Total IMF reached 8
+nT at 14/1238Z. The maximum southward component of Bz reached -6 nT at
+14/1220Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 148 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (15 Apr) and quiet to
+unsettled levels on days two and three (16 Apr, 17 Apr).
+
+III.  Event probabilities 15 Apr-17 Apr
+Class M    40/40/40
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           14 Apr 171
+Predicted   15 Apr-17 Apr 175/180/178
+90 Day Mean        14 Apr 165
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Apr  005/004
+Estimated Afr/Ap 14 Apr  007/008
+Predicted Afr/Ap 15 Apr-17 Apr  011/012-009/010-007/008
+
+VI.  Geomagnetic Activity Probabilities 15 Apr-17 Apr
+A.  Middle Latitudes
+Active                35/25/20
+Minor Storm           15/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor Storm           25/25/25
+Major-severe storm    50/35/30

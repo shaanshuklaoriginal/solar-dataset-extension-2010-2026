@@ -1,0 +1,52 @@
+:Product: 1031RSGA.txt
+:Issued: 2015 Oct 31 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 304 Issued at 2200Z on 31 Oct 2015
+
+IA.  Analysis of Solar Active Regions and Activity from 30/2100Z to
+31/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+31/1752Z from Region 2443 (N07E43). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(01 Nov, 02 Nov, 03 Nov).
+
+IIA.  Geophysical Activity Summary 30/2100Z to 31/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+404 km/s at 31/0905Z. Total IMF reached 9 nT at 30/2116Z. The maximum
+southward component of Bz reached -5 nT at 31/2048Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (01 Nov), unsettled to
+severe storm levels on day two (02 Nov) and active to major storm levels
+on day three (03 Nov).
+
+III.  Event probabilities 01 Nov-03 Nov
+Class M    55/55/55
+Class X    15/15/15
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           31 Oct 119
+Predicted   01 Nov-03 Nov 120/120/120
+90 Day Mean        31 Oct 104
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Oct  006/006
+Estimated Afr/Ap 31 Oct  005/005
+Predicted Afr/Ap 01 Nov-03 Nov  008/008-036/065-033/050
+
+VI.  Geomagnetic Activity Probabilities 01 Nov-03 Nov
+A.  Middle Latitudes
+Active                15/20/25
+Minor Storm           05/35/40
+Major-severe storm    01/40/30
+B.  High Latitudes
+Active                20/01/05
+Minor Storm           30/10/10
+Major-severe storm    20/90/85

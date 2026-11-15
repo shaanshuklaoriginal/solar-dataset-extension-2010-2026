@@ -1,0 +1,47 @@
+:Product: 0814RSGA.txt
+:Issued: 2011 Aug 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 226 Issued at 2200Z on 14 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  13/2100Z
+to 14/2100Z:  Solar activity has been very low.  The largest X-ray
+enhancement of the past 24 hours reached B9 level around 14/1030Z
+originating from an area near the northeast limb.  There are
+currently no spotted regions on the disk.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low for the next three days (15-17 August).  There is a chance for a
+C-class X-ray event throughout the period with the new region on the
+northeast limb being the most likely source of activity.
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z:
+The geomagnetic field was quiet to unsettled.  Observations of the
+solar wind from the ACE spacecraft indicated elevated speeds
+reaching up to 500 km/s, consistent with a high speed stream from a
+favorably positioned coronal hole. The greater than 2 MeV electron
+flux at geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain quiet to unsettled with a chance for active
+periods due to the coronal hole high speed stream.
+III.  Event Probabilities 15 Aug-17 Aug
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           14 Aug 088
+Predicted   15 Aug-17 Aug  090/090/090
+90 Day Mean        14 Aug 096
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Aug  004/005
+Estimated Afr/Ap 14 Aug  012/012
+Predicted Afr/Ap 15 Aug-17 Aug  010/010-010/010-008/008
+VI.  Geomagnetic Activity Probabilities 15 Aug-17 Aug
+A.  Middle Latitudes
+Active                30/30/25
+Minor storm           10/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                35/35/25
+Minor storm           15/15/05
+Major-severe storm    05/05/01

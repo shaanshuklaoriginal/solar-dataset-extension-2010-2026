@@ -1,0 +1,53 @@
+:Product: 0109RSGA.txt
+:Issued: 2024 Jan 09 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 9 Issued at 2200Z on 09 Jan 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 08/2100Z to
+09/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C3 event observed at
+09/1936Z from Region 3538 (N20W67). There are currently 11 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (10 Jan, 11 Jan,
+12 Jan).
+
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached an estimated peak of 423 km/s at 09/0000Z (estimated
+due to DSCOVR/ACE data gaps). Total IMF reached 9 nT at 09/0135Z. The
+maximum southward component of Bz reached -6 nT at 09/1203Z.  Electrons
+greater than 2 MeV at geosynchronous orbit reached a peak level of 178
+pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one, two, and three (10 Jan, 11 Jan, 12
+Jan).
+
+III.  Event probabilities 10 Jan-12 Jan
+Class M    40/40/40
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           09 Jan 176
+Predicted   10 Jan-12 Jan 175/180/180
+90 Day Mean        09 Jan 149
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 Jan  004/002
+Estimated Afr/Ap 09 Jan  007/006
+Predicted Afr/Ap 10 Jan-12 Jan  005/005-005/005-006/005
+
+VI.  Geomagnetic Activity Probabilities 10 Jan-12 Jan
+A.  Middle Latitudes
+Active                10/10/10
+Minor Storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/20
+Major-severe storm    15/15/15

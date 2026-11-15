@@ -1,0 +1,41 @@
+:Product: 0107RSGA.txt
+:Issued: 2010 Jan 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 007 Issued at 2200Z on 07 Jan 2010
+IA.  Analysis of Solar Active Regions and Activity from  06/2100Z
+to 07/2100Z:  Solar activity was very low. New Region 1040 (N28E59)
+was numbered today. This region has produced low level B-class
+flares and is a beta magnetic classification.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low. There is a slight chance for an isolated C-class flare
+from Region 1040.
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominantly quiet for the next three days (08-10
+January).
+III.  Event Probabilities 08 Jan-10 Jan
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           07 Jan 078
+Predicted   08 Jan-10 Jan  079/080/080
+90 Day Mean        07 Jan 075
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Jan  000/001
+Estimated Afr/Ap 07 Jan  001/005
+Predicted Afr/Ap 08 Jan-10 Jan  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 08 Jan-10 Jan
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/00

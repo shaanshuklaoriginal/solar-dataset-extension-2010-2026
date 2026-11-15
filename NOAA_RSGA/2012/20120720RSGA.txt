@@ -1,0 +1,51 @@
+:Product: 0720RSGA.txt
+:Issued: 2012 Jul 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 202 Issued at 2200Z on 20 Jul 2012
+IA.  Analysis of Solar Active Regions and Activity from  19/2100Z
+to 20/2100Z:  Solar activity has been at very low levels for the past
+24 hours. There are currently 4 numbered sunspot regions on the
+disk. Region 1523 (S28W74) and Region 1525 (S20E09) are the largest
+regions on the disk but both regions remained stable and quiet. New
+Region 1526 (S17E63) was numbered earlier today and is currently a
+simple beta group. A disappearing filament was observed in the
+northwest quadrant of the Sun, however no CMEs were observed in
+conjunction with the event.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low levels with a chance for C-class flares for the next three
+days (21-23 July).
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z:
+The geomagnetic field has been at quiet to unsettled levels for the
+past 24 hours. The greater than 2 MeV electron flux at
+geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at mostly quiet levels on day one (21 July). Quiet to
+unsettled levels are expected on day two (22 July), as a coronal
+hole high speed stream (CH HSS) becomes geoeffective. An increase to
+quiet to unsettled levels with a chance for active periods is
+expected on day three (23 July) as effects of the CH HSS continue.
+III.  Event Probabilities 21 Jul-23 Jul
+Class M    01/01/01
+Class X    01/01/01
+Proton     40/01/01
+PCAF       yellow
+IV.  Penticton 10.7 cm Flux
+Observed           20 Jul 092
+Predicted   21 Jul-23 Jul  090/090/095
+90 Day Mean        20 Jul 127
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 Jul  006/006
+Estimated Afr/Ap 20 Jul  009/010
+Predicted Afr/Ap 21 Jul-23 Jul  006/005-008/010-011/015
+VI.  Geomagnetic Activity Probabilities 21 Jul-23 Jul
+A.  Middle Latitudes
+Active                05/30/30
+Minor storm           01/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/30/35
+Major-severe storm    05/35/35

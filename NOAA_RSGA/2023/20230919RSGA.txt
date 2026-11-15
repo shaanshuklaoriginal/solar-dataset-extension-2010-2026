@@ -1,0 +1,52 @@
+:Product: 0919RSGA.txt
+:Issued: 2023 Sep 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 262 Issued at 2200Z on 19 Sep 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 18/2100Z to
+19/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M4 event observed at
+19/2014Z from Region 3435 (N09E42). There are currently 10 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (20 Sep, 21 Sep,
+22 Sep).
+
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z: The geomagnetic
+field has been at active to severe storm levels for the past 24 hours.
+Solar wind speed reached a peak of 698 km/s at 19/0833Z. Total IMF
+reached 17 nT at 18/2204Z. The maximum southward component of Bz reached
+-14 nT at 18/2149Z.  Electrons greater than 2 MeV at geosynchronous
+orbit reached a peak level of 2068 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one and three (20 Sep, 22 Sep)
+and quiet to unsettled levels on day two (21 Sep).
+
+III.  Event probabilities 20 Sep-22 Sep
+Class M    40/40/40
+Class X    01/05/05
+Proton     01/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           19 Sep 166
+Predicted   20 Sep-22 Sep 162/160/155
+90 Day Mean        19 Sep 162
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Sep  021/041
+Estimated Afr/Ap 19 Sep  037/050
+Predicted Afr/Ap 20 Sep-22 Sep  014/016-008/008-011/015
+
+VI.  Geomagnetic Activity Probabilities 20 Sep-22 Sep
+A.  Middle Latitudes
+Active                30/20/35
+Minor Storm           10/05/15
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/10
+Minor Storm           20/20/30
+Major-severe storm    20/20/50

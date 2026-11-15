@@ -1,0 +1,53 @@
+:Product: 1112RSGA.txt
+:Issued: 2011 Nov 12 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 316 Issued at 2200Z on 12 Nov 2011
+IA.  Analysis of Solar Active Regions and Activity from  11/2100Z
+to 12/2100Z:  Solar activity was low. Regions 1339 (N18W62) and 1344
+(S19W59) each produced occasional low-level C-class flares. Region
+1339 continued to gradually decay and was classified as a Dac-type
+with a beta-gamma magnetic configuration. Region 1344 continued to
+show gradual intermediate spot development. It was classified as a
+Dai-type with a beta magnetic configuration. No significant changes
+were noted in the remaining regions. New Region 1346 (S17E64), an
+Hsx-type, was numbered early in the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+through the period (13 - 15 November). There will be a chance for an
+isolated M-class flare until Regions 1339 and 1344 depart the west
+limb on 14 November.
+IIA.  Geophysical Activity Summary 11/2100Z to 12/2100Z:
+The geomagnetic field was quiet. A weak interplanetary shock was
+detected at the ACE spacecraft at 12/0518Z, followed by a sudden
+geomagnetic impulse at Earth at 12/0611Z (8 nT, Boulder USGS
+magnetometer). Modest increases in wind speed and IMF Bt were
+observed following the shock arrival, which likely indicated the
+arrival of the halo-CME observed on 09 November.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at quiet to unsettled levels during days 1 - 2 (13 -
+14 November), followed by a decrease to quiet levels on day 3 (15
+November).
+III.  Event Probabilities 13 Nov-15 Nov
+Class M    40/20/10
+Class X    05/01/01
+Proton     05/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           12 Nov 169
+Predicted   13 Nov-15 Nov  165/160/155
+90 Day Mean        12 Nov 134
+V.  Geomagnetic A Indices
+Observed Afr/Ap 11 Nov  003/002
+Estimated Afr/Ap 12 Nov  005/005
+Predicted Afr/Ap 13 Nov-15 Nov  007/008-007/008-005/005
+VI.  Geomagnetic Activity Probabilities 13 Nov-15 Nov
+A.  Middle Latitudes
+Active                05/05/01
+Minor storm           02/02/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                14/14/13
+Minor storm           12/12/08
+Major-severe storm    08/08/02

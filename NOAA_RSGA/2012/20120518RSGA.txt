@@ -1,0 +1,54 @@
+:Product: 0518RSGA.txt
+:Issued: 2012 May 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 139 Issued at 2200Z on 18 May 2012
+IA.  Analysis of Solar Active Regions and Activity from  17/2100Z
+to 18/2100Z:  Solar activity was at low levels.  The largest flare
+was a C3 at 18/0823Z from old Region 1476 (N10, L=180), which
+rotated off the disk.  A filament eruption was observed in SDO/AIA
+304 imagery beginning at 18/0510Z near Region 1482 (N15W17).  An
+associated CME was observed in STEREO A COR 2 imagery beginning at
+18/0709Z with an estimated plane-of-sky speed of approximately 482
+km/s.  The majority of the ejecta appeared to be slightly north of
+the ecliptic plane, however a glancing blow is likely.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a slight chance for an M-class flare all three days
+(19 - 21 May).
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z:
+The geomagnetic field was at quiet to unsettled levels.  The greater
+than 100 MeV proton event at geosynchronous orbit that began at
+17/0200Z, reached a maximum of 20.4 pfu at 17/0230Z and ended at
+17/1725Z.  The greater than 10 MeV proton event is currently
+hovering close to the 10 pfu threshold (S1).
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels with isolated active
+periods on day 1 (19 May) due to a possible shock arrival from the
+17 May CME.  Quiet to unsettled conditions are expected on day 2 (20
+May).  Mostly quiet conditions are expected on day 3 (21 May). 
+There is a slight chance for shock enhancement of the greater than
+10 MeV protons above 10 pfu on day 1.
+III.  Event Probabilities 19 May-21 May
+Class M    10/10/10
+Class X    01/01/01
+Proton     20/05/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           18 May 132
+Predicted   19 May-21 May  135/135/130
+90 Day Mean        18 May 115
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 May  005/004
+Estimated Afr/Ap 18 May  008/008
+Predicted Afr/Ap 19 May-21 May  009/010-008/008-006/005
+VI.  Geomagnetic Activity Probabilities 19 May-21 May
+A.  Middle Latitudes
+Active                25/10/05
+Minor storm           15/05/01
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                30/15/10
+Minor storm           20/10/05
+Major-severe storm    05/01/01

@@ -1,0 +1,60 @@
+:Product: 1114RSGA.txt
+:Issued: 2012 Nov 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 319 Issued at 2200Z on 14 Nov 2012
+
+IA.  Analysis of Solar Active Regions and Activity from 13/2100Z to
+14/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+14/0404Z from Region 1613 (S23E18). Regions 1610 (S23W36) and 1611
+(N13W14) have decayed and now have weak beta-gamma magnetic
+complexities. Region 1613 experienced some decay in the penumbra and is
+now only considered to be a simple bi-polar region. New Region 1616
+(N21E61) was numbered during the period. There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be at low to
+moderate levels on days one, two, and three (15 Nov, 16 Nov, 17 Nov).
+
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z: The geomagnetic
+field has been at quiet to major storm levels for the past 24 hours.
+Solar wind speed, as measured by the ACE spacecraft, reached a peak
+speed of 466 km/s at 14/1631Z. Total IMF reached 23 nT at 13/2226Z. The
+maximum southward component of Bz reached -19.1 nT at 14/0251Z. The
+increase in activity was caused by prolonged period of -Bz. A solar
+sector boundary crossing appears to have occurred at around 14/0245Z
+followed by a negative polarity coronal hole high speed stream (CH HSS).
+Electrons greater than 2 MeV at geosynchronous orbit reached a peak
+level of 267 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels for the next three days (15 Nov, 16
+Nov, 17 Nov) due to continued effects from the negative polarity coronal
+hole followed by the onset of a positive polarity coronal hole.
+
+III.  Event probabilities 15 Nov-17 Nov
+Class M    40/40/40
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           14 Nov 142
+Predicted   15 Nov-17 Nov 145/145/145
+90 Day Mean        14 Nov 119
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Nov  010/016
+Estimated Afr/Ap 14 Nov  023/034
+Predicted Afr/Ap 15 Nov-17 Nov  011/012-011/010-008/010
+
+VI.  Geomagnetic Activity Probabilities 15 Nov-17 Nov
+A.  Middle Latitudes
+Active                20/20/20
+Minor Storm           10/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           30/30/30
+Major-severe storm    35/30/35

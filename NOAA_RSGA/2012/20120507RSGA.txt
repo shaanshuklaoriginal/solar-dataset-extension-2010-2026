@@ -1,0 +1,58 @@
+:Product: 0507RSGA.txt
+:Issued: 2012 May 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 128 Issued at 2200Z on 07 May 2012
+IA.  Analysis of Solar Active Regions and Activity from  06/2100Z
+to 07/2100Z:  Solar activity has been at moderate levels for the past
+24 hours. Even though Region 1476 (N10E48) is the largest, 810
+Millionths, and most magnetically complex, Fkc/beta-gamma; todays
+only M-class event came from the sunspot cluster Region 1470
+(S15W57) and Region 1471 (S19W50). This sunspot complex produced an
+M1/1n x-ray event at 07/1431Z. Multiple discrete radio frequency
+bursts were associated with this event, as well as a 240 sfu
+Tenflare and a Type IV radio sweep. These characteristics, as well
+as COR2 imagery from the STEREO A spacecraft suggest an Earth
+directed CME. Initial analysis suggests only a weak disturbance of
+the Earths magnetic field. Earlier in the day around 07/0400Z,
+another CME was observed in STEREO A imagery but after analysis, it
+was determined to not have an Earth-directed component. Region 1476
+continues to grow in size and magnetic complexity as it rotates
+further onto the solar disk.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low to moderate levels for the next three days (08 - 10 May).
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels on day one (08 May) as a
+solar sector boundary crossing is expected, as well as possible
+effects from a weak CME, observed leaving the solar disk on 05 May.
+Quiet to unsettled with a chance for active levels are expected on
+day two (09 May), as a coronal hole high-speed stream (CH HSS) moves
+into a geoeffective position. Quiet to active levels with a chance
+for minor storm levels are expected on day three (10 May) as effect
+from the CH HSS continue with the possible arrival of todays CME.
+III.  Event Probabilities 08 May-10 May
+Class M    75/75/75
+Class X    10/10/10
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           07 May 122
+Predicted   08 May-10 May  120/120/120
+90 Day Mean        07 May 112
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 May  005/004
+Estimated Afr/Ap 07 May  004/004
+Predicted Afr/Ap 08 May-10 May  007/007-009/012-015/015
+VI.  Geomagnetic Activity Probabilities 08 May-10 May
+A.  Middle Latitudes
+Active                10/35/40
+Minor storm           01/10/20
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                15/45/40
+Minor storm           01/20/25
+Major-severe storm    01/05/10

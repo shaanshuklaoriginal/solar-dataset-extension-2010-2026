@@ -1,0 +1,46 @@
+:Product: 0616RSGA.txt
+:Issued: 2019 Jun 16 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 167 Issued at 2200Z on 16 Jun 2019
+
+IA.  Analysis of Solar Active Regions and Activity from 15/2100Z to
+16/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 0 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+on days one, two, and three (17 Jun, 18 Jun, 19 Jun).
+
+IIA.  Geophysical Activity Summary 15/2100Z to 16/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 415 km/s at 16/1200Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one, two, and three (17 Jun, 18
+Jun, 19 Jun).
+
+III.  Event probabilities 17 Jun-19 Jun
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           16 Jun 066
+Predicted   17 Jun-19 Jun 067/067/067
+90 Day Mean        16 Jun 072
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 15 Jun  006/005
+Estimated Afr/Ap 16 Jun  006/006
+Predicted Afr/Ap 17 Jun-19 Jun  010/012-010/012-010/012
+
+VI.  Geomagnetic Activity Probabilities 17 Jun-19 Jun
+A.  Middle Latitudes
+Active                25/25/25
+Minor Storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/20/20
+Minor Storm           30/30/30
+Major-severe storm    25/25/25

@@ -1,0 +1,58 @@
+:Product: 1112RSGA.txt
+:Issued: 2010 Nov 12 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 316 Issued at 2200Z on 12 Nov 2010
+IA.  Analysis of Solar Active Regions and Activity from  11/2100Z
+to 12/2100Z:  Solar activity has been at low levels for the past 24
+hours. Multiple C-class events, from Region 1123 (S22W10), were
+observed throughout the period, the largest being a C4.6/Sf at
+12/0134Z. Associated with this event were discrete radio emissions
+at 245 MHz and 610 MHz, a Type II radio sweep, with an estimated
+shock velocity of 505 km/s, and finally LASCO C2 imagery showed a
+CME liftoff at 12/0248Z. Region 1124 (N14E12) has shown some growth
+in spot count and areal coverage but has remained quiet. New Region
+1126 (S28E73) was numbered late in the forecast period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low to low levels with a slight chance for M-class events for
+the next three days (13-15 November).
+IIA.  Geophysical Activity Summary 11/2100Z to 12/2100Z:
+The geomagnetic field has been at quiet to active levels with
+isolated minor storm periods at high latitudes for the past 24
+hours. Mostly unsettled to active conditions were observed from
+11/2100Z - 12/1300Z.  At around 12/1500Z,  signatures from the ACE
+spacecraft showed a decrease in density, solar wind speed, and
+temperature as the geomagnetic field started to recover from
+yesterdays CME driven disturbance. Quiet levels were observed for
+the remainder of the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels on day one (13
+November). Activity is expected to increase to mostly unsettled
+levels on day two (14 November) and unsettled to active levels on
+day three (15 November). This increase in activity is due to the
+arrival of multiple small CMEs mixed with the effects of a
+recurrent coronal hole high-speed stream.
+III.  Event Probabilities 13 Nov-15 Nov
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           12 Nov 085
+Predicted   13 Nov-15 Nov  085/084/084
+90 Day Mean        12 Nov 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 11 Nov  012/015
+Estimated Afr/Ap 12 Nov  011/012
+Predicted Afr/Ap 13 Nov-15 Nov  007/008-010/012-015/015
+VI.  Geomagnetic Activity Probabilities 13 Nov-15 Nov
+A.  Middle Latitudes
+Active                15/25/30
+Minor storm           01/05/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/30/35
+Minor storm           01/10/15
+Major-severe storm    01/01/01

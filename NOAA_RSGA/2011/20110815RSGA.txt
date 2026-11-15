@@ -1,0 +1,50 @@
+:Product: 0815RSGA.txt
+:Issued: 2011 Aug 16 0405 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+:::::::::: CORRECTED COPY ::::::::::
+SDF Number 227 Issued at 2200Z on 15 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  14/2100Z
+to 15/2100Z:  Solar activity has been low.  Newly assigned Region
+1271 (N17E74) produced a C1 flare at 15/0454Z.  A C3 flare at
+15/1120Z originated from a region on the southeast limb, not yet on
+the disk.  Both regions produced several B-class flares.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low with C-class events likely.
+IIA.  Geophysical Activity Summary 14/2100Z to 15/2100Z:
+The geomagnetic field was quiet to active during the past 24 hours
+with a brief minor storm period at Boulder from 15/0000 - 0300Z,
+under the continued influence of a coronal hole high speed stream. 
+ACE solar wind data indicated velocities up to 560 km/s, density up
+to 9 p/cc, and the southward component of the IMF (Bz) down to -9
+nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled with a chance for active
+conditions on days 1 and 2 (16-17 Aug).  Day 3 (18 Aug) is expected
+to return to quiet levels as effects from the coronal hole high
+speed stream begin to wane.
+III.  Event Probabilities 16 Aug-18 Aug
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           15 Aug 090
+Predicted   16 Aug-18 Aug  095/095/095
+90 Day Mean        15 Aug 096
+V.  Geomagnetic A Indices
+Observed Afr/Ap 14 Aug  008/009
+Estimated Afr/Ap 15 Aug  010/015
+Predicted Afr/Ap 16 Aug-18 Aug  010/010-008/010-005/005
+VI.  Geomagnetic Activity Probabilities 16 Aug-18 Aug
+A.  Middle Latitudes
+Active                25/20/15
+Minor storm           10/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                30/30/15
+Minor storm           15/15/05
+Major-severe storm    01/01/01
+Comment: Corrected flare probabilities.

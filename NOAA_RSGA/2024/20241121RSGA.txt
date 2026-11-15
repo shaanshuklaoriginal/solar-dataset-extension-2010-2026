@@ -1,0 +1,55 @@
+:Product: 1121RSGA.txt
+:Issued: 2024 Nov 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 326 Issued at 2200Z on 21 Nov 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 20/2100Z to
+21/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C5 event observed at
+21/1352Z from Region 3901 (S07E24). There are currently 9 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+days one, two, and three (22 Nov, 23 Nov, 24 Nov).
+
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 414 km/s at 21/1443Z. Total IMF reached 10
+nT at 21/1333Z. The maximum southward component of Bz reached -7 nT at
+21/1611Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 29 pfu at 21/2100Z. Protons greater than 100 MeV at
+geosynchronous orbit reached a peak level of 7 pfu at 21/2010Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one, two, and three (22 Nov,
+23 Nov, 24 Nov). Protons greater than 10 Mev are expected to cross
+threshold on day one (22 Nov) and have a slight chance of crossing
+threshold on day two (23 Nov).
+
+III.  Event probabilities 22 Nov-24 Nov
+Class M    50/50/50
+Class X    10/10/10
+Proton     99/10/05
+PCAF       yellow
+
+IV.  Penticton 10.7 cm Flux
+Observed           21 Nov 166
+Predicted   22 Nov-24 Nov 170/175/175
+90 Day Mean        21 Nov 208
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 Nov  008/007
+Estimated Afr/Ap 21 Nov  005/007
+Predicted Afr/Ap 22 Nov-24 Nov  007/008-008/008-008/008
+
+VI.  Geomagnetic Activity Probabilities 22 Nov-24 Nov
+A.  Middle Latitudes
+Active                25/25/25
+Minor Storm           10/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/25/25
+Major-severe storm    35/35/35

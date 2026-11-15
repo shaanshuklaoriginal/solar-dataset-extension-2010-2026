@@ -1,0 +1,28 @@
+:Product: 0812SRS.txt
+:Issued: 2025 Aug 12 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 224 Issued at 0030Z on 12 Aug 2025
+Report compiled from data received at SWO on 11 Aug
+I.  Regions with Sunspots.  Locations Valid at 11/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+4165 N11W92   104  0120 Hsx  02   01 Alpha
+4168 N05W94   106  0070 Dao  02   03 Beta
+4169 N21W21   033  0060 Hax  02   02 Alpha
+4171 N19W01   013  0040 Hsx  01   01 Alpha
+4172 N08W18   030  0140 Eai  14   20 Beta-Gamma
+4174 S09W74   086  0020 Cao  02   02 Beta
+4175 N12E20   352  0020 Hax  02   02 Alpha
+4176 N25E03   009  0010 Axx  01   01 Alpha
+4177 N04E21   351  0020 Hsx  01   01 Alpha
+4178 N09W49   061  0210 Dai  07   12 Beta
+4179 S11E52   320  0050 Cso  01   02 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 11/2400Z Aug
+Nmbr  Location  Lo
+None
+II. Regions Due to Return 12 Aug to 14 Aug
+Nmbr Lat    Lo
+4150 S14    271
+4149 N16    264

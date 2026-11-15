@@ -1,0 +1,55 @@
+:Product: 0606RSGA.txt
+:Issued: 2012 Jun 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 158 Issued at 2200Z on 06 Jun 2012
+IA.  Analysis of Solar Active Regions and Activity from  05/2100Z
+to 06/2100Z:  Solar activity was moderate. Region 1494 (S18W06)
+produced an M2/1b at 06/2006Z associated with Type II (est. speed
+1148 km/s) and Type IV radio sweeps. An associated CME was first
+visible in SOHO LASCO C2 imagery at 06/2036Z. Further analysis will
+be conducted as more images become available to determine
+geoeffectiveness. A filament eruption was observed in SDO AIA 193
+imagery around 05/1945Z near N12W10. The CME was first visible in
+STEREO COR 2 imagery at 05/2039Z. The majority of the ejecta appears
+to be north of the ecliptic plane, however, there is a weak
+Earth-directed component. A model run is in progress to determine
+geoeffectiveness. The Penticton 10 cm Flux value was estimated due
+to flare enhancement.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance for an isolated M-class event for the next
+three days (07-09 June).
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z:
+The geomagnetic field was mostly unsettled to active for the past 24
+hours due to effects from a favorably positioned coronal hole high
+speed stream (CH HSS). The greater than 2 MeV electron flux at
+geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled with a chance for active periods on day one
+(07 June) due to continued effects from the CH HSS. Quiet to
+unsettled conditions are expected on days two and three (08-09 June)
+as effects from the CH HSS begin to subside.
+III.  Event Probabilities 07 Jun-09 Jun
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           06 Jun 140
+Predicted   07 Jun-09 Jun  140/140/140
+90 Day Mean        06 Jun 117
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Jun  015/021
+Estimated Afr/Ap 06 Jun  013/016
+Predicted Afr/Ap 07 Jun-09 Jun  011/015-007/012-006/008
+VI.  Geomagnetic Activity Probabilities 07 Jun-09 Jun
+A.  Middle Latitudes
+Active                30/20/10
+Minor storm           10/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           25/25/15
+Major-severe storm    40/30/15

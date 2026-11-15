@@ -1,0 +1,56 @@
+:Product: 0315RSGA.txt
+:Issued: 2023 Mar 15 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 74 Issued at 2200Z on 15 Mar 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 14/2100Z to
+15/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+14/2226Z from Region 3254 (S24W28). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares on day one (16 Mar) and expected to
+be very low with a chance for a C-class flares and a slight chance for
+an M-class flare on days two and three (17 Mar, 18 Mar).
+
+IIA.  Geophysical Activity Summary 14/2100Z to 15/2100Z: The geomagnetic
+field has been at quiet to major storm levels for the past 24 hours.
+Solar wind speed reached a peak of 584 km/s at 15/0435Z. Total IMF
+reached 26 nT at 15/0502Z. The maximum southward component of Bz reached
+-17 nT at 15/0435Z.  Protons greater than 10 MeV at geosynchronous orbit
+reached a peak level of 21 pfu at 15/0425Z. Electrons greater than 2 MeV
+at geosynchronous orbit reached a peak level of 157 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (16 Mar), quiet to
+unsettled levels on day two (17 Mar) and quiet levels on day three (18
+Mar). Protons greater than 10 Mev have a chance of crossing threshold on
+day one (16 Mar).
+
+III.  Event probabilities 16 Mar-18 Mar
+Class M    05/10/10
+Class X    01/01/01
+Proton     25/01/01
+PCAF       Yellow
+
+IV.  Penticton 10.7 cm Flux
+Observed           15 Mar 136
+Predicted   16 Mar-18 Mar 138/145/142
+90 Day Mean        15 Mar 171
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 14 Mar  012/014
+Estimated Afr/Ap 15 Mar  019/025
+Predicted Afr/Ap 16 Mar-18 Mar  021/025-007/010-006/005
+
+VI.  Geomagnetic Activity Probabilities 16 Mar-18 Mar
+A.  Middle Latitudes
+Active                35/20/15
+Minor Storm           30/05/01
+Major-severe storm    15/01/01
+B.  High Latitudes
+Active                05/15/15
+Minor Storm           20/25/20
+Major-severe storm    70/25/20

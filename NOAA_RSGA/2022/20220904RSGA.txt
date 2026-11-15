@@ -1,0 +1,55 @@
+:Product: 0904RSGA.txt
+:Issued: 2022 Sep 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 247 Issued at 2200Z on 04 Sep 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 03/2100Z to
+04/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C8 event observed at
+04/1638Z from Region 3089 (S23W75). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+day one (05 Sep) and expected to be very low with a chance for a C-class
+flares on days two and three (06 Sep, 07 Sep).
+
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z: The geomagnetic
+field has been at active to major storm levels for the past 24 hours.
+Solar wind speed reached a peak of 687 km/s at 04/1108Z. Total IMF
+reached 13 nT at 04/0147Z. The maximum southward component of Bz reached
+-12 nT at 04/0142Z.  Electrons greater than 2 MeV at geosynchronous
+orbit reached a peak level of 6689 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to major storm levels on day one (05 Sep) and quiet
+to active levels on days two and three (06 Sep, 07 Sep). Protons greater
+than 10 Mev have a slight chance of crossing threshold on day one (05
+Sep).
+
+III.  Event probabilities 05 Sep-07 Sep
+Class M    35/05/05
+Class X    10/01/01
+Proton     10/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           04 Sep 128
+Predicted   05 Sep-07 Sep 126/122/120
+90 Day Mean        04 Sep 122
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Sep  023/024
+Estimated Afr/Ap 04 Sep  040/065
+Predicted Afr/Ap 05 Sep-07 Sep  025/034-017/018-012/012
+
+VI.  Geomagnetic Activity Probabilities 05 Sep-07 Sep
+A.  Middle Latitudes
+Active                30/35/30
+Minor Storm           40/15/10
+Major-severe storm    20/05/01
+B.  High Latitudes
+Active                05/20/20
+Minor Storm           20/25/25
+Major-severe storm    70/30/20

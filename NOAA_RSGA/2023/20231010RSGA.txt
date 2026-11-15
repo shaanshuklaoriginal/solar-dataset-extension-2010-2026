@@ -1,0 +1,52 @@
+:Product: 1010RSGA.txt
+:Issued: 2023 Oct 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 283 Issued at 2200Z on 10 Oct 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 09/2100Z to
+10/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M2 event observed at
+10/1217Z from Region 3452 (N09W80). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (11 Oct, 12 Oct,
+13 Oct).
+
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 379 km/s at 10/2007Z. Total IMF reached 5 nT at
+10/0929Z. The maximum southward component of Bz reached -2 nT at
+10/1514Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 269 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (11 Oct) and quiet to
+active levels on days two and three (12 Oct, 13 Oct).
+
+III.  Event probabilities 11 Oct-13 Oct
+Class M    35/35/25
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           10 Oct 164
+Predicted   11 Oct-13 Oct 160/160/158
+90 Day Mean        10 Oct 160
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Oct   NA/008
+Estimated Afr/Ap 10 Oct  007/007
+Predicted Afr/Ap 11 Oct-13 Oct  008/010-011/012-009/012
+
+VI.  Geomagnetic Activity Probabilities 11 Oct-13 Oct
+A.  Middle Latitudes
+Active                20/35/35
+Minor Storm           05/15/15
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/10/10
+Minor Storm           20/25/25
+Major-severe storm    20/50/50

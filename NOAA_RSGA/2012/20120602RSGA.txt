@@ -1,0 +1,55 @@
+:Product: 0602RSGA.txt
+:Issued: 2012 Jun 02 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 154 Issued at 2200Z on 02 Jun 2012
+IA.  Analysis of Solar Active Regions and Activity from  01/2100Z
+to 02/2100Z:  Solar activity was low.  A C3 flare was observed from
+the west limb at 01/2241Z.  It was accompanied by a Type II radio
+emission (936 km/s) and a non-earth-directed CME.  Region 1498
+(N08E55) produced a C2 flare at 02/0105Z and 1493 (N15E35) produced
+C1 flare at 02/0431Z.  New flux emerged near S12W40 and N17E65.  All
+eight regions on the disk exhibited simple beta magnetic
+characteristics.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance for an M-class flare.
+IIA.  Geophysical Activity Summary 01/2100Z to 02/2100Z:
+The geomagnetic field was primarily quiet for the first half of the
+day, increasing to unsettled levels during the 15-18Z synoptic
+period.  At the ACE spacecraft, low energy particles detected by the
+EPAM instrument began rising about 02/06Z, finally leveling off
+around 02/14Z.  Bz began turning southward around 02/1410Z,
+decreasing to around -7 nT where it remained.  The solar sector
+switched from negative to positive at the same time.  Solar wind
+speed ranged between 340 and 360 km/s.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to begin at quiet to unsettled levels, with a chance for an
+isolated active period on day one (3 June).  Activity is expected to
+increase to unsettled levels on day two (4 June) and active levels
+on day three (5 June), with a chance for minor storm periods both
+days.  The disturbance is expected as a recurrent coronal hole high
+speed stream becomes geoeffective.
+III.  Event Probabilities 03 Jun-05 Jun
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           02 Jun 129
+Predicted   03 Jun-05 Jun  130/130/130
+90 Day Mean        02 Jun 117
+V.  Geomagnetic A Indices
+Observed Afr/Ap 01 Jun  006/006
+Estimated Afr/Ap 02 Jun  006/007
+Predicted Afr/Ap 03 Jun-05 Jun  009/010-013/015-015/020
+VI.  Geomagnetic Activity Probabilities 03 Jun-05 Jun
+A.  Middle Latitudes
+Active                20/35/35
+Minor storm           10/20/20
+Major-severe storm    01/05/05
+B.  High Latitudes
+Active                15/10/10
+Minor storm           25/30/25
+Major-severe storm    30/50/50

@@ -1,0 +1,46 @@
+:Product: 1220RSGA.txt
+:Issued: 2011 Dec 20 2240 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+::::::::::CORRECTED COPY::::::::::
+SDF Number 354 Issued at 2200Z on 20 Dec 2011
+IA.  Analysis of Solar Active Regions and Activity from  19/2100Z
+to 20/2100Z:  Solar activity has been at low levels for the past 24
+hours. Region 1376 (N19W46) produced the largest event of the
+period,  a C2 event at 20/2036Z. Region 1376 also has shown the most
+growth in areal coverage and magnetic complexity. A new region was
+numbered today, Region 1384 (N12E61),  as it rotated onto the east
+limb. Several CMEs were observed in LASCO C2 and C3 imagery but
+none appear to have any Earth directed components.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels for the next three days (21 - 23 December).
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z:
+The geomagnetic field has been at predominantly quiet levels for the
+past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain at mostly quiet levels for the next three days
+(21 - 23 December).
+III.  Event Probabilities 21 Dec-23 Dec
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           20 Dec 137
+Predicted   21 Dec-23 Dec  140/140/135
+90 Day Mean        20 Dec 145
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 Dec  006/006
+Estimated Afr/Ap 20 Dec  003/003
+Predicted Afr/Ap 21 Dec-23 Dec  004/005-004/005-004/005
+VI.  Geomagnetic Activity Probabilities 21 Dec-23 Dec
+A.  Middle Latitudes
+Active                01/01/01
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/10
+Major-severe storm    05/05/05

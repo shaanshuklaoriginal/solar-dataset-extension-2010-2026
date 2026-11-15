@@ -1,0 +1,46 @@
+:Product: 0707RSGA.txt
+:Issued: 2011 Jul 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 188 Issued at 2200Z on 07 Jul 2011
+IA.  Analysis of Solar Active Regions and Activity from  06/2100Z
+to 07/2100Z:  Solar activity was low during the past 24 hours. Region
+1243 (N16W59) produced a C1 event at 07/0243Z. New Region 1245
+(N15E58) was numbered overnight and is classified as a Cso-beta type
+group. Both regions produced several B-class events.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low for the next three days (08-10 July).
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z:
+The geomagnetic field was mostly quiet during the past 24 hours. The
+greater than 2 MeV electron flux at geosynchronous orbit reached
+high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet on day one (08 July). Quiet to unsettled
+conditions with a chance for isolated active periods are expected on
+day two (09 July) due to the effects of a recurrent coronal hole
+high speed stream (CH HSS). Conditions are expected to be mostly
+quiet on day three (10 July) as the effects from the CH HSS subside.
+III.  Event Probabilities 08 Jul-10 Jul
+Class M    05/05/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           07 Jul 086
+Predicted   08 Jul-10 Jul  088/090/090
+90 Day Mean        07 Jul 099
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Jul  007/008
+Estimated Afr/Ap 07 Jul  007/007
+Predicted Afr/Ap 08 Jul-10 Jul  007/007-010/010-005/005
+VI.  Geomagnetic Activity Probabilities 08 Jul-10 Jul
+A.  Middle Latitudes
+Active                15/25/10
+Minor storm           05/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/30/15
+Minor storm           10/15/05
+Major-severe storm    01/06/01

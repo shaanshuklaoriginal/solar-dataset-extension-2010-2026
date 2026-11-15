@@ -1,0 +1,48 @@
+:Product: 0831RSGA.txt
+:Issued: 2011 Aug 31 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 243 Issued at 2200Z on 31 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  30/2100Z
+to 31/2100Z:  Solar activity was low. Regions 1281 (S20E28) and 1283
+(N12E61) each produced a single C-class flare, the largest of which
+was a C5/1f at 30/2246Z from Region 1281. Regions 1281 and 1282
+(N25w13) each showed intermediate and trailer spot growth during the
+period. No significant changes were noted in Region 1283, though
+analysis was hampered due to limb proximity. New Region 1285
+(N29W48), a small Axx group, was numbered. There were no
+Earth-directed CMEs observed during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+through the period (01 - 03 September) with a slight chance for an
+M-class flare.
+IIA.  Geophysical Activity Summary 30/2100Z to 31/2100Z:
+Geomagnetic field activity was at quiet levels.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at quiet levels during days 1 - 2 (01 - 02
+September). Activity is expected to increase to quiet to unsettled
+levels on day 3 (03 September), with a chance for active levels, due
+to a recurrent coronal hole high-speed stream.
+III.  Event Probabilities 01 Sep-03 Sep
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           31 Aug 109
+Predicted   01 Sep-03 Sep  110/110/105
+90 Day Mean        31 Aug 097
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Aug  002/004
+Estimated Afr/Ap 31 Aug  002/005
+Predicted Afr/Ap 01 Sep-03 Sep  005/005-005/005-008/008
+VI.  Geomagnetic Activity Probabilities 01 Sep-03 Sep
+A.  Middle Latitudes
+Active                10/10/20
+Minor storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/25
+Minor storm           01/01/10
+Major-severe storm    01/01/01

@@ -1,0 +1,27 @@
+:Product: 0327SRS.txt
+:Issued: 2025 Mar 27 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 86 Issued at 0030Z on 27 Mar 2025
+Report compiled from data received at SWO on 26 Mar
+I.  Regions with Sunspots.  Locations Valid at 26/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+4030 S15W88   124  0010 Hsx  01   01 Alpha
+4035 N16W50   087  0015 Cao  09   03 Beta
+4036 N08W89   125  0300 Eki  11   08 Beta-Gamma
+4043 N11E52   354  0090 Dai  08   11 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 26/2400Z Mar
+Nmbr  Location  Lo
+4033  N19W89   126
+4034  S11W77   114
+4037  N19W90   127
+4038  S14W08   045
+4039  N09W05   042
+4040  S08E04   033
+4041  N18E07   030
+4042  S12E12   025
+II. Regions Due to Return 27 Mar to 29 Mar
+Nmbr Lat    Lo
+None

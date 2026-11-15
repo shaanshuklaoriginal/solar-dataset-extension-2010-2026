@@ -1,0 +1,56 @@
+:Product: 1020RSGA.txt
+:Issued: 2012 Oct 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 294 Issued at 2200Z on 20 Oct 2012
+IA.  Analysis of Solar Active Regions and Activity from  19/2100Z
+to 20/2100Z:  Solar activity was high.  An impulsive M9 flare
+occurred at 20/1814Z from newly numbered Region 1598 (S15E82).  This
+region appeared to be responsible for several C-class flares as it
+approached the visible disk and will continue to be the area of
+interest for the next few days.  An associated Type II radio sweep
+was recorded with an estimated speed of 516 km/s.  Region 1593
+(N15E09) showed some shearing and spot loss over the past 24 hours,
+while Region 1597 (S22W58) had some intermediate spot growth and
+separation between leader and follower.  The remaining regions
+showed little to or no changes.  No Earth-directed CMEs were
+observed for the past 24 hours.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+for the next three days (21-23 October) with a chance for isolated
+M-class flares.
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z:
+The geomagnetic field was quiet over the past 24 hours.  Solar wind
+speed, as measured at the ACE spacecraft, steadily decreased from
+approximately 440 km/s to near 380 km/s.  The Bz component of the
+interplanetary magnetic field continued to show minor deflections of
++/- 2 nT while total fields hovered near 4 nT. The greater than 2
+MeV electron flux at geosynchronous orbit was at high levels
+throughout the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet on day 1 (21 October).  An increase to quiet to
+unsettled levels is expected for days 2 and 3 (22-23 October) due to
+the effects of a weak coronal hole high speed stream.
+III.  Event Probabilities 21 Oct-23 Oct
+Class M    40/40/40
+Class X    10/10/10
+Proton     05/05/05
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           20 Oct 151
+Predicted   21 Oct-23 Oct  150/150/145
+90 Day Mean        20 Oct 120
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 Oct  003/002
+Estimated Afr/Ap 20 Oct  003/004
+Predicted Afr/Ap 21 Oct-23 Oct  006/005-007/008-007/008
+VI.  Geomagnetic Activity Probabilities 21 Oct-23 Oct
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/20/20
+Minor storm           20/25/25
+Major-severe storm    10/15/15

@@ -1,0 +1,67 @@
+:Product: 1030RSGA.txt
+:Issued: 2011 Oct 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 303 Issued at 2200Z on 30 Oct 2011
+IA.  Analysis of Solar Active Regions and Activity from  29/2100Z
+to 30/2100Z:  Solar activity was low. There were several C-class
+flares during the past 24 hours. Most of these were from newly
+emerging Region 1334 (N13E24) which is currently a C-type group with
+area of about 70 millionths. Region 1330 (N08W35) continues to be
+the largest group on the disk and managed to produce two C-class
+flares. However, Region 1330 appears to be decreasing in sunspot
+area. There continues to be indicators of a new region rotating
+around the east limb with latitude around 15 degrees North. A CME
+was observed in the LASCO C2 coronagraph beginning at about 0812Z
+but was confirmed to be from the backside using STEREO imagery.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+generally low. There continues to be, however, a slight chance for
+an isolated M-class flare.
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z:
+The geomagnetic field was initially quiet. An increase to unsettled
+to active levels with some minor storm periods at high latitudes
+occurred after 1003Z after a disturbance in the solar wind impacted
+the magnetosphere. The disturbance was also seen at the ACE
+spacecraft at about 0855Z: solar wind increased from around 280 km/s
+to about 320 km/s, Bt from 3 nT up to about 6 nT, and density from
+less than 1 p/cc up to about 6 p/cc. The solar wind parameters
+continued to show somewhat elevated signatures for the remainder of
+the period. There was also a solar sector boundary crossing on 29
+October at about 2111Z from negative to positive polarity and the
+presence of a positive sector was clearly indicated throughout the
+interval. In addition, solar wind speed and temperature were showing
+an increasing trend near the end of the interval. It appears that
+the initial phase of the disturbance was related to the DSF/CME that
+occurred on 26 October. However, it also appears that the expected
+high speed stream is beginning to be evident in the solar wind
+observations.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled for the next 24 hours (31 October) with a
+chance for active periods as the high speed stream is expected to be
+more clearly evident. Quiet to unsettled levels are expected for the
+second day (01 November) and quiet levels are expected to
+predominate on the third day (02 November).
+III.  Event Probabilities 31 Oct-02 Nov
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           30 Oct 127
+Predicted   31 Oct-02 Nov  130/130/125
+90 Day Mean        30 Oct 124
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Oct  002/002
+Estimated Afr/Ap 30 Oct  007/008
+Predicted Afr/Ap 31 Oct-02 Nov  010/010-005/008-005/005
+VI.  Geomagnetic Activity Probabilities 31 Oct-02 Nov
+A.  Middle Latitudes
+Active                35/10/10
+Minor storm           10/05/05
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                40/20/10
+Minor storm           25/15/05
+Major-severe storm    15/05/01

@@ -1,0 +1,53 @@
+:Product: 0917RSGA.txt
+:Issued: 2023 Sep 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 260 Issued at 2200Z on 17 Sep 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 16/2100Z to
+17/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C3 event observed at
+17/1604Z from Region 3435 (N10E60). There are currently 5 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a slight chance for an M-class flare on days one, two, and three (18
+Sep, 19 Sep, 20 Sep).
+
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z: The geomagnetic
+field has been at unsettled to active levels for the past 24 hours.
+Solar wind speed reached a peak of 508 km/s at 17/0424Z. Total IMF
+reached 11 nT at 17/0412Z. The maximum southward component of Bz reached
+-8 nT at 17/0205Z.  Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 167 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (18 Sep), unsettled to
+major storm levels on day two (19 Sep) and quiet to active levels on day
+three (20 Sep).
+
+III.  Event probabilities 18 Sep-20 Sep
+Class M    20/20/15
+Class X    05/01/01
+Proton     05/05/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           17 Sep 145
+Predicted   18 Sep-20 Sep 145/140/140
+90 Day Mean        17 Sep 162
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Sep  005/010
+Estimated Afr/Ap 17 Sep  014/019
+Predicted Afr/Ap 18 Sep-20 Sep  008/008-022/035-014/015
+
+VI.  Geomagnetic Activity Probabilities 18 Sep-20 Sep
+A.  Middle Latitudes
+Active                20/25/25
+Minor Storm           05/40/05
+Major-severe storm    01/35/01
+B.  High Latitudes
+Active                15/05/15
+Minor Storm           25/20/20
+Major-severe storm    35/75/25

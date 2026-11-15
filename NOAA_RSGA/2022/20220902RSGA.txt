@@ -1,0 +1,54 @@
+:Product: 0902RSGA.txt
+:Issued: 2022 Sep 02 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 245 Issued at 2200Z on 02 Sep 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 01/2100Z to
+02/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C3 event observed at
+02/1716Z from Region 3089 (S23W46). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+days one, two, and three (03 Sep, 04 Sep, 05 Sep).
+
+IIA.  Geophysical Activity Summary 01/2100Z to 02/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 512 km/s at 01/2100Z. Total IMF reached 8 nT at
+02/1904Z. The maximum southward component of Bz reached -6 nT at
+02/2030Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 168 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (03 Sep), unsettled to major
+storm levels on day two (04 Sep) and quiet to minor storm levels on day
+three (05 Sep). Protons have a slight chance of crossing threshold on
+days one, two, and three (03 Sep, 04 Sep, 05 Sep).
+
+III.  Event probabilities 03 Sep-05 Sep
+Class M    30/30/30
+Class X    10/10/10
+Proton     10/10/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           02 Sep 130
+Predicted   03 Sep-05 Sep 124/124/120
+90 Day Mean        02 Sep 121
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 01 Sep  009/008
+Estimated Afr/Ap 02 Sep  006/008
+Predicted Afr/Ap 03 Sep-05 Sep  012/015-021/030-020/025
+
+VI.  Geomagnetic Activity Probabilities 03 Sep-05 Sep
+A.  Middle Latitudes
+Active                35/30/40
+Minor Storm           15/40/25
+Major-severe storm    01/20/05
+B.  High Latitudes
+Active                20/10/15
+Minor Storm           25/20/30
+Major-severe storm    30/65/45

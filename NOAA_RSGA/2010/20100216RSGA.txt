@@ -1,0 +1,47 @@
+:Product: 0216RSGA.txt
+:Issued: 2010 Feb 16 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 047 Issued at 2200Z on 16 Feb 2010
+IA.  Analysis of Solar Active Regions and Activity from  15/2100Z
+to 16/2100Z:  Solar activity was very low. A single B-class flare was
+observed on the west limb near old Region 1045 (N23, L=256). Regions
+1046 (N22W49) and 1048 (N21E34) continued to gradually decay and
+simplify. No new regions were numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low. There is a chance for a C-class flare from Region 1048.
+IIA.  Geophysical Activity Summary 15/2100Z to 16/2100Z:
+Geomagnetic field activity ranged from quiet to active levels. Active
+levels occurred until 16/0300Z, then decreased to quiet to unsettled
+levels. A further decrease to quiet levels occurred after 16/1200Z.
+The active levels were due to periods of sustained southward IMF Bz
+(minimum -11 nT at 15/2124Z) combined with enhanced IMF Bt (maximum
+11 nT at 15/2102Z) associated with a CME passage. Solar wind
+velocities varied from 254 - 366 km/s during the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at quiet to unsettled levels with a chance for active
+levels during days 1 - 3 (17 - 19 February).
+III.  Event Probabilities 17 Feb-19 Feb
+Class M    20/20/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           16 Feb 087
+Predicted   17 Feb-19 Feb  086/084/084
+90 Day Mean        16 Feb 080
+V.  Geomagnetic A Indices
+Observed Afr/Ap 15 Feb  008/014
+Estimated Afr/Ap 16 Feb  012/012
+Predicted Afr/Ap 17 Feb-19 Feb  010/010-010/010-010/010
+VI.  Geomagnetic Activity Probabilities 17 Feb-19 Feb
+A.  Middle Latitudes
+Active                20/25/25
+Minor storm           05/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/30/30
+Minor storm           10/15/15
+Major-severe storm    01/01/01

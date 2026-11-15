@@ -1,0 +1,61 @@
+:Product: 0517RSGA.txt
+:Issued: 2012 May 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 138 Issued at 2200Z on 17 May 2012
+IA.  Analysis of Solar Active Regions and Activity from  16/2100Z
+to 17/2100Z:  Solar activity was at high levels due to an M5/1f flare
+at 17/0147Z that occurred from Region 1476 (N12W89) as it was
+approaching the west limb.  Associated with the flare was Type II
+(645 km/s) and IV radio sweeps as well as a partial halo CME with an
+estimated plane-of-sky speed of approximately 1200 km/s.  The
+majority of the ejecta was directed off the west limb as seen in
+SOHO/LASCO C3 imagery beginning at 17/0206Z, however a shock
+enhancement in the interplanetary magnetic field is expected from
+the event.  Further analysis is pending.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+predominantly low levels with a slight chance for M-class activity
+for all three days of the period (18 - 20 May).
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z:
+The geomagnetic field was at quiet to active levels.  An isolated
+active period was observed during the 16/2100Z - 2400Z period due to
+a prolonged southward period of the Bz component of the
+interplanetary magnetic field.  A >10 MeV and >100 MeV proton event
+at geosynchronous orbit was observed associated with the M5 flare. 
+The >10 MeV event began at 17/0210Z, crossed the 100 pfu threshold
+(S2) at 17/0245Z, reached a max of 255 pfu at 17/0430Z, and fell
+below 100 pfu at 17/0945Z.  The greater than 100 MeV proton event
+began at 17/0200Z and reached a max of 20.4 pfu.  Both events were
+still in progress at the time of this report.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet during the first half of day 1 (18 May).
+Around mid to late on day 1, a shock arrival is expected from the
+partial halo CME associated with the 17 May M5 flare.  Active to
+minor storm conditions are expected.  Early on day 2 (19 May),
+unsettled to active conditions are expected, returning to quiet to
+unsettled levels by the end of the day.  Quiet to unsettled
+conditions are expected on day 3 (20 May).
+III.  Event Probabilities 18 May-20 May
+Class M    20/10/10
+Class X    05/01/01
+Proton     70/20/05
+PCAF       yellow
+IV.  Penticton 10.7 cm Flux
+Observed           17 May 136
+Predicted   18 May-20 May  135/135/135
+90 Day Mean        17 May 115
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 May  008/009
+Estimated Afr/Ap 17 May  006/006
+Predicted Afr/Ap 18 May-20 May  011/015-010/008-007/005
+VI.  Geomagnetic Activity Probabilities 18 May-20 May
+A.  Middle Latitudes
+Active                35/30/10
+Minor storm           25/15/05
+Major-severe storm    10/05/01
+B.  High Latitudes
+Active                35/35/15
+Minor storm           40/25/10
+Major-severe storm    15/10/05

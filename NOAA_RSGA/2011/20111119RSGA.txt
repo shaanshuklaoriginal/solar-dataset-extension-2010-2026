@@ -1,0 +1,47 @@
+:Product: 1119RSGA.txt
+:Issued: 2011 Nov 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 323 Issued at 2200Z on 19 Nov 2011
+IA.  Analysis of Solar Active Regions and Activity from  18/2100Z
+to 19/2100Z:  Solar activity was low. Occasional low-level C-class
+flares were observed during the period. Old Region 1341 (N08,
+L=055), which rotated out of view early in the period, was the
+likely source for a C1 x-ray flare at 19/0127Z associated with a
+weak Type II radio sweep and a non-Earth-directed CME. Region 1354
+(S17E44) showed gradual spot growth in its intermediate portion and
+produced a couple C-class flares including a C3 at 19/1955Z, which
+was the largest flare of the period. New Region 1356 (N14E81)
+rotated into view and was classified as an Hsx with an alpha
+magnetic classification.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+through the period (20 - 22 November) with a slight chance for an
+M-class flare.
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet through the period (20 - 22 November).
+III.  Event Probabilities 20 Nov-22 Nov
+Class M    20/20/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           19 Nov 140
+Predicted   20 Nov-22 Nov  140/140/135
+90 Day Mean        19 Nov 138
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Nov  001/002
+Estimated Afr/Ap 19 Nov  001/005
+Predicted Afr/Ap 20 Nov-22 Nov  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 20 Nov-22 Nov
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01

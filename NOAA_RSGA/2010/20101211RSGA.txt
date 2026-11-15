@@ -1,0 +1,42 @@
+:Product: 1211RSGA.txt
+:Issued: 2010 Dec 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 345 Issued at 2200Z on 11 Dec 2010
+IA.  Analysis of Solar Active Regions and Activity from  10/2100Z
+to 11/2100Z:  Solar activity was very low. Todays activity consisted
+of a single B-class flare, a B4 at 1117Z from Region 1131 (N31W47).
+Regions 1131 and 1133 (N15W22) were generally quiet and stable
+during the past 24 hours.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low.
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be generally unsettled for the 1st day (12 December) in
+response to a favorably positioned coronal hole. Quiet levels are
+expected to prevail for the 2nd and 3rd days (13-14 December).
+III.  Event Probabilities 12 Dec-14 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           11 Dec 087
+Predicted   12 Dec-14 Dec  088/089/090
+90 Day Mean        11 Dec 083
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Dec  000/000
+Estimated Afr/Ap 11 Dec  003/005
+Predicted Afr/Ap 12 Dec-14 Dec  008/008-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 12 Dec-14 Dec
+A.  Middle Latitudes
+Active                15/15/05
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/25/05
+Minor storm           15/10/01
+Major-severe storm    01/01/01

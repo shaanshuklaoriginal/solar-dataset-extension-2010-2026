@@ -1,0 +1,44 @@
+:Product: 0229RSGA.txt
+:Issued: 2012 Feb 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 060 Issued at 2200Z on 29 Feb 2012
+IA.  Analysis of Solar Active Regions and Activity from  28/2100Z
+to 29/2100Z:  Solar activity has been very low for the past 24 hours.
+A series of CMEs were observed over the west limb at 29/0125Z,
+29/0924Z, and 29/1212Z. Stereo-A imagery confirm the source regions
+were behind the west limb and none of these are expected to be
+geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low.
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z:
+The geomagnetic field has been mostly quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the first day (01 Mar).  A slight increase
+to quiet to unsettled levels is expected on the second day (02 Mar)
+due to a small coronal hole.  Quiet levels are expected on the third
+day (03 Mar).
+III.  Event Probabilities 01 Mar-03 Mar
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           29 Feb 102
+Predicted   01 Mar-03 Mar  100/100/100
+90 Day Mean        29 Feb 127
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 Feb  011/011
+Estimated Afr/Ap 29 Feb  004/005
+Predicted Afr/Ap 01 Mar-03 Mar  006/005-007/008-006/005
+VI.  Geomagnetic Activity Probabilities 01 Mar-03 Mar
+A.  Middle Latitudes
+Active                05/15/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/20/15
+Minor storm           10/25/10
+Major-severe storm    05/15/05

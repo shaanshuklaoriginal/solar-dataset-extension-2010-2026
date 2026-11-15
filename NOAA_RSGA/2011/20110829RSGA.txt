@@ -1,0 +1,43 @@
+:Product: 0829RSGA.txt
+:Issued: 2011 Aug 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 241 Issued at 2200Z on 29 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  28/2100Z
+to 29/2100Z:  Solar activity was low. Occasional C-class x-ray flares
+occurred. The largest flare was a C3 at 29/0721Z from an area just
+beyond the northeast limb. Visible disk regions were either stable
+or declining. There were no Earth-directed CMEs observed during the
+period. No new regions were numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low during the period (30 August - 01 September) with a chance for
+more C-class activity from the area just beyond the northeast limb.
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z:
+Geomagnetic field activity was at quiet to unsettled levels.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at mostly quiet levels through the period (30 August
+- 01 September).
+III.  Event Probabilities 30 Aug-01 Sep
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           29 Aug 101
+Predicted   30 Aug-01 Sep  098/095/095
+90 Day Mean        29 Aug 097
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 Aug  004/006
+Estimated Afr/Ap 29 Aug  008/008
+Predicted Afr/Ap 30 Aug-01 Sep  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 30 Aug-01 Sep
+A.  Middle Latitudes
+Active                15/15/15
+Minor storm           01/01/01
+Major-severe storm    01/01/02
+B.  High Latitudes
+Active                20/15/15
+Minor storm           05/01/01
+Major-severe storm    01/01/01

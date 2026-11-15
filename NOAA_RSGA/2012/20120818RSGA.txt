@@ -1,0 +1,58 @@
+:Product: 0818RSGA.txt
+:Issued: 2012 Aug 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 231 Issued at 2200Z on 18 Aug 2012
+IA.  Analysis of Solar Active Regions and Activity from  17/2100Z
+to 18/2100Z:  Solar activity was high.  Region 1548 (N19E86) produced
+an M5/Sf flare at 18/0102Z, accompanied by a Tenflare (150 pfu).  An
+M1/Sn flare from the same region followed at 18/0323Z, also
+accompanied by a Tenflare (120 pfu).  Finally, an M2/1N occurred at
+18/1607Z.  Several coronal mass ejections (CMEs) were observed in
+the past 24 hours, none appear to have a geoeffective component. 
+SDO 304 imagery showed a filament eruption in the vicinity of Region
+1543 (N23W74) around 17/16Z.  A CME was subsequently observed in
+LASCO C2 coronagraph imagery at 17/1836Z, and in LASCO C3 imagery at
+17/1918Z.  A second filament eruption and CME was observed near
+Region 1543 between 17/22Z and 18/0034Z.  It was visible in STEREO-B
+COR2 imagery at 18/0110Z and in LASCO C3 imagery at 18/0454Z.  This
+CME was directed well north of the ecliptic.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with moderate activity likely for the next three days (19-21
+August).
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z:
+The geomagnetic field was quiet to active.  Solar wind speed at the
+ACE spacecraft ranged between about 350-420 km/s during the period. 
+The Bz component of the interplanetary magnetic field ranged between
+-8 and +12 nT.  Solar wind density at ACE increased sharply after
+18/19Z.  The geomagnetic field reached active levels during the last
+period (18-21Z) coincident with a change to the positive sector and
+the arrival of the corotating active region.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled for the next three days (19-21
+August) as a corotating interaction region and coronal hole high
+speed stream become geoeffective.
+III.  Event Probabilities 19 Aug-21 Aug
+Class M    55/55/55
+Class X    05/05/05
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           18 Aug 097
+Predicted   19 Aug-21 Aug  100/100/100
+90 Day Mean        18 Aug 125
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 Aug  011/011
+Estimated Afr/Ap 18 Aug  009/011
+Predicted Afr/Ap 19 Aug-21 Aug  010/012-011/012-007/008
+VI.  Geomagnetic Activity Probabilities 19 Aug-21 Aug
+A.  Middle Latitudes
+Active                20/20/10
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/20/15
+Minor storm           30/30/20
+Major-severe storm    25/25/15

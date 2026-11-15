@@ -1,0 +1,56 @@
+:Product: 0522RSGA.txt
+:Issued: 2012 May 22 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 143 Issued at 2200Z on 22 May 2012
+IA.  Analysis of Solar Active Regions and Activity from  21/2100Z
+to 22/2100Z:  Solar activity was very low.  Region 1484 (N10W43) had
+slight growth in its intermediate spots.  Region 1482 (N14W71) had
+slight decay in its trailing spots.  New Region 1488 (N12E55) was
+numbered today.  At approximately 22/0205Z, a filament eruption was
+observed in the SW quadrant near center disk.  STEREO B COR 2
+imagery showed a faint CME that appeared to be slightly south of the
+ecliptic beginning at 22/0609Z.  Further analysis is on-going to
+determine the geoeffectiveness of this CME.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low with a slight chance for an M-class flare for the
+forecast period (23 - 25 May).
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z:
+The geomagnetic field was quiet to active.  Early on 22 May, solar
+wind speed at the ACE spacecraft increased from approximately 360
+km/s to 420 km/s.  Temperature and total magnetic field also
+displayed a slight increase as a coronal hole high speed stream
+moved into geoeffective position.  The geomagnetic field responded
+with active periods during the intervals 22/0300 - 0600Z and
+22/1800 - 2100Z.  Minor storm intervals were observed at high
+latitudes from 22/1200 - 1800Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled with a continued chance for active
+periods on day 1 (23 May) due to coronal hole high speed stream (CH
+HSS) effects.  Quiet to unsettled conditions are expected on day 2
+(24 May) as the CH HSS effects wane.  Mostly quiet conditions are
+expected on day 3 (25 May).
+III.  Event Probabilities 23 May-25 May
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           22 May 121
+Predicted   23 May-25 May  120/120/115
+90 Day Mean        22 May 116
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 May  007/006
+Estimated Afr/Ap 22 May  015/015
+Predicted Afr/Ap 23 May-25 May  013/014-007/008-004/005
+VI.  Geomagnetic Activity Probabilities 23 May-25 May
+A.  Middle Latitudes
+Active                25/10/05
+Minor storm           15/01/01
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                30/15/10
+Minor storm           20/05/05
+Major-severe storm    15/01/01

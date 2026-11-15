@@ -1,0 +1,62 @@
+:Product: 1013RSGA.txt
+:Issued: 2012 Oct 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 287 Issued at 2200Z on 13 Oct 2012
+IA.  Analysis of Solar Active Regions and Activity from  12/2100Z
+to 13/2100Z:  Solar activity was very low.  Region 1589 (N13E22) is
+the most magnetically complex spot group on the visible disk with a
+Beta-Gamma-Delta magnetic configuration.  No Earth-directed CMEs
+were observed during the reporting period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for M-class flares and a slight chance for X-class
+flares during the forecast period (14-16 October).
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z:
+The geomagnetic field ranged from quiet to minor storm levels with
+major to severe storm periods observed at high latitudes.  The
+period began with quiet to unsettled conditions through 13/0300Z.  A
+sustained period of southward Bz to -11 nT for approximately 13
+hours resulted in active to minor storm conditions with major to
+severe storm periods at high latitudes.  At about 13/0650Z, the phi
+angle changed from a negative (toward) orientation to a positive
+(away) orientation, indicating a solar sector boundary crossing. 
+This was followed by increases in density, temperature, and solar
+wind speed indicative of a co-rotating interaction region in advance
+of a coronal hole high speed stream (CH HSS).  By 13/1618Z, solar
+wind speed increased from approximately 530 km/s to 590 km/s while
+the total magnetic field (Bt) decreased to 5 nT as the CH HSS became
+geoeffective. The greater than 2 MeV electron flux at geosynchronous
+orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to continue at unsettled to active levels with a chance for
+isolated minor storm periods on day 1 (14 October).  Mostly
+unsettled conditions are expected on day 2 (15 October) due to
+persistence.  By day 3 (16 October), quiet to unsettled conditions
+are expected as coronal hole effects wane.  On days 2-3, there is a
+slight chance for a greater than 10 MeV proton event at
+geosynchronous orbit as Region 1589 rotates into a more geoeffective
+position.
+III.  Event Probabilities 14 Oct-16 Oct
+Class M    35/35/35
+Class X    10/10/10
+Proton     05/10/10
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           13 Oct 125
+Predicted   14 Oct-16 Oct  125/130/130
+90 Day Mean        13 Oct 117
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Oct  012/014
+Estimated Afr/Ap 13 Oct  025/036
+Predicted Afr/Ap 14 Oct-16 Oct  016/018-011/012-007/010
+VI.  Geomagnetic Activity Probabilities 14 Oct-16 Oct
+A.  Middle Latitudes
+Active                30/30/15
+Minor storm           20/10/05
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor storm           25/30/20
+Major-severe storm    55/40/20

@@ -1,0 +1,51 @@
+:Product: 0324RSGA.txt
+:Issued: 2015 Mar 24 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 83 Issued at 2200Z on 24 Mar 2015
+
+IA.  Analysis of Solar Active Regions and Activity from 23/2100Z to
+24/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+24/0554Z. There are currently 9 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (25 Mar, 26 Mar,
+27 Mar).
+
+IIA.  Geophysical Activity Summary 23/2100Z to 24/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+617 km/s at 23/2307Z. Total IMF reached 7 nT at 24/1904Z. The maximum
+southward component of Bz reached -5 nT at 24/1455Z. Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 11608 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one and two (25 Mar, 26 Mar) and quiet to
+active levels on day three (27 Mar).
+
+III.  Event probabilities 25 Mar-27 Mar
+Class M    25/25/25
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           24 Mar 133
+Predicted   25 Mar-27 Mar 135/140/140
+90 Day Mean        24 Mar 132
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 23 Mar  016/019
+Estimated Afr/Ap 24 Mar  013/016
+Predicted Afr/Ap 25 Mar-27 Mar  007/008-007/008-011/015
+
+VI.  Geomagnetic Activity Probabilities 25 Mar-27 Mar
+A.  Middle Latitudes
+Active                15/15/30
+Minor Storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/25/30
+Major-severe storm    20/20/35

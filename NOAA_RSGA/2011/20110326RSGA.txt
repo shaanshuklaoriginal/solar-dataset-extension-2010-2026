@@ -1,0 +1,63 @@
+:Product: 0326RSGA.txt
+:Issued: 2011 Mar 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 085 Issued at 2200Z on 26 Mar 2011
+IA.  Analysis of Solar Active Regions and Activity from  25/2100Z
+to 26/2100Z:  Solar activity was moderate due to an impulsive M1
+X-ray event at 25/2322Z from Region 1176 (S16E16). Associated with
+this event were Type II (673 km/s), Type IV and 10.7 cm (170 sfu)
+radio signatures. Region 1176 remained mostly unchanged through the
+period, though it increased in longitudinal extent, and is
+classified as an F-type group. Region 1178 (S15E43) developed
+penumbra in its trailer spots to become a D-type group. At about
+26/0500Z, GOES-15 SXI BE12A imagery observed a large surge from
+Region 1180 (N25E53) that appeared to continue for about six hours.
+X-ray data was mostly unavailable during this event due to GOES-13
+and GOES-15 eclipse phase. Associated with this event was a
+fast-moving (approximately 850 km/s) partial-halo, asymmetric CME
+first observed in LASCO C3 imagery at 26/0630Z and STEREO-A and B
+COR2 imagery at 26/0709Z. Though this CME does not appear to have an
+Earth-directed component, further analysis is required.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+for the next three days (27 - 29 March). A chance for M-class
+activity exists on day one (27 March) becoming likely on days two
+and three (28 - 29 March) with a slight chance for X-class activity
+on 29 March. This expected increase in activity is due to the
+complex nature of Region 1176 and the return of old Region 1166
+(N10, L=110) on 27 March. On its last transit across the disk, old
+Region 1166 produced four M-class events and one X-class event.
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z:
+The geomagnetic field was at quiet levels. ACE solar wind data
+indicated a gradual decrease in wind velocities from a high of 460
+km/s at 26/0243Z to a low of 360 km/s at 26/1841Z. IMF Bz was
+predominately north through the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at mostly quiet levels for day one (27 March). By day
+two (28 March), quiet to unsettled conditions, with isolated active
+periods, are possible due to effects from the 24 March CME. Quiet
+levels are expected to return on day three (29 March).
+III.  Event Probabilities 27 Mar-29 Mar
+Class M    50/60/70
+Class X    05/05/10
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           26 Mar 115
+Predicted   27 Mar-29 Mar  120/125/125
+90 Day Mean        26 Mar 096
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Mar  002/003
+Estimated Afr/Ap 26 Mar  002/003
+Predicted Afr/Ap 27 Mar-29 Mar  005/005-010/010-005/005
+VI.  Geomagnetic Activity Probabilities 27 Mar-29 Mar
+A.  Middle Latitudes
+Active                10/20/10
+Minor storm           01/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/25/15
+Minor storm           01/10/01
+Major-severe storm    01/01/01

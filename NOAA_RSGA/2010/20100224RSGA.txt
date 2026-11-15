@@ -1,0 +1,46 @@
+:Product: 0224RSGA.txt
+:Issued: 2010 Feb 24 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 055 Issued at 2200Z on 24 Feb 2010
+IA.  Analysis of Solar Active Regions and Activity from  23/2100Z
+to 24/2100Z:  Solar activity was very low. Region 1049 (S19W91)
+produced an isolated B-class flare as it rotated out of view. New
+Region 1051 (N17E66), a Cso/Beta group, also produced isolated
+B-class flares during the period. LASCO C2 images indicated a halo
+CME, first visible at 24/0354Z, with a plane of sky velocity of
+approximately 380 km/sec. The CME was determined to be a backside
+event.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low through the period with a slight chance for a C-class flare from
+Region 1051.
+IIA.  Geophysical Activity Summary 23/2100Z to 24/2100Z:
+Geomagnetic field activity was at quiet to unsettled levels.
+Unsettled levels were observed during 24/0300 - 0600Z.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at quiet levels through the period (25 - 27
+February).
+III.  Event Probabilities 25 Feb-27 Feb
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           24 Feb 083
+Predicted   25 Feb-27 Feb  082/080/078
+90 Day Mean        24 Feb 080
+V.  Geomagnetic A Indices
+Observed Afr/Ap 23 Feb  002/002
+Estimated Afr/Ap 24 Feb  003/004
+Predicted Afr/Ap 25 Feb-27 Feb  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 25 Feb-27 Feb
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

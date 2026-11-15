@@ -1,0 +1,45 @@
+:Product: 0913RSGA.txt
+:Issued: 2011 Sep 13 2235 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+:::::::::: CORRECTED COPY ::::::::::
+SDF Number 256 Issued at 2200Z on 13 Sep 2011
+IA.  Analysis of Solar Active Regions and Activity from  12/2100Z
+to 13/2100Z:  Solar activity was low during the period. Two C1 X-ray
+flares were observed at 13/0419Z and 13/1801Z from Region 1296
+(N23E59) and Region 1283 (N14, L=227) which rotated off the NW limb.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for isolated M-class flares for the period (14- 16
+September).
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z:
+The geomagnetic field was at quiet to unsettled levels, with isolated
+minor to major levels  between 13/0300 - 0900Z. The greater than 2
+MeV electron flux at geosynchronous orbit reached high levels during
+the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at predominantly quiet levels for the period (14 - 16
+September).
+III.  Event Probabilities 14 Sep-16 Sep
+Class M    30/30/30
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           13 Sep 129
+Predicted   14 Sep-16 Sep  130/130/125
+90 Day Mean        13 Sep 100
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Sep  017/027
+Estimated Afr/Ap 13 Sep  013/020
+Predicted Afr/Ap 14 Sep-16 Sep  008/012-006/008-005/005
+VI.  Geomagnetic Activity Probabilities 14 Sep-16 Sep
+A.  Middle Latitudes
+Active                15/15/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/20/10
+Minor storm           10/01/01
+Major-severe storm    01/01/01

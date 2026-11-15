@@ -1,0 +1,50 @@
+:Product: 0117RSGA.txt
+:Issued: 2026 Jan 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 17 Issued at 2200Z on 17 Jan 2026
+
+IA.  Analysis of Solar Active Regions and Activity from 16/2100Z to
+17/2100Z: Solar activity has been at moderate levels for the past 24
+hours. There are currently 7 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate on
+days one, two, and three (18 Jan, 19 Jan, 20 Jan).
+
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z: The geomagnetic
+field has been at unsettled to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 794 km/s at 17/1050Z. Total IMF
+reached 12 nT at 17/0003Z. The maximum southward component of Bz reached
+-10 nT at 17/0114Z.  Electrons greater than 2 MeV at geosynchronous
+orbit reached a peak level of 2762 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to minor storm levels on day one (18 Jan), unsettled
+to active levels on day two (19 Jan) and quiet to active levels on day
+three (20 Jan).
+
+III.  Event probabilities 18 Jan-20 Jan
+Class M    55/55/55
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           17 Jan 159
+Predicted   18 Jan-20 Jan 160/160/165
+90 Day Mean        17 Jan 146
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Jan  017/026
+Estimated Afr/Ap 17 Jan  022/028
+Predicted Afr/Ap 18 Jan-20 Jan  020/024-017/020-012/016
+
+VI.  Geomagnetic Activity Probabilities 18 Jan-20 Jan
+A.  Middle Latitudes
+Active                45/35/30
+Minor Storm           25/15/15
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                10/10/15
+Minor Storm           25/30/30
+Major-severe storm    70/50/45

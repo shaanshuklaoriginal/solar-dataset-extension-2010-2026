@@ -1,0 +1,42 @@
+:Product: 1103RSGA.txt
+:Issued: 2012 Nov 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 308 Issued at 2200Z on 03 Nov 2012
+IA.  Analysis of Solar Active Regions and Activity from  02/2100Z
+to 03/2100Z:  Solar activity was very low. The activity for the past
+24 hours consisted of a few, low-level B-class flares. New Region
+1604 (N08E48) was assigned and is a small bipolar region. All other
+regions on the disk were quiet and stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low for the next three days (04-06 Nov) with a slight chance for a
+an isolated C-class flare.
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z:
+The geomagnetic field was quiet during the past 24 hours. The ACE
+spacecraft observed a solar sector boundary crossing at 1153Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet for the next three days (04-06 Nov).
+III.  Event Probabilities 04 Nov-06 Nov
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           03 Nov 093
+Predicted   04 Nov-06 Nov  095/095/100
+90 Day Mean        03 Nov 119
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Nov  005/006
+Estimated Afr/Ap 03 Nov  003/004
+Predicted Afr/Ap 04 Nov-06 Nov  006/005-007/007-007/007
+VI.  Geomagnetic Activity Probabilities 04 Nov-06 Nov
+A.  Middle Latitudes
+Active                05/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/15/15
+Major-severe storm    05/10/10

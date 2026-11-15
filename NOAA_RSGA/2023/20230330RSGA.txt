@@ -1,0 +1,55 @@
+:Product: 0330RSGA.txt
+:Issued: 2023 Mar 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 89 Issued at 2200Z on 30 Mar 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 29/2100Z to
+30/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a M5 event observed at
+30/0737Z from Region 3256 (S22W88). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+day one (31 Mar) and expected to be low with a slight chance for an
+M-class flare on days two and three (01 Apr, 02 Apr).
+
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 592 km/s at 30/2027Z. Total IMF reached 9
+nT at 30/1217Z. The maximum southward component of Bz reached -6 nT at
+30/1421Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 1817 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to minor storm levels on day one (31 Mar), unsettled
+to active levels on day two (01 Apr) and quiet to active levels on day
+three (02 Apr). Protons greater than 10 Mev have a slight chance of
+crossing threshold on day one (31 Mar).
+
+III.  Event probabilities 31 Mar-02 Apr
+Class M    25/20/15
+Class X    10/05/01
+Proton     10/05/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           30 Mar 140
+Predicted   31 Mar-02 Apr 135/130/130
+90 Day Mean        30 Mar 171
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Mar  004/005
+Estimated Afr/Ap 30 Mar  013/016
+Predicted Afr/Ap 31 Mar-02 Apr  015/018-014/016-009/012
+
+VI.  Geomagnetic Activity Probabilities 31 Mar-02 Apr
+A.  Middle Latitudes
+Active                45/35/35
+Minor Storm           25/10/10
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor Storm           25/25/25
+Major-severe storm    70/45/40

@@ -1,0 +1,70 @@
+:Product: 0123RSGA.txt
+:Issued: 2012 Jan 23 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 023 Issued at 2200Z on 23 Jan 2012
+IA.  Analysis of Solar Active Regions and Activity from  22/2100Z
+to 23/2100Z:  Solar activity reached high levels.  Region 1402
+(N28W36) produced a long-duration M8/2b flare at 23/0359Z. 
+Associated with this event were multi-frequency radio emissions
+spanning 25 MHz through 15.4 GHz including a 5100 sfu Tenflare. 
+SOHO/LASCO observed an asymmetric, full-halo CME, first observed in
+C2 imagery at 27/0412Z as a bright halo over the northern
+hemisphere.  Model output suggests potential Earth impact midday on
+24 January.  Region 1402 showed some umbral separation in the large
+leader spot.  Region 1401 (N16W39) produced a C1/Sf at 23/2011Z. 
+The remainder of the disk was quiet and stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+during the period (24 - 26 January) with M-class activity likely
+from Regions 1401 and 1402.
+IIA.  Geophysical Activity Summary 22/2100Z to 23/2100Z:
+The geomagnetic field ranged from quiet to minor storms levels.  The
+period began with active to minor storm conditions as the field was
+under the influence of the 19 January CME.  By 23/0600Z, the field
+became mostly quiet to unsettled.  Solar wind speeds began the
+period at about 450 km/s while the Bz component of the
+interplanetary magnetic field (IMF) was at about -10 nT.  By about
+0630Z, wind speeds dropped sharply to near 300 km/s, density dropped
+to near 0 p/cc and IMF Bz turned northward.  These signatures were
+consistent with a possible reverse shock at the back end of the CME.
+The greater than 10 MeV proton flux at greater than or equal to 10
+pfu and the greater than 100 MeV proton flux at greater than or
+equal to 1 pfu at geosynchronous orbit were above threshold during
+the period.  The 10 MeV event began at 23/0530Z and reached at
+maximum of 3100 pfu at 23/1940Z.  The 100 MeV event began at
+23/0445Z and reached a maximum of 2.3 pfu at 23/0750Z.  Both events
+were still in progress at the time of this report.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to range from quiet to isolated severe storm levels on day
+one (24 January).  Mostly quiet levels are expected through midday
+on 24 January when the anticipated arrival of the 23 January CME is
+expected to affect the field.  Active to major storm levels, with
+isolated severe storm periods, are expected for the remainder of day
+one.  By day two (25 January), field activity is expected to
+decrease to unsettled to active levels, with isolated minor storm
+periods, as effects from the CME wane.  Day three (26 January)
+should see a return to mostly quiet conditions.
+III.  Event Probabilities 24 Jan-26 Jan
+Class M    60/60/60
+Class X    10/10/10
+Proton     99/99/50
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           23 Jan 144
+Predicted   24 Jan-26 Jan  145/145/145
+90 Day Mean        23 Jan 143
+V.  Geomagnetic A Indices
+Observed Afr/Ap 22 Jan  022/024
+Estimated Afr/Ap 23 Jan  008/009
+Predicted Afr/Ap 24 Jan-26 Jan  022/042-018/020-005/005
+VI.  Geomagnetic Activity Probabilities 24 Jan-26 Jan
+A.  Middle Latitudes
+Active                15/30/05
+Minor storm           35/15/01
+Major-severe storm    20/01/01
+B.  High Latitudes
+Active                20/40/10
+Minor storm           50/25/05
+Major-severe storm    30/10/01

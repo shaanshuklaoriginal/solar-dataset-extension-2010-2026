@@ -1,0 +1,94 @@
+[
+    {
+        "url": "https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/goes14/l2/data/xrsf-l2-avg1m_science/",
+        "error": "404 Client Error: Not Found for url: https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/goes14/l2/data/xrsf-l2-avg1m_science/"
+    },
+    {
+        "url": "https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/goes15/l2/data/xrsf-l2-avg1m_science/",
+        "error": "404 Client Error: Not Found for url: https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/goes15/l2/data/xrsf-l2-avg1m_science/"
+    },
+    {
+        "url": "https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/goes15/l2/data/xrsf-l2-avg1m_science/",
+        "error": "404 Client Error: Not Found for url: https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/goes15/l2/data/xrsf-l2-avg1m_science/"
+    },
+    {
+        "url": "https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/goes15/l2/data/xrsf-l2-avg1m_science/",
+        "error": "404 Client Error: Not Found for url: https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/goes15/l2/data/xrsf-l2-avg1m_science/"
+    },
+    {
+        "url": "https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/goes15/l2/data/xrsf-l2-avg1m_science/",
+        "error": "404 Client Error: Not Found for url: https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/goes15/l2/data/xrsf-l2-avg1m_science/"
+    },
+    {
+        "url": "https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/goes15/l2/data/xrsf-l2-avg1m_science/",
+        "error": "404 Client Error: Not Found for url: https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/goes15/l2/data/xrsf-l2-avg1m_science/"
+    },
+    {
+        "url": "https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/goes15/l2/data/xrsf-l2-avg1m_science/",
+        "error": "404 Client Error: Not Found for url: https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/goes15/l2/data/xrsf-l2-avg1m_science/"
+    },
+    {
+        "url": "https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/goes15/l2/data/xrsf-l2-avg1m_science/",
+        "error": "404 Client Error: Not Found for url: https://data.ngdc.noaa.gov/platforms/solar-space-observing-satellites/goes/goes15/l2/data/xrsf-l2-avg1m_science/"
+    },
+    {
+        "url": "https://www.ngdc.noaa.gov/stp/space-weather/swpc-products/daily_reports/solar_region_summaries/2019/08/20190804SRS.txt",
+        "attempt": 1,
+        "error": "Empty file"
+    },
+    {
+        "url": "https://www.ngdc.noaa.gov/stp/space-weather/swpc-products/daily_reports/solar_region_summaries/2019/08/20190804SRS.txt",
+        "attempt": 2,
+        "error": "Empty file"
+    },
+    {
+        "url": "https://www.ngdc.noaa.gov/stp/space-weather/swpc-products/daily_reports/solar_region_summaries/2019/08/20190804SRS.txt",
+        "attempt": 3,
+        "error": "Empty file"
+    },
+    {
+        "url": "https://www.ngdc.noaa.gov/stp/space-weather/swpc-products/daily_reports/solar_region_summaries/2019/08/20190807SRS.txt",
+        "attempt": 1,
+        "error": "Empty file"
+    },
+    {
+        "url": "https://www.ngdc.noaa.gov/stp/space-weather/swpc-products/daily_reports/solar_region_summaries/2019/08/20190807SRS.txt",
+        "attempt": 2,
+        "error": "Empty file"
+    },
+    {
+        "url": "https://www.ngdc.noaa.gov/stp/space-weather/swpc-products/daily_reports/solar_region_summaries/2019/08/20190807SRS.txt",
+        "attempt": 3,
+        "error": "Empty file"
+    },
+    {
+        "url": "https://www.ngdc.noaa.gov/stp/space-weather/swpc-products/daily_reports/reports_solar_geophysical_activity/2019/07/20190720RSGA.txt",
+        "attempt": 1,
+        "error": "Empty file"
+    },
+    {
+        "url": "https://www.ngdc.noaa.gov/stp/space-weather/swpc-products/daily_reports/reports_solar_geophysical_activity/2019/07/20190720RSGA.txt",
+        "attempt": 2,
+        "error": "Empty file"
+    },
+    {
+        "url": "https://www.ngdc.noaa.gov/stp/space-weather/swpc-products/daily_reports/reports_solar_geophysical_activity/2019/07/20190720RSGA.txt",
+        "attempt": 3,
+        "error": "Empty file"
+    },
+    {
+        "url": "https://www.ngdc.noaa.gov/stp/space-weather/swpc-products/daily_reports/reports_solar_geophysical_activity/2020/11/20201112RSGA.txt",
+        "attempt": 1,
+        "error": "Empty file"
+    },
+    {
+        "url": "https://www.ngdc.noaa.gov/stp/space-weather/swpc-products/daily_reports/reports_solar_geophysical_activity/2020/11/20201112RSGA.txt",
+        "attempt": 2,
+        "error": "Empty file"
+    },
+    {
+        "url": "https://www.ngdc.noaa.gov/stp/space-weather/swpc-products/daily_reports/reports_solar_geophysical_activity/2020/11/20201112RSGA.txt",
+        "attempt": 3,
+        "error": "Empty file"
+    }
+]

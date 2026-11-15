@@ -1,0 +1,25 @@
+:Product: 1211SRS.txt
+:Issued: 2025 Dec 11 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 345 Issued at 0030Z on 11 Dec 2025
+Report compiled from data received at SWO on 10 Dec
+I.  Regions with Sunspots.  Locations Valid at 10/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+4294 S15W69   284  0800 Ekc  14   25 Beta-Gamma-Delta
+4296 S15W55   271  0420 Eho  11   05 Beta-Delta
+4298 S16W89   305  0060 Cso  03   02 Beta
+4299 N21W50   266  0020 Cro  09   06 Beta
+4303 S27E10   206  0010 Axx  01   01 Alpha
+4304 N26W36   252  0070 Cai  08   15 Beta-Gamma
+4305 S25E20   196  0070 Dai  07   10 Beta-Gamma
+IA. H-alpha Plages without Spots.  Locations Valid at 10/2400Z Dec
+Nmbr  Location  Lo
+4295  N06W70   285
+4300  N08W45   260
+II. Regions Due to Return 11 Dec to 13 Dec
+Nmbr Lat    Lo
+4292 S16    104
+4287 N01    089

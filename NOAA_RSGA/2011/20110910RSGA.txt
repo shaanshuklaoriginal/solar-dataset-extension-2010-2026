@@ -1,0 +1,55 @@
+:Product: 0910RSGA.txt
+:Issued: 2011 Sep 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 253 Issued at 2200Z on 10 Sep 2011
+IA.  Analysis of Solar Active Regions and Activity from  09/2100Z
+to 10/2100Z:  Solar activity was moderate. A significant filament
+eruption (N10W48) occurred around 10/0300Z with an associated
+partial-halo CME (plane-of-sky speed of 620 km/s). Region 1283
+(N13W73) produced an M1/Sn at 10/0740Z with an associated limb-event
+CME. Analysis of the potential geoeffectiveness of these CMEs is on
+going. Region 1283 shows penumbral growth. Region 1289 (N23E24)
+produced B and C class activity, and has shown trailer spot decay.
+New Region 1291 (N23W03) was numbered during the period and produced
+a B-class flare.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+to moderate during the period (11 - 13 September) with a slight
+chance for another X-class flare from Region 1283 and developing
+Region 1289.
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z:
+The geomagnetic field was at unsettled to minor storm levels.
+Activity was most likely due to continuing CME effects. ACE data
+showed that Bt peaked at 20nT, Bz dipped south to -13nT, density
+spiked to 16p/cc, wind speeds ranged between 382 - 553 km/s, and
+temperature remained high, but decreased between 10/0330 - 1400Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled with a chance for active periods on day 1
+(11 September) as CME effects subside, but a recurrent coronal hole
+high speed stream (CH HSS) is expected to become geoeffective.
+Unsettled activity is expected to continue on days 2 and 3 (12 - 13
+September) under the effects of the CH HSS.
+III.  Event Probabilities 11 Sep-13 Sep
+Class M    65/60/55
+Class X    15/10/05
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           10 Sep 116
+Predicted   11 Sep-13 Sep  115/115/110
+90 Day Mean        10 Sep 099
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Sep  013/036
+Estimated Afr/Ap 10 Sep  022/030
+Predicted Afr/Ap 11 Sep-13 Sep  012/015-008/008-008/008
+VI.  Geomagnetic Activity Probabilities 11 Sep-13 Sep
+A.  Middle Latitudes
+Active                25/20/20
+Minor storm           10/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                30/25/25
+Minor storm           15/10/05
+Major-severe storm    10/01/01

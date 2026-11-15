@@ -1,0 +1,48 @@
+:Product: 0114RSGA.txt
+:Issued: 2012 Jan 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 014 Issued at 2200Z on 14 Jan 2012
+IA.  Analysis of Solar Active Regions and Activity from  13/2100Z
+to 14/2100Z:  Solar activity has been at moderate levels for the past
+24 hours. An M1 x-ray flare was observed at 14/1318Z from new
+sunspot Region 1401 (N15E73). Three other new regions were numbered
+in the past 24 hours, Region 1399 (S24E69), Region 1400 (S14W04),
+and Region 1402 (N26E75). Even though Region 1401 and 1402 have just
+rotated onto the visible disk, imagery and data from the STEREO B
+spacecraft has shown these regions are active.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a chance for more M-class events for the next three
+days (15 - 17 January), as Regions 1401 and 1402 continue to rotate
+onto the disk.
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain at mostly quiet levels for the next two days (15
+- 16 January). An increase to quiet to unsettled levels is expected
+on day three (17 January) as a coronal hole high speed stream
+becomes geoeffective.
+III.  Event Probabilities 15 Jan-17 Jan
+Class M    30/30/30
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           14 Jan 132
+Predicted   15 Jan-17 Jan  135/135/135
+90 Day Mean        14 Jan 144
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Jan  008/007
+Estimated Afr/Ap 14 Jan  003/003
+Predicted Afr/Ap 15 Jan-17 Jan  004/005-005/005-008/008
+VI.  Geomagnetic Activity Probabilities 15 Jan-17 Jan
+A.  Middle Latitudes
+Active                05/05/10
+Minor storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/20
+Minor storm           01/01/15
+Major-severe storm    01/01/01

@@ -1,0 +1,60 @@
+:Product: 0806RSGA.txt
+:Issued: 2011 Aug 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 218 Issued at 2200Z on 06 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  05/2100Z
+to 06/2100Z:  Solar activity was low.  The largest event of the
+period was a C4/Sf flare from Region 1267 (S17E13).  This region
+developed a small delta in the central spot.  Region 1263, an Ekc
+spot class with a Beta-Gamma-Delta magnetic configuration, lost some
+penumbral area in its central spots, however it developed new spots
+as flux began to emerge from its trailer area.  SOHO/LASCO C2
+imagery observed two slow moving CMEs at 1036Z and 1736Z with the
+majority of the ejecta directed off the West limb.  SDO and SXI
+imagery showed filament eruptions associated with the events.  These
+CMEs are not expected to be geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with the continued chance for an M-class flare from Region 1263.
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z:
+The geomagnetic field was at quiet to severe storm levels.  Minor to
+severe storm periods were seen from 05/2100Z to 06/0600Z.  The
+period started off with solar wind speeds reaching approximately 620
+km/s with a total field strength around 28 nT.  The Bz component of
+the magnetic field was south around -20 nT for 2 hours before
+crossing into a positive region at approximately 05/2211Z.  Solar
+wind speed, density, and total magnetic field strength slowly
+decreased throughout the period as the effects of the CME passage
+began to diminish.  The period ended with a wind speed around 440
+km/s and Bt around 5 nT.  The greater than 10 MeV protons above 10
+PFU event that began at 04/0635Z, reached a peak flux of 96 PFU at
+05/2150Z, and ended at 06/0515Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active on 07 August as a recurrent
+coronal hole high speed stream is expected to become geoeffective. 
+Levels are expected to decrease to quiet to unsettled on 08 August. 
+Mostly quiet conditions are expected on 09 August.
+III.  Event Probabilities 07 Aug-09 Aug
+Class M    45/45/35
+Class X    10/10/05
+Proton     10/10/05
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           06 Aug 110
+Predicted   07 Aug-09 Aug  105/100/095
+90 Day Mean        06 Aug 096
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Aug  032/049
+Estimated Afr/Ap 06 Aug  018/033
+Predicted Afr/Ap 07 Aug-09 Aug  015/015-008/010-005/005
+VI.  Geomagnetic Activity Probabilities 07 Aug-09 Aug
+A.  Middle Latitudes
+Active                25/10/05
+Minor storm           15/05/01
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                25/15/05
+Minor storm           20/05/01
+Major-severe storm    15/01/01

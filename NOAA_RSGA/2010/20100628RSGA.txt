@@ -1,0 +1,43 @@
+:Product: 0628RSGA.txt
+:Issued: 2010 Jun 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 179 Issued at 2200Z on 28 Jun 2010
+IA.  Analysis of Solar Active Regions and Activity from  27/2100Z
+to 28/2100Z:  Solar activity has been very low. Region 1084 (S19E46)
+was quiet and stable. No flares were observed during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low.
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z:
+The geomagnetic field has been predominately quiet with an isolated
+unsettled period at 27/0300-0600Z.  Observations from the ACE
+satellite indicate the continuation of a high speed solar wind
+stream, with wind speeds at about 525km/s during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled on days one and two (29-30 June). 
+Quiet to unsettled conditions with isolated active periods are
+expected on day three (01-July).
+III.  Event Probabilities 29 Jun-01 Jul
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           28 Jun 074
+Predicted   29 Jun-01 Jul  074/075/072
+90 Day Mean        28 Jun 075
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Jun  012/013
+Estimated Afr/Ap 28 Jun  008/008
+Predicted Afr/Ap 29 Jun-01 Jul  008/010-008/010-012/015
+VI.  Geomagnetic Activity Probabilities 29 Jun-01 Jul
+A.  Middle Latitudes
+Active                10/10/20
+Minor storm           05/05/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/25
+Minor storm           10/10/20
+Major-severe storm    01/01/01

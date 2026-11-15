@@ -1,0 +1,50 @@
+:Product: 1019RSGA.txt
+:Issued: 2010 Oct 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 292 Issued at 2200Z on 19 Oct 2010
+IA.  Analysis of Solar Active Regions and Activity from  18/2100Z
+to 19/2100Z:  Solar activity was at low levels. Region 1112 (S20W70)
+produced a few C-class events during the period, the largest a
+C1.3/Sf at 19/0651Z. Regions 1113 (N17W03) and 1115 (S29E13) each
+produced moderate-level B-class activity. Two new regions were
+numbered during the period. Region 1117 (N25E74) rotated onto the
+disk as a large H-type spot group while Region 1118 (N16E61) formed
+on the disk as a simple uni-polar spot group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+predominately very low levels with a chance for C-class activity all
+three days of the period (20 - 22 October). A slight chance for
+M-class activity exists from Region 1112 on 20 October as the region
+approaches the west limb.
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z:
+The geomagnetic field was at quiet to unsettled levels as a weak
+coronal hole wind stream moved into a geoeffective position.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be quiet to unsettled, with a chance for isolated active
+periods, on days one and two (20 - 21 October) due to continued
+coronal hole high-speed stream effects. By day three (22 October),
+mostly quiet levels are expected.
+III.  Event Probabilities 20 Oct-22 Oct
+Class M    15/05/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           19 Oct 087
+Predicted   20 Oct-22 Oct  090/090/090
+90 Day Mean        19 Oct 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Oct  003/005
+Estimated Afr/Ap 19 Oct  008/008
+Predicted Afr/Ap 20 Oct-22 Oct  006/008-008/008-005/005
+VI.  Geomagnetic Activity Probabilities 20 Oct-22 Oct
+A.  Middle Latitudes
+Active                10/20/05
+Minor storm           01/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/25/10
+Minor storm           10/10/01
+Major-severe storm    01/01/01

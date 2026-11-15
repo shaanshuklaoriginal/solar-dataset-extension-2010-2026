@@ -1,0 +1,21 @@
+:Product: 0512SRS.txt
+:Issued: 2026 May 12 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 132 Issued at 0030Z on 12 May 2026
+Report compiled from data received at SWO on 11 May
+I.  Regions with Sunspots.  Locations Valid at 11/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+4431 S16W90   102  0060 Hsx  02   01 Alpha
+4432 N14W70   082  0680 Eki  12   17 Beta-Gamma
+4433 S17W39   051  0050 Cao  04   05 Beta
+4435 N23W29   041  0040 Hsx  02   01 Alpha
+4436 N19E41   330  0200 Dao  08   05 Beta-Gamma
+IA. H-alpha Plages without Spots.  Locations Valid at 11/2400Z May
+Nmbr  Location  Lo
+4434  N14W46   058
+II. Regions Due to Return 12 May to 14 May
+Nmbr Lat    Lo
+4420 N16    243

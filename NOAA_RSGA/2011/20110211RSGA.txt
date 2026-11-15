@@ -1,0 +1,42 @@
+:Product: 0211RSGA.txt
+:Issued: 2011 Feb 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 042 Issued at 2200Z on 11 Feb 2011
+IA.  Analysis of Solar Active Regions and Activity from  10/2100Z
+to 11/2100Z:  Solar activity was very low. Region 1153 produced a B9
+flare despite having rotated off the west limb on 09 February. There
+are currently four regions on the disk, but all have been mostly
+stable and quiet.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a chance for a C-class flare for the next 3 days (12-14
+February).
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z:
+The geomagnetic field was quiet. The greater than 2 MeV electron flux
+at geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet for the next 3 days (12-14 February).
+III.  Event Probabilities 12 Feb-14 Feb
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           11 Feb 091
+Predicted   12 Feb-14 Feb  090/090/090
+90 Day Mean        11 Feb 084
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Feb  004/003
+Estimated Afr/Ap 11 Feb  002/002
+Predicted Afr/Ap 12 Feb-14 Feb  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 12 Feb-14 Feb
+A.  Middle Latitudes
+Active                20/20/20
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/20/20
+Minor storm           01/01/01
+Major-severe storm    01/01/01

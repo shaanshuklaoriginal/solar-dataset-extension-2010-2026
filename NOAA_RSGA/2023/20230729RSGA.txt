@@ -1,0 +1,56 @@
+:Product: 0729RSGA.txt
+:Issued: 2023 Jul 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 210 Issued at 2200Z on 29 Jul 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 28/2100Z to
+29/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+29/1624Z from Region 3380 (S10W12). There are currently 10 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (30 Jul, 31 Jul,
+01 Aug).
+
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 411 km/s at 29/1338Z. Total IMF reached 7
+nT at 29/1954Z. The maximum southward component of Bz reached -5 nT at
+29/1607Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 153 pfu at 29/0920Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 1205 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (30 Jul), quiet to unsettled
+levels on day two (31 Jul) and quiet to minor storm levels on day three
+(01 Aug). Protons are expected to cross threshold on day one (30 Jul)
+and have a chance of crossing threshold on days two and three (31 Jul,
+01 Aug).
+
+III.  Event probabilities 30 Jul-01 Aug
+Class M    40/40/40
+Class X    05/05/05
+Proton     99/40/40
+PCAF       red
+
+IV.  Penticton 10.7 cm Flux
+Observed           29 Jul 179
+Predicted   30 Jul-01 Aug 175/170/165
+90 Day Mean        29 Jul 165
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 Jul  005/006
+Estimated Afr/Ap 29 Jul  009/010
+Predicted Afr/Ap 30 Jul-01 Aug  011/015-008/010-023/030
+
+VI.  Geomagnetic Activity Probabilities 30 Jul-01 Aug
+A.  Middle Latitudes
+Active                30/20/35
+Minor Storm           10/05/30
+Major-severe storm    01/01/15
+B.  High Latitudes
+Active                20/15/10
+Minor Storm           25/20/25
+Major-severe storm    20/20/60

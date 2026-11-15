@@ -1,0 +1,68 @@
+:Product: 0309RSGA.txt
+:Issued: 2012 Mar 09 2210 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+**********CORRECTED COPY**********
+SDF Number 069 Issued at 2200Z on 09 Mar 2012
+IA.  Analysis of Solar Active Regions and Activity from  08/2100Z
+to 09/2100Z:  Solar activity reached high levels today.  Region 1429
+(N18W13) produced an M6 flare at 09/0353Z.  Associated with this
+event was Type II (1285 km/s) and Type IV radio sweeps along with a
+full halo CME first seen in SOHO/LASCO C2 imagery at 09/0426Z.  The
+CME had an estimated plane-of-sky speed of 850 km/s in STEREO B COR2
+imagery.  Separation and slight decay within the intermediate area
+was observed in Region 1429, however it still remained a large Ekc
+spot group with a Beta-Gamma-Delta magnetic configuration.  A new
+spot group rotated onto the NE limb and was numbered Region 1432
+(N18E69).  This new region is too close to the limb to accurately
+determine the spot and magnetic classification, however it produced
+a C9 flare at 09/2025Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to continue
+at low to moderate levels with a chance for X-class activity from
+Region 1429 for the next three days (10 - 12 March).
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z:
+The geomagnetic field was at active to severe storm conditions due to
+continued activity from the sheath region associated with the 07
+March CME.  At approximately 09/0049Z, the Bz component of the
+interplanetary magnetic field started to rotate towards a more
+magnetically connected polarity.  Bz continued to be negative for
+several hours reaching values near -17 nT with an approximate solar
+wind speed over 600 km/s.  The geomagnetic field responded with
+major to severe storm periods during the periods 09/0300 - 1500Z. 
+Solar wind remained elevated around 600 km/s by the end of the
+period.  The greater than 10 MeV proton event that began at 07/0510Z
+is ongoing.  The greater than 100 MeV proton event that began at
+07/0405 is ongoing.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be under the influence of the current CME through early
+on day 1.  Unsettled to active conditions, with isolated minor storm
+periods, are possible is expected as the CME continues to wane. 
+Early to mid-day on day 2 (11 March), the CME associated with
+todays M-6 flare is expected to become geoeffective.  Active to
+severe storm periods are expected with this event.  Unsettled to
+active conditions, with isolated minor storm periods, are possible
+on day 3 (12 March) as conditions are expected to slowly dissipate.
+III.  Event Probabilities 10 Mar-12 Mar
+Class M    80/80/80
+Class X    40/40/40
+Proton     99/99/60
+PCAF       red
+IV.  Penticton 10.7 cm Flux
+Observed           09 Mar 146
+Predicted   10 Mar-12 Mar  150/150/150
+90 Day Mean        09 Mar 125
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 Mar  021/028
+Estimated Afr/Ap 09 Mar  046/073
+Predicted Afr/Ap 10 Mar-12 Mar  015/022-033/070-017/030
+VI.  Geomagnetic Activity Probabilities 10 Mar-12 Mar
+A.  Middle Latitudes
+Active                30/30/30
+Minor storm           20/35/20
+Major-severe storm    05/20/10
+B.  High Latitudes
+Active                35/20/40
+Minor storm           25/30/30
+Major-severe storm    15/50/25

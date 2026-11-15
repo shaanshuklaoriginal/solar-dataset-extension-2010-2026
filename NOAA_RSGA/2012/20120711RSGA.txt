@@ -1,0 +1,58 @@
+:Product: 0711RSGA.txt
+:Issued: 2012 Jul 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 193 Issued at 2200Z on 11 Jul 2012
+IA.  Analysis of Solar Active Regions and Activity from  10/2100Z
+to 11/2100Z:  Solar activity was low.  Regions 1519 (S15W18), 1520
+(S17E06) and 1521 (S22W07) all produced C-class flares during the
+period.  The largest event was a C9/1n at 11/0831Z from Region 1521.
+Region 1520 indicated consolidation and rotation in its trailer
+spots while developing additional sheer.  The region remained a
+complex beta-gamma-delta magnetic configuration.  During the past 24
+hours, Region 1521 elongated along its E/W axis and developed a
+gamma configuration in its trailer spots.  The region is now
+classified as an E-type beta-gamma group.  A 20 degree long filament
+erupted in the NE quadrant of the disk at about 11/0930Z.  The
+eruption occurred along a channel centered near N22E22.  Limited
+LASCO imagery hinted at a possible CME that lifted off the NNE limb
+likely associated with the filament eruption.  Further analysis of
+this CME is ongoing.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate with a slight chance for X-class events for the next three
+days (12 - 14 July).
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z:
+The geomagnetic field was at predominately quiet to unsettled levels
+with isolated high latitude minor to major storm intervals from
+11/0600 - 1200Z.  ACE solar data indicated wind velocities remained
+steady at about 500 km/s while the Bz component of the
+interplanetary magnetic field did not vary much beyond +/- 5 nT. The
+greater than 2 MeV electron flux at geosynchronous orbit reached
+high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at mostly quiet to unsettled levels for the next
+three days (12 - 14 July).
+III.  Event Probabilities 12 Jul-14 Jul
+Class M    80/80/80
+Class X    15/15/15
+Proton     05/05/10
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           11 Jul 162
+Predicted   12 Jul-14 Jul  160/160/155
+90 Day Mean        11 Jul 126
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Jul  015/015
+Estimated Afr/Ap 11 Jul  009/009
+Predicted Afr/Ap 12 Jul-14 Jul  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 12 Jul-14 Jul
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           15/15/15
+Major-severe storm    05/05/05

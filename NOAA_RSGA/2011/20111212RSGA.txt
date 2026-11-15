@@ -1,0 +1,43 @@
+:Product: 1212RSGA.txt
+:Issued: 2011 Dec 12 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 346 Issued at 2200Z on 12 Dec 2011
+IA.  Analysis of Solar Active Regions and Activity from  11/2100Z
+to 12/2100Z:  Solar activity was low. Todays largest event was a
+C1/Sf at 0837Z from Region 1374 (S17E15). Region 1374 is currently
+the largest group on the disk with an area around 150 millionths and
+there is evidence for a small magnetic delta configuration in the
+south part of the leading spot complex. The other regions on the
+disk were quiet and stable. SDO imagery shows one or possibly two
+new groups just rotating into view near the east limb.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+for the next three days (13-15 December).
+IIA.  Geophysical Activity Summary 11/2100Z to 12/2100Z:
+The geomagnetic field was quiet during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the next three days (13-15 December).
+III.  Event Probabilities 13 Dec-15 Dec
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           12 Dec 132
+Predicted   13 Dec-15 Dec  135/135/135
+90 Day Mean        12 Dec 146
+V.  Geomagnetic A Indices
+Observed Afr/Ap 11 Dec  005/005
+Estimated Afr/Ap 12 Dec  002/003
+Predicted Afr/Ap 13 Dec-15 Dec  006/006-006/006-006/006
+VI.  Geomagnetic Activity Probabilities 13 Dec-15 Dec
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/10
+Major-severe storm    05/05/05

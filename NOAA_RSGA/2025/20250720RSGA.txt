@@ -1,0 +1,51 @@
+:Product: 0720RSGA.txt
+:Issued: 2025 Jul 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 201 Issued at 2200Z on 20 Jul 2025
+
+IA.  Analysis of Solar Active Regions and Activity from 19/2100Z to
+20/2100Z: Solar activity has been at low levels for the past 24 hours.
+There are currently 10 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+days one, two, and three (21 Jul, 22 Jul, 23 Jul).
+
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 457 km/s at 19/2225Z. Total IMF reached 7 nT at
+20/1014Z. The maximum southward component of Bz reached -4 nT at
+20/0949Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 14494 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one and two (21 Jul, 22 Jul) and unsettled
+to active levels on day three (23 Jul). Protons have a slight chance of
+crossing threshold on days one, two, and three (21 Jul, 22 Jul, 23 Jul).
+
+III.  Event probabilities 21 Jul-23 Jul
+Class M    40/40/40
+Class X    10/10/10
+Proton     10/10/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           20 Jul 150
+Predicted   21 Jul-23 Jul 145/140/140
+90 Day Mean        20 Jul 136
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 Jul  008/007
+Estimated Afr/Ap 20 Jul  005/005
+Predicted Afr/Ap 21 Jul-23 Jul  005/005-005/005-011/015
+
+VI.  Geomagnetic Activity Probabilities 21 Jul-23 Jul
+A.  Middle Latitudes
+Active                10/10/30
+Minor Storm           01/01/15
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/30
+Major-severe storm    10/10/40

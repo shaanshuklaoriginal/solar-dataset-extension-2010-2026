@@ -1,0 +1,54 @@
+:Product: 0930RSGA.txt
+:Issued: 2011 Sep 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 273 Issued at 2200Z on 30 Sep 2011
+IA.  Analysis of Solar Active Regions and Activity from  29/2100Z
+to 30/2100Z:  Solar activity was moderate. Region 1305 (N12E01)
+produced an M1/1f at 30/1906Z. A Type II Radio Sweep (estimated
+speed 690 km/s) was associated with this event along with a 260 sfu
+tenflare. Region 1305 has shown slight aerial and penumbral growth
+and maintains a beta-gamma magnetic configuration. Region 1302
+(N13W29) produced a C1/Sf at 30/0252Z and has a beta-gamma-delta
+magnetic configuration. Region 1307 (N14E48) has grown slightly and
+produced a C3 at 30/1847Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with M-class activity likely through the period (01-03 October),
+mainly from Regions 1302 and 1305. There is a slight chance for
+X-class activity from these regions as well.
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z:
+The geomagnetic field was quiet during the past 24 hours. The greater
+than 2 MeV electron flux at geosynchronous orbit reached high levels
+during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled with a slight chance for isolated
+active periods on days one and two (01-02 October). The increase in
+activity is expected due to the anticipated arrival of a recurrent
+coronal hole high speed stream (CH HSS) on day one and possible
+effects on day two from a weak CME associated with the long duration
+C2 event observed on 29 September. Mostly quiet conditions are
+expected on day three (03 October).
+III.  Event Probabilities 01 Oct-03 Oct
+Class M    60/60/60
+Class X    20/20/20
+Proton     15/15/15
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           30 Sep 138
+Predicted   01 Oct-03 Oct  140/140/140
+90 Day Mean        30 Sep 110
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Sep  016/015
+Estimated Afr/Ap 30 Sep  005/005
+Predicted Afr/Ap 01 Oct-03 Oct  008/010-008/008-005/005
+VI.  Geomagnetic Activity Probabilities 01 Oct-03 Oct
+A.  Middle Latitudes
+Active                20/20/05
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/25/05
+Minor storm           05/05/01
+Major-severe storm    01/01/01

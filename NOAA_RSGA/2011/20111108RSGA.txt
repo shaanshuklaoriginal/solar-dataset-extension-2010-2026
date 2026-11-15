@@ -1,0 +1,57 @@
+:Product: 1108RSGA.txt
+:Issued: 2011 Nov 08 2355 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 312 Issued at 2200Z on 08 Nov 2011
+* * * * * * * * * * Corrected Copy * * * * * * * * * *
+IA.  Analysis of Solar Active Regions and Activity from  07/2100Z
+to 08/2100Z:  Solar activity was low. Region 1339 (N19W08) produced a
+few low-level C-class events during the period. The region continued
+to exhibit slow decay, both in area and spot count, as well as
+magnetic complexity losing its Delta configuration. The other large
+region on the disk, Region 1338 (S14W25) also is in slow decay, both
+in area and magnetic complexity, and is now classified as a Beta
+group. New region 1344 (S22W07) emerged on the disk early in the
+period as a simple uni-polar spot group.  Early in the period, a
+filament eruption along a 25 degree channel was observed in SDO/AIA
+imagery beginning at about 07/2232Z. LASCO C2 imagery first observed
+a CME lifting off the NW limb at 07/2348Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate during the period (09 - 11 November) with a slight chance
+for high activity (M5 or greater) from Region 1339. There is also a
+slight chance for a proton flare from this region during the period.
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z:
+The geomagnetic field was at quiet to unsettled levels with isolated
+high latitude minor storm periods. Solar wind speeds generally were
+below 400 km/s while the Bz component of the interplanetary magnetic
+field fluctuated between +/- 7 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels during day one and two of the period
+(09 - 10 November).  By day three (11 November), the field is
+expected to be at quiet to unsettled levels, with isolated high
+latitude active periods, as glancing blow effects from the 07
+November CME are felt.
+III.  Event Probabilities 09 Nov-11 Nov
+Class M    70/70/70
+Class X    10/10/10
+Proton     10/10/10
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           08 Nov 181
+Predicted   09 Nov-11 Nov  180/180/175
+90 Day Mean        08 Nov 130
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Nov  004/004
+Estimated Afr/Ap 08 Nov  006/006
+Predicted Afr/Ap 09 Nov-11 Nov  004/005-004/005-007/008
+VI.  Geomagnetic Activity Probabilities 09 Nov-11 Nov
+A.  Middle Latitudes
+Active                05/05/13
+Minor storm           02/02/03
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/16
+Minor storm           13/13/20
+Major-severe storm    08/08/14

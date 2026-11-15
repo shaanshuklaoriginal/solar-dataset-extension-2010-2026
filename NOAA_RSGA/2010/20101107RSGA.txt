@@ -1,0 +1,46 @@
+:Product: 1107RSGA.txt
+:Issued: 2010 Nov 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 311 Issued at 2200Z on 07 Nov 2010
+IA.  Analysis of Solar Active Regions and Activity from  06/2100Z
+to 07/2100Z:  Solar activity was at low levels. Region 1121 (S18E36)
+produced a C5/1F at 07/0141Z. Region 1121 was classified as an Esi
+spot group, with a Beta-Gamma magnetic configuration. No new regions
+were numbered. A small, faint earth-directed CME was observed on
+both STEREO A and B coronagraph imagery, beginning at 07/0410Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low to moderate levels, with a chance for high levels.
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z:
+The geomagnetic field was at quiet levels.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels, with isolated active
+levels at high latitudes, on days one and two (08-09 November).
+Quiet levels are expected on day three (10 November). Further
+analysis will be required to determine if the CME observed earlier
+will be geoeffective. There is a slight chance for a greater than 10
+MeV proton event from Region 1121.
+III.  Event Probabilities 08 Nov-10 Nov
+Class M    85/85/85
+Class X    20/20/20
+Proton     10/10/10
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           07 Nov 085
+Predicted   08 Nov-10 Nov  087/090/090
+90 Day Mean        07 Nov 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Nov  001/001
+Estimated Afr/Ap 07 Nov  002/005
+Predicted Afr/Ap 08 Nov-10 Nov  007/008-006/008-005/005
+VI.  Geomagnetic Activity Probabilities 08 Nov-10 Nov
+A.  Middle Latitudes
+Active                15/10/10
+Minor storm           01/01/01
+Major-severe storm    01/09/01
+B.  High Latitudes
+Active                20/15/10
+Minor storm           05/01/01
+Major-severe storm    01/03/01

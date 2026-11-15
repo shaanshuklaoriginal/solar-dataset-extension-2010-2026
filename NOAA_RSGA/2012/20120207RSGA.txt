@@ -1,0 +1,46 @@
+:Product: 0207RSGA.txt
+:Issued: 2012 Feb 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 038 Issued at 2200Z on 07 Feb 2012
+IA.  Analysis of Solar Active Regions and Activity from  06/2100Z
+to 07/2100Z:  Solar activity was low. Region 1410 (N19W79) produced
+several C-class x-ray events over the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for moderate levels on day 1 (8 February). Activity
+should decrease to very low levels on days 2-3 (9-10 February) after
+Region 1410 rotates off the west limb of the solar disk.
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z:
+The geomagnetic field was quiet to unsettled at mid latitudes with an
+isolated minor storm observed between 07/09-15Z at a high latitude
+station in College, Alaska.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at unsettled to active levels on day 1 (8 February)
+as the results of elevated solar wind speeds and intermittent
+periods of negative Bz. Unsettled to active levels are again
+expected due to the arrival of a coronal hole high speed stream on
+days 2-3 (9-10 February).
+III.  Event Probabilities 08 Feb-10 Feb
+Class M    30/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           07 Feb 107
+Predicted   08 Feb-10 Feb  105/100/100
+90 Day Mean        07 Feb 137
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Feb  005/006
+Estimated Afr/Ap 07 Feb  007/009
+Predicted Afr/Ap 08 Feb-10 Feb  008/005-008/008-008/008
+VI.  Geomagnetic Activity Probabilities 08 Feb-10 Feb
+A.  Middle Latitudes
+Active                40/40/40
+Minor storm           20/20/20
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                50/50/50
+Minor storm           30/30/30
+Major-severe storm    05/05/05

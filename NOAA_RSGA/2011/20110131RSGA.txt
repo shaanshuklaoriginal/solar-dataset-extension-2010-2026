@@ -1,0 +1,44 @@
+:Product: 0131RSGA.txt
+:Issued: 2011 Jan 31 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 031 Issued at 2200Z on 31 Jan 2011
+IA.  Analysis of Solar Active Regions and Activity from  30/2100Z
+to 31/2100Z:  Solar activity has been at very low levels for the past
+24 hours. Region 1150 (S20E24) showed no significant changes and
+remains a D-type group with a beta magnetic classification.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a chance for C-class events for the next three days (01-03
+February).
+IIA.  Geophysical Activity Summary 30/2100Z to 31/2100Z:
+The geomagnetic field has been at quiet to unsettled levels for the
+past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels on day 1 (01 February). Quiet to
+unsettled levels with a chance for active periods is expected on
+days 2 and 3 (02-03 February), as a recurrent coronal hole
+high-speed stream becomes geoeffective.
+III.  Event Probabilities 01 Feb-03 Feb
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           31 Jan 081
+Predicted   01 Feb-03 Feb  082/082/082
+90 Day Mean        31 Jan 084
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Jan  002/001
+Estimated Afr/Ap 31 Jan  005/005
+Predicted Afr/Ap 01 Feb-03 Feb  005/005-008/008-012/012
+VI.  Geomagnetic Activity Probabilities 01 Feb-03 Feb
+A.  Middle Latitudes
+Active                05/15/30
+Minor storm           01/05/10
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                10/20/35
+Minor storm           01/10/10
+Major-severe storm    01/01/05

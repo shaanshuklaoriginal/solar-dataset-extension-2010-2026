@@ -1,0 +1,53 @@
+:Product: 0721RSGA.txt
+:Issued: 2025 Jul 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 202 Issued at 2200Z on 21 Jul 2025
+
+IA.  Analysis of Solar Active Regions and Activity from 20/2100Z to
+21/2100Z: Solar activity has been at low levels for the past 24 hours.
+There are currently 8 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+day one (22 Jul) and expected to be low with a chance for M-class flares
+on days two and three (23 Jul, 24 Jul).
+
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 634 km/s at 21/0723Z. Total IMF reached 6 nT at
+21/1745Z. The maximum southward component of Bz reached -4 nT at
+21/0008Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 13015 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one and three (22 Jul, 24 Jul)
+and quiet to minor storm levels on day two (23 Jul). Protons greater
+than 10 Mev have a slight chance of crossing threshold on day one (22
+Jul).
+
+III.  Event probabilities 22 Jul-24 Jul
+Class M    40/35/30
+Class X    10/05/05
+Proton     10/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           21 Jul 143
+Predicted   22 Jul-24 Jul 138/135/135
+90 Day Mean        21 Jul 136
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 Jul  007/ 005
+Estimated Afr/Ap 21 Jul  005/004
+Predicted Afr/Ap 22 Jul-24 Jul  009/012-017/025-013/015
+
+VI.  Geomagnetic Activity Probabilities 22 Jul-24 Jul
+A.  Middle Latitudes
+Active                35/35/35
+Minor Storm           15/25/15
+Major-severe storm    01/05/01
+B.  High Latitudes
+Active                10/10/10
+Minor Storm           25/25/25
+Major-severe storm    50/55/50

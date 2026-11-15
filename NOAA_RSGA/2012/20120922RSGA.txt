@@ -1,0 +1,51 @@
+:Product: 0922RSGA.txt
+:Issued: 2012 Sep 22 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 266 Issued at 2200Z on 22 Sep 2012
+IA.  Analysis of Solar Active Regions and Activity from  21/2100Z
+to 22/2100Z:  Solar activity was at very low levels.  The largest
+event of the period was a long duration B9 x-ray event at 22/2010Z
+from an area of enhanced emission located behind the east limb near
+S15.  New Region 1577 (N08E43) emerged on the disk as a stable,
+4-spot bipolar group.  Region 1575 (N08E24) increased in magnetic
+complexity to a beta-gamma configuration.  The remainder of the disk
+and limb was quiet and stable.  No Earth-directed CMEs were
+observed.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+predominately low levels all three days of the forecast period (23 -
+25 September).  A slight chance for M-class activity exists for day
+three as active regions are expected to rotate onto the visible
+disk.
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z:
+The geomagnetic field was at quiet levels.  ACE satellite
+measurements indicated a steady decline in wind velocity from about
+500 km/s to near 400 km/s while the Bz component of the
+interplanetary magnetic field did not vary much beyond +/- 4 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at predominately quiet levels all three days of the
+forecast period (23 - 25 September).
+III.  Event Probabilities 23 Sep-25 Sep
+Class M    05/05/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           22 Sep 125
+Predicted   23 Sep-25 Sep  125/125/130
+90 Day Mean        22 Sep 123
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 Sep  005/006
+Estimated Afr/Ap 22 Sep  004/004
+Predicted Afr/Ap 23 Sep-25 Sep  005/005-004/005-005/005
+VI.  Geomagnetic Activity Probabilities 23 Sep-25 Sep
+A.  Middle Latitudes
+Active                10/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

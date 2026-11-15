@@ -1,0 +1,69 @@
+:Product: 0716RSGA.txt
+:Issued: 2012 Jul 16 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 198 Issued at 2200Z on 16 Jul 2012
+IA.  Analysis of Solar Active Regions and Activity from  15/2100Z
+to 16/2100Z:  Solar activity was low. Region 1520 (S16W58) produced
+todays largest event, a C7/Sf with maximum at 16/2003Z. Additional
+low level C-class events were observed during the period with
+regions 1520, 1519 (S17W81), 1521 (S22W71), and 1522 (N11W76) all
+contributing. All of the spotted regions on the disk were generally
+unchanged or slowly declining. There were some preliminary
+observations indicating a new region (yet to be numbered) rotating
+onto the disk in the southern hemisphere. No Earth-directed CMEs
+were observed during the past 24 hours. (NOTE: todays F10.7 flux is
+based on the morning 1800Z reading because the 2000Z observation was
+flare enhanced).
+IB.  Solar Activity Forecast:  Solar activity is expected to be low,
+but with a continued chance for an isolated M-class event. Region
+1520 is the most likely source. A decline in activity and background
+levels is expected on the third day as Regions 1519, 1520, and 1521
+cross west limb.
+IIA.  Geophysical Activity Summary 15/2100Z to 16/2100Z:
+The geomagnetic field ranged from unsettled to major storm levels
+(estimated Kp between 3 and 6). The period began with a continuation
+of storm level activity in response to the 12 July CME. Activity
+gradually subsided with mostly active conditions (estimated Kp of 4)
+from 0600-1500Z and unsettled levels for the remainder of the
+period. There were some lingering major storm intervals at high
+latitudes in the 0600-1800Z timeframe. Solar wind observations from
+ACE showed a continuation of the CME passage: initial values of the
+Z-component of the interplanetary magnetic field were around -15 nT
+and slowly weakened through the day, finally turning northwards at
+1424Z. A second, much weaker phase of southward Bz began at 1755Z
+with maximum value around -4.5 nT. Solar wind velocity declined
+also, with initial values around 510 km/s and end-of-day values
+around 440 km/s.
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be unsettled with a chance for active periods during the
+next 24 hours (17 July). In addition, there is a chance for isolated
+minor to major storm periods at high latitudes during the earlier
+part of 17 July. Solar wind driving of the magnetosphere is expected
+to continue to decrease in intensity throughout the day and
+predominantly quiet levels are expected for the second and third
+days (18-19 July).
+III.  Event Probabilities 17 Jul-19 Jul
+Class M    40/40/30
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           16 Jul 138
+Predicted   17 Jul-19 Jul  135/120/105
+90 Day Mean        16 Jul 129
+V.  Geomagnetic A Indices
+Observed Afr/Ap 15 Jul  039/086
+Estimated Afr/Ap 16 Jul  021/032
+Predicted Afr/Ap 17 Jul-19 Jul  007/012-006/005-007/005
+VI.  Geomagnetic Activity Probabilities 17 Jul-19 Jul
+A.  Middle Latitudes
+Active                10/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           20/10/10
+Major-severe storm    10/05/05

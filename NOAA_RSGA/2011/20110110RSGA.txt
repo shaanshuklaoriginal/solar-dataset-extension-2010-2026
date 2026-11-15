@@ -1,0 +1,49 @@
+:Product: 0110RSGA.txt
+:Issued: 2011 Jan 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 010 Issued at 2200Z on 10 Jan 2011
+IA.  Analysis of Solar Active Regions and Activity from  09/2100Z
+to 10/2100Z:  Solar activity remained at very low levels. Occasional
+low-level B-class flares occurred, most of which were produced by
+Region 1140 (N32W61). Region 1140 showed no significant changes
+during the period and remained an Hsx-type spot. Region 1145
+(N16E27) also showed no significant changes and remained a
+simply-structured Bxo-type group. Regions 1142 (S17W88) and 1144
+(S16W49) both decayed to plage during the period. New Region 1146
+(N23E46), a single spot Axx type, was numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low through the period (11 - 13 January).
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z:
+Geomagnetic field activity was at quiet to unsettled levels. ACE
+solar wind data indicated Earth was in a subsiding coronal hole
+high-speed stream. Solar wind velocities gradually decreased from
+642 to 487 km/s during the period. IMF Bz was variable and ranged
+from +5 nT to -3 nT. The greater than 2 MeV electron flux at
+geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at quiet levels during the period (11 - 13 January).
+III.  Event Probabilities 11 Jan-13 Jan
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           10 Jan 083
+Predicted   11 Jan-13 Jan  082/080/080
+90 Day Mean        10 Jan 084
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Jan  004/005
+Estimated Afr/Ap 10 Jan  006/006
+Predicted Afr/Ap 11 Jan-13 Jan  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 11 Jan-13 Jan
+A.  Middle Latitudes
+Active                10/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/10/10
+Minor storm           05/01/01
+Major-severe storm    01/01/01

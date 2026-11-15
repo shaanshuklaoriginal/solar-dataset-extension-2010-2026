@@ -1,0 +1,50 @@
+:Product: 0728RSGA.txt
+:Issued: 2012 Jul 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 210 Issued at 2200Z on 28 Jul 2012
+IA.  Analysis of Solar Active Regions and Activity from  27/2100Z
+to 28/2100Z:  Solar activity was high. Region 1532 (S22E49) produced
+a M6/2n x-ray flare at 28/2056Z along with an associated Tenflare
+(370 sfu), a Type II radio sweep with an estimated speed of 1387
+km/s, and a Type IV radio sweep. Further analysis will be conducted
+as more data becomes available. Newly numbered Region 1534 (N17E55)
+was observed developing in the northeastern quadrant of the visible
+disk.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with the chance for moderate levels for the next 3 days (29-31
+July).
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z:
+The geomagnetic field began the period at quiet levels before
+increasing to unsettled levels after 28/1200Z due to extended
+periods of southward Bz and possible weak coronal hole (CH) effects.
+The greater than 2 MeV electron flux at geosynchronous orbit reached
+high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active on days 1 and 2 (29-30 July) due
+to CH effects, and recover to mostly quiet on day 3 (31 July) as
+conditions wane.
+III.  Event Probabilities 29 Jul-31 Jul
+Class M    25/25/25
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           28 Jul 127
+Predicted   29 Jul-31 Jul  130/135/140
+90 Day Mean        28 Jul 126
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Jul  005/004
+Estimated Afr/Ap 28 Jul  008/012
+Predicted Afr/Ap 29 Jul-31 Jul  024/015-024/010-004/005
+VI.  Geomagnetic Activity Probabilities 29 Jul-31 Jul
+A.  Middle Latitudes
+Active                30/30/01
+Minor storm           15/15/01
+Major-severe storm    05/05/01
+B.  High Latitudes
+Active                10/10/15
+Minor storm           20/20/05
+Major-severe storm    45/45/01

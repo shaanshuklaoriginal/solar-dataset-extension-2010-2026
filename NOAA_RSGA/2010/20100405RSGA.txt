@@ -1,0 +1,66 @@
+:Product: 0405RSGA.txt
+:Issued: 2010 Apr 05 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 095 Issued at 2200Z on 05 Apr 2010
+IA.  Analysis of Solar Active Regions and Activity from  04/2100Z
+to 05/2100Z:  Solar activity was very low. Todays activity consisted
+of a few low-level B-class events, primarily from newly emerging
+Region 1061 (N14W11). Region 1061 is a small D-type sunspot group.
+Region 1060 (N25E45) was quiet and stable and is a small C-type
+sunspot group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low for the next three days (06-08 April). There is, however a
+chance for an isolated C-class event from Region 1061.
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z:
+The geomagnetic field ranged from quiet to severe storm levels during
+the past 24 hours. Conditions were initially quiet to unsettled, but
+increased to active levels after 0300Z, and increased further to
+major to severe storm levels between 0900-1200Z. The increase in
+activity followed a strong shock observed at the ACE spacecraft at
+0756Z which led to a sudden impulse at Earth at 0826Z (observed to
+be 38 nT at the Boulder magnetometer). Numerous high-latitude
+stations reported severe storm levels during the interval as did
+several mid-latitude stations in the nighttime sectors. Activity
+declined to active to major storm levels from 1200-1800Z and
+declined further to mostly unsettled levels from 1800-2100Z. Solar
+wind observations showed elevated solar wind velocity behind the
+shock with speeds between 720-800 km/s with fairly strong Bz (peak
+negative values around -15 nT). Solar wind speed and magnetic field
+observations showed a decreasing trend during the last 4-5 hours of
+the interval. The most probable source for the disturbance is the
+halo CME that was observed on 03 April at 0954Z. The greater than 2
+MeV electron flux reached high levels during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active during the early part of the
+first day (06 April) due to persistent effects from the current
+disturbance. In addition, another increase to unsettled levels with
+a chance for active periods is expected late in the day and
+continuing through the second day (07 April) due to the onset of a
+high speed stream from a favorably positioned coronal hole. Activity
+levels are expected to decline to mostly unsettled levels on the
+third day (08 April).
+III.  Event Probabilities 06 Apr-08 Apr
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           05 Apr 079
+Predicted   06 Apr-08 Apr  082/085/085
+90 Day Mean        05 Apr 083
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 Apr  011/013
+Estimated Afr/Ap 05 Apr  025/025
+Predicted Afr/Ap 06 Apr-08 Apr  015/017-012/012-008/008
+VI.  Geomagnetic Activity Probabilities 06 Apr-08 Apr
+A.  Middle Latitudes
+Active                35/35/20
+Minor storm           20/20/10
+Major-severe storm    10/05/01
+B.  High Latitudes
+Active                40/40/25
+Minor storm           25/30/15
+Major-severe storm    15/10/01

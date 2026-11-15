@@ -1,0 +1,39 @@
+:Product: 1121RSGA.txt
+:Issued: 2010 Nov 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 325 Issued at 2200Z on 21 Nov 2010
+IA.  Analysis of Solar Active Regions and Activity from  20/2100Z
+to 21/2100Z:  Solar activity has been at very low levels for the past
+24 hours.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low levels for the next three days (22-24 November).
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z:
+The geomagnetic field has been mostly quiet for the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels for the next three days (22-24
+November).
+III.  Event Probabilities 22 Nov-24 Nov
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           21 Nov 078
+Predicted   22 Nov-24 Nov  078/078/078
+90 Day Mean        21 Nov 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 Nov  002/002
+Estimated Afr/Ap 21 Nov  003/005
+Predicted Afr/Ap 22 Nov-24 Nov  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 22 Nov-24 Nov
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01

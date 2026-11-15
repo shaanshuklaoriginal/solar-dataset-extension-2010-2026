@@ -1,0 +1,53 @@
+:Product: 0906RSGA.txt
+:Issued: 2011 Sep 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 249 Issued at 2200Z on 06 Sep 2011
+IA.  Analysis of Solar Active Regions and Activity from  05/2100Z
+to 06/2100Z:  Solar activity increased to high levels. Region 1283
+(N14W18) produced an M5/1b flare at 06/0150Z associated with Types
+II and IV radio sweeps and an Earth-directed full-halo CME. The CME
+had an estimated speed of around 450 km/sec, based upon STEREO-A
+COR2 data, with the bulk of the ejecta directed north of the
+ecliptic plane. Region 1283 appeared to develop a magnetic delta
+configuration in its north-central portion and was classified as an
+Eai-type with a beta-gamma-delta magnetic configuration. Old Region
+1286 (N20, L = 310) produced multiple CMEs from beyond the west
+limb, none of which were Earth-directed. New Region 1289 (N24E78)
+was numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate during the period (07 - 09 September) with more M-class
+flare activity likely from Region 1283.
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z:
+Geomagnetic field activity was at mostly quiet levels. Proton flux
+enhancements at greater than 100 MeV and greater than 10 MeV began
+around 06/0300Z at geosynchronous orbit in the wake of the M5 flare
+mentioned above.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at mostly quiet levels through the period (07 - 09
+September). The halo-CME mentioned above is not expected to affect
+the field during the forecast period.
+III.  Event Probabilities 07 Sep-09 Sep
+Class M    60/60/60
+Class X    10/10/10
+Proton     10/10/10
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           06 Sep 112
+Predicted   07 Sep-09 Sep  110/105/100
+90 Day Mean        06 Sep 098
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Sep  004/006
+Estimated Afr/Ap 06 Sep  006/007
+Predicted Afr/Ap 07 Sep-09 Sep  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 07 Sep-09 Sep
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           01/01/01
+Major-severe storm    01/01/01

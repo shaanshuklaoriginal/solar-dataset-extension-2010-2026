@@ -1,0 +1,51 @@
+:Product: 0429RSGA.txt
+:Issued: 2011 Apr 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 119 Issued at 2200Z on 29 Apr 2011
+IA.  Analysis of Solar Active Regions and Activity from  28/2100Z
+to 29/2100Z:  Solar activity has been at low levels for the past 24
+hours. Region 1203 (N18E64) produced the largest event of the
+period, a C3 flare at 29/0026Z. Region 1200 (S17E05) regained spots
+and has developed into a beta group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels for the next two days (30 April - 01 May). Very low to
+low levels are expected on day three (02 May) as Regions 1199
+(N18W62) and 1195 (S15W65) rotate off the west limb.
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z:
+The geomagnetic field has been at predominantly quiet levels for the
+past 24 hours. However, late in the summary period, unsettled
+conditions were observed. Measurements by the ACE spacecraft showed
+an increase in solar wind speed from around 350 - 450 km/s. The total
+interplanetary magnetic field increased from 5 - 18 nT over the
+period with the negative component peaking at -10 nT. These changes
+in solar wind indicate the arrival of a coronal hole high-speed
+stream (CH HSS).
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active with isolated periods at minor
+storm levels for the next three days (30 April - 02 May) as a CH HSS
+becomes geoeffective.
+III.  Event Probabilities 30 Apr-02 May
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           29 Apr 110
+Predicted   30 Apr-02 May  110/105/105
+90 Day Mean        29 Apr 107
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 Apr  001/003
+Estimated Afr/Ap 29 Apr  007/008
+Predicted Afr/Ap 30 Apr-02 May  010/010-012/012-010/010
+VI.  Geomagnetic Activity Probabilities 30 Apr-02 May
+A.  Middle Latitudes
+Active                35/40/35
+Minor storm           10/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                40/45/40
+Minor storm           10/15/15
+Major-severe storm    01/05/05

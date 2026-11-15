@@ -1,0 +1,43 @@
+:Product: 0721RSGA.txt
+:Issued: 2011 Jul 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 202 Issued at 2200Z on 21 Jul 2011
+IA.  Analysis of Solar Active Regions and Activity from  20/2100Z
+to 21/2100Z:  Solar activity was very low. Regions 1254 (S24W28) and
+1259 (N25E32) remained present on the disk but were quiet and
+stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low for the next 3 days (22-24 July).
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z:
+The geomagnetic field was mostly unsettled for the majority of the
+period, before decreasing to quiet conditions as Bz turned primarily north. The greater than 2 MeV electron flux at geosynchronous orbit reached
+high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active for days 1-2 (22-23 July), then
+decreasing to mostly quiet on day 3 (24 July) as coronal hole
+effects wane.
+III.  Event Probabilities 22 Jul-24 Jul
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           21 Jul 096
+Predicted   22 Jul-24 Jul  096/095/095
+90 Day Mean        21 Jul 096
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 Jul  012/019
+Estimated Afr/Ap 21 Jul  010/012
+Predicted Afr/Ap 22 Jul-24 Jul  010/010-008/008-005/005
+VI.  Geomagnetic Activity Probabilities 22 Jul-24 Jul
+A.  Middle Latitudes
+Active                40/30/20
+Minor storm           30/10/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                50/40/20
+Minor storm           40/30/20
+Major-severe storm    10/05/01

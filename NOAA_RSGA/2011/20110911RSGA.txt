@@ -1,0 +1,57 @@
+:Product: 0911RSGA.txt
+:Issued: 2011 Sep 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 254 Issued at 2200Z on 11 Sep 2011
+IA.  Analysis of Solar Active Regions and Activity from  10/2100Z
+to 11/2100Z:  Solar activity was low.  Region 1283 (N14W87) produced
+a long duration C6/Sf flare at 11/0851Z.  Region 1283 currently is
+rotating around the west limb as a Dso spot group with a Beta-Gamma
+magnetic classification.  Region 1289 (N22E12), a Dko-Beta spot
+group with 430 millionths in area, exhibited decay in its smaller
+trailing spots.  New Region 1292 (N08E66) was numbered today.
+IB.  Solar Activity Forecast:  Solar activity is expected to continue
+at low levels with further M-class flares likely on 12 September as
+Region 1283 continues to rotate around the west limb.  On 12 - 14
+September, solar activity is expected to be at low levels with a
+slight chance for M-class flares.
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z:
+The geomagnetic field was at quiet to minor storm conditions.  Minor
+storm levels were observed during the period 10/2100 - 2400Z. 
+Activity was likely due to continued CME effects followed by a
+coronal hole high speed stream.  At approximately 10/1401Z, a slight
+increase in density, wind speed, and temperature was seen in the ACE
+solar wind monitor.  Solar wind speed continued to increase to
+approximately 660 km/s while density dropped to around 1 p/cc during
+the period.  This was most likely the start of the transition into
+the coronal hole high speed stream.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active with minor storm periods possible
+on days 1 and 2 (12-13 September) due to continued coronal hole
+influence and a possible glancing blow from the 10 September CME. 
+Conditions are expected to be quiet to unsettled on day 3 (14
+September).
+III.  Event Probabilities 12 Sep-14 Sep
+Class M    55/35/35
+Class X    05/01/01
+Proton     05/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           11 Sep 121
+Predicted   12 Sep-14 Sep  120/115/115
+90 Day Mean        11 Sep 100
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Sep  020/033
+Estimated Afr/Ap 11 Sep  010/018
+Predicted Afr/Ap 12 Sep-14 Sep  010/012-010/012-005/008
+VI.  Geomagnetic Activity Probabilities 12 Sep-14 Sep
+A.  Middle Latitudes
+Active                20/20/05
+Minor storm           10/10/01
+Major-severe storm    05/05/01
+B.  High Latitudes
+Active                30/30/15
+Minor storm           10/10/05
+Major-severe storm    05/05/01

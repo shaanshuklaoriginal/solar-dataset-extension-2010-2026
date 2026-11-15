@@ -1,0 +1,52 @@
+:Product: 0203RSGA.txt
+:Issued: 2026 Feb 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 34 Issued at 2200Z on 03 Feb 2026
+
+IA.  Analysis of Solar Active Regions and Activity from 02/2100Z to
+03/2100Z: Solar activity has been at high levels for the past 24 hours.
+There are currently 9 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be moderate
+with a chance for X-class flares on days one, two, and three (04 Feb, 05
+Feb, 06 Feb).
+
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 344 km/s at 03/1852Z. Total IMF reached 9 nT at
+03/2054Z. The maximum southward component of Bz reached -5 nT at
+02/2158Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 10479 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (04 Feb), quiet to minor storm levels
+on day two (05 Feb) and active to minor storm levels on day three (06
+Feb). Protons have a chance of crossing threshold on days one, two, and
+three (04 Feb, 05 Feb, 06 Feb).
+
+III.  Event probabilities 04 Feb-06 Feb
+Class M    80/80/80
+Class X    40/40/40
+Proton     30/30/30
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           03 Feb 178
+Predicted   04 Feb-06 Feb 180/180/175
+90 Day Mean        03 Feb 152
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Feb  004/006
+Estimated Afr/Ap 03 Feb  005/005
+Predicted Afr/Ap 04 Feb-06 Feb  006/005-010/016-018/027
+
+VI.  Geomagnetic Activity Probabilities 04 Feb-06 Feb
+A.  Middle Latitudes
+Active                10/35/40
+Minor Storm           01/25/30
+Major-severe storm    01/05/05
+B.  High Latitudes
+Active                20/10/10
+Minor Storm           20/25/20
+Major-severe storm    10/55/65

@@ -1,0 +1,55 @@
+:Product: 0323RSGA.txt
+:Issued: 2011 Mar 23 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 082 Issued at 2200Z on 23 Mar 2011
+IA.  Analysis of Solar Active Regions and Activity from  22/2100Z
+to 23/2100Z:  Solar activity increased to moderate levels. Region
+1176 (S15E58) produced an isolated impulsive M1 flare at 23/0217Z
+associated with weak radio emission. It also produced occasional B-
+and C-class flares. Region 1176 rotated more fully into view and was
+classified as an Eko-type group with a moderately complex beta-gamma
+magnetic configuration. Region 1175 (N11W76) was quiet and stable as
+it approached the west limb. New Region 1177 (N21E51) was numbered
+as a magnetically simple, single-spot Axx-type.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+mostly low levels during the period (24 - 26 March) with a chance
+for an isolated M-class flare from Region 1176.
+IIA.  Geophysical Activity Summary 22/2100Z to 23/2100Z:
+Geomagnetic field activity was at quiet to unsettled levels, with a
+brief interval of active levels detected at Boulder at around
+23/0700Z. ACE solar wind data indicated the increased activity was
+the result of a coronal hole high-speed stream. Solar wind
+velocities gradually increased from 358 to 547 km/sec during the
+period. IMF Bt increased during the period with a maximum of 11 nT
+observed at 23/0714Z. IMF Bz was variable during the period and
+ranged from -6 to +8 nT.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at quiet to unsettled levels during days 1 - 2 (24 -
+25 Mar) with a chance for brief active levels as coronal hole
+effects persist. Activity is expected to decrease to quiet levels on
+day 3 (26 March) as coronal hole effects subside.
+III.  Event Probabilities 24 Mar-26 Mar
+Class M    30/30/30
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           23 Mar 105
+Predicted   24 Mar-26 Mar  105/105/110
+90 Day Mean        23 Mar 095
+V.  Geomagnetic A Indices
+Observed Afr/Ap 22 Mar  005/006
+Estimated Afr/Ap 23 Mar  008/008
+Predicted Afr/Ap 24 Mar-26 Mar  008/008-008/008-005/005
+VI.  Geomagnetic Activity Probabilities 24 Mar-26 Mar
+A.  Middle Latitudes
+Active                15/15/10
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/20/15
+Minor storm           10/10/01
+Major-severe storm    01/01/01

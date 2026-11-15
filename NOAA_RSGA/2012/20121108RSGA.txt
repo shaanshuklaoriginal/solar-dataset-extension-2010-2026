@@ -1,0 +1,58 @@
+:Product: 1108RSGA.txt
+:Issued: 2012 Nov 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 313 Issued at 2200Z on 08 Nov 2012
+
+IA.  Analysis of Solar Active Regions and Activity from 07/2100Z to
+08/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+08/0223Z from Region 1611 (N12E66). The M1 event was associated with a
+CME off the east limb (not expected to be geoeffective) and a type II
+radio sweep. A backsided, full-halo CME was observed later in the day
+(first entering the C2 field of view at 08/1112Z); Stereo imagery
+indicated that old Region 1598 was the source. There are currently 6
+numbered sunspot regions on the disk
+including two newly numbered groups: Region 1611 (N12E66) and 1612
+(N06E71).
+IB.  Solar Activity Forecast: Solar activity is expected to be at low
+levels with a slight chance for moderate levels on days one, two, and
+three (09 Nov, 10 Nov, 11 Nov).
+
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 557 km/s at
+07/2122Z, consistent with a coronal hole high speed stream. Total IMF
+reached 5.3 nT at 08/0250Z. The maximum southward component of Bz
+reached -2.9 nT at 08/1953Z. Solar wind velocity was steadily decreasing
+during the latter part of the day.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels for the next three days (09 Nov, 10 Nov, 11 Nov).
+
+III.  Event probabilities 09 Nov-11 Nov
+Class M    20/20/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           08 Nov 104
+Predicted   09 Nov-11 Nov 105/110/115
+90 Day Mean        08 Nov 117
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Nov  010/011
+Estimated Afr/Ap 08 Nov  002/003
+Predicted Afr/Ap 09 Nov-11 Nov  004/005-007/007-007/007
+
+VI.  Geomagnetic Activity Probabilities 09 Nov-11 Nov
+A.  Middle Latitudes
+Active                05/10/10
+Minor Storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           10/15/15
+Major-severe storm    05/10/10

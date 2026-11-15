@@ -1,0 +1,55 @@
+:Product: 0318RSGA.txt
+:Issued: 2013 Mar 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 77 Issued at 2200Z on 18 Mar 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 17/2100Z to
+18/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C2 event observed at
+18/0321Z from Region 1698 (S19W86). There are currently 6 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a slight chance for an M-class flare on days one and two (19 Mar, 20
+Mar) and expected to be very low with a chance for a C-class flares and
+a slight chance for an M-class flare on day three (21 Mar).
+
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed, as measured by the ACE spacecraft, reached a peak
+speed of 702 km/s at 18/0049Z. Total IMF reached 11 nT at 17/2106Z. The
+maximum southward component of Bz reached -5 nT at 17/2112Z. Protons
+greater than 10 MeV at geosynchronous orbit reached a peak level of 2
+pfu at 17/2105Z. Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 253 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one and two (19 Mar, 20 Mar)
+and quiet to active levels on day three (21 Mar).
+
+III.  Event probabilities 19 Mar-21 Mar
+Class M    20/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           18 Mar 118
+Predicted   19 Mar-21 Mar 115/110/105
+90 Day Mean        18 Mar 116
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 Mar  032/057
+Estimated Afr/Ap 18 Mar  010/011
+Predicted Afr/Ap 19 Mar-21 Mar  009/008-008/008-008/010
+
+VI.  Geomagnetic Activity Probabilities 19 Mar-21 Mar
+A.  Middle Latitudes
+Active                15/15/25
+Minor Storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/30
+Major-severe storm    20/20/30

@@ -1,0 +1,51 @@
+:Product: 1031RSGA.txt
+:Issued: 2010 Oct 31 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 304 Issued at 2200Z on 31 Oct 2010
+IA.  Analysis of Solar Active Regions and Activity from  30/2100Z
+to 31/2100Z:  Solar activity was low. Region 1117 (N22W83) produced
+two C-class events during the period. The largest of these was a C5
+flare at 31/0431Z. Region 1120 (N40E53) showed an increase in areal
+coverage and was classified as a Cro-beta spot group. No new regions
+were numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low for days one and two (01-02 November). Activity is
+expected to decrease to very low levels on day three (03 November)
+as Region 1117 rotates off the solar disk.
+IIA.  Geophysical Activity Summary 30/2100Z to 31/2100Z:
+The geomagnetic field was at quiet levels. The greater than 2 MeV
+electron flux at geosynchronous orbit reached high levels during the
+period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to active levels, with a slight chance for a
+minor storm period at high latitudes, on day one (01 November). The
+increase in activity is expected due to a recurrent coronal hole
+high-speed stream. Activity is expected to decrease to quiet to
+unsettled levels, with active levels at high latitudes, on day two
+(02 November). Predominantly quiet levels are expected on day three
+(03 November).
+III.  Event Probabilities 01 Nov-03 Nov
+Class M    15/15/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           31 Oct 081
+Predicted   01 Nov-03 Nov  079/078/078
+90 Day Mean        31 Oct 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Oct  002/002
+Estimated Afr/Ap 31 Oct  005/008
+Predicted Afr/Ap 01 Nov-03 Nov  010/010-007/008-005/005
+VI.  Geomagnetic Activity Probabilities 01 Nov-03 Nov
+A.  Middle Latitudes
+Active                25/20/05
+Minor storm           10/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                30/25/10
+Minor storm           15/10/01
+Major-severe storm    05/01/01

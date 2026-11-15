@@ -1,0 +1,60 @@
+:Product: 0910RSGA.txt
+:Issued: 2017 Sep 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 253 Issued at 2200Z on 10 Sep 2017
+
+IA.  Analysis of Solar Active Regions and Activity from 09/2100Z to
+10/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a X8 event observed at
+10/1606Z from old Region 2673 (S09, L=119). There are currently 3
+numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be moderate
+with a chance for X-class flares on day one (11 Sep) and expected to be
+very low with a chance for a C-class flares and a slight chance for an
+M-class flare on day two (12 Sep) and expected to be very low with a
+slight chance for a C-class flare on day three (13 Sep).
+
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 560 km/s at 10/1015Z. Total IMF reached 6
+nT at 10/1935Z. The maximum southward component of Bz reached -4 nT at
+10/2020Z. Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 1038 pfu at 10/1845Z. Protons greater than 100 MeV at
+geosynchronous orbit reached a peak level of 54 pfu at 10/2100Z.
+Electrons greater than 2 MeV at geosynchronous orbit reached a peak
+level of 7875 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (11 Sep), quiet to active
+levels on day two (12 Sep) and unsettled to minor storm levels on day
+three (13 Sep). Protons are expected to cross threshold on day one (11
+Sep), are expected to cross threshold on day two (12 Sep) and are likely
+to cross threshold on day three (13 Sep).
+
+III.  Event probabilities 11 Sep-13 Sep
+Class M    80/10/01
+Class X    50/01/01
+Proton     99/95/65
+PCAF       red
+
+IV.  Penticton 10.7 cm Flux
+Observed           10 Sep 100
+Predicted   11 Sep-13 Sep 085/083/081
+90 Day Mean        10 Sep 081
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Sep  006/004
+Estimated Afr/Ap 10 Sep  005/006
+Predicted Afr/Ap 11 Sep-13 Sep  007/007-010/012-020/030
+
+VI.  Geomagnetic Activity Probabilities 11 Sep-13 Sep
+A.  Middle Latitudes
+Active                15/25/35
+Minor Storm           05/10/25
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                15/15/10
+Minor Storm           20/30/25
+Major-severe storm    20/40/60

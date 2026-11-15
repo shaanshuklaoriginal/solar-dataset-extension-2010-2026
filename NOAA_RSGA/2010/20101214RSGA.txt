@@ -1,0 +1,50 @@
+:Product: 1214RSGA.txt
+:Issued: 2010 Dec 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 348 Issued at 2200Z on 14 Dec 2010
+IA.  Analysis of Solar Active Regions and Activity from  13/2100Z
+to 14/2100Z:  Solar activity was low.  A 12 degree long filament,
+centered at N24W68, erupted and was observed by ground-based
+observers and in SDO/AIA 171 imagery lifting off the disk at
+14/1449Z. Simultaneously, a long duration C2.3/Sf flare was observed
+in Region 1133 (N15W61) at 14/1550Z.  An associated CME, visible in
+SOHO/LASCO C2 imagery, was seen lifting off the northwest limb at
+14/1536Z.  The CME did not appear to be earth-directed.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+very low with a slight chance for a C-class x-ray event all three
+days (15-17 December).
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z:
+The geomagnetic field was quiet to unsettled as a coronal hole high
+speed stream continued to influence the magnetosphere.  Solar wind
+speed at the ACE spacecraft ranged from 450 km/s at the beginning of
+the period to approximately 650 km/s at forecast time.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected be quiet to unsettled for days 1 and 2 (15-16 December) due
+to the continued influence of coronal hole high speed streams.  Day
+3 (17 December) is expected to bring a return to quiet conditions as
+the influence of coronal hole high speed streams wanes.
+III.  Event Probabilities 15 Dec-17 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           14 Dec 090
+Predicted   15 Dec-17 Dec  088/088/086
+90 Day Mean        14 Dec 083
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Dec  005/005
+Estimated Afr/Ap 14 Dec  008/008
+Predicted Afr/Ap 15 Dec-17 Dec  007/007-007/008-005/005
+VI.  Geomagnetic Activity Probabilities 15 Dec-17 Dec
+A.  Middle Latitudes
+Active                10/15/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/20/10
+Minor storm           01/05/01
+Major-severe storm    01/01/01

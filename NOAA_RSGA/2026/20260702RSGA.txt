@@ -1,0 +1,52 @@
+:Product: 0702RSGA.txt
+:Issued: 2026 Jul 02 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 183 Issued at 2200Z on 02 Jul 2026
+
+IA.  Analysis of Solar Active Regions and Activity from 01/2100Z to
+02/2100Z: Solar activity has been at high levels for the past 24 hours.
+There are currently 3 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(03 Jul, 04 Jul, 05 Jul).
+
+IIA.  Geophysical Activity Summary 01/2100Z to 02/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 389 km/s at 02/1157Z. Total IMF reached 9 nT at
+02/0305Z. The maximum southward component of Bz reached -2 nT at
+02/1518Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 428 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to major storm levels on days one and two (03 Jul, 04
+Jul) and quiet to minor storm levels on day three (05 Jul). Protons have
+a slight chance of crossing threshold on days one, two, and three (03
+Jul, 04 Jul, 05 Jul).
+
+III.  Event probabilities 03 Jul-05 Jul
+Class M    70/70/70
+Class X    20/20/20
+Proton     20/20/20
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           02 Jul 203
+Predicted   03 Jul-05 Jul 200/200/190
+90 Day Mean        02 Jul 129
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 01 Jul  015/014
+Estimated Afr/Ap 02 Jul  005/005
+Predicted Afr/Ap 03 Jul-05 Jul  027/040-023/030-012/018
+
+VI.  Geomagnetic Activity Probabilities 03 Jul-05 Jul
+A.  Middle Latitudes
+Active                35/35/35
+Minor Storm           35/35/20
+Major-severe storm    15/20/01
+B.  High Latitudes
+Active                10/20/10
+Minor Storm           25/15/25
+Major-severe storm    60/15/50

@@ -1,0 +1,49 @@
+:Product: 0217RSGA.txt
+:Issued: 2011 Feb 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 048 Issued at 2200Z on 17 Feb 2011
+IA.  Analysis of Solar Active Regions and Activity from  16/2100Z
+to 17/2100Z:  Solar activity was low during the past 24 hours. 
+Region 1158 (S19W52) decayed in area but retained a beta-gamma-delta
+magnetic classification.  It produced several C-class events, the
+largest of which was a C6 observed at 16/0146Z. Region 1161
+exhibited slow growth and has an area of 140 millionths with a
+beta-gamma magnetic classification.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate with M-class activity likely and a slight chance for an
+isolated X-class event for the next three days (18-20 February).
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z:
+The geomagnetic field was quiet during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be active with a chance for isolated minor storm periods
+for day one (18 February).  This activity is due to the effects of
+two CMEs; the first associated with an M6 event at 13/1735Z and the
+second associated with an X2 event at 15/0156Z.  Quiet to active
+conditions are expected for day two (19 February) as the effects of
+these disturbances wane.  The geomagnetic field is expected to
+return to mostly quiet conditions on day three (20 February).
+III.  Event Probabilities 18 Feb-20 Feb
+Class M    50/50/50
+Class X    10/10/10
+Proton     10/10/10
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           17 Feb 111
+Predicted   18 Feb-20 Feb  110/110/105
+90 Day Mean        17 Feb 085
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Feb  001/002
+Estimated Afr/Ap 17 Feb  008/010
+Predicted Afr/Ap 18 Feb-20 Feb  025/025-015/015-005/005
+VI.  Geomagnetic Activity Probabilities 18 Feb-20 Feb
+A.  Middle Latitudes
+Active                35/30/05
+Minor storm           20/10/01
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                35/35/05
+Minor storm           20/10/01
+Major-severe storm    05/01/01

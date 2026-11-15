@@ -1,0 +1,53 @@
+:Product: 0717RSGA.txt
+:Issued: 2024 Jul 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 199 Issued at 2200Z on 17 Jul 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 16/2100Z to
+17/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a M5 event observed at
+17/0639Z from Region 3743 (S09W43). There are currently 17 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(18 Jul, 19 Jul, 20 Jul).
+
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 417 km/s at 16/2230Z. Total IMF reached 8 nT at
+16/2133Z. The maximum southward component of Bz reached -5 nT at
+17/0342Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one and three (18 Jul, 20 Jul)
+and quiet to unsettled levels on day two (19 Jul). Protons have a slight
+chance of crossing threshold on days one, two, and three (18 Jul, 19
+Jul, 20 Jul).
+
+III.  Event probabilities 18 Jul-20 Jul
+Class M    65/65/65
+Class X    15/15/15
+Proton     15/15/15
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           17 Jul 224
+Predicted   18 Jul-20 Jul 225/225/225
+90 Day Mean        17 Jul 187
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Jul  012/010
+Estimated Afr/Ap 17 Jul  006/007
+Predicted Afr/Ap 18 Jul-20 Jul  007/010-008/008-013/016
+
+VI.  Geomagnetic Activity Probabilities 18 Jul-20 Jul
+A.  Middle Latitudes
+Active                30/20/30
+Minor Storm           10/05/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           30/25/30
+Major-severe storm    40/25/40

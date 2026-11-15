@@ -1,0 +1,53 @@
+:Product: 0223RSGA.txt
+:Issued: 2025 Feb 23 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 54 Issued at 2200Z on 23 Feb 2025
+
+IA.  Analysis of Solar Active Regions and Activity from 22/2100Z to
+23/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a X2 event observed at
+23/1927Z from Region 4001 (N24W90). There are currently 11 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(24 Feb, 25 Feb, 26 Feb).
+
+IIA.  Geophysical Activity Summary 22/2100Z to 23/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 480 km/s at 23/0701Z. Total IMF reached 9
+nT at 23/2014Z. The maximum southward component of Bz reached -6 nT at
+23/0037Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 232 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one, two, and three (24 Feb,
+25 Feb, 26 Feb). Protons have a slight chance of crossing threshold on
+days one, two, and three (24 Feb, 25 Feb, 26 Feb).
+
+III.  Event probabilities 24 Feb-26 Feb
+Class M    65/60/60
+Class X    15/10/10
+Proton     10/10/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           23 Feb 210
+Predicted   24 Feb-26 Feb 210/210/210
+90 Day Mean        23 Feb 193
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 22 Feb  003/004
+Estimated Afr/Ap 23 Feb  006/006
+Predicted Afr/Ap 24 Feb-26 Feb  006/008-008/008-008/006
+
+VI.  Geomagnetic Activity Probabilities 24 Feb-26 Feb
+A.  Middle Latitudes
+Active                15/15/15
+Minor Storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/25/25
+Major-severe storm    25/25/20

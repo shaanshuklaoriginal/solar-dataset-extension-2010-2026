@@ -1,0 +1,52 @@
+:Product: 1227RSGA.txt
+:Issued: 2012 Dec 27 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 362 Issued at 2200Z on 27 Dec 2012
+
+IA.  Analysis of Solar Active Regions and Activity from 26/2100Z to
+27/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+27/0224Z from Region 1635 (N13W45). There are currently 5 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low with a
+slight Chance for an M-class flare on days one, two, and three (28 Dec,
+29 Dec, 30 Dec).
+
+IIA.  Geophysical Activity Summary 26/2100Z to 27/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 326 km/s at
+27/0200Z. Total IMF reached 5.1 nT at 26/2206Z. The maximum southward
+component of Bz reached -4.0 nT at 26/2227Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels for days one and two (28 Dec, 29 Dec)
+due to effects from a weak coronal hole high speed stream.  Quiet levels
+are expected on day 3 (30 Dec).
+
+III.  Event probabilities 28 Dec-30 Dec
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           27 Dec 107
+Predicted   28 Dec-30 Dec 110/110/110
+90 Day Mean        27 Dec 118
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 26 Dec  002/001
+Estimated Afr/Ap 27 Dec  001/002
+Predicted Afr/Ap 28 Dec-30 Dec  007/008-007/008-006/005
+
+VI.  Geomagnetic Activity Probabilities 28 Dec-30 Dec
+A.  Middle Latitudes
+Active                10/10/05
+Minor Storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/15/15
+Minor Storm           20/15/10
+Major-severe storm    10/05/05

@@ -1,0 +1,54 @@
+:Product: 0713RSGA.txt
+:Issued: 2013 Jul 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 194 Issued at 2200Z on 13 Jul 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 12/2100Z to
+13/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+12/2233Z from Region 1787 (S13W49). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low with a
+slight chance for an M-class flare on day one (14 Jul) and expected to
+be very low with a chance for a C-class flares on days two and three (15
+Jul, 16 Jul).
+
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+565 km/s at 12/2242Z. Total IMF reached 16 nT at 13/1339Z. The maximum
+southward component of Bz reached -6 nT at 12/2254Z. Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 16728 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (14 Jul), quiet to
+active levels on day two (15 Jul) and quiet levels on day three (16
+Jul).
+
+III.  Event probabilities 14 Jul-16 Jul
+Class M    10/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           13 Jul 114
+Predicted   14 Jul-16 Jul 110/105/110
+90 Day Mean        13 Jul 121
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Jul  009/013
+Estimated Afr/Ap 13 Jul  011/014
+Predicted Afr/Ap 14 Jul-16 Jul  018/025-010/012-007/008
+
+VI.  Geomagnetic Activity Probabilities 14 Jul-16 Jul
+A.  Middle Latitudes
+Active                35/30/10
+Minor Storm           30/15/01
+Major-severe storm    05/05/01
+B.  High Latitudes
+Active                10/15/15
+Minor Storm           25/30/20
+Major-severe storm    65/50/10

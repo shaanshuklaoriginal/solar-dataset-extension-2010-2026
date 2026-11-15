@@ -1,0 +1,42 @@
+:Product: 1226RSGA.txt
+:Issued: 2010 Dec 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 360 Issued at 2200Z on 26 Dec 2010
+IA.  Analysis of Solar Active Regions and Activity from  25/2100Z
+to 26/2100Z:  Solar activity was very low.  Regions 1136 (S22W71) and
+1137 (N18E10) remained stable with little change.  No significant
+x-ray events were observed during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low.
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels for day one (27
+December) due to possible effects from the CME observed on 23
+December.  Quiet conditions are expected for days two and three
+(28-29 December).
+III.  Event Probabilities 27 Dec-29 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           26 Dec 081
+Predicted   27 Dec-29 Dec  080/082/082
+90 Day Mean        26 Dec 083
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Dec  004/005
+Estimated Afr/Ap 26 Dec  003/003
+Predicted Afr/Ap 27 Dec-29 Dec  007/008-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 27 Dec-29 Dec
+A.  Middle Latitudes
+Active                10/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/05/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01

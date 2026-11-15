@@ -1,0 +1,53 @@
+:Product: 1031RSGA.txt
+:Issued: 2013 Oct 31 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 304 Issued at 2200Z on 31 Oct 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 30/2100Z to
+31/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+31/1351Z from Region 1877 (S13W95). There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (01 Nov, 02 Nov,
+03 Nov).
+
+IIA.  Geophysical Activity Summary 30/2100Z to 31/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+482 km/s at 31/1631Z. Total IMF reached 12 nT at 31/1106Z. The maximum
+southward component of Bz reached -8 nT at 31/1840Z. Protons greater
+than 10 MeV at geosynchronous orbit reached a peak level of 2 pfu at
+30/2115Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one, two, and three (01 Nov, 02 Nov, 03
+Nov).
+
+III.  Event probabilities 01 Nov-03 Nov
+Class M    40/40/40
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           31 Oct 143
+Predicted   01 Nov-03 Nov 140/140/135
+90 Day Mean        31 Oct 117
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Oct  010/013
+Estimated Afr/Ap 31 Oct  011/015
+Predicted Afr/Ap 01 Nov-03 Nov  006/005-005/005-006/005
+
+VI.  Geomagnetic Activity Probabilities 01 Nov-03 Nov
+A.  Middle Latitudes
+Active                10/10/10
+Minor Storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/15
+Major-severe storm    15/10/10

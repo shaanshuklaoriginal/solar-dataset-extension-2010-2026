@@ -1,0 +1,58 @@
+:Product: 1101RSGA.txt
+:Issued: 2011 Nov 01 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 305 Issued at 2200Z on 01 Nov 2011
+IA.  Analysis of Solar Active Regions and Activity from  31/2100Z
+to 01/2100Z:  Solar activity was low.  Newly numbered Region 1338
+(S12E69) produced the largest flare of the period; a C5 flare at
+31/2322Z.  Another new region, responsible for M-class flare
+activity on 31 October, is currently rotating into view on the
+Northeast limb and was numbered Region 1339 (N22E71).  A CME was
+observed in SOHO/LASCO C2 imagery at 31/1700Z with the majority of
+the ejecta off the Northeast limb.  The CME was associated with a
+disappearing solar filament (DSF) that was observed in SDO/AIA 193
+imagery at 31/1426Z.  STEREO B COR 2 imagery had a plane of sky
+speed of approximately 503 km/s.  A glancing blow from this CME is
+possible early on 04 November.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+to moderate.  Further M-class flares are likely from new Region
+1339.
+IIA.  Geophysical Activity Summary 31/2100Z to 01/2100Z:
+The geomagnetic field ranged from quiet to minor storm levels with
+major and severe storm periods observed at high latitudes.  At
+approximately 01/0817Z, a shock arrival was observed at the ACE
+spacecraft.  Solar wind speed increased from approximately 370 km/s
+to 420 km/s while the total magnetic field (IMF Bt) increased from 5
+to 15 nT.  A sudden impulse (SI) of 18 nT was observed on the
+Boulder magnetometer at 01/0907Z.  This event was possibly due to
+transient activity associated with a DSF on 28 October.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled with isolated active periods
+possible on day 1 (02 November) due to continued activity from
+transient activity on 01 November.  Mostly quiet conditions are
+expected on days 2 - 3 (03 - 04 November).
+III.  Event Probabilities 02 Nov-04 Nov
+Class M    60/60/60
+Class X    05/05/05
+Proton     05/05/05
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           01 Nov 139
+Predicted   02 Nov-04 Nov  145/145/150
+90 Day Mean        01 Nov 125
+V.  Geomagnetic A Indices
+Observed Afr/Ap 31 Oct  009/008
+Estimated Afr/Ap 01 Nov  015/027
+Predicted Afr/Ap 02 Nov-04 Nov  008/010-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 02 Nov-04 Nov
+A.  Middle Latitudes
+Active                10/05/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/05/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01

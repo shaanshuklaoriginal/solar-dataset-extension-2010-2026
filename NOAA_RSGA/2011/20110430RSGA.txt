@@ -1,0 +1,46 @@
+:Product: 0430RSGA.txt
+:Issued: 2011 Apr 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 120 Issued at 2200Z on 30 Apr 2011
+IA.  Analysis of Solar Active Regions and Activity from  29/2100Z
+to 30/2100Z:  Solar activity was low. Regions 1195 (S16W80) and 1199
+(N20W74) produced a few C-class flares during the period.
+IB.  Solar Activity Forecast:  Solar activity is forecast to be low
+with a chance for a M-class flare on days 1 and 2 (1-2 May), before
+Regions 1195 and 1199 rotate off the disk. Low activity is expected
+on day 3 (3 May).
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z:
+The geomagnetic field ranged from unsettled to minor storm conditions
+as the result of coronal hole (CH) high-speed stream (HSS) effects.
+The solar wind speeds at the ACE spacecraft ranged between 640 km/s
+and 700 km/s during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to range from unsettled to active conditions with isolated
+minor storms possible for days 1 and 2 (1-2 May).  Mostly quiet to
+unsettled conditions are expected on day 3 (3 May), when CH HSS
+effects begin to subside.
+III.  Event Probabilities 01 May-03 May
+Class M    25/25/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           30 Apr 110
+Predicted   01 May-03 May  110/110/105
+90 Day Mean        30 Apr 108
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Apr  008/012
+Estimated Afr/Ap 30 Apr  015/025
+Predicted Afr/Ap 01 May-03 May  015/018-010/010-008/008
+VI.  Geomagnetic Activity Probabilities 01 May-03 May
+A.  Middle Latitudes
+Active                50/40/30
+Minor storm           40/30/10
+Major-severe storm    10/05/01
+B.  High Latitudes
+Active                25/50/40
+Minor storm           50/25/15
+Major-severe storm    15/10/05

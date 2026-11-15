@@ -1,0 +1,52 @@
+:Product: 0808RSGA.txt
+:Issued: 2022 Aug 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 220 Issued at 2200Z on 08 Aug 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 07/2100Z to
+08/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+07/2306Z from Region 3068 (S15W83). There are currently 5 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares on days one, two, and three (09 Aug,
+10 Aug, 11 Aug).
+
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z: The geomagnetic
+field has been at unsettled to major storm levels for the past 24 hours.
+Solar wind speed reached a peak of 669 km/s at 08/0217Z. Total IMF
+reached 14 nT at 07/2233Z. The maximum southward component of Bz reached
+-12 nT at 07/2209Z.  Electrons greater than 2 MeV at geosynchronous
+orbit reached a peak level of 1641 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one and two (09 Aug, 10 Aug) and
+quiet to unsettled levels on day three (11 Aug).
+
+III.  Event probabilities 09 Aug-11 Aug
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           08 Aug 113
+Predicted   09 Aug-11 Aug 112/112/112
+90 Day Mean        08 Aug 125
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Aug  020/023
+Estimated Afr/Ap 08 Aug  023/030
+Predicted Afr/Ap 09 Aug-11 Aug  014/016-010/012-007/010
+
+VI.  Geomagnetic Activity Probabilities 09 Aug-11 Aug
+A.  Middle Latitudes
+Active                40/35/30
+Minor Storm           25/20/10
+Major-severe storm    05/05/01
+B.  High Latitudes
+Active                10/10/15
+Minor Storm           25/30/30
+Major-severe storm    60/50/40

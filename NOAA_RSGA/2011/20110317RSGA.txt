@@ -1,0 +1,43 @@
+:Product: 0317RSGA.txt
+:Issued: 2011 Mar 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 076 Issued at 2200Z on 17 Mar 2011
+IA.  Analysis of Solar Active Regions and Activity from  16/2100Z
+to 17/2100Z:  Solar activity was at very low levels. Region 1169
+(N18W89) produced a single B4 X-ray event at 17/1153Z. After further
+analysis, the partial-halo CME associated with the long-duration
+C3/Sf flare at 16/2034Z from Region 1169 (N17W75 at the time of the
+event) did not appear to be Earth-directed. New Region 1174 (N22W36)
+emerged on the disk as a simple bi-polar group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+predominately very low levels for the next three days (18 - 20
+March). A chance for C-class activity exists all three days.
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z:
+The geomagnetic field was quiet at all latitudes.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the next three days (18 - 20 March).
+III.  Event Probabilities 18 Mar-20 Mar
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           17 Mar 090
+Predicted   18 Mar-20 Mar  085/080/085
+90 Day Mean        17 Mar 094
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Mar  001/000
+Estimated Afr/Ap 17 Mar  002/002
+Predicted Afr/Ap 18 Mar-20 Mar  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 18 Mar-20 Mar
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           01/01/01
+Major-severe storm    01/01/01

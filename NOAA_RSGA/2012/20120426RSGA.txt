@@ -1,0 +1,54 @@
+:Product: 0426RSGA.txt
+:Issued: 2012 Apr 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 117 Issued at 2200Z on 26 Apr 2012
+IA.  Analysis of Solar Active Regions and Activity from  25/2100Z
+to 26/2100Z:  Solar activity was at low levels.  Region 1460 (N15W93)
+and Region 1465 (S18W39) both produced C1 x-ray events at 25/2242Z
+and 26/1723Z respectively.  Both had associated CMEs but neither are
+expected to be geoeffective.  Three consecutive CMEs appeared on
+LASCO/C2 imagery at 26/0924Z, 26/1148Z, and 26/1638Z.  All three
+were around the west limb and are not expected to be geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+low with a slight chance for M-class activity for the next three
+days (27 - 29 April).
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z:
+The geomagnetic field started the period at minor storm levels, but
+fell to quiet levels and remained mostly quiet for the remainder of
+the period.  This activity was attributed to Coronal Hole High Speed
+Stream (CH HSS) effects.  Solar wind speeds have steadily decreased
+from approximately 730 km/s to approximately 560 km/s.  The Bz
+component of the interplanetary magnetic field has remained fairly
+neutral with minor fluctuations between +3 and -5 nT.  Overall, the
+total field fluctuated between +2 and +8 nT. The greater than 2 MeV
+electron flux at geosynchronous orbit was at high levels throughout
+the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels with isolated active
+periods for day one (27 April) as CH HSS effects begin to wane. 
+Days two and three (28 -29 April) are expected to be mostly quiet.
+III.  Event Probabilities 27 Apr-29 Apr
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           26 Apr 119
+Predicted   27 Apr-29 Apr  115/110/105
+90 Day Mean        26 Apr 112
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Apr  018/031
+Estimated Afr/Ap 26 Apr  013/017
+Predicted Afr/Ap 27 Apr-29 Apr  007/010-004/005-004/005
+VI.  Geomagnetic Activity Probabilities 27 Apr-29 Apr
+A.  Middle Latitudes
+Active                20/10/10
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           25/15/15
+Major-severe storm    25/10/10

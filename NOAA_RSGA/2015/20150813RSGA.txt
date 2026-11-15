@@ -1,0 +1,51 @@
+:Product: 0813RSGA.txt
+:Issued: 2015 Aug 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 225 Issued at 2200Z on 13 Aug 2015
+
+IA.  Analysis of Solar Active Regions and Activity from 12/2100Z to
+13/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 3 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low with a
+slight chance for an M-class flare on day one (14 Aug) and expected to
+be very low with a chance for a C-class flares on days two and three (15
+Aug, 16 Aug).
+
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+435 km/s at 12/2132Z. Total IMF reached 7 nT at 12/2100Z. The maximum
+southward component of Bz reached -6 nT at 13/1020Z. Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 749 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one and two (14 Aug, 15 Aug) and quiet to
+minor storm levels on day three (16 Aug).
+
+III.  Event probabilities 14 Aug-16 Aug
+Class M    10/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           13 Aug 095
+Predicted   14 Aug-16 Aug 095/095/090
+90 Day Mean        13 Aug 112
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Aug  012/012
+Estimated Afr/Ap 13 Aug  011/011
+Predicted Afr/Ap 14 Aug-16 Aug  006/005-006/005-018/020
+
+VI.  Geomagnetic Activity Probabilities 14 Aug-16 Aug
+A.  Middle Latitudes
+Active                10/10/35
+Minor Storm           01/01/25
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                15/15/10
+Minor Storm           15/15/25
+Major-severe storm    15/15/60

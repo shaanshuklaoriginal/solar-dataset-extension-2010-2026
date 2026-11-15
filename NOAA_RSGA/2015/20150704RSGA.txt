@@ -1,0 +1,54 @@
+:Product: 0704RSGA.txt
+:Issued: 2015 Jul 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 185 Issued at 2200Z on 04 Jul 2015
+
+IA.  Analysis of Solar Active Regions and Activity from 03/2100Z to
+04/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+04/0008Z from Region 2378 (S16E44). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a slight chance for an M-class flare on days one, two, and three (05
+Jul, 06 Jul, 07 Jul).
+
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed, as measured by the ACE spacecraft, reached a peak
+speed of 605 km/s at 04/2023Z. Total IMF reached 23 nT at 04/1905Z. The
+maximum southward component of Bz reached -22 nT at 04/1911Z. Electrons
+greater than 2 MeV at geosynchronous orbit reached a peak level of 4503
+pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at active to minor storm levels on day one (05 Jul), unsettled to
+active levels on day two (06 Jul) and quiet to unsettled levels on day
+three (07 Jul).
+
+III.  Event probabilities 05 Jul-07 Jul
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           04 Jul 117
+Predicted   05 Jul-07 Jul 115/120/120
+90 Day Mean        04 Jul 124
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Jul  002/003
+Estimated Afr/Ap 04 Jul  014/022
+Predicted Afr/Ap 05 Jul-07 Jul  020/030-014/018-007/008
+
+VI.  Geomagnetic Activity Probabilities 05 Jul-07 Jul
+A.  Middle Latitudes
+Active                35/30/25
+Minor Storm           25/15/10
+Major-severe storm    05/05/01
+B.  High Latitudes
+Active                10/15/15
+Minor Storm           25/30/30
+Major-severe storm    55/50/40

@@ -1,0 +1,42 @@
+:Product: 0111RSGA.txt
+:Issued: 2012 Jan 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 011 Issued at 2200Z on 11 Jan 2012
+IA.  Analysis of Solar Active Regions and Activity from  10/2100Z
+to 11/2100Z:  Solar activity was low. Nominal C-class flares
+occurred.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low with a chance for a M-class flare for the next 3 days
+(12-14 January).
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+forecast to be mostly quiet on day 1 (12 January). Conditions are
+expected to increase for days 2-3 (13-14 January), with possible
+unsettled and active conditions due to a high speed stream (HSS)
+from a coronal hole (CH).
+III.  Event Probabilities 12 Jan-14 Jan
+Class M    25/25/25
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           11 Jan 120
+Predicted   12 Jan-14 Jan  120/120/120
+90 Day Mean        11 Jan 145
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Jan  005/004
+Estimated Afr/Ap 11 Jan  000/005
+Predicted Afr/Ap 12 Jan-14 Jan  003/005-007/008-007/008
+VI.  Geomagnetic Activity Probabilities 12 Jan-14 Jan
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor storm           01/10/10
+Major-severe storm    01/01/01

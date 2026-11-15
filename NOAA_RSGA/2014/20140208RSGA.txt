@@ -1,0 +1,55 @@
+:Product: 0208RSGA.txt
+:Issued: 2014 Feb 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 39 Issued at 2200Z on 08 Feb 2014
+
+IA.  Analysis of Solar Active Regions and Activity from 07/2100Z to
+08/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C8 event observed at
+08/1833Z from Region 1967 (S13W77). There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on day one (09 Feb) and
+expected to be low with a chance for M-class flares on day two (10 Feb)
+and likely to be low with a slight chance for an M-class flare on day
+three (11 Feb).
+
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+476 km/s at 08/0819Z. Total IMF reached 14 nT at 08/0010Z. The maximum
+southward component of Bz reached -9 nT at 07/2201Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (09 Feb), quiet to unsettled
+levels on day two (10 Feb) and quiet levels on day three (11 Feb).
+Protons greater than 10 Mev have a slight chance of crossing threshold
+on days one and two (09 Feb, 10 Feb).
+
+III.  Event probabilities 09 Feb-11 Feb
+Class M    60/40/10
+Class X    20/05/01
+Proton     10/10/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           08 Feb 172
+Predicted   09 Feb-11 Feb 160/145/140
+90 Day Mean        08 Feb 155
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Feb  007/006
+Estimated Afr/Ap 08 Feb  016/018
+Predicted Afr/Ap 09 Feb-11 Feb  010/012-008/008-006/005
+
+VI.  Geomagnetic Activity Probabilities 09 Feb-11 Feb
+A.  Middle Latitudes
+Active                35/15/05
+Minor Storm           15/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           30/25/15
+Major-severe storm    45/25/05

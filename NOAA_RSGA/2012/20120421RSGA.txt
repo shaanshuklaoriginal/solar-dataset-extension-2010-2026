@@ -1,0 +1,60 @@
+:Product: 0421RSGA.txt
+:Issued: 2012 Apr 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 112 Issued at 2200Z on 21 Apr 2012
+IA.  Analysis of Solar Active Regions and Activity from  20/2100Z
+to 21/2100Z:  Solar activity was low. Regions 1460 (N16W27 -
+Dkc/beta) and 1465 (S17E27 - Dso/beta) each produced a low-level
+C-class flare. Region 1460 showed minor interior spot growth and
+some mixed polarities in its trailer portion. Minor interior spot
+growth also occurred in Region 1465 as well as penumbral growth in
+its trailer. Region 1459 (S14W13 - Eac/beta) showed penumbral growth
+in its interior portion and maintained a simple beta magnetic
+configuration. No Earth-directed CMEs were observed during the
+period. No new regions were numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+during the period (22 - 24 April) with a chance for an isolated
+M-class flare.
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z:
+Geomagnetic field activity was at quiet levels until around 21/1900Z,
+then increased to quiet to unsettled levels. The increase was
+associated with a weak interplanetary shock (IPS) passage, detected
+at ACE at around 21/1611Z, and followed by a weak geomagnetic field
+response at around 21/1712Z (no Sudden Geomagnetic Impulse
+observed). ACE solar wind data showed a change to mostly southward
+IMF Bz following the IPS passage (maximum deflections to -8 nT) as
+well as a gradual increase in IMF Bt (peaks to 9 nT). A minor
+increase in wind speeds also followed the IPS passage. It is likely
+the CME passage was associated with the partial-halo CME observed on
+18 April.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at quiet to unsettled levels during the period (22 -
+24 April) with a chance for active levels. Weak CME-passage effects
+are expected during 22 - 23 April (another CME is expected to arrive
+late on 22 April). A recurrent coronal hole high-speed stream is
+expected to become geoeffective on 24 April.
+III.  Event Probabilities 22 Apr-24 Apr
+Class M    30/30/30
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           21 Apr 149
+Predicted   22 Apr-24 Apr  150/150/145
+90 Day Mean        21 Apr 112
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 Apr  007/008
+Estimated Afr/Ap 21 Apr  006/007
+Predicted Afr/Ap 22 Apr-24 Apr  011/012-010/010-010/010
+VI.  Geomagnetic Activity Probabilities 22 Apr-24 Apr
+A.  Middle Latitudes
+Active                20/20/25
+Minor storm           10/10/15
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/25/35
+Minor storm           15/15/25
+Major-severe storm    05/05/10

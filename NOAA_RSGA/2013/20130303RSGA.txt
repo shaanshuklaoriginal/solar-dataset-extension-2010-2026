@@ -1,0 +1,49 @@
+:Product: 0303RSGA.txt
+:Issued: 2013 Mar 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 62 Issued at 2200Z on 03 Mar 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 02/2100Z to
+03/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 8 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low on days
+one, two, and three (04 Mar, 05 Mar, 06 Mar).
+
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+562 km/s at 02/2144Z. Total IMF reached 5 nT at 03/1837Z. The maximum
+southward component of Bz reached -4 nT at 03/0124Z. Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 5517 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one, two, and three (04 Mar,
+05 Mar, 06 Mar).
+
+III.  Event probabilities 04 Mar-06 Mar
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           03 Mar 112
+Predicted   04 Mar-06 Mar 110/110/105
+90 Day Mean        03 Mar 114
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Mar  014/012
+Estimated Afr/Ap 03 Mar  008/008
+Predicted Afr/Ap 04 Mar-06 Mar  010/008-007/010-008/008
+
+VI.  Geomagnetic Activity Probabilities 04 Mar-06 Mar
+A.  Middle Latitudes
+Active                30/20/20
+Minor Storm           10/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/25/25
+Major-severe storm    40/25/25

@@ -1,0 +1,46 @@
+:Product: 0206RSGA.txt
+:Issued: 2010 Feb 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 037 Issued at 2200Z on 06 Feb 2010
+IA.  Analysis of Solar Active Regions and Activity from  05/2100Z
+to 06/2100Z:  Solar activity was moderate.  A new region emerged at a
+rapid pace today and was numbered Region 1045 (N24E15).  The region
+produced several C-class events and a M2/Sn event at 06/1859Z.  The
+region has grown to around 290 millionths of white light area
+coverage with a magnetic beta-gamma configuration and a possible
+delta magnetic configuration within its interior spots.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for an M-class event.
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z:
+The geomagnetic field was quiet to unsettled.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled with isolated active conditions, and a
+slight chance for isolated minor storming for the next three days
+(07-09 February).  The increase in activity is expected due to CME
+activity from 02-03 February and a recurrent coronal hole high speed
+stream.
+III.  Event Probabilities 07 Feb-09 Feb
+Class M    30/30/30
+Class X    05/05/05
+Proton     05/05/05
+PCAF       red
+IV.  Penticton 10.7 cm Flux
+Observed           06 Feb 088
+Predicted   07 Feb-09 Feb  090/092/094
+90 Day Mean        06 Feb 078
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Feb  000/003
+Estimated Afr/Ap 06 Feb  002/005
+Predicted Afr/Ap 07 Feb-09 Feb  012/012-012/012-008/012
+VI.  Geomagnetic Activity Probabilities 07 Feb-09 Feb
+A.  Middle Latitudes
+Active                30/30/25
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                35/35/35
+Minor storm           10/10/10
+Major-severe storm    05/05/05

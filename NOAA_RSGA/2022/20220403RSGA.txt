@@ -1,0 +1,55 @@
+:Product: 0403RSGA.txt
+:Issued: 2022 Apr 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 93 Issued at 2200Z on 03 Apr 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 02/2100Z to
+03/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C6 event observed at
+03/1309Z from Region 2976 (N20W78). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a chance for X-class flares on day one (04 Apr) and likely to be
+low with a slight chance for an M-class flare on days two and three (05
+Apr, 06 Apr).
+
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 541 km/s at 02/2322Z. Total IMF reached 8
+nT at 03/1553Z. The maximum southward component of Bz reached -4 nT at
+02/2159Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 14 pfu at 02/2110Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 2596 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one and two (04 Apr, 05 Apr)
+and quiet levels on day three (06 Apr). Protons greater than 10 Mev have
+a chance of crossing threshold on day one (04 Apr).
+
+III.  Event probabilities 04 Apr-06 Apr
+Class M    65/15/10
+Class X    25/05/01
+Proton     50/05/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           03 Apr 140
+Predicted   04 Apr-06 Apr 130/120/120
+90 Day Mean        03 Apr 112
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Apr  019/022
+Estimated Afr/Ap 03 Apr  011/012
+Predicted Afr/Ap 04 Apr-06 Apr  007/010-009/008-006/005
+
+VI.  Geomagnetic Activity Probabilities 04 Apr-06 Apr
+A.  Middle Latitudes
+Active                30/20/15
+Minor Storm           10/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           30/25/20
+Major-severe storm    40/30/20

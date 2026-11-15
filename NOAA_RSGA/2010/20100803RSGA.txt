@@ -1,0 +1,55 @@
+:Product: 0803RSGA.txt
+:Issued: 2010 Aug 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 215 Issued at 2200Z on 03 Aug 2010
+IA.  Analysis of Solar Active Regions and Activity from  02/2100Z
+to 03/2100Z:  Solar activity was very low. Region 1092 (N15W04)
+produced an isolated B-class flare. Region 1092 remained a stable
+Cho-type group with a beta magnetic configuration. No new regions
+were assigned.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low. However, there will be a chance for an isolated C-class flare
+from Region 1092.
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z:
+Geomagnetic field activity was at mostly quiet levels until late in
+the period. Activity increased to unsettled to active levels
+following a sudden geomagnetic impulse (SI) at 03/1741Z (21 nT, as
+measured by the Boulder USGS magnetometer). The SI was preceded by
+the arrival of an interplanetary shock at the ACE spacecraft at
+03/1656Z. Both effects were due to the arrival of a CME associated
+with the long-duration C3 flare on 01 August. The greater than 2 MeV
+electron flux at geosynchronous orbit reached high levels during the
+period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at unsettled to minor storm levels on day 1 (04
+August) as the current CME passage continues. Activity is forecast
+to increase to active to minor storm levels with a chance for major
+storm levels on day 2 (05 August) due to the arrival of the halo-CME
+observed on 01 August (associated with a large filament
+disappearance). Activity is expected to decrease to unsettled to
+active levels on day 3 (06 August) as CME effects subside.
+III.  Event Probabilities 04 Aug-06 Aug
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           03 Aug 081
+Predicted   04 Aug-06 Aug  082/084/084
+90 Day Mean        03 Aug 075
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Aug  005/005
+Estimated Afr/Ap 03 Aug  012/015
+Predicted Afr/Ap 04 Aug-06 Aug  020/025-030/035-015/015
+VI.  Geomagnetic Activity Probabilities 04 Aug-06 Aug
+A.  Middle Latitudes
+Active                40/30/25
+Minor storm           20/40/10
+Major-severe storm    05/20/05
+B.  High Latitudes
+Active                45/15/25
+Minor storm           25/45/15
+Major-severe storm    10/35/01

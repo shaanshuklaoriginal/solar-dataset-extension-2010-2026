@@ -1,0 +1,45 @@
+:Product: 0328RSGA.txt
+:Issued: 2010 Mar 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 087 Issued at 2200Z on 28 Mar 2010
+IA.  Analysis of Solar Active Regions and Activity from  27/2100Z
+to 28/2100Z:  Solar activity was very low. Region 1057 (N15E04)
+remained at a Beta magnetic classification while growing in size.
+Region 1059 (S22E61), now a Hax Alpha spot has increased in size as
+well.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with C-class flares expected and a slight chance for a M-class flare
+over the next 3 days (29-31 March).
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z:
+The geomagnetic field was quiet with an isolated period of unsettled
+to active conditions between 03-06Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain mostly quiet for day 1 (29 March), with brief
+periods of unsettled to active conditions possible days 2-3 (30-31
+March) due to brief periods of Bz south with slightly elevated solar
+wind speeds.
+III.  Event Probabilities 29 Mar-31 Mar
+Class M    20/20/20
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           28 Mar 086
+Predicted   29 Mar-31 Mar  088/088/088
+90 Day Mean        28 Mar 083
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Mar  001/003
+Estimated Afr/Ap 28 Mar  005/007
+Predicted Afr/Ap 29 Mar-31 Mar  005/007-007/007-007/007
+VI.  Geomagnetic Activity Probabilities 29 Mar-31 Mar
+A.  Middle Latitudes
+Active                20/25/25
+Minor storm           05/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                30/40/40
+Minor storm           10/15/15
+Major-severe storm    01/01/01

@@ -1,0 +1,45 @@
+:Product: 0612RSGA.txt
+:Issued: 2010 Jun 12 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 163 Issued at 2200Z on 12 Jun 2010
+IA.  Analysis of Solar Active Regions and Activity from  11/2100Z
+to 12/2100Z:  Solar activity was moderate during the past 24 hours. 
+Region 1081 (N24W58) produced an M2.0/SN flare at 0057Z which was
+associated with a Type II radio sweep and a weak CME (not earthward
+directed). The region also produced a C6.1 flare at 0917Z.  Region
+1081 is a small D-type group and appears to be decaying slowly. 
+Region 1080 (S24W65) maintains a beta magnetic classification and
+produced a C1.0 flare.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance for an M-Class event for the next three days
+(13-15 June).
+IIA.  Geophysical Activity Summary 11/2100Z to 12/2100Z:
+The geomagnetic field was quiet. The greater than 2 MeV electron flux
+at geosynchronous orbit was at high levels during the last 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain quiet for the next three days (13-15 June).
+III.  Event Probabilities 13 Jun-15 Jun
+Class M    10/10/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           12 Jun 076
+Predicted   13 Jun-15 Jun  076/076/074
+90 Day Mean        12 Jun 076
+V.  Geomagnetic A Indices
+Observed Afr/Ap 11 Jun  004/005
+Estimated Afr/Ap 12 Jun  003/005
+Predicted Afr/Ap 13 Jun-15 Jun  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 13 Jun-15 Jun
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

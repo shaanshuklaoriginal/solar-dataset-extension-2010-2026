@@ -1,0 +1,42 @@
+:Product: 0925RSGA.txt
+:Issued: 2012 Sep 25 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 269 Issued at 2200Z on 25 Sep 2012
+IA.  Analysis of Solar Active Regions and Activity from  24/2100Z
+to 25/2100Z:  Solar activity was low.  The largest flare of the
+period was a C4 flare at 25/1753Z from Region 1580 (N17E67).  New
+Region 1581 (N22E03) was numbered today.  No Earth-directed CMEs
+were observed.
+IB.  Solar Activity Forecast:  Solar activity is expected to continue
+at low levels with a slight chance for M-class flares.
+IIA.  Geophysical Activity Summary 24/2100Z to 25/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to continue at mostly quiet conditions.  There is a slight
+chance for a greater than 10 MeV proton event from active regions
+rotating around the southeast limb.
+III.  Event Probabilities 26 Sep-28 Sep
+Class M    20/20/20
+Class X    01/01/01
+Proton     10/10/10
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           25 Sep 140
+Predicted   26 Sep-28 Sep  145/145/150
+90 Day Mean        25 Sep 124
+V.  Geomagnetic A Indices
+Observed Afr/Ap 24 Sep  002/005
+Estimated Afr/Ap 25 Sep  002/005
+Predicted Afr/Ap 26 Sep-28 Sep  004/005-004/005-006/005
+VI.  Geomagnetic Activity Probabilities 26 Sep-28 Sep
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/10
+Major-severe storm    05/05/05

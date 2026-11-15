@@ -1,0 +1,52 @@
+:Product: 0917RSGA.txt
+:Issued: 2021 Sep 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 260 Issued at 2200Z on 17 Sep 2021
+
+IA.  Analysis of Solar Active Regions and Activity from 16/2100Z to
+17/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C3 event observed at
+17/0420Z. There are currently 0 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares on days one, two, and three (18 Sep,
+19 Sep, 20 Sep).
+
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 421 km/s at 17/2055Z. Total IMF
+reached 14 nT at 17/1748Z. The maximum southward component of Bz reached
+-13 nT at 17/1812Z.  Electrons greater than 2 MeV at geosynchronous
+orbit reached a peak level of 294 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (18 Sep), quiet to
+unsettled levels on day two (19 Sep) and quiet levels on day three (20
+Sep).
+
+III.  Event probabilities 18 Sep-20 Sep
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           17 Sep 073
+Predicted   18 Sep-20 Sep 075/078/080
+90 Day Mean        17 Sep 082
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Sep  003/004
+Estimated Afr/Ap 17 Sep  012/020
+Predicted Afr/Ap 18 Sep-20 Sep  014/015-008/010-006/005
+
+VI.  Geomagnetic Activity Probabilities 18 Sep-20 Sep
+A.  Middle Latitudes
+Active                40/30/10
+Minor Storm           25/10/01
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor Storm           25/30/20
+Major-severe storm    60/40/20

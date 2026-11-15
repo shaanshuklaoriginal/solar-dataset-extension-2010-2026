@@ -1,0 +1,45 @@
+:Product: 1006RSGA.txt
+:Issued: 2010 Oct 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 279 Issued at 2200Z on 06 Oct 2010
+IA.  Analysis of Solar Active Regions and Activity from  05/2100Z
+to 06/2100Z:  Solar activity has been at very low levels for the past
+24 hours. An eruptive filament (N25E50) was observed lifting off the
+solar disk at 06/0200Z. Initial observations by LASCO indicate a
+partial-halo CME associated with the eruptive filament with speeds
+around 160 km/s. The visible disk remains spotless. No new regions
+were numbered today.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low levels for the next three days (07-09 October).
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z:
+The geomagnetic field has been at predominantly quiet to unsettled
+levels for the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at mostly quiet levels for the next three days (07-09
+October). The partial-halo CME observed earlier in the day does not
+look to be geoeffective.
+III.  Event Probabilities 07 Oct-09 Oct
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           06 Oct 074
+Predicted   07 Oct-09 Oct  075/076/078
+90 Day Mean        06 Oct 082
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Oct  006/006
+Estimated Afr/Ap 06 Oct  006/008
+Predicted Afr/Ap 07 Oct-09 Oct  005/007-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 07 Oct-09 Oct
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

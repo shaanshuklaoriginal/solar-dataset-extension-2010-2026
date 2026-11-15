@@ -1,0 +1,74 @@
+:Product: 1125RSGA.txt
+:Issued: 2012 Nov 25 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 330 Issued at 2200Z on 25 Nov 2012
+
+IA.  Analysis of Solar Active Regions and Activity from 24/2100Z to
+25/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+25/2014Z from the west limb. Region 1618 (N08W55) was responsible for a
+B9 flare at 24/0617Z. Region 1618 was classified as an Ekc type group
+covering 270 millions of the visible solar disk.  Further magnetic
+simplification was observed in Region 1618s leader spot, however it
+contained a delta in its larger trailing spot earlier in the period. 
+Region 1620 (S13W14) appeared to develop gamma characteristics over the
+past 24 hours.  New flux emergence was noted in the southeast quadrant
+near S17E38 and S24E30.  These regions were small, simple beta type
+groups and will be monitored for continued development before being
+numbered.
+
+IB.  Solar Activity Forecast: Solar activity is expected to be at low
+levels on days one, two, and three (26 Nov, 27 Nov, 28 Nov) with a
+chance for an M-class event.
+
+IIA.  Geophysical Activity Summary 24/2100Z to 25/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. There were no
+obvious signs the 21 November CME passage in the time series data from
+the ACE spacecraft in the past 24 hours. Solar wind speed began rising
+slowly from 350 km/s around 25/0400 UTC and peaked at 487 km/s 11 hours
+later.  The Phi angle was near 225 degrees until 25/1000 UTC when it
+became variable.  It came to rest at 315 degrees (negative sector) about
+90 minutes later.  Coincident with the variable period, Bz became
+negative.  In the hours prior, it had been between 0 and +10nT.  The
+temperature also began rising about the same time as the wind speed, but
+peaked around 25/1100 UTC.  The EPAM instrument reported low energy
+particle flux rose from around 25/0600 to 0900 UTC, but abruptly leveled
+off afterwards and only minor fluctuations have followed.  Total IMF
+reached 12.3 nT at 25/0303Z. The maximum southward component of Bz
+reached -8.1 nT at 25/1259Z.
+
+IIB.  Geophysical Activity Forecast: The geomagnetic field should begin
+at mostly quiet levels with some isolated unsettled periods.  WSA-ENLIL
+model runs place the 23 Nov CME at earth at the earliest by 15 UTC on
+the 26th and at the latest by about 00 UTC on the 27th.  With the CME
+arrival, conditions are expected to be unsettled to active with a slight
+chance for isolated minor storm levels, particularly at high latitudes.
+
+III.  Event probabilities 26 Nov-28 Nov
+Class M    30/30/30
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           25 Nov 121
+Predicted   26 Nov-28 Nov 120/115/110
+90 Day Mean        25 Nov 123
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 24 Nov  011/015
+Estimated Afr/Ap 25 Nov  005/006
+Predicted Afr/Ap 26 Nov-28 Nov  009/010-013/015-008/008
+
+VI.  Geomagnetic Activity Probabilities 26 Nov-28 Nov
+A.  Middle Latitudes
+Active                20/25/10
+Minor Storm           10/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/25/15
+Major-severe storm    30/35/15

@@ -1,0 +1,49 @@
+:Product: 0114RSGA.txt
+:Issued: 2021 Jan 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 14 Issued at 2200Z on 14 Jan 2021
+
+IA.  Analysis of Solar Active Regions and Activity from 13/2100Z to
+14/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 0 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+on days one, two, and three (15 Jan, 16 Jan, 17 Jan).
+
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 409 km/s at 13/2112Z. Total IMF reached 5 nT at
+14/1216Z. The maximum southward component of Bz reached -2 nT at
+14/1814Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 261 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one and two (15 Jan, 16 Jan) and quiet to
+unsettled levels on day three (17 Jan).
+
+III.  Event probabilities 15 Jan-17 Jan
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           14 Jan 074
+Predicted   15 Jan-17 Jan 074/075/080
+90 Day Mean        14 Jan 085
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Jan  003/002
+Estimated Afr/Ap 14 Jan  002/003
+Predicted Afr/Ap 15 Jan-17 Jan  006/005-005/005-008/010
+
+VI.  Geomagnetic Activity Probabilities 15 Jan-17 Jan
+A.  Middle Latitudes
+Active                10/20/40
+Minor Storm           01/05/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/25/30
+Major-severe storm    15/25/50

@@ -1,0 +1,52 @@
+:Product: 0630RSGA.txt
+:Issued: 2021 Jun 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 181 Issued at 2200Z on 30 Jun 2021
+
+IA.  Analysis of Solar Active Regions and Activity from 29/2100Z to
+30/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C3 event observed at
+30/1815Z from Region 2835 (S18W01). There are currently 3 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low with a
+slight chance for an M-class flare on days one, two, and three (01 Jul,
+02 Jul, 03 Jul).
+
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 521 km/s at 30/2058Z. Total IMF reached 10
+nT at 30/2043Z. The maximum southward component of Bz reached -10 nT at
+30/1721Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 251 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (01 Jul) and quiet to
+unsettled levels on days two and three (02 Jul, 03 Jul).
+
+III.  Event probabilities 01 Jul-03 Jul
+Class M    15/15/15
+Class X    01/01/01
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           30 Jun 094
+Predicted   01 Jul-03 Jul 094/094/094
+90 Day Mean        30 Jun 077
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Jun  005/005
+Estimated Afr/Ap 30 Jun  010/012
+Predicted Afr/Ap 01 Jul-03 Jul  010/012-008/008-009/012
+
+VI.  Geomagnetic Activity Probabilities 01 Jul-03 Jul
+A.  Middle Latitudes
+Active                35/20/25
+Minor Storm           10/05/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           30/25/30
+Major-severe storm    45/25/40

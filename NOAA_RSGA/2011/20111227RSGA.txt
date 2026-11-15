@@ -1,0 +1,46 @@
+:Product: 1227RSGA.txt
+:Issued: 2011 Dec 27 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 361 Issued at 2200Z on 27 Dec 2011
+IA.  Analysis of Solar Active Regions and Activity from  26/2100Z
+to 27/2100Z:  Solar activity has been at low levels for the past 24
+hours. Regions 1386 (S18E22) and 1387 (S21W57) both have produced
+multiple C-class events, with the largest being a C8/1f at 27/0422Z
+from Region 1386. Associated with this event, was a non Earth
+directed CME. Both Regions continue to grow and evolve as they
+rotate across the disk. Region 1388 (S23E67) was numbered early in
+the period as it rotated onto the east limb.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+moderate levels for the next three days (28 - 30 December).
+IIA.  Geophysical Activity Summary 26/2100Z to 27/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected  to be at quiet to active levels with isolated periods of
+minor storm levels on days one and two (28 - 29 December) with
+multiple CME arrivals expected. A decrease in activity is expected
+on day three (30 December) as CME effects wane.
+III.  Event Probabilities 28 Dec-30 Dec
+Class M    70/70/70
+Class X    01/01/01
+Proton     10/10/10
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           27 Dec 140
+Predicted   28 Dec-30 Dec  140/140/140
+90 Day Mean        27 Dec 144
+V.  Geomagnetic A Indices
+Observed Afr/Ap 26 Dec  002/000
+Estimated Afr/Ap 27 Dec  000/000
+Predicted Afr/Ap 28 Dec-30 Dec  012/018-014/022-011/010
+VI.  Geomagnetic Activity Probabilities 28 Dec-30 Dec
+A.  Middle Latitudes
+Active                20/25/15
+Minor storm           05/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/15/15
+Minor storm           25/30/20
+Major-severe storm    20/40/20

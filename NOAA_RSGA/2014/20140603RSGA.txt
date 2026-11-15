@@ -1,0 +1,51 @@
+:Product: 0603RSGA.txt
+:Issued: 2014 Jun 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 154 Issued at 2200Z on 03 Jun 2014
+
+IA.  Analysis of Solar Active Regions and Activity from 02/2100Z to
+03/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was an M1 event observed at
+03/0409Z from Region 2077 (S08E17). There are currently 5 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low with a
+slight chance for an M-class flare on days one, two, and three (04 Jun,
+05 Jun, 06 Jun).
+
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+380 km/s at 03/1702Z. Total IMF reached 10 nT at 03/1824Z. The maximum
+southward component of Bz reached -8 nT at 02/2233Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one and three (04 Jun, 06
+Jun) and quiet levels on day two (05 Jun).
+
+III.  Event probabilities 04 Jun-06 Jun
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           03 Jun 107
+Predicted   04 Jun-06 Jun 105/105/110
+90 Day Mean        03 Jun 139
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Jun  005/004
+Estimated Afr/Ap 03 Jun  006/008
+Predicted Afr/Ap 04 Jun-06 Jun  008/008-006/005-007/008
+
+VI.  Geomagnetic Activity Probabilities 04 Jun-06 Jun
+A.  Middle Latitudes
+Active                15/05/10
+Minor Storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/15/20
+Minor Storm           30/15/25
+Major-severe storm    20/05/15

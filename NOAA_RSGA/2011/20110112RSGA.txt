@@ -1,0 +1,46 @@
+:Product: 0112RSGA.txt
+:Issued: 2011 Jan 12 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 012 Issued at 2200Z on 12 Jan 2011
+IA.  Analysis of Solar Active Regions and Activity from  11/2100Z
+to 12/2100Z:  Solar activity remained very low. Region 1140 (N32W87)
+and Region 1146 (N24E19) are the only spotted regions on the visible
+disk.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low for the next three days (13 - 15 January).
+IIA.  Geophysical Activity Summary 11/2100Z to 12/2100Z:
+Geomagnetic field activity was at mostly quiet levels. An isolated
+unsettled period was observed at 12/1200Z. The greater than 2 MeV
+electron flux at geosynchronous orbit reached high levels during the
+period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at mostly quiet levels on day one (13 January).
+Activity is expected to increase to quiet to unsettled levels with a
+chance of isolated active levels on days two and three (14 - 15
+January) as a recurrent coronal hole high speed stream becomes
+geoeffective.
+III.  Event Probabilities 13 Jan-15 Jan
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           12 Jan 080
+Predicted   13 Jan-15 Jan  080/080/080
+90 Day Mean        12 Jan 084
+V.  Geomagnetic A Indices
+Observed Afr/Ap 11 Jan  005/005
+Estimated Afr/Ap 12 Jan  005/005
+Predicted Afr/Ap 13 Jan-15 Jan  005/005-007/008-007/007
+VI.  Geomagnetic Activity Probabilities 13 Jan-15 Jan
+A.  Middle Latitudes
+Active                05/20/20
+Minor storm           01/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/30/30
+Minor storm           01/15/15
+Major-severe storm    01/01/01

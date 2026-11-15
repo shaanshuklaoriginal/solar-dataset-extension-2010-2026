@@ -1,0 +1,47 @@
+:Product: 1006RSGA.txt
+:Issued: 2012 Oct 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 280 Issued at 2200Z on 06 Oct 2012
+IA.  Analysis of Solar Active Regions and Activity from  05/2100Z
+to 06/2100Z:  Solar activity has been at very low levels for the past
+24 hours. Region 1585 (S20E12) has been the most active region
+producing multiple B-class events. No Earth directed CMEs were
+observed in the past 24 hours.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low to low levels for the next three days (07-09 October).
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z:
+The geomagnetic field has been at predominantly quiet levels for the
+past 24 hours. Solar wind speeds, as measured by the ACE spacecraft,
+remain at nominal levels, however energetic particle measurments by
+the EPAM sensor,  indicate a CME is currently traveling towards
+Earth.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at predominantly quiet levels on day one (07
+October). An increase to unsettled to active levels with a chance
+for minor storm periods is expected on days two and three (08-09
+October) as the 05 October CME is forecasted to arrive.
+III.  Event Probabilities 07 Oct-09 Oct
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           06 Oct 099
+Predicted   07 Oct-09 Oct  098/098/095
+90 Day Mean        06 Oct 121
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Oct  003/004
+Estimated Afr/Ap 06 Oct  006/007
+Predicted Afr/Ap 07 Oct-09 Oct  005/005-015/018-017/020
+VI.  Geomagnetic Activity Probabilities 07 Oct-09 Oct
+A.  Middle Latitudes
+Active                05/30/35
+Minor storm           01/15/20
+Major-severe storm    01/05/05
+B.  High Latitudes
+Active                15/15/20
+Minor storm           15/20/25
+Major-severe storm    05/20/35

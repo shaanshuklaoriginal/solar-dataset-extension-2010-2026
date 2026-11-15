@@ -1,0 +1,48 @@
+:Product: 0813RSGA.txt
+:Issued: 2011 Aug 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 225 Issued at 2200Z on 13 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  12/2100Z
+to 13/2100Z:  Solar activity has been very low. The largest X-ray
+event of the past 24 hours was a B1 flare at 13/1431 UTC in Region
+1269 (S21W09). All active regions currently on the solar disk are
+small and simple.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low for the next three days (14-16 August). There is a slight chance
+of an isolated C-class X-ray flare.
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z:
+The geomagnetic field was quiet. Solar wind observations from the
+NASA ACE spacecraft indicate nominal background conditions with a
+solar wind speed of about 320 km/s, density near 4 p/cc, and the
+southward component of the IMF (Bz) fluctuating +/- 4 nT around
+zero. The greater than 2 MeV electron flux at geosynchronous orbit
+was at high levels throughout the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled for the next three days (14-16
+August) as a co-rotating interaction region followed by a negative
+polarity coronal hole high-speed stream become geoeffective.
+III.  Event Probabilities 14 Aug-16 Aug
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           13 Aug 083
+Predicted   14 Aug-16 Aug  082/080/080
+90 Day Mean        13 Aug 096
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Aug  003/005
+Estimated Afr/Ap 13 Aug  004/005
+Predicted Afr/Ap 14 Aug-16 Aug  012/012-010/010-010/010
+VI.  Geomagnetic Activity Probabilities 14 Aug-16 Aug
+A.  Middle Latitudes
+Active                40/30/30
+Minor storm           10/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                40/35/30
+Minor storm           15/15/10
+Major-severe storm    05/05/05

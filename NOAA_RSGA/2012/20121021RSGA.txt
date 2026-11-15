@@ -1,0 +1,54 @@
+:Product: 1021RSGA.txt
+:Issued: 2012 Oct 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 295 Issued at 2200Z on 21 Oct 2012
+IA.  Analysis of Solar Active Regions and Activity from  20/2100Z
+to 21/2100Z:  Solar activity has been moderate for the past 24 hours.
+An M1/Sf flare from Region 1598 (S12E70) occurred at 21/2003Z. 
+This region has shown some development as it has rotated further
+onto the visible disk and remains the main area of interest.  Region
+1596 (N07E33) continues to be the most magnetically complex region
+on the visible disk as an Eho/Beta-Gamma spot group, but has shown
+slight decay in the trailer spots over the past 24 hours.  All other
+spots remain relatively stable.  No Earth-directed CMEs were
+observed over the past 24 hours.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+for the next three days (22-24 October) with isolated M-class flares
+likely.
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z:
+The geomagnetic field was quiet over the past 24 hours.  Solar wind
+speed, as measured by the ACE spacecraft, remained steady at
+approximately 360 km/s while the Bz component of the interplanetary
+magnetic field showed minor deviations of +/-4 nT. The greater than
+2 MeV electron flux at geosynchronous orbit was at high levels
+throughout the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled on days 1 and 2 (22-23 October)
+due to the effects of a coronal hole high speed stream (CH HSS). 
+Conditions are expected to return to quiet levels by day 3 (24
+October) as the effects from the CH HSS begin to wane.
+III.  Event Probabilities 22 Oct-24 Oct
+Class M    60/60/60
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           21 Oct 144
+Predicted   22 Oct-24 Oct  145/140/140
+90 Day Mean        21 Oct 120
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 Oct  003/001
+Estimated Afr/Ap 21 Oct  004/004
+Predicted Afr/Ap 22 Oct-24 Oct  007/008-007/008-006/005
+VI.  Geomagnetic Activity Probabilities 22 Oct-24 Oct
+A.  Middle Latitudes
+Active                10/10/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/20/15
+Minor storm           30/25/15
+Major-severe storm    20/20/05

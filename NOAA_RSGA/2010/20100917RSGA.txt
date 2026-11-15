@@ -1,0 +1,43 @@
+:Product: 0917RSGA.txt
+:Issued: 2010 Sep 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 260 Issued at 2200Z on 17 Sep 2010
+IA.  Analysis of Solar Active Regions and Activity from  16/2100Z
+to 17/2100Z:  Solar activity ranged from very low to low.  Region
+1108 (S28E59) produced the largest event of the period, a C1/Sf at
+17/0122Z. Additionally, Region 1108 and Region 1106 (S20W08)
+produced several B-class events, along with numerous low frequency
+radio activity.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance of moderate activity from Region 1108.
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z:
+Geomagnetic activity was quiet to unsettled with an isolated active
+period observed at 17/0600Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominately quiet for the next three days (18 - 20
+September).
+III.  Event Probabilities 18 Sep-20 Sep
+Class M    25/25/25
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           17 Sep 082
+Predicted   18 Sep-20 Sep  085/086/086
+90 Day Mean        17 Sep 079
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Sep  005/006
+Estimated Afr/Ap 17 Sep  008/008
+Predicted Afr/Ap 18 Sep-20 Sep  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 18 Sep-20 Sep
+A.  Middle Latitudes
+Active                05/05/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/15
+Minor storm           01/01/01
+Major-severe storm    01/01/01

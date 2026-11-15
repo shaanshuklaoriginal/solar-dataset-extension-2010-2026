@@ -1,0 +1,55 @@
+:Product: 0205RSGA.txt
+:Issued: 2011 Feb 05 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 036 Issued at 2200Z on 05 Feb 2011
+IA.  Analysis of Solar Active Regions and Activity from  04/2100Z
+to 05/2100Z:  Solar activity has been very low for the past 24 hours.
+Region 1152 (S18W14) and Region 1153 (N15W31) have begun to decay
+with a loss in areal coverage, magnetic complexity, and a reduced
+sunspot number. Region 1150 (S20, L=187) decayed to spotless plage
+early in the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a slight chance for C-class activity for the next three
+days (06-08 February).
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z:
+The geomagnetic field has been at quiet to active levels with an
+isolated period at G1 ,minor storm levels, from 4/2100Z-4/2400Z.
+This increase in activity was associated with a reverse shock behind
+a slow moving CME observed on 30 January. Observations from the ACE
+spacecraft indicated the effects of the shock subsided around
+4/0421Z, as a recurrent coronal hole high speed stream, in which the
+CME was embedded, regained dominance. Throughout the period, the
+total Interplanetary Magnetic Field (IMF) decayed from 17 nT at
+04/2106Z to 3nT at 05/2008Z. Solar wind speeds peaked at around 675
+km/s at 05/0536Z, but speeds began to decrease as the day
+progressed.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled for the next two days (06-07
+February) as the effects of the latest recurrent coronal hole high
+speed stream wane. A return to quiet levels is expected on day three
+(08 February).
+III.  Event Probabilities 06 Feb-08 Feb
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           05 Feb 081
+Predicted   06 Feb-08 Feb  080/080/080
+90 Day Mean        05 Feb 084
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 Feb  012/021
+Estimated Afr/Ap 05 Feb  015/018
+Predicted Afr/Ap 06 Feb-08 Feb  008/010-008/008-005/005
+VI.  Geomagnetic Activity Probabilities 06 Feb-08 Feb
+A.  Middle Latitudes
+Active                20/20/05
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/25/10
+Minor storm           10/10/01
+Major-severe storm    01/01/01

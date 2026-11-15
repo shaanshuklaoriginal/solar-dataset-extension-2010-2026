@@ -1,0 +1,56 @@
+:Product: 0621RSGA.txt
+:Issued: 2011 Jun 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 172 Issued at 2200Z on 21 Jun 2011
+IA.  Analysis of Solar Active Regions and Activity from  20/2100Z
+to 21/2100Z:  Solar activity was low. Todays activity consisted of a
+long-duration C7 X-ray event which began at 0122Z, reached maximum
+at 0325Z and ended at 0427Z. The X-ray event was associated with a
+Sf flare from Region 1236 (N17W21) as well as the eruption of a 17
+degree filament near N39W01. Also associated with this activity was
+a symmetric halo CME which first entered the SOHO C2 coronagraph
+field of view at 0316Z and had an estimated plane of sky speed of
+about 640 km/s. Region 1236 was generally unchanged during the past
+24 hours and is the dominant spot group on the disk. The other
+spotted regions were very small and appeared to be decaying.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+for the next three days.
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z:
+The geomagnetic field was quiet to unsettled during the past 24
+hours. Solar wind observations from the ACE spacecraft indicate a
+solar sector boundary crossing between 1200 and 1500Z (positive to
+negative).
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the next 36-42 hours. An increase is
+expected beginning sometime late on day 2 (23 June) and continuing
+through day 3 (24 June). Geomagnetic activity is expected to be
+mostly active during this time period, with a chance for minor storm
+periods at mid-latitudes, and minor to major storm periods at high
+latitudes. The increase in activity is forecast due to expected
+combined effects from todays halo CME event and a favorably
+positioned coronal hole.
+III.  Event Probabilities 22 Jun-24 Jun
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           21 Jun 095
+Predicted   22 Jun-24 Jun  095/095/095
+90 Day Mean        21 Jun 104
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 Jun  007/007
+Estimated Afr/Ap 21 Jun  007/008
+Predicted Afr/Ap 22 Jun-24 Jun  005/005-018/018-025/035
+VI.  Geomagnetic Activity Probabilities 22 Jun-24 Jun
+A.  Middle Latitudes
+Active                05/25/30
+Minor storm           01/30/30
+Major-severe storm    01/15/20
+B.  High Latitudes
+Active                05/20/25
+Minor storm           01/35/35
+Major-severe storm    01/25/30

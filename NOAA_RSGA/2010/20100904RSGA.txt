@@ -1,0 +1,46 @@
+:Product: 0904RSGA.txt
+:Issued: 2010 Sep 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 247 Issued at 2200Z on 04 Sep 2010
+IA.  Analysis of Solar Active Regions and Activity from  03/2100Z
+to 04/2100Z:  Solar activity was very low. Regions 1105 (N18W36) and
+1101 (N12W70) produced several B-class x-ray events during the
+period. The largest event, an impulsive B6 flare, occurred at
+04/07Z.  A filament was observed on SDO AIA 193 lifting from the
+north west quadrant at 04/1430Z. A limb event CME was visible in
+SOHO LASCO C3 shortly after with an estimated speed of 368 km/s. The
+same event was visible on the STEREO-A coronagraph and produced a
+partial halo in the southeast quadrant.
+IB.  Solar Activity Forecast:  Solar activity is forecast to be low
+with C-class flares likely for the next 3 days (5-7 September).
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+forecast to be quiet to unsettled with the chance for active
+conditions for the next 3 days (5-7 September) due to recurrent
+coronal hole effects.
+III.  Event Probabilities 05 Sep-07 Sep
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           04 Sep 082
+Predicted   05 Sep-07 Sep  084/084/082
+90 Day Mean        04 Sep 078
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Sep  003/004
+Estimated Afr/Ap 04 Sep  001/005
+Predicted Afr/Ap 05 Sep-07 Sep  008/008-008/008-008/008
+VI.  Geomagnetic Activity Probabilities 05 Sep-07 Sep
+A.  Middle Latitudes
+Active                40/40/40
+Minor storm           10/10/10
+Major-severe storm    05/05/05
+B.  High Latitudes
+Active                50/50/50
+Minor storm           20/20/20
+Major-severe storm    10/10/10

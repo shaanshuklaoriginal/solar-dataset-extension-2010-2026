@@ -1,0 +1,45 @@
+:Product: 0301RSGA.txt
+:Issued: 2012 Mar 01 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 061 Issued at 2200Z on 01 Mar 2012
+IA.  Analysis of Solar Active Regions and Activity from  29/2100Z
+to 01/2100Z:  Solar activity has been low. There was one C-class
+flare duing the past 24 hours, a C3/1f from Region 1423 (N17W21) at
+01/1526Z. New Region 1427 (N15W01) was numbered today. A CME was
+observed at 29/1824Z (using LASCO C2) from the north polar region of
+the sun, however it is not expected to be geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low.
+IIA.  Geophysical Activity Summary 29/2100Z to 01/2100Z:
+The geomagnetic field has been quiet to active with isolated storm
+periods at high latitudes. The elevated activity appears to be
+related to a solar sector boundary crossing.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled for the first and second days
+(02-03 Mar) due to a small yet well positioned coronal hole.  A
+return to quiet levels is expected on the third day (04 Mar).
+III.  Event Probabilities 02 Mar-04 Mar
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           01 Mar 103
+Predicted   02 Mar-04 Mar  105/105/105
+90 Day Mean        01 Mar 127
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Feb  006/004
+Estimated Afr/Ap 01 Mar  012/014
+Predicted Afr/Ap 02 Mar-04 Mar  007/008-007/008-006/005
+VI.  Geomagnetic Activity Probabilities 02 Mar-04 Mar
+A.  Middle Latitudes
+Active                10/10/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           25/15/10
+Major-severe storm    15/05/05

@@ -1,0 +1,50 @@
+:Product: 0810RSGA.txt
+:Issued: 2012 Aug 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 223 Issued at 2200Z on 10 Aug 2012
+IA.  Analysis of Solar Active Regions and Activity from  09/2100Z
+to 10/2100Z:  Solar activity was low.  Two C-class events were
+observed from Region 1542 (S16E24); the largest was a C4/Sf at
+10/0416Z.  Region 1544 (S29W20) also produced a C2/Sf flare at
+10/1740Z.  Region 1543 (N21E33) was the largest region on the disk
+and produced some B-class events during the period.  The remaining
+regions were quiet and stable, with no significant changes since
+yesterday.  No earth-directed CMEs were observed.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance for an M-class event from Region 1542.
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z:
+The geomagnetic field was quiet.  Solar wind speed at the ACE
+spacecraft remained near 350 km/s and the Bz component of the
+interplanetary magnetic field was mostly neutral.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels, with a slight chance
+for an isolated active period for days 1 and 2 (11-12 August).  This
+elevated activity is expected in response to the arrival of a
+corotating interaction region and coronal hole, coupled with two
+filaments that lifted off on 07 and 08 August.  On day 3 (13 August)
+conditions are expected to return to quiet levels.
+III.  Event Probabilities 11 Aug-13 Aug
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           10 Aug 125
+Predicted   11 Aug-13 Aug  130/130/130
+90 Day Mean        10 Aug 128
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Aug  007/006
+Estimated Afr/Ap 10 Aug  004/004
+Predicted Afr/Ap 11 Aug-13 Aug  008/008-010/010-006/005
+VI.  Geomagnetic Activity Probabilities 11 Aug-13 Aug
+A.  Middle Latitudes
+Active                15/15/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/20/15
+Minor storm           30/30/15
+Major-severe storm    25/25/05

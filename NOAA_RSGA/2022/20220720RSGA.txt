@@ -1,0 +1,52 @@
+:Product: 0720RSGA.txt
+:Issued: 2022 Jul 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 201 Issued at 2200Z on 20 Jul 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 19/2100Z to
+20/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+19/2254Z from Region 3056 (S16W57). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a slight chance for an M-class flare on days one and two (21 Jul, 22
+Jul) and likely to be low on day three (23 Jul).
+
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 471 km/s at 19/2115Z. Total IMF reached 10
+nT at 20/0614Z. The maximum southward component of Bz reached -6 nT at
+19/2115Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 1915 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (21 Jul) and unsettled
+to minor storm levels on days two and three (22 Jul, 23 Jul).
+
+III.  Event probabilities 21 Jul-23 Jul
+Class M    10/10/05
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           20 Jul 133
+Predicted   21 Jul-23 Jul 130/130/120
+90 Day Mean        20 Jul 130
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 Jul  019/025
+Estimated Afr/Ap 20 Jul  009/010
+Predicted Afr/Ap 21 Jul-23 Jul  017/022-017/022-015/020
+
+VI.  Geomagnetic Activity Probabilities 21 Jul-23 Jul
+A.  Middle Latitudes
+Active                45/45/45
+Minor Storm           30/30/30
+Major-severe storm    05/05/05
+B.  High Latitudes
+Active                05/05/05
+Minor Storm           20/20/20
+Major-severe storm    70/70/70

@@ -1,0 +1,45 @@
+:Product: 0531RSGA.txt
+:Issued: 2012 May 31 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 152 Issued at 2200Z on 31 May 2012
+IA.  Analysis of Solar Active Regions and Activity from  30/2100Z
+to 31/2100Z:  Solar activity was low during the past 24 hours. New
+Regions 1493 (N15E64) and 1494 (S16E69) were numbered overnight and
+have each produced several low-level C-class x-ray events. New
+Region 1495 (S12E19) was also numbered today but has not produced
+any flare activity as of yet. No Earth-directed CMEs were observed
+during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+for the next three days (01 - 03 June).
+IIA.  Geophysical Activity Summary 30/2100Z to 31/2100Z:
+The geomagnetic field was mostly quiet during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet on days one and two (01 - 02 June).
+Quiet to unsettled conditions with a chance for isolated active
+periods are expected late on day three (03 June) due to the
+anticipated arrival of a recurrent coronal hole high speed stream.
+III.  Event Probabilities 01 Jun-03 Jun
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           31 May 117
+Predicted   01 Jun-03 Jun  120/125/125
+90 Day Mean        31 May 117
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 May  005/008
+Estimated Afr/Ap 31 May  008/010
+Predicted Afr/Ap 01 Jun-03 Jun  004/005-004/005-009/010
+VI.  Geomagnetic Activity Probabilities 01 Jun-03 Jun
+A.  Middle Latitudes
+Active                05/05/20
+Minor storm           01/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           15/15/25
+Major-severe storm    05/05/30

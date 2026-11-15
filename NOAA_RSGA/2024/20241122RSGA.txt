@@ -1,0 +1,56 @@
+:Product: 1122RSGA.txt
+:Issued: 2024 Nov 22 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 327 Issued at 2200Z on 22 Nov 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 21/2100Z to
+22/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+22/1546Z from Region 3905 (S10E66). There are currently 11 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(23 Nov, 24 Nov, 25 Nov).
+
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 438 km/s at 22/1010Z. Total IMF reached 10
+nT at 22/0821Z. The maximum southward component of Bz reached -8 nT at
+22/2051Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 125 pfu at 22/0355Z. Protons greater than 100 MeV at
+geosynchronous orbit reached a peak level of 5 pfu at 21/2130Z.
+Electrons greater than 2 MeV at geosynchronous orbit reached a peak
+level of 180 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one, two, and three (23 Nov,
+24 Nov, 25 Nov). Protons greater than 10 Mev have a slight chance of
+crossing threshold on day one (23 Nov).
+
+III.  Event probabilities 23 Nov-25 Nov
+Class M    60/60/60
+Class X    15/15/15
+Proton     10/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           22 Nov 179
+Predicted   23 Nov-25 Nov 180/180/185
+90 Day Mean        22 Nov 207
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 Nov  005/007
+Estimated Afr/Ap 22 Nov  010/012
+Predicted Afr/Ap 23 Nov-25 Nov  008/008-008/008-008/008
+
+VI.  Geomagnetic Activity Probabilities 23 Nov-25 Nov
+A.  Middle Latitudes
+Active                25/25/25
+Minor Storm           10/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/25/25
+Major-severe storm    35/35/35

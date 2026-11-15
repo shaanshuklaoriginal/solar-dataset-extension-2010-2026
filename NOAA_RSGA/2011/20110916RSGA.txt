@@ -1,0 +1,48 @@
+:Product: 0916RSGA.txt
+:Issued: 2011 Sep 16 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 259 Issued at 2200Z on 16 Sep 2011
+IA.  Analysis of Solar Active Regions and Activity from  15/2100Z
+to 16/2100Z:  Solar activity remained low. Frequent C-class flares
+were observed during the period. The largest was a C9/Sf at 16/1136Z
+from Region 1290 (S13W69). Region 1299 (S21E10) was numbered as a
+Cro-beta group with 8 spots today.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for isolated M-class flares during the period (17-19
+September).
+IIA.  Geophysical Activity Summary 15/2100Z to 16/2100Z:
+The geomagnetic field was at quiet levels. The greater than 2 MeV
+electron flux at geosynchronous orbit was at high levels throughout
+the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at unsettled to active levels, with isolated minor
+storm levels at high latitudes, on day one (17 September), due to
+the effects of the full halo CME observed at 14/0000Z. Activity is
+expected to decrease to quiet to active levels on day two (18
+September). Predominantly quiet levels are expected on day three (19
+September).
+III.  Event Probabilities 17 Sep-19 Sep
+Class M    35/35/35
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           16 Sep 143
+Predicted   17 Sep-19 Sep  142/140/140
+90 Day Mean        16 Sep 102
+V.  Geomagnetic A Indices
+Observed Afr/Ap 15 Sep  004/005
+Estimated Afr/Ap 16 Sep  007/010
+Predicted Afr/Ap 17 Sep-19 Sep  018/020-010/015-005/005
+VI.  Geomagnetic Activity Probabilities 17 Sep-19 Sep
+A.  Middle Latitudes
+Active                25/25/15
+Minor storm           10/15/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                30/30/20
+Minor storm           20/15/10
+Major-severe storm    05/01/01

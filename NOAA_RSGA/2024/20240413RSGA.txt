@@ -1,0 +1,52 @@
+:Product: 0413RSGA.txt
+:Issued: 2024 Apr 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 104 Issued at 2200Z on 13 Apr 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 12/2100Z to
+13/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M2 event observed at
+13/0502Z from Region 3637 (S11E66). There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (14 Apr, 15 Apr,
+16 Apr).
+
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 444 km/s at 13/1616Z. Total IMF reached 5 nT at
+12/2346Z. The maximum southward component of Bz reached -5 nT at
+13/0257Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 468 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on days one and two (14 Apr, 15
+Apr) and quiet to unsettled levels on day three (16 Apr).
+
+III.  Event probabilities 14 Apr-16 Apr
+Class M    35/35/35
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           13 Apr 161
+Predicted   14 Apr-16 Apr 163/165/165
+90 Day Mean        13 Apr 159
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Apr  006/004
+Estimated Afr/Ap 13 Apr  005/005
+Predicted Afr/Ap 14 Apr-16 Apr  016/020-014/018-008/008
+
+VI.  Geomagnetic Activity Probabilities 14 Apr-16 Apr
+A.  Middle Latitudes
+Active                40/40/20
+Minor Storm           30/30/05
+Major-severe storm    05/05/01
+B.  High Latitudes
+Active                10/10/15
+Minor Storm           25/25/25
+Major-severe storm    65/65/25

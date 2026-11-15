@@ -1,0 +1,50 @@
+:Product: 1226RSGA.txt
+:Issued: 2012 Dec 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 361 Issued at 2200Z on 26 Dec 2012
+
+IA.  Analysis of Solar Active Regions and Activity from 25/2100Z to
+26/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C3 event observed at
+26/0455Z from Region 1635 (N12W32). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be at low
+levels on days one, two, and three (27 Dec, 28 Dec, 29 Dec).
+
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 336 km/s at
+25/2322Z. Total IMF reached 6.6 nT at 26/1144Z. The maximum southward
+component of Bz reached -5 nT at 26/1052Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels for the next three days (27 Dec, 28
+Dec, 29 Dec).
+
+III.  Event probabilities 27 Dec-29 Dec
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           26 Dec 110
+Predicted   27 Dec-29 Dec 110/115/115
+90 Day Mean        26 Dec 119
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Dec  002/001
+Estimated Afr/Ap 26 Dec  004/004
+Predicted Afr/Ap 27 Dec-29 Dec  005/005-007/008-007/008
+
+VI.  Geomagnetic Activity Probabilities 27 Dec-29 Dec
+A.  Middle Latitudes
+Active                05/10/10
+Minor Storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/20/15
+Minor Storm           10/20/15
+Major-severe storm    05/10/05

@@ -1,0 +1,52 @@
+:Product: 0707RSGA.txt
+:Issued: 2024 Jul 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 189 Issued at 2200Z on 07 Jul 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 06/2100Z to
+07/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+06/2315Z from Region 3738 (S09E58). There are currently 9 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (08 Jul, 09 Jul,
+10 Jul).
+
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 412 km/s at 07/1409Z. Total IMF reached 8
+nT at 07/1651Z. The maximum southward component of Bz reached -5 nT at
+07/1943Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 148 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (08 Jul), quiet to unsettled
+levels on day two (09 Jul) and quiet levels on day three (10 Jul).
+
+III.  Event probabilities 08 Jul-10 Jul
+Class M    40/40/40
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           07 Jul 171
+Predicted   08 Jul-10 Jul 165/165/165
+90 Day Mean        07 Jul 182
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Jul  004/005
+Estimated Afr/Ap 07 Jul  006/005
+Predicted Afr/Ap 08 Jul-10 Jul  010/012-008/010-006/005
+
+VI.  Geomagnetic Activity Probabilities 08 Jul-10 Jul
+A.  Middle Latitudes
+Active                30/20/10
+Minor Storm           15/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           30/25/20
+Major-severe storm    45/30/20

@@ -1,0 +1,56 @@
+:Product: 1007RSGA.txt
+:Issued: 2024 Oct 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 281 Issued at 2200Z on 07 Oct 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 06/2100Z to
+07/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a X2 event observed at
+07/1913Z from Region 3842 (S15W63). There are currently 9 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be moderate
+with a chance for X-class flares on days one and two (08 Oct, 09 Oct)
+and likely to be moderate with a chance for X-class flares on day three
+(10 Oct).
+
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z: The geomagnetic
+field has been at unsettled to major storm levels for the past 24 hours.
+Solar wind speed reached a peak of 697 km/s at 07/0344Z. Total IMF
+reached 16 nT at 07/1617Z. The maximum southward component of Bz reached
+-14 nT at 07/1728Z.  Electrons greater than 2 MeV at geosynchronous
+orbit reached a peak level of 219 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to major storm levels on day one (08 Oct), quiet to
+unsettled levels on day two (09 Oct) and quiet levels on day three (10
+Oct). Protons have a chance of crossing threshold on day one (08 Oct)
+and have a chance of crossing threshold on days two and three (09 Oct,
+10 Oct).
+
+III.  Event probabilities 08 Oct-10 Oct
+Class M    75/75/70
+Class X    30/30/25
+Proton     30/25/25
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           07 Oct 277
+Predicted   08 Oct-10 Oct 260/255/250
+90 Day Mean        07 Oct 223
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Oct  013/012
+Estimated Afr/Ap 07 Oct  030/050
+Predicted Afr/Ap 08 Oct-10 Oct  022/030-007/008-006/005
+
+VI.  Geomagnetic Activity Probabilities 08 Oct-10 Oct
+A.  Middle Latitudes
+Active                40/25/10
+Minor Storm           20/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor Storm           25/30/20
+Major-severe storm    55/30/15

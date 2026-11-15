@@ -1,0 +1,61 @@
+:Product: 1104RSGA.txt
+:Issued: 2011 Nov 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 308 Issued at 2200Z on 04 Nov 2011
+IA.  Analysis of Solar Active Regions and Activity from  03/2100Z
+to 04/2100Z:  Solar activity was moderate. Region 1339 (N19E45)
+produced two M-class flares during the past 24 hours; an M2 at
+03/2336Z and an M1/Sf at 04/2040Z. Region 1339 continues to dominate
+the disk in terms of sunspot area (about 1540 millionths) and
+complexity (Fkc beta-gamma-delta). The region did not show a strong
+growth or decay trend. A fast, asymmetric full halo CME was observed
+to enter the LASCO C2 field of view at 03/2312Z and had an estimated
+plane of sky speed of about 1100 km/s. Observations from the STEREO
+spacecraft indicate this was a back-sided event. An additional CME
+was observed in the C2 coronagraph at 04/0248Z off the east limb.
+STEREO-B coronagraph observations appeared to show this as a full
+halo CME and post-eruption loops were visible extending above the
+east limb in the GOES SXI imagery. These observations suggest a
+source that is just behind the east limb. Region 1338 (S14E28)
+continues to be of moderate size (about 240 millionths) but was
+quiet and stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate. Additional M-flares are likely with Region 1339 as the
+most probable source although the region behind east limb could also
+contribute. There is a slight chance for an additional major flare
+event from Region 1339.
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z:
+The geomagnetic field was quiet. A proton enhancement was observed at
+the GOES satellites, beginning at about 0100Z and rising to a peak
+of 3.6 PFU (greater than 10 MeV) at 0905Z. The flux levels slowed
+decreased thereafter.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled for the next two days (05-06
+November). A slight increase in activity is predicted due to a small
+but favorably positioned coronal hole. Quiet levels are expected to
+prevail for the third day (07 November).
+III.  Event Probabilities 05 Nov-07 Nov
+Class M    65/65/65
+Class X    10/10/10
+Proton     05/05/10
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           04 Nov 164
+Predicted   05 Nov-07 Nov  165/165/170
+90 Day Mean        04 Nov 126
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Nov  003/003
+Estimated Afr/Ap 04 Nov  007/008
+Predicted Afr/Ap 05 Nov-07 Nov  007/010-007/008-005/005
+VI.  Geomagnetic Activity Probabilities 05 Nov-07 Nov
+A.  Middle Latitudes
+Active                20/15/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/20/10
+Minor storm           15/10/05
+Major-severe storm    05/01/01

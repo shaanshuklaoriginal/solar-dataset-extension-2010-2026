@@ -1,0 +1,56 @@
+:Product: 0730RSGA.txt
+:Issued: 2012 Jul 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 212 Issued at 2200Z on 30 Jul 2012
+IA.  Analysis of Solar Active Regions and Activity from  29/2100Z
+to 30/2100Z:  Solar activity was moderate.  Region 1532 (S19E14) and
+new Region 1536 (S21E26) were responsible for the highest flares
+during the period: a C8/1n flare at 30/1403Z and an M1/Sn at
+30/1548Z respectively.  Analysis with magnetogram and white light
+imagery determined that Region 1532 was actually two separate
+regions.  New Region 1536 now encompasses the two larger spots
+trailing Region 1532.  Another new spot group rotated onto the
+northeast limb and was numbered Region 1535 (N18E64).  No
+Earth-directed coronal mass ejections were observed during the
+reporting period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for M-class flares.  Regions 1532 and 1536 are the
+most likely Regions to produce M-class activity.
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z:
+The geomagnetic field was quiet to active with intervals of minor to
+major storming observed at high latitudes during the periods ranging
+from 30/0600 - 0900Z and from 30/1200 - 1800Z. Solar wind speed,
+measured at the ACE spacecraft, increased from approximately 350 to
+450 km/s, while the Bz component of the interplanetary magnetic
+field had prolonged southward intervals near -7 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled on day 1 (31 July).  Mostly quiet
+conditions are expected on day 2 (01 August).  By approximately
+mid-day on day 3 (02 August), quiet to unsettled conditions are
+expected with isolated active periods possible due to effects from
+the 28 July CME.
+III.  Event Probabilities 31 Jul-02 Aug
+Class M    35/35/35
+Class X    05/05/05
+Proton     05/05/05
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           30 Jul 136
+Predicted   31 Jul-02 Aug  135/135/140
+90 Day Mean        30 Jul 126
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Jul  006/006
+Estimated Afr/Ap 30 Jul  009/012
+Predicted Afr/Ap 31 Jul-02 Aug  008/010-006/006-008/010
+VI.  Geomagnetic Activity Probabilities 31 Jul-02 Aug
+A.  Middle Latitudes
+Active                10/05/20
+Minor storm           05/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           20/15/25
+Major-severe storm    10/05/30

@@ -1,0 +1,63 @@
+:Product: 0330RSGA.txt
+:Issued: 2011 Mar 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 089 Issued at 2200Z on 30 Mar 2011
+IA.  Analysis of Solar Active Regions and Activity from  29/2100Z
+to 30/2100Z:  Solar activity remained at low levels. Isolated B- and
+C-class flares were observed from Region 1176 (S17W37) and Region
+1183 (N15E27). Region 1176 showed magnetic simplification and was
+classified as an Fso group with a beta magnetic structure. Region
+1183 showed a minor increase in spot count and area and was
+classified as an Eai group with a beta magnetic structure. Two
+filaments disappeared during the period. The first was 9 degrees in
+extent, centered near N48E16, and disappeared early in the period.
+The second was 7 degrees in extent, centered near S27E21, and
+disappeared around mid-period. There was no significant CME activity
+associated with either disappearance. A back-sided partial-halo CME
+was observed early in the period, first visible in SOHO/LASCO C2
+images at 29/2024Z, with an estimated plane-of-sky velocity of 1075
+km/sec. The source of the CME was an active region about a day
+beyond the northeast limb. No new regions were numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+during the period (31 March - 02 April) with a chance for moderate
+activity (isolated M-class).
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z:
+Geomagnetic activity was at quiet to active levels. An active period
+was observed during 30/0000 - 0300Z, followed by quiet levels for
+the rest of the period. A geomagnetic sudden impulse (SI) was
+observed at 30/0018Z (12 nT, as measured by the Boulder USGS
+magnetometer). ACE solar wind data indicated the increased activity
+was associated with a period of southward IMF Bz (maximum deflection
+-8 nT at 29/2306Z) combined with increased IMF Bt (peak 15 nT at
+29/2359Z).
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be at quiet to unsettled levels during days 1 - 2 (31
+March - 01 April) with a chance for brief active levels due to
+recurrent coronal hole high-speed stream effects. Activity is
+expected to decrease to quiet levels on day 3 (02 April) as coronal
+hole effects subside.
+III.  Event Probabilities 31 Mar-02 Apr
+Class M    40/40/40
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           30 Mar 118
+Predicted   31 Mar-02 Apr  125/130/135
+90 Day Mean        30 Mar 098
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Mar  002/004
+Estimated Afr/Ap 30 Mar  007/008
+Predicted Afr/Ap 31 Mar-02 Apr  010/010-008/008-005/005
+VI.  Geomagnetic Activity Probabilities 31 Mar-02 Apr
+A.  Middle Latitudes
+Active                20/15/10
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/20/15
+Minor storm           10/05/01
+Major-severe storm    01/01/01

@@ -1,0 +1,52 @@
+:Product: 0306RSGA.txt
+:Issued: 2025 Mar 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 65 Issued at 2200Z on 06 Mar 2025
+
+IA.  Analysis of Solar Active Regions and Activity from 05/2100Z to
+06/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+06/0415Z from Region 4016 (S26E21). There are currently 9 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+days one, two, and three (07 Mar, 08 Mar, 09 Mar).
+
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 934 km/s at 06/1759Z. Total IMF reached 8
+nT at 06/1730Z. The maximum southward component of Bz reached -6 nT at
+06/1748Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 333 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (07 Mar), quiet to active levels on day
+two (08 Mar) and quiet to minor storm levels on day three (09 Mar).
+
+III.  Event probabilities 07 Mar-09 Mar
+Class M    45/45/45
+Class X    10/10/10
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           06 Mar 150
+Predicted   07 Mar-09 Mar 160/165/165
+90 Day Mean        06 Mar 189
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Mar  004/010
+Estimated Afr/Ap 06 Mar  007/007
+Predicted Afr/Ap 07 Mar-09 Mar  005/012-008/020-015/025
+
+VI.  Geomagnetic Activity Probabilities 07 Mar-09 Mar
+A.  Middle Latitudes
+Active                10/30/40
+Minor Storm           01/05/25
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                15/15/10
+Minor Storm           20/30/25
+Major-severe storm    15/35/60

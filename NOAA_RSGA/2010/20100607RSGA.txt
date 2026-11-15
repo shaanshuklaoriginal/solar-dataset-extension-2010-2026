@@ -1,0 +1,48 @@
+:Product: 0607RSGA.txt
+:Issued: 2010 Jun 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 158 Issued at 2200Z on 07 Jun 2010
+IA.  Analysis of Solar Active Regions and Activity from  06/2100Z
+to 07/2100Z:  Solar activity was very low. No significant flares were
+observed during the past 24 hours.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a slight chance for a C-class event over the next 3 days
+(8-10 June).
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z:
+The geomagnetic field was mostly quiet over the past 24 hours with
+the exception of an isolated period of unsettled conditions between
+06/21Z and 07/00Z.  The greater than 2 MeV electron flux at
+geosynchronous orbit was at high levels during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active with an isolated period of minor
+storming possible on day 1 (8 June). This activity is due to the
+high speed stream from a coronal hole as well as a possible CME
+arrival from a disappearing filament on 3 June. On day 2 (9 June)
+the chance for active conditions early in the period exists.
+Otherwise, mostly quiet to unsettled conditions are expected. 
+Conditions are forecasted to return to quiet on day 3 (10 June).
+III.  Event Probabilities 08 Jun-10 Jun
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           07 Jun 068
+Predicted   08 Jun-10 Jun  068/068/068
+90 Day Mean        07 Jun 077
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Jun  005/007
+Estimated Afr/Ap 07 Jun  006/005
+Predicted Afr/Ap 08 Jun-10 Jun  010/010-008/008-005/005
+VI.  Geomagnetic Activity Probabilities 08 Jun-10 Jun
+A.  Middle Latitudes
+Active                50/50/25
+Minor storm           25/25/15
+Major-severe storm    05/05/01
+B.  High Latitudes
+Active                50/50/25
+Minor storm           30/30/05
+Major-severe storm    05/05/01

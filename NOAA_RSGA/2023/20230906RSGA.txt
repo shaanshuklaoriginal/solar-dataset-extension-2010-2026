@@ -1,0 +1,52 @@
+:Product: 0906RSGA.txt
+:Issued: 2023 Sep 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 249 Issued at 2200Z on 06 Sep 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 05/2100Z to
+06/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+05/2339Z from Region 3421 (N14W14). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (07 Sep, 08 Sep,
+09 Sep).
+
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 461 km/s at 06/1724Z. Total IMF reached 6
+nT at 06/1251Z. The maximum southward component of Bz reached -5 nT at
+06/1225Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 830 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (07 Sep), quiet to unsettled
+levels on day two (08 Sep) and quiet levels on day three (09 Sep).
+
+III.  Event probabilities 07 Sep-09 Sep
+Class M    25/25/25
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           06 Sep 147
+Predicted   07 Sep-09 Sep 150/155/155
+90 Day Mean        06 Sep 162
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Sep  014/011
+Estimated Afr/Ap 06 Sep  011/014
+Predicted Afr/Ap 07 Sep-09 Sep  010/012-008/010-006/005
+
+VI.  Geomagnetic Activity Probabilities 07 Sep-09 Sep
+A.  Middle Latitudes
+Active                30/25/10
+Minor Storm           10/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/15
+Major-severe storm    30/20/15

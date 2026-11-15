@@ -1,0 +1,51 @@
+:Product: 0513RSGA.txt
+:Issued: 2014 May 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 133 Issued at 2200Z on 13 May 2014
+
+IA.  Analysis of Solar Active Regions and Activity from 12/2100Z to
+13/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+13/0920Z from Region 2056 (N05W23). There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (14 May, 15 May,
+16 May).
+
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 412 km/s at
+13/0021Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 295 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one and three (14 May, 16
+May) and quiet to active levels on day two (15 May).
+
+III.  Event probabilities 14 May-16 May
+Class M    30/30/30
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           13 May 159
+Predicted   14 May-16 May 165/165/160
+90 Day Mean        13 May 150
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 May  010/008
+Estimated Afr/Ap 13 May  005/005
+Predicted Afr/Ap 14 May-16 May  007/008-009/010-007/008
+
+VI.  Geomagnetic Activity Probabilities 14 May-16 May
+A.  Middle Latitudes
+Active                25/30/20
+Minor Storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/20
+Minor Storm           30/30/30
+Major-severe storm    30/35/25

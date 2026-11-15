@@ -1,0 +1,48 @@
+:Product: 0415RSGA.txt
+:Issued: 2012 Apr 15 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 106 Issued at 2200Z on 15 Apr 2012
+IA.  Analysis of Solar Active Regions and Activity from  14/2100Z
+to 15/2100Z:  Solar activity increased to low levels. Two low-level
+C-class flares occurred from a source beyond the northeast limb.
+Region 1459 (S16E64) produced occasional B-class flares while it
+rotated more fully into view as a Dai-type group with a beta
+magnetic classification. Region 1455 (N05W46) showed intermediate
+spot development during the period and was classified as a Dsi-type
+with a beta magnetic classification. Small Axx-type Region 1454
+(S12W00) produced a B9 x-ray flare at 15/0908Z associated with a
+slow partial-halo CME, which is not expected to be geoeffective. No
+new regions were numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+through the period (16 - 18 April).
+IIA.  Geophysical Activity Summary 14/2100Z to 15/2100Z:
+Geomagnetic field activity decreased to mostly quiet levels. The
+greater than 2 MeV electron flux at geosynchronous orbit was at high
+levels throughout the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels during the period (16 - 18 April).
+III.  Event Probabilities 16 Apr-18 Apr
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           15 Apr 102
+Predicted   16 Apr-18 Apr  100/100/100
+90 Day Mean        15 Apr 113
+V.  Geomagnetic A Indices
+Observed Afr/Ap 14 Apr  007/011
+Estimated Afr/Ap 15 Apr  006/005
+Predicted Afr/Ap 16 Apr-18 Apr  004/005-004/005-004/005
+VI.  Geomagnetic Activity Probabilities 16 Apr-18 Apr
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           01/01/01
+Major-severe storm    01/01/01

@@ -1,0 +1,61 @@
+:Product: 0925RSGA.txt
+:Issued: 2011 Sep 25 2235 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+::::::::::CORRECTED COPY::::::::::
+SDF Number 268 Issued at 2200Z on 25 Sep 2011
+IA.  Analysis of Solar Active Regions and Activity from  24/2100Z
+to 25/2100Z:  Solar activity was high.  Regions 1302 (N12E36) and
+1303 (S28W79) each produced three M-class flares.  The largest was
+an M7/2N at 25/0450Z.  A partial halo CME was observed at 24/1936Z
+in LASCO C2 imagery which was likely associated with the M3 flare
+from Region 1302 that occurred at 24/1921Z.  The event had an
+associated Type II (1369 km/s) and an approximate plane of sky speed
+of 800 km/s using LASCO C3 imagery.  The majority of the ejecta was 
+directed off the North East limb.  Two more CMEs were observed at
+25/0236Z and 25/0312Z off the Southwest limb in LASCO C2 imagery,
+however, they are not expected to be geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to continue
+at high levels with a chance for isolated X-class flares from Region
+1302.
+IIA.  Geophysical Activity Summary 24/2100Z to 25/2100Z:
+The geomagnetic field was mostly quiet.  At approximately 25/1106Z, 
+the IMF Bt increased from 5 nT to 10 nT while the field
+density increased to around 7 p/cc at the ACE spacecraft.  A sudden 
+impulse (14 nT) was observed in the Boulder magnetometer at 25/1151Z.  
+The greater than 10 MeV proton event that began at 23/2255Z, reached 
+a peak of 27.3 PFUs at 25/2030Z, and continues to remain above the 
+10 PFU threshold.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at unsettled to minor storm conditions with major
+storm periods possible at high latitudes on day 1 (26 September) due
+to activity from the CME associated with the M7 flare that occurred
+at 24/1320Z.  Mostly unsettled conditions are expected on days 2-3
+(27-28 September) due to continued activity from the CME as well as
+a possible glancing blow from a weak CME on day 3.  The greater than
+10 MeV proton flux is expected to continue to remain above threshold
+for the next three days.
+III.  Event Probabilities 26 Sep-28 Sep
+Class M    80/80/80
+Class X    40/40/40
+Proton     99/99/80
+PCAF       yellow
+IV.  Penticton 10.7 cm Flux
+Observed           25 Sep 169
+Predicted   26 Sep-28 Sep  170/170/170
+90 Day Mean        25 Sep 108
+V.  Geomagnetic A Indices
+Observed Afr/Ap 24 Sep  003/004
+Estimated Afr/Ap 25 Sep  007/007
+Predicted Afr/Ap 26 Sep-28 Sep  025/030-012/012-008/015
+VI.  Geomagnetic Activity Probabilities 26 Sep-28 Sep
+A.  Middle Latitudes
+Active                45/30/15
+Minor storm           20/15/05
+Major-severe storm    10/05/01
+B.  High Latitudes
+Active                45/30/35
+Minor storm           25/15/15
+Major-severe storm    15/05/05

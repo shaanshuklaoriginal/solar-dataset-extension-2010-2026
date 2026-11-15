@@ -1,0 +1,55 @@
+:Product: 0421RSGA.txt
+:Issued: 2013 Apr 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 111 Issued at 2200Z on 21 Apr 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 20/2100Z to
+21/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C4 event observed at
+21/1839Z from Region 1726 (N12W22). There are currently 3 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+days one and two (22 Apr, 23 Apr) and expected to be low with a chance
+for M-class flares on day three (24 Apr).
+
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 412 km/s at
+21/0728Z. Total IMF reached 7 nT at 21/1656Z. The maximum southward
+component of Bz reached -1 nT at 21/0145Z. Protons greater than 10 MeV
+at geosynchronous orbit reached a peak level of 3 pfu at 21/1640Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (22 Apr) and quiet to
+active levels on days two and three (23 Apr, 24 Apr). Protons greater
+than 10 Mev have a slight chance of crossing threshold on days one and
+two (22 Apr, 23 Apr).
+
+III.  Event probabilities 22 Apr-24 Apr
+Class M    40/40/40
+Class X    15/15/05
+Proton     15/15/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           21 Apr 109
+Predicted   22 Apr-24 Apr 115/115/115
+90 Day Mean        21 Apr 111
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 Apr  002/004
+Estimated Afr/Ap 21 Apr  002/003
+Predicted Afr/Ap 22 Apr-24 Apr  006/008-008/012-011/012
+
+VI.  Geomagnetic Activity Probabilities 22 Apr-24 Apr
+A.  Middle Latitudes
+Active                15/25/25
+Minor Storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/30/30
+Major-severe storm    20/30/30

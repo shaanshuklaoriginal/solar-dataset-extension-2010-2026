@@ -1,0 +1,53 @@
+:Product: 0312RSGA.txt
+:Issued: 2012 Mar 12 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 072 Issued at 2200Z on 12 Mar 2012
+IA.  Analysis of Solar Active Regions and Activity from  11/2100Z
+to 12/2100Z:  Solar activity was low.  Region 1430 (N22W67) produced
+a C2 flare at 12/0155Z.  Previously active Region 1429 (N18W50) is
+now an Ekc type spot group with a beta-gamma magnetic configuration.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for moderate levels.  A slight chance for an isolated
+X-class flare remains possible from Region 1429.
+IIA.  Geophysical Activity Summary 11/2100Z to 12/2100Z:
+The geomagnetic field ranged from quiet to major storm levels with
+isolated periods of severe storm levels at high latitudes.  The ACE
+spacecraft observed a sudden storm commencement at 12/0843Z with
+wind speeds escalating from 445 to 560 km/s.  Total field strength
+reached a peak of 28nT and Bz dropped as low as -21nT.  A sudden
+impulse was observed at 12/0921Z (96nT, as measured by the Boulder
+magnetometer).  Solar wind speeds reached up to 775 km/s during the
+event.  The greater than 10 MeV proton event at geosynchronous orbit
+remains near 10 pfu as of forecast issue. The greater than 2 MeV
+electron flux at geosynchronous orbit reached high levels during the
+period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at active to major storm levels on day one (13 March)
+due to CME effects.  Unsettled to active conditions are expected on
+day two (14 March) as CME effects subside.  Day three (15 March) the
+geomagnetic field is expected to return to quiet levels.
+III.  Event Probabilities 13 Mar-15 Mar
+Class M    30/30/30
+Class X    10/10/10
+Proton     60/40/20
+PCAF       yellow
+IV.  Penticton 10.7 cm Flux
+Observed           12 Mar 115
+Predicted   13 Mar-15 Mar  115/115/110
+90 Day Mean        12 Mar 125
+V.  Geomagnetic A Indices
+Observed Afr/Ap 11 Mar  010/009
+Estimated Afr/Ap 12 Mar  021/030
+Predicted Afr/Ap 13 Mar-15 Mar  035/065-015/025-005/005
+VI.  Geomagnetic Activity Probabilities 13 Mar-15 Mar
+A.  Middle Latitudes
+Active                30/25/05
+Minor storm           35/15/01
+Major-severe storm    20/05/01
+B.  High Latitudes
+Active                10/15/15
+Minor storm           20/25/15
+Major-severe storm    65/40/05

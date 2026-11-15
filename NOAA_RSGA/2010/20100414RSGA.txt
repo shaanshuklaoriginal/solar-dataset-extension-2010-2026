@@ -1,0 +1,42 @@
+:Product: 0414RSGA.txt
+:Issued: 2010 Apr 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 104 Issued at 2200Z on 14 Apr 2010
+IA.  Analysis of Solar Active Regions and Activity from  13/2100Z
+to 14/2100Z:  Solar activity was very low.  There were no flares
+observed during the last 24 hours.  Region 1062 (S18W34) has decayed
+to spotless plage.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low for the next three days (15-17 April).
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z:
+The geomagnetic field was quiet during the last 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain quiet for the next three days (15-17 April). 
+Revised estimates for yesterdays partial-halo CME speed indicate a
+probable arrival of the flank of the CME at Earth sometime on 18
+April.
+III.  Event Probabilities 15 Apr-17 Apr
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           14 Apr 075
+Predicted   15 Apr-17 Apr  075/075/077
+90 Day Mean        14 Apr 082
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Apr  002/003
+Estimated Afr/Ap 14 Apr  003/005
+Predicted Afr/Ap 15 Apr-17 Apr  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 15 Apr-17 Apr
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

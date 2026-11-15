@@ -1,0 +1,51 @@
+:Product: 1030RSGA.txt
+:Issued: 2022 Oct 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 303 Issued at 2200Z on 30 Oct 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 29/2100Z to
+30/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+30/1451Z from Region 3130 (S24W84). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low on days
+one, two, and three (31 Oct, 01 Nov, 02 Nov).
+
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 585 km/s at 30/0345Z. Total IMF reached 5
+nT at 30/0013Z. The maximum southward component of Bz reached -5 nT at
+29/2213Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 3715 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one, two, and three (31 Oct, 01
+Nov, 02 Nov).
+
+III.  Event probabilities 31 Oct-02 Nov
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           30 Oct 131
+Predicted   31 Oct-02 Nov 130/130/130
+90 Day Mean        30 Oct 129
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Oct  094/024
+Estimated Afr/Ap 30 Oct  009/012
+Predicted Afr/Ap 31 Oct-02 Nov  013/015-015/018-011/012
+
+VI.  Geomagnetic Activity Probabilities 31 Oct-02 Nov
+A.  Middle Latitudes
+Active                30/35/20
+Minor Storm           15/15/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/30/25
+Major-severe storm    50/50/30

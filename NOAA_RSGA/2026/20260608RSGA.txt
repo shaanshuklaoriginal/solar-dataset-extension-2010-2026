@@ -1,0 +1,53 @@
+:Product: 0608RSGA.txt
+:Issued: 2026 Jun 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 159 Issued at 2200Z on 08 Jun 2026
+
+IA.  Analysis of Solar Active Regions and Activity from 07/2100Z to
+08/2100Z: Solar activity has been at low levels for the past 24 hours.
+There are currently 8 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(09 Jun, 10 Jun, 11 Jun).
+
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 585 km/s at 07/2110Z. Total IMF reached 5
+nT at 07/2100Z. The maximum southward component of Bz reached -4 nT at
+08/1807Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 1,610 pfu.
+
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one and three (09 Jun, 11 Jun)
+and quiet to unsettled levels on day two (10 Jun). Protons have a slight
+chance of crossing threshold on days one, two, and three (09 Jun, 10
+Jun, 11 Jun).
+
+III.  Event probabilities 09 Jun-11 Jun
+Class M    55/55/55
+Class X    10/10/10
+Proton     10/10/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           08 Jun 131
+Predicted   09 Jun-11 Jun 132/130/130
+90 Day Mean        08 Jun 125
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Jun  008/008
+Estimated Afr/Ap 08 Jun  016/023
+Predicted Afr/Ap 09 Jun-11 Jun  014/017-009/010-012/015
+
+VI.  Geomagnetic Activity Probabilities 09 Jun-11 Jun
+A.  Middle Latitudes
+Active                35/30/30
+Minor Storm           10/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           30/30/30
+Major-severe storm    45/35/35

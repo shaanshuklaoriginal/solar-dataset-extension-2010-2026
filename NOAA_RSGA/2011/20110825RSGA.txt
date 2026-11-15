@@ -1,0 +1,59 @@
+:Product: 0825RSGA.txt
+:Issued: 2011 Aug 25 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 237 Issued at 2200Z on 25 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  24/2100Z
+to 25/2100Z:  Solar activity was at very low levels. Region 1271
+(N17W56) decayed in area and spot count, but developed a Delta
+magnetic configuration in the large leader spot. The region produced
+numerous low-level B-class events. Three new regions were numbered
+during the period. In the western hemisphere, new Region 1278
+(N16W40) emerged as a simple 4-spot bi-polar group. On the eastern
+limb, new Region 1277 (N17E62) and new Region 1279 (N14E75) both
+rotated onto the disk as large, uni-polar H-type groups. Region 1277
+produced a B9 x-ray event at 25/0702Z while Region 1279 produced
+another B9 x-ray event at 25/1652Z. The SOHO LASCO satellite
+observed a slow-moving CME off the east limb, first observed in C2
+imagery at 25/0856Z with an estimated plane-of-sky speed of 420
+km/s.  This CME does not appear to have an Earthward directed
+component.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance for an M-class event all three days (26 - 28
+August).
+IIA.  Geophysical Activity Summary 24/2100Z to 25/2100Z:
+The geomagnetic field was at quiet levels. Observations from the ACE
+spacecraft indicated a steady decline in solar wind velocity during
+the period from about 500 km/s to near 400 km/s.  The Bz component
+of the interplanetary magnetic field did not vary much beyond +/- 4
+nT while the phi angle remained negative (toward) throughout the
+period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain at quiet levels for days one and two (26 - 27
+August). By day three (28 August), activity levels are expected to
+increase to quiet to unsettled, with isolated active periods, due to
+a geoeffective, recurrent coronal hole high speed stream.
+III.  Event Probabilities 26 Aug-28 Aug
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           25 Aug 104
+Predicted   26 Aug-28 Aug  110/115/115
+90 Day Mean        25 Aug 097
+V.  Geomagnetic A Indices
+Observed Afr/Ap 24 Aug  005/006
+Estimated Afr/Ap 25 Aug  005/005
+Predicted Afr/Ap 26 Aug-28 Aug  005/005-005/005-007/010
+VI.  Geomagnetic Activity Probabilities 26 Aug-28 Aug
+A.  Middle Latitudes
+Active                15/15/20
+Minor storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/30
+Minor storm           01/01/15
+Major-severe storm    01/01/01

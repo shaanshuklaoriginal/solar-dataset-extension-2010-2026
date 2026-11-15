@@ -1,0 +1,52 @@
+:Product: 1122RSGA.txt
+:Issued: 2023 Nov 22 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 326 Issued at 2200Z on 22 Nov 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 21/2100Z to
+22/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C8 event observed at
+22/0628Z from Region 3492 (N18E36). There are currently 9 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(23 Nov, 24 Nov, 25 Nov).
+
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z: The geomagnetic
+field has been at unsettled to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 595 km/s at 22/0209Z. Total IMF
+reached 14 nT at 22/0312Z. The maximum southward component of Bz reached
+-13 nT at 21/2115Z.  Electrons greater than 2 MeV at geosynchronous
+orbit reached a peak level of 211 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one and three (23 Nov, 25 Nov)
+and quiet to unsettled levels on day two (24 Nov).
+
+III.  Event probabilities 23 Nov-25 Nov
+Class M    55/55/55
+Class X    10/10/10
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           22 Nov 190
+Predicted   23 Nov-25 Nov 190/190/185
+90 Day Mean        22 Nov 147
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 Nov  015/018
+Estimated Afr/Ap 22 Nov  022/030
+Predicted Afr/Ap 23 Nov-25 Nov  011/012-007/008-007/010
+
+VI.  Geomagnetic Activity Probabilities 23 Nov-25 Nov
+A.  Middle Latitudes
+Active                20/15/20
+Minor Storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           15/20/20
+Major-severe storm    15/20/20

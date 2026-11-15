@@ -1,0 +1,38 @@
+:Product: 1206RSGA.txt
+:Issued: 2011 Dec 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 340 Issued at 2200Z on 06 Dec 2011
+IA.  Analysis of Solar Active Regions and Activity from  05/2100Z
+to 06/2100Z:  Solar activity was low. Region 1363 (S22W20) produced
+the sole C-class event, a C6 x-ray flare at 05/2325Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+for the next 3 days (7-9 December).
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet for the next 3 days (7-9 December).
+III.  Event Probabilities 07 Dec-09 Dec
+Class M    20/20/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           06 Dec 151
+Predicted   07 Dec-09 Dec  150/150/160
+90 Day Mean        06 Dec 145
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Dec  004/002
+Estimated Afr/Ap 06 Dec  005/005
+Predicted Afr/Ap 07 Dec-09 Dec  006/005-006/005-006/005
+VI.  Geomagnetic Activity Probabilities 07 Dec-09 Dec
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           04/04/04
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                14/14/14
+Minor storm           17/17/17
+Major-severe storm    15/15/15

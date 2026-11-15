@@ -1,0 +1,52 @@
+:Product: 1210RSGA.txt
+:Issued: 2013 Dec 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 344 Issued at 2200Z on 10 Dec 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 09/2100Z to
+10/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C2 event observed at
+10/2007Z from Region 1916 (S13W65). There are currently 9 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (11 Dec, 12 Dec,
+13 Dec).
+
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+430 km/s at 09/2326Z. Total IMF reached 6 nT at 10/0539Z. The maximum
+southward component of Bz reached -5 nT at 10/0507Z. Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 109 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one and two (11 Dec, 12 Dec) and quiet to
+active levels on day three (13 Dec).
+
+III.  Event probabilities 11 Dec-13 Dec
+Class M    30/30/30
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           10 Dec 175
+Predicted   11 Dec-13 Dec 175/180/175
+90 Day Mean        10 Dec 134
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Dec  002/002
+Estimated Afr/Ap 10 Dec  006/006
+Predicted Afr/Ap 11 Dec-13 Dec  005/005-005/005-009/010
+
+VI.  Geomagnetic Activity Probabilities 11 Dec-13 Dec
+A.  Middle Latitudes
+Active                05/05/30
+Minor Storm           01/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/10
+Minor Storm           15/15/25
+Major-severe storm    05/05/40

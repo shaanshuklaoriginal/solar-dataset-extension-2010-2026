@@ -1,0 +1,47 @@
+:Product: 0418RSGA.txt
+:Issued: 2010 Apr 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 108 Issued at 2200Z on 18 Apr 2010
+IA.  Analysis of Solar Active Regions and Activity from  17/2100Z
+to 18/2100Z:  Solar activity was very low.  The visible disk remained
+spotless.  A very long duration B1.3 X-ray event was observed at
+18/0218Z.  The possible source region of this event was from an area
+of surging on the east limb between N13 and N27 as observed in
+GOES-14 SXI imagery.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+at very low levels.  A slight chance for C-class activity exists as
+the new area of interest on the NE limb rotates onto the disk.
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z:
+Geomagnetic field activity was quiet at all latitudes.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be quiet on days one and two (19 - 20 April).  Activity
+is expected to increase to quiet to unsettled levels, with isolated
+active periods, on day three (21 April) as two coronal hole wind
+streams rotate into a geoeffective position.  These coronal holes
+are currently located, one each, in the NE and SE quadrants of the
+disk and generally lie along a similar longitudinal line.
+III.  Event Probabilities 19 Apr-21 Apr
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           18 Apr 075
+Predicted   19 Apr-21 Apr  078/079/080
+90 Day Mean        18 Apr 082
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 Apr  001/002
+Estimated Afr/Ap 18 Apr  002/005
+Predicted Afr/Ap 19 Apr-21 Apr  005/005-005/005-008/010
+VI.  Geomagnetic Activity Probabilities 19 Apr-21 Apr
+A.  Middle Latitudes
+Active                05/05/25
+Minor storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/35
+Minor storm           01/01/15
+Major-severe storm    01/01/01

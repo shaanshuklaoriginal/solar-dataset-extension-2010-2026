@@ -1,0 +1,52 @@
+:Product: 0929RSGA.txt
+:Issued: 2024 Sep 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 273 Issued at 2200Z on 29 Sep 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 28/2100Z to
+29/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+29/1424Z from Region 3842 (S15E45). There are currently 9 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(30 Sep, 01 Oct, 02 Oct).
+
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 486 km/s at 29/2044Z. Total IMF reached 14
+nT at 29/1451Z. The maximum southward component of Bz reached -10 nT at
+29/1951Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 574 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (30 Sep) and quiet levels on
+days two and three (01 Oct, 02 Oct).
+
+III.  Event probabilities 30 Sep-02 Oct
+Class M    55/55/55
+Class X    10/10/10
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           29 Sep 197
+Predicted   30 Sep-02 Oct 200/200/200
+90 Day Mean        29 Sep 214
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 Sep  005/007
+Estimated Afr/Ap 29 Sep  013/015
+Predicted Afr/Ap 30 Sep-02 Oct  009/010-005/005-006/005
+
+VI.  Geomagnetic Activity Probabilities 30 Sep-02 Oct
+A.  Middle Latitudes
+Active                35/10/10
+Minor Storm           10/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           30/15/15
+Major-severe storm    45/15/15

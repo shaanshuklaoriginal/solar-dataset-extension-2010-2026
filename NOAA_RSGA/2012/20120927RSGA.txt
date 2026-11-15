@@ -1,0 +1,45 @@
+:Product: 0927RSGA.txt
+:Issued: 2012 Sep 27 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 271 Issued at 2200Z on 27 Sep 2012
+IA.  Analysis of Solar Active Regions and Activity from  26/2100Z
+to 27/2100Z:  Solar activity has been at low levels for the past 24
+hours. The largest solar flare of the period was an C4/Sf at 1720Z
+from an unnumbered region around S18E39. There are currently 9
+numbered sunspot regions on the visible disk, however most have
+remained rather stable and quiet. A non-Earth directed full halo CME
+was observed in both STEREO A-B and LASCO imagery early in the
+period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a slight chance for M-class activity for the next
+three days (28 - 30 September).
+IIA.  Geophysical Activity Summary 26/2100Z to 27/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at predominantly quiet levels for the next three days
+(28 - 30 September).
+III.  Event Probabilities 28 Sep-30 Sep
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           27 Sep 133
+Predicted   28 Sep-30 Sep  130/130/125
+90 Day Mean        27 Sep 124
+V.  Geomagnetic A Indices
+Observed Afr/Ap 26 Sep  006/007
+Estimated Afr/Ap 27 Sep  005/005
+Predicted Afr/Ap 28 Sep-30 Sep  005/005-006/005-006/005
+VI.  Geomagnetic Activity Probabilities 28 Sep-30 Sep
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           15/15/15
+Major-severe storm    05/05/05

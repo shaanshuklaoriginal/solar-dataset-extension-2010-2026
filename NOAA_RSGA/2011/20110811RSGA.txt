@@ -1,0 +1,53 @@
+:Product: 0811RSGA.txt
+:Issued: 2011 Aug 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 223 Issued at 2200Z on 11 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  10/2100Z
+to 11/2100Z:  Solar activity was low.  Region 1263 (N17, L=301)
+produced a C6 x-ray flare from beyond the west limb.  New regions
+1269 (S22E17) and 1270 (S23E54) were numbered today; both are small
+and magnetically simple.  A CME was observed on the west limb,
+evident in SOHO/LASCO C2 imagery at 11/1036Z.  Material movement and
+subsequent darkening was observed in STEREO-A EUV imagery beginning
+at approximately 11/1005Z.  This CME is not expected to be
+geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low.  There is a chance for a C class x-ray event throughout
+the period.
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z:
+The geomagnetic field was quiet.  Solar wind speed at the ACE
+spacecraft continued to decline and ended the period near 400 km/s. 
+The Phi angle briefly switched to negative between 11/10Z and
+11/12Z.  The Bz component of the interplanetary magnetic field
+remained around zero.  A shock was observed in the STEREO-A beacon
+data at roughly 11/0600Z.  This is most likely the arrival of the 09
+August CME from Region 1263. The greater than 2 MeV electron flux at
+geosynchronous orbit was at high levels throughout the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominantly quiet for the next three days (12-14
+August).
+III.  Event Probabilities 12 Aug-14 Aug
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           11 Aug 084
+Predicted   12 Aug-14 Aug  085/085/090
+90 Day Mean        11 Aug 096
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Aug  008/007
+Estimated Afr/Ap 11 Aug  005/004
+Predicted Afr/Ap 12 Aug-14 Aug  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 12 Aug-14 Aug
+A.  Middle Latitudes
+Active                15/05/05
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/10/20
+Minor storm           10/05/10
+Major-severe storm    05/01/05

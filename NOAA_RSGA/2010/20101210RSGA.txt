@@ -1,0 +1,44 @@
+:Product: 1210RSGA.txt
+:Issued: 2010 Dec 10 2215 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+:::::::::: CORRECTED COPY ::::::::::
+SDF Number 344 Issued at 2200Z on 10 Dec 2010
+IA.  Analysis of Solar Active Regions and Activity from  09/2100Z
+to 10/2100Z:  Solar activity was at very low levels. No significant
+changes were noted on the disk or limb.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+at very low levels for the next three days (11 - 13 December).
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z:
+The geomagnetic field was at quiet levels. Observations from the ACE
+spacecraft indicated a steady change in the solar wind magnetic
+field structure from positive (away) to negative (toward) at about
+10/0500Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at mostly unsettled levels with isolated active
+periods for the next three days (11 - 13 December) due to recurrent
+coronal hole high speed stream effects.
+III.  Event Probabilities 11 Dec-13 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           10 Dec 088
+Predicted   11 Dec-13 Dec  088/088/089
+90 Day Mean        10 Dec 083
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Dec  000/002
+Estimated Afr/Ap 10 Dec  006/008
+Predicted Afr/Ap 11 Dec-13 Dec  010/010-010/010-008/008
+VI.  Geomagnetic Activity Probabilities 11 Dec-13 Dec
+A.  Middle Latitudes
+Active                20/20/15
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/25/20
+Minor storm           10/10/05
+Major-severe storm    01/01/01

@@ -1,0 +1,65 @@
+:Product: 0903RSGA.txt
+:Issued: 2012 Sep 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 247 Issued at 2200Z on 03 Sep 2012
+IA.  Analysis of Solar Active Regions and Activity from  02/2100Z
+to 03/2100Z:  Solar activity was low. Regions 1560 (N03W33 -
+Eki/beta-gamma-delta) and 1564 (S16E26 - Esi/beta-gamma) each
+produced occasional C-class flares. Region 1560 increased in
+magnetic complexity to a beta-gamma-delta configuration with a delta
+evident in its interior spots. Region 1564 was in a gradual growth
+phase during the period and increased in magnetic complexity to a
+beta-gamma configuration. Region 1553 (S21W82 - Dso/beta) produced
+occasional optical subflares as it neared the west limb. New Region
+1566 (N24E76 - Hax/alpha) was numbered. There were no Earth-directed
+coronal mass ejections (CME) observed during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+through the period (04 - 06 September) with a chance for isolated M-
+class flares.
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z:
+Geomagnetic field activity ranged from unsettled to major storm
+levels with a brief period of severe storm levels detected at high
+latitudes. An interplanetary shock passed the ACE spacecraft at
+03/1123Z indicating the arrival of the Halo CME observed on 31
+August. This was followed by a geomagnetic sudden impulse at
+03/1214Z (28 nT, Boulder USGS Magnetometer). Field activity
+increased to major storm levels during 03/1200 - 1500Z following the
+sudden impulse, then decreased to active levels for the rest of the
+period, with minor storm periods detected at high latitudes. The greater than 10 MeV proton event at geosynchronous orbit
+that began at 01/1335Z, reached a maximum of 60 pfu at 02/0850Z, and
+was in progress as the period ended.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at unsettled to active levels on day 1 (04 September)
+with a chance for minor storm levels as CME effects wind down. Quiet
+to unsettled conditions are expected during days 2 - 3 (05 - 06
+September) with a chance for active levels due to arrival of
+Earth-directed CMEs observed on 02 September along with a
+co-rotating interaction region ahead of a coronal hole high-speed
+stream (CH HSS). The CH HSS is expected to commence on day 3. The
+greater than 10 MeV proton event at geosynchronous orbit is expected
+to end on day 1.
+III.  Event Probabilities 04 Sep-06 Sep
+Class M    30/30/30
+Class X    05/05/05
+Proton     50/30/10
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           03 Sep 142
+Predicted   04 Sep-06 Sep  140/140/135
+90 Day Mean        03 Sep 124
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Sep  014/015
+Estimated Afr/Ap 03 Sep  021/028
+Predicted Afr/Ap 04 Sep-06 Sep  014/015-010/012-009/010
+VI.  Geomagnetic Activity Probabilities 04 Sep-06 Sep
+A.  Middle Latitudes
+Active                30/20/20
+Minor storm           20/05/05
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           15/20/30
+Major-severe storm    10/20/25

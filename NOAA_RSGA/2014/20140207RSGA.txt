@@ -1,0 +1,55 @@
+:Product: 0207RSGA.txt
+:Issued: 2014 Feb 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 38 Issued at 2200Z on 07 Feb 2014
+
+IA.  Analysis of Solar Active Regions and Activity from 06/2100Z to
+07/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M2 event observed at
+07/0456Z from Region 1967 (S13W64). Region 1968 (N13W59) also produced
+an M1/1n at 07/1029 UTC. There are currently 7 numbered sunspot regions
+on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one and two (08 Feb,
+09 Feb) and expected to be low with a chance for M-class flares and a
+slight chance for an X-class flare on day three (10 Feb).
+
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+464 km/s at 06/2352Z. Total IMF reached 15 nT at 07/1853Z. The maximum
+southward component of Bz reached -8 nT at 07/2043Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (08 Feb), quiet to
+active levels on day two (09 Feb) and quiet levels on day three (10
+Feb). Protons greater than 10 MeV have a slight chance of crossing
+threshold on days one and two (08 Feb, 09 Feb).
+
+III.  Event probabilities 08 Feb-10 Feb
+Class M    60/60/40
+Class X    20/20/10
+Proton     10/10/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           07 Feb 178
+Predicted   08 Feb-10 Feb 175/165/155
+90 Day Mean        07 Feb 155
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Feb  005/007
+Estimated Afr/Ap 07 Feb  006/008
+Predicted Afr/Ap 08 Feb-10 Feb  012/015-009/010-007/008
+
+VI.  Geomagnetic Activity Probabilities 08 Feb-10 Feb
+A.  Middle Latitudes
+Active                35/35/15
+Minor Storm           25/15/05
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor Storm           25/30/25
+Major-severe storm    60/45/25

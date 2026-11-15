@@ -1,0 +1,50 @@
+:Product: 1125RSGA.txt
+:Issued: 2016 Nov 25 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 330 Issued at 2200Z on 25 Nov 2016
+
+IA.  Analysis of Solar Active Regions and Activity from 24/2100Z to
+25/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 1 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a slight chance for a C-class flare on days one, two, and three (26
+Nov, 27 Nov, 28 Nov).
+
+IIA.  Geophysical Activity Summary 24/2100Z to 25/2100Z: The geomagnetic
+field has been at unsettled to major storm levels for the past 24 hours.
+Solar wind speed reached a peak of 870 km/s at 25/0406Z. Total IMF
+reached 11 nT at 25/0251Z. The maximum southward component of Bz reached
+-8 nT at 25/0405Z. Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 9557 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (26 Nov), quiet to unsettled
+levels on day two (27 Nov) and quiet levels on day three (28 Nov).
+
+III.  Event probabilities 26 Nov-28 Nov
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           25 Nov 081
+Predicted   26 Nov-28 Nov 082/083/083
+90 Day Mean        25 Nov 085
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 24 Nov  017/021
+Estimated Afr/Ap 25 Nov  023/033
+Predicted Afr/Ap 26 Nov-28 Nov  015/015-010/010-007/008
+
+VI.  Geomagnetic Activity Probabilities 26 Nov-28 Nov
+A.  Middle Latitudes
+Active                40/15/05
+Minor Storm           15/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/15
+Major-severe storm    20/10/10

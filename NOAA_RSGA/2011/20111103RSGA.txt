@@ -1,0 +1,58 @@
+:Product: 1103RSGA.txt
+:Issued: 2011 Nov 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 307 Issued at 2200Z on 03 Nov 2011
+IA.  Analysis of Solar Active Regions and Activity from  02/2100Z
+to 03/2100Z:  Solar activity was high. Region 1339 (N18E57) produced
+an X1/2B flare at 03/2027Z. In addition, the Region produced two
+M-class events during the past 24 hours, an M4 at 02/2201Z and an M2
+at 03/1111Z. This group has rotated more fully into view as a large,
+E-type sunspot region with an apparent beta-gamma-delta magnetic
+configuration. Current estimate of the area is around 1400
+millionths. Region 1338 (S14E40) is also noteworthy as it has an
+area of about 375 millionths in a beta-gamma magnetic configuration.
+However, it has only managed to produce a C-class event. The
+remainder of the groups on the disk were quiet and stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+mostly moderate but there is a chance for additional major flare
+activity. The primary source of the elevated activity is expected to
+be Region 1339. There may also be a contribution to the M-flare
+activity from Region 1338.
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z:
+The geomagnetic field was quiet. Nonetheless a magnetic crochet was
+clearly observed in the dayside magnetometer data in association
+with the X1.9 flare.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled with a chance for active periods for the
+first day (04 November). There is also a slight chance for storm
+level activity on this day. The increase is expected as a result of
+a glancing blow from the CME that occurred on 31 October. Activity
+levels are expected to be quiet to unsettled for the second day (05
+November) and quiet for the third day (06 November). Note that this
+forecast may need to be updated if an earthward directed CME is
+observed and associated with todays X-class event.
+III.  Event Probabilities 04 Nov-06 Nov
+Class M    75/75/75
+Class X    20/20/20
+Proton     10/10/10
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           03 Nov 160
+Predicted   04 Nov-06 Nov  165/165/165
+90 Day Mean        03 Nov 126
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Nov  007/011
+Estimated Afr/Ap 03 Nov  005/005
+Predicted Afr/Ap 04 Nov-06 Nov  015/015-008/010-005/008
+VI.  Geomagnetic Activity Probabilities 04 Nov-06 Nov
+A.  Middle Latitudes
+Active                40/20/10
+Minor storm           15/05/05
+Major-severe storm    10/01/01
+B.  High Latitudes
+Active                50/25/10
+Minor storm           20/10/05
+Major-severe storm    15/05/01

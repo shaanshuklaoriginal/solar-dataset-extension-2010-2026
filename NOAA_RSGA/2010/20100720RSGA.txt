@@ -1,0 +1,42 @@
+:Product: 0720RSGA.txt
+:Issued: 2010 Jul 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 201 Issued at 2200Z on 20 Jul 2010
+IA.  Analysis of Solar Active Regions and Activity from  19/2100Z
+to 20/2100Z:  Solar activity was low due to a C1/Sf flare at 1345Z
+from Region 1089 (S24E58). Region 1089 is a moderate-sized D-type
+sunspot group with a beta magnetic classification.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low. There is a chance for additional C-class events from
+Region 1089.
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled during the next three days (21-23
+July). A gradual increase in activity is expected due to a favorably
+positioned coronal hole.
+III.  Event Probabilities 21 Jul-23 Jul
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           20 Jul 087
+Predicted   21 Jul-23 Jul  085/085/085
+90 Day Mean        20 Jul 074
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 Jul  002/004
+Estimated Afr/Ap 20 Jul  004/005
+Predicted Afr/Ap 21 Jul-23 Jul  005/007-007/008-010/010
+VI.  Geomagnetic Activity Probabilities 21 Jul-23 Jul
+A.  Middle Latitudes
+Active                05/15/20
+Minor storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/20/25
+Minor storm           01/05/15
+Major-severe storm    01/01/05

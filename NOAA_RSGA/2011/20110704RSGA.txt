@@ -1,0 +1,48 @@
+:Product: 0704RSGA.txt
+:Issued: 2011 Jul 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 185 Issued at 2200Z on 04 Jul 2011
+IA.  Analysis of Solar Active Regions and Activity from  03/2100Z
+to 04/2100Z:  Solar activity was very low. Region 1242 (N18W82)
+produced two low-level B-class flares at 04/1252Z and 04/1656Z.
+Region 1244 (N16W53) showed an increase in area and was classified
+as a Dao spot group with a beta-gamma magnetic structure. Region
+1243 (N17W19) showed a slight decrease in area and spots and was
+classified as a Cso-beta group. No new regions were numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a chance for an isolated C-class flare for the next three
+days (05-07 July).
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z:
+The geomagnetic field was at quiet to unsettled levels.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at predominantly quiet levels on days one and two
+(05-06 July). Quiet to unsettled levels, with isolated active levels
+at high latitudes, are expected on day three (07 July). The increase
+in activity is due to an expected recurrent coronal hole high speed
+stream and a possible CME passage from the partial-halo CME observed
+on LASCO C3 at 03/0142Z.
+III.  Event Probabilities 05 Jul-07 Jul
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           04 Jul 085
+Predicted   05 Jul-07 Jul  084/082/080
+90 Day Mean        04 Jul 100
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Jul  006/008
+Estimated Afr/Ap 04 Jul  008/010
+Predicted Afr/Ap 05 Jul-07 Jul  005/005-005/005-008/008
+VI.  Geomagnetic Activity Probabilities 05 Jul-07 Jul
+A.  Middle Latitudes
+Active                10/10/15
+Minor storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/20
+Minor storm           01/01/10
+Major-severe storm    01/01/01

@@ -1,0 +1,44 @@
+:Product: 1108RSGA.txt
+:Issued: 2010 Nov 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 312 Issued at 2200Z on 08 Nov 2010
+IA.  Analysis of Solar Active Regions and Activity from  07/2100Z
+to 08/2100Z:  Solar activity was at very low levels. Region 1121
+(S19E20) produced two B1 flares during the period. Region 1121
+decreased in areal coverage and was classified as an Ero spot group
+with 12 spots and a beta-gamma magnetic configuration. Region 1122
+(N13W31) showed an increase in areal coverage and was classified as
+a Dro-beta spot group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low, with a chance for an M-class flare from Region 1121.
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z:
+The geomagnetic field was at quiet levels, with an isolated active
+period at high latitudes.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at predominantly quiet levels for the next three days
+(09-11 November).
+III.  Event Probabilities 09 Nov-11 Nov
+Class M    50/50/50
+Class X    05/05/05
+Proton     05/05/05
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           08 Nov 084
+Predicted   09 Nov-11 Nov  085/085/087
+90 Day Mean        08 Nov 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Nov  001/001
+Estimated Afr/Ap 08 Nov  006/005
+Predicted Afr/Ap 09 Nov-11 Nov  005/006-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 09 Nov-11 Nov
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/10/15
+Minor storm           01/01/01
+Major-severe storm    01/01/01

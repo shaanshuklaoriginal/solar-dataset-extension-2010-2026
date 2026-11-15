@@ -1,0 +1,60 @@
+:Product: 0709RSGA.txt
+:Issued: 2012 Jul 09 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 191 Issued at 2200Z on 09 Jul 2012
+IA.  Analysis of Solar Active Regions and Activity from  08/2100Z
+to 09/2100Z:  Solar activity was low.  Region 1515 (S15W89) produced
+the largest event of the period, a C7/Sf at 09/0830Z.  Region 1520
+(S17E33) continued its growth phase in area coverage, spot count and
+magnetic complexity, but remained relatively quiet through the
+period.  New Region 1521 (S22E21) was numbered as a D-type group.  A
+large filament eruption was observed in the SW quadrant at about
+09/0930Z.  At the time of its eruption, the 23 degree long filament
+was centered near S35W32.  No Earth-directed CMEs were observed
+during the previous 24 hours.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate with a chance for X-class events for the next three days
+(10 - 12 July).
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z:
+The geomagnetic field was at unsettled to minor storm levels with
+high latitude major storm intervals.  This activity was most likely
+a result of CME effects from the 04 July M1 event.  ACE solar data
+indicated wind velocities ranged between 400 to 450 km/s.  The Bz
+component of the interplanetary magnetic field was generally south
+throughout the period ranging between -5 to -10 nT from about
+09/0600Z through the end of the period.  Interplanetary field
+strength was at 10 to 12 nT through most of the period.  A greater
+than 10 MeV proton event at geosynchronous orbit began at 09/0130Z,
+reached a maximum of 19 pfu at 09/0430Z and ended at 09/1445Z.  This
+weak SEP event was most likely associated with the 08 July M6/1n
+flare from Region 1515.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at mostly quiet to unsettled levels with isolated
+active periods on day one (10 July) due to possible weak effects
+from the 06 July CME.  A return to mostly quiet conditions is
+expected for days two and three (11 - 12 July).
+III.  Event Probabilities 10 Jul-12 Jul
+Class M    80/80/80
+Class X    25/25/25
+Proton     10/10/10
+PCAF       yellow
+IV.  Penticton 10.7 cm Flux
+Observed           09 Jul 174
+Predicted   10 Jul-12 Jul  165/160/155
+90 Day Mean        09 Jul 125
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 Jul  015/011
+Estimated Afr/Ap 09 Jul  018/027
+Predicted Afr/Ap 10 Jul-12 Jul  013/015-007/010-005/005
+VI.  Geomagnetic Activity Probabilities 10 Jul-12 Jul
+A.  Middle Latitudes
+Active                20/10/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           30/20/15
+Major-severe storm    25/10/05

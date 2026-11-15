@@ -1,0 +1,52 @@
+:Product: 1123RSGA.txt
+:Issued: 2022 Nov 23 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 327 Issued at 2200Z on 23 Nov 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 22/2100Z to
+23/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+22/2118Z from Region 3151 (S19E05). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares and a slight chance for an M-class
+flare on days one, two, and three (24 Nov, 25 Nov, 26 Nov).
+
+IIA.  Geophysical Activity Summary 22/2100Z to 23/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 340 km/s at 22/2114Z. Total IMF reached 5 nT at
+23/1729Z. The maximum southward component of Bz reached -3 nT at
+23/1639Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 150 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one, two, and three (24 Nov, 25
+Nov, 26 Nov).
+
+III.  Event probabilities 24 Nov-26 Nov
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           23 Nov 113
+Predicted   24 Nov-26 Nov 112/112/112
+90 Day Mean        23 Nov 133
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 22 Nov  002/002
+Estimated Afr/Ap 23 Nov  002/004
+Predicted Afr/Ap 24 Nov-26 Nov  011/012-013/015-012/012
+
+VI.  Geomagnetic Activity Probabilities 24 Nov-26 Nov
+A.  Middle Latitudes
+Active                35/35/35
+Minor Storm           10/15/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/10/15
+Minor Storm           25/25/25
+Major-severe storm    45/50/45

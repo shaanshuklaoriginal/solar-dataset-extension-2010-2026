@@ -1,0 +1,50 @@
+:Product: 1118RSGA.txt
+:Issued: 2013 Nov 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 322 Issued at 2200Z on 18 Nov 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 17/2100Z to
+18/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C2 event observed at
+18/0415Z from Region 1897 (S18W30). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (19 Nov, 20 Nov,
+21 Nov).
+
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 475 km/s at
+18/0514Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one, two, and three (19 Nov, 20 Nov, 21
+Nov).
+
+III.  Event probabilities 19 Nov-21 Nov
+Class M    40/40/30
+Class X    05/05/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           18 Nov 163
+Predicted   19 Nov-21 Nov 160/155/150
+90 Day Mean        18 Nov 126
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 Nov  005/006
+Estimated Afr/Ap 18 Nov  003/004
+Predicted Afr/Ap 19 Nov-21 Nov  006/005-006/005-006/005
+
+VI.  Geomagnetic Activity Probabilities 19 Nov-21 Nov
+A.  Middle Latitudes
+Active                10/10/10
+Minor Storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/20
+Major-severe storm    10/10/10

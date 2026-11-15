@@ -1,0 +1,57 @@
+:Product: 0404RSGA.txt
+:Issued: 2017 Apr 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 94 Issued at 2200Z on 04 Apr 2017
+
+IA.  Analysis of Solar Active Regions and Activity from 03/2100Z to
+04/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C3 event observed at
+04/0712Z from Region 2644 (N13W92). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low with a
+chance for M-class flares and a slight chance for an X-class flare on
+day one (05 Apr) and expected to be very low with a chance for a C-class
+flares and a slight chance for an M-class flare on days two and three
+(06 Apr, 07 Apr).
+
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 488 km/s at 04/1548Z. Total IMF
+reached 16 nT at 04/1035Z. The maximum southward component of Bz reached
+-13 nT at 04/0932Z. Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 18021 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on days one and three (05 Apr, 07 Apr)
+and quiet to unsettled levels on day two (06 Apr). Protons have a slight
+chance of crossing threshold on day one (05 Apr), have a slight chance
+of crossing threshold on day two (06 Apr) and have a slight chance of
+crossing threshold on day three (07 Apr).
+
+III.  Event probabilities 05 Apr-07 Apr
+Class M    35/20/10
+Class X    15/05/05
+Proton     20/15/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           04 Apr 094
+Predicted   05 Apr-07 Apr 090/086/082
+90 Day Mean        04 Apr 078
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Apr  004/005
+Estimated Afr/Ap 04 Apr  015/020
+Predicted Afr/Ap 05 Apr-07 Apr  009/012-007/008-010/012
+
+VI.  Geomagnetic Activity Probabilities 05 Apr-07 Apr
+A.  Middle Latitudes
+Active                20/15/25
+Minor Storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/20
+Major-severe storm    20/20/15

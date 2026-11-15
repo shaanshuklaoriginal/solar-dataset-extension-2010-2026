@@ -1,0 +1,47 @@
+:Product: 0519RSGA.txt
+:Issued: 2011 May 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 139 Issued at 2200Z on 19 May 2011
+IA.  Analysis of Solar Active Regions and Activity from  18/2100Z
+to 19/2100Z:  Solar activity was low during the past 24 hours. A long
+duration B3 event occurred in association with a filament eruption
+at 19/0436Z centered near N20W25. An associated CME became visible
+in LASCO C2 imagery at 19/0436Z but is not expected to cause
+significant activity at Earth. Region 1217 (S23W50) decayed to plage
+during the period. All other regions on the disk remained relatively
+quiet and stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a chance for isolated C-class events for the next three
+days (20-22 May).
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z:
+The geomagnetic field was quiet during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled for days one and two (20-21 May)
+due to weak effects from the CME observed at 18/1842Z off the west
+limb. A return to quiet conditions is expected on day three (22
+May).
+III.  Event Probabilities 20 May-22 May
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           19 May 084
+Predicted   20 May-22 May  084/082/080
+90 Day Mean        19 May 109
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 May  004/006
+Estimated Afr/Ap 19 May  004/005
+Predicted Afr/Ap 20 May-22 May  007/007-007/007-005/005
+VI.  Geomagnetic Activity Probabilities 20 May-22 May
+A.  Middle Latitudes
+Active                15/15/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/25/05
+Minor storm           05/05/01
+Major-severe storm    01/01/01

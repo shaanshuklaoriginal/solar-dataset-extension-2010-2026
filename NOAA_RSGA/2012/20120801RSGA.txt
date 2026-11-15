@@ -1,0 +1,45 @@
+:Product: 0801RSGA.txt
+:Issued: 2012 Aug 01 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 214 Issued at 2200Z on 01 Aug 2012
+IA.  Analysis of Solar Active Regions and Activity from  31/2100Z
+to 01/2100Z:  Solar activity was low.  Regions 1528 (N17W56), 1532
+(S19W14), 1535 (N18E37), 1536 (S22W01), and 1538 (S22E54) all
+produced low level C-class flares.  Region 1536 is the most
+magnetically complex group on the visible disk with a weak
+Beta-gamma configuration.  No Earth-directed coronal mass ejections
+(CMEs) were observed during the reporting period.
+IB.  Solar Activity Forecast:  Solar activity is expected to continue
+at low levels with a chance for M-class flares.
+IIA.  Geophysical Activity Summary 31/2100Z to 01/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled with isolated active periods
+possible on day 1 (02 August) due to effects from the 28 July CME. 
+Quiet to unsettled conditions are expected on day 2 (03 August). 
+Mostly quiet conditions are expected on day 3 (04 August).
+III.  Event Probabilities 02 Aug-04 Aug
+Class M    35/35/35
+Class X    05/05/05
+Proton     05/05/05
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           01 Aug 150
+Predicted   02 Aug-04 Aug  155/155/150
+90 Day Mean        01 Aug 127
+V.  Geomagnetic A Indices
+Observed Afr/Ap 31 Jul  005/006
+Estimated Afr/Ap 01 Aug  005/006
+Predicted Afr/Ap 02 Aug-04 Aug  008/010-007/008-006/005
+VI.  Geomagnetic Activity Probabilities 02 Aug-04 Aug
+A.  Middle Latitudes
+Active                20/15/05
+Minor storm           10/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           25/20/15
+Major-severe storm    30/20/05

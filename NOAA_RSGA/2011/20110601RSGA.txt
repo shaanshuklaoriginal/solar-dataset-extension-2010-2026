@@ -1,0 +1,54 @@
+:Product: 0601RSGA.txt
+:Issued: 2011 Jun 01 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 152 Issued at 2200Z on 01 Jun 2011
+IA.  Analysis of Solar Active Regions and Activity from  31/2100Z
+to 01/2100Z:  Solar activity was low.  Region 1226 (S22E14) produced
+three C-class events, the largest was a C4/1f at 01/1708Z.  This
+region is a Csi type group with a beta magnetic classification and
+has decayed in both sunspot count and white light aerial coverage. 
+Region 1227 (S19E26) has also shown signs of decay in white light
+areal coverage, but retains its D-type group and beta-gamma magnetic
+classification.  Region 1228 (N17E31) produced a C2/Sf at 01/0253Z. 
+Region 1231 (N09E68) was numbered early in the period.  The  STEREO
+COR2 imagery observed a CME around 01/0609Z and another around
+06/2009Z.  Further analysis will be performed as LASCO imagery
+updates to determine if these will be Earth directed.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance for an M-class event.
+IIA.  Geophysical Activity Summary 31/2100Z to 01/2100Z:
+The geomagnetic field was quiet to active.  An increase in activity
+was observed on the Boulder magnetometer around 01/0800Z.  This
+activity may have been due to the CME observed on 29 May.  There
+were no observations available from the ACE spacecraft from 
+01/0028Z to 01/0771Z. The greater than 2 MeV electron flux at
+geosynchronous orbit was at high levels throughout the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled conditions with isolated active
+levels for the next three days (02-04 June).  Activity is expected
+due to continued coronal hole high speed stream effects.
+III.  Event Probabilities 02 Jun-04 Jun
+Class M    10/10/10
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           01 Jun 114
+Predicted   02 Jun-04 Jun  115/115/110
+90 Day Mean        01 Jun 108
+V.  Geomagnetic A Indices
+Observed Afr/Ap 31 May  010/013
+Estimated Afr/Ap 01 Jun  012/012
+Predicted Afr/Ap 02 Jun-04 Jun  007/010-008/008-010/010
+VI.  Geomagnetic Activity Probabilities 02 Jun-04 Jun
+A.  Middle Latitudes
+Active                10/10/20
+Minor storm           05/05/10
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                20/20/25
+Minor storm           10/10/15
+Major-severe storm    05/05/10

@@ -1,0 +1,52 @@
+:Product: 0504RSGA.txt
+:Issued: 2015 May 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 124 Issued at 2200Z on 04 May 2015
+
+IA.  Analysis of Solar Active Regions and Activity from 03/2100Z to
+04/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C8 event observed at
+04/0052Z from Region 2335 (S15E24). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a slight chance for an M-class flare on days one, two, and three (05
+May, 06 May, 07 May).
+
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 524 km/s at
+04/1904Z. Total IMF reached 6 nT at 03/2103Z. The maximum southward
+component of Bz reached -5 nT at 03/2352Z. Electrons greater than 2 MeV
+at geosynchronous orbit reached a peak level of 247 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (05 May) and quiet to
+active levels on days two and three (06 May, 07 May).
+
+III.  Event probabilities 05 May-07 May
+Class M    20/20/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           04 May 125
+Predicted   05 May-07 May 130/135/135
+90 Day Mean        04 May 127
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 May  007/008
+Estimated Afr/Ap 04 May  006/007
+Predicted Afr/Ap 05 May-07 May  007/008-013/015-010/010
+
+VI.  Geomagnetic Activity Probabilities 05 May-07 May
+A.  Middle Latitudes
+Active                10/35/25
+Minor Storm           01/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/30/25
+Major-severe storm    20/45/30

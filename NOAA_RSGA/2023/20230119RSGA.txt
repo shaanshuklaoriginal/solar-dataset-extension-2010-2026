@@ -1,0 +1,55 @@
+:Product: 0119RSGA.txt
+:Issued: 2023 Jan 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 19 Issued at 2200Z on 19 Jan 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 18/2100Z to
+19/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+19/1012Z from Region 3196 (N12E31). There are currently 10 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one and two (20 Jan,
+21 Jan) and expected to be low with a chance for M-class flares and a
+slight chance for an X-class flare on day three (22 Jan).
+
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 445 km/s at 19/0756Z. Total IMF reached 10
+nT at 19/0922Z. The maximum southward component of Bz reached -5 nT at
+19/1042Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 176 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to active levels on day one (20 Jan) and quiet to
+unsettled levels on days two and three (21 Jan, 22 Jan). Protons have a
+slight chance of crossing threshold on days one and two (20 Jan, 21 Jan)
+and have a slight chance of crossing threshold on day three (22 Jan).
+
+III.  Event probabilities 20 Jan-22 Jan
+Class M    60/60/50
+Class X    15/15/10
+Proton     10/10/15
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           19 Jan 219
+Predicted   20 Jan-22 Jan 220/220/215
+90 Day Mean        19 Jan 146
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Jan  011/010
+Estimated Afr/Ap 19 Jan  011/014
+Predicted Afr/Ap 20 Jan-22 Jan  013/015-012/012-007/008
+
+VI.  Geomagnetic Activity Probabilities 20 Jan-22 Jan
+A.  Middle Latitudes
+Active                30/25/20
+Minor Storm           10/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/20/15
+Minor Storm           30/30/30
+Major-severe storm    35/30/25

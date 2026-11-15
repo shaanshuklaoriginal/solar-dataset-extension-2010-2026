@@ -1,0 +1,41 @@
+:Product: 0718RSGA.txt
+:Issued: 2010 Jul 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 199 Issued at 2200Z on 18 Jul 2010
+IA.  Analysis of Solar Active Regions and Activity from  17/2100Z
+to 18/2100Z:  Solar activity was very low.  Region 1087 (N24W48) has
+a simple alpha magnetic classification.  A further analysis of the
+SOHO/LASCO imagery from yesterday show a CME was observed on C3
+imagery which can be correlated with the C2 x-ray flare at 17/1801Z.
+This event does not seem to be Earth directed.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a slight chance for a C-class flare from Region 1087.
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels for the next three days (19-21 July).
+III.  Event Probabilities 19 Jul-21 Jul
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           18 Jul 077
+Predicted   19 Jul-21 Jul  075/074/074
+90 Day Mean        18 Jul 074
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 Jul  001/002
+Estimated Afr/Ap 18 Jul  001/003
+Predicted Afr/Ap 19 Jul-21 Jul  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 19 Jul-21 Jul
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

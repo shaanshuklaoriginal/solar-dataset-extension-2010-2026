@@ -1,0 +1,54 @@
+:Product: 1015RSGA.txt
+:Issued: 2010 Oct 15 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 288 Issued at 2200Z on 15 Oct 2010
+IA.  Analysis of Solar Active Regions and Activity from  14/2100Z
+to 15/2100Z:  Solar activity remained at very low levels. Regions
+1112 (S19W15), 1113 (N17E50), and newly numbered 1115 (S28E63) each
+produced isolated low-level B-class flares. Regions 1113 and 1115
+were both H-type spots and exhibited no significant changes. Region
+1112 showed minor spot growth during the period. A slow CME
+(estimated plane-of-sky velocity 140 km/s) was evident in SOHO and
+STEREO coronagraph images - first visible in SOHO/LASCO C2 at
+14/1348Z. The CME had a northwestward trajectory and is not expected
+to be geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low through the period (16 - 18 October).
+IIA.  Geophysical Activity Summary 14/2100Z to 15/2100Z:
+Geomagnetic field activity was at quiet levels. However, ACE solar
+wind data indicated a CME passage around 15/0300Z, likely associated
+with the filament eruption observed on 10 October. Solar wind
+changes associated with the CME passage included increased
+velocities (277 to 354 km/s), increased IMF Bt (peak 09 nT at
+15/0919Z), and intermittent periods of southward IMF Bz (maximum
+deflection -07 nT at 15/1725Z).
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at quiet to unsettled levels, with a slight chance
+for active levels, on day 1 (16 October) as the CME passage
+continues. Activity is expected to decrease to quiet levels during
+days 2 and 3 (17 - 18 October).
+III.  Event Probabilities 16 Oct-18 Oct
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           15 Oct 082
+Predicted   16 Oct-18 Oct  084/084/084
+90 Day Mean        15 Oct 080
+V.  Geomagnetic A Indices
+Observed Afr/Ap 14 Oct  000/002
+Estimated Afr/Ap 15 Oct  006/007
+Predicted Afr/Ap 16 Oct-18 Oct  007/007-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 16 Oct-18 Oct
+A.  Middle Latitudes
+Active                15/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01

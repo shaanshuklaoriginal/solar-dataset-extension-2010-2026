@@ -1,0 +1,47 @@
+:Product: 1003RSGA.txt
+:Issued: 2010 Oct 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 276 Issued at 2200Z on 03 Oct 2010
+IA.  Analysis of Solar Active Regions and Activity from  02/2100Z
+to 03/2100Z:  Solar activity was very low. Todays activity consisted
+of three low-level B-class x-ray events: a B1 at 02/2337Z from
+Region 1109 (N20W80), a B2 at 03/0438Z from Region 1110 (now behind
+the west limb at N21), and a B1 at 03/1923Z from Region 1111
+(N24E06). The disk was otherwise stable and quiet.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+generally very low, with a chance for an isolated C-class flare from
+either of Region 1109 or 1111.
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the first day (04 October). For the second
+and third days (05-06 October), mostly quiet conditions with some
+unsettled periods are expected with a slight chance for isolated
+active periods. The increase is forecast because of possible effects
+from a weak high speed solar wind stream from a favorably positioned
+coronal hole.
+III.  Event Probabilities 04 Oct-06 Oct
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           03 Oct 080
+Predicted   04 Oct-06 Oct  080/080/080
+90 Day Mean        03 Oct 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Oct  000/002
+Estimated Afr/Ap 03 Oct  001/005
+Predicted Afr/Ap 04 Oct-06 Oct  005/005-007/007-007/007
+VI.  Geomagnetic Activity Probabilities 04 Oct-06 Oct
+A.  Middle Latitudes
+Active                10/20/20
+Minor storm           01/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/20/20
+Minor storm           01/10/10
+Major-severe storm    01/05/05

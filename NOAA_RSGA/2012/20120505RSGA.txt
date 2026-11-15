@@ -1,0 +1,57 @@
+:Product: 0505RSGA.txt
+:Issued: 2012 May 05 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 126 Issued at 2200Z on 05 May 2012
+IA.  Analysis of Solar Active Regions and Activity from  04/2100Z
+to 05/2100Z:  Solar activity was at moderate levels. New Region 1476
+(N09E67) produced several C-class flares along with an M1/Sn at
+05/1329Z. The regions proximity to the limb makes spot
+classification difficult, however, it is currently considered a
+Dko-beta type group. Region 1469 (S26W77) continues to produce low
+level C-class activity as it rotates around the west limb. A model
+run was completed after the forecast was issued yesterday to include
+the CME observed off the southwest limb yesterday. It was determined
+that the CME has a slight Earth-directed component. A second CME,
+first visible in STEREO A COR2 imagery at 05/0309Z, appeared to be
+associated with a C1 flare from Region 1469 observed at 04/2350Z.
+Although both CMEs have a weak Earth-directed component, neither are
+expected to cause significant geomagnetic activity. A third CME
+associated with a C2/Sf flare from Region 1470 (S15W31) observed at
+05/0639Z, first became visible in SDO AIA imagery at approximately
+05/0600Z. Due to the source location, it is probable that the CME is
+Earth-directed and a model run is currently in progress to determine
+geoeffectiveness.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for M-class flares for the next three days (06-08
+May).
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z:
+The geomagnetic field was quiet during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet on day one (06 May). Quiet to unsettled
+conditions are possible on days two and three (07-08 May) due to
+weak effects from the CMEs observed on 04 May.
+III.  Event Probabilities 06 May-08 May
+Class M    25/25/25
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           05 May 116
+Predicted   06 May-08 May  115/115/115
+90 Day Mean        05 May 112
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 May  004/004
+Estimated Afr/Ap 05 May  004/004
+Predicted Afr/Ap 06 May-08 May  006/005-007/007-007/007
+VI.  Geomagnetic Activity Probabilities 06 May-08 May
+A.  Middle Latitudes
+Active                05/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor storm           01/05/05
+Major-severe storm    01/01/01

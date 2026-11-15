@@ -1,0 +1,56 @@
+:Product: 0315RSGA.txt
+:Issued: 2012 Mar 15 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 075 Issued at 2200Z on 15 Mar 2012
+IA.  Analysis of Solar Active Regions and Activity from  14/2100Z
+to 15/2100Z:  Solar activity was moderate.  Region 1432 (N14W14)
+produced an M1/1f event at 0752Z associated with a Type II radio
+sweep (estimated velocity 468 km/s) and a CME visible on STEREO
+Ahead and Behind.  The geoeffectiveness of this CME is under review.
+Region 1432 has grown into an Esi type spot group with beta-gamma
+magnetic characteristics.  New Region 1435 (S25W11) was numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to continue
+at low to moderate levels for the next three days with a slight
+chance for an isolated X-class flare from Region 1432.
+IIA.  Geophysical Activity Summary 14/2100Z to 15/2100Z:
+The geomagnetic field was at quiet to major storm levels reaching up
+to severe storm levels at high latitudes.  A sudden impulse was
+observed at 15/1309Z (27 nT, as measured by the Boulder
+magnetometer).  ACE data indicated a shock arrival at 15/1240Z. 
+Solar wind velocities increased to around 800 km/s following the
+shock.  The greater than 10 MeV proton event that began at 13/1810Z 
+reached a maximum flux of 469 pfu at 13/2045Z and ended at 15/0620Z.
+The greater than 2 MeV electron flux at geosynchronous orbit was at
+high levels throughout the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be at unsettled to active levels and up to minor storm
+levels at high latitudes on 16 March due to the 13 March CME effects
+and the arrival of a recurrent coronal hole high speed stream (CH
+HSS).  Activity is expected to decline to quiet to unsettled
+conditions on 17 March and continue declining to mostly quiet
+conditions on 18 March as CME and CH HSS effects subside.
+III.  Event Probabilities 16 Mar-18 Mar
+Class M    60/60/60
+Class X    10/10/10
+Proton     40/30/20
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           15 Mar 111
+Predicted   16 Mar-18 Mar  110/105/105
+90 Day Mean        15 Mar 125
+V.  Geomagnetic A Indices
+Observed Afr/Ap 14 Mar  006/008
+Estimated Afr/Ap 15 Mar  021/029
+Predicted Afr/Ap 16 Mar-18 Mar  015/020-018/010-005/005
+VI.  Geomagnetic Activity Probabilities 16 Mar-18 Mar
+A.  Middle Latitudes
+Active                15/10/05
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           20/15/15
+Major-severe storm    20/10/10

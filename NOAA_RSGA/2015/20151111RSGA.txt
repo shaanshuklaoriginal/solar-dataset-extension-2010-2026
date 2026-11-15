@@ -1,0 +1,52 @@
+:Product: 1111RSGA.txt
+:Issued: 2015 Nov 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 315 Issued at 2200Z on 11 Nov 2015
+
+IA.  Analysis of Solar Active Regions and Activity from 10/2100Z to
+11/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 4 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low with a
+slight chance for an M-class flare on days one, two, and three (12 Nov,
+13 Nov, 14 Nov).
+
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z: The geomagnetic
+field has been at unsettled to minor storm levels for the past 24 hours.
+Solar wind speed, as measured by the ACE spacecraft, reached a peak
+speed of 805 km/s at 11/0609Z. Total IMF reached 5 nT at 11/0109Z. The
+maximum southward component of Bz reached -4 nT at 11/0012Z. Electrons
+greater than 2 MeV at geosynchronous orbit reached a peak level of 59508
+pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (12 Nov), unsettled to
+active levels on day two (13 Nov) and active to minor storm levels on
+day three (14 Nov).
+
+III.  Event probabilities 12 Nov-14 Nov
+Class M    15/15/15
+Class X    01/01/01
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           11 Nov 105
+Predicted   12 Nov-14 Nov 105/105/110
+90 Day Mean        11 Nov 105
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Nov  032/035
+Estimated Afr/Ap 11 Nov  021/027
+Predicted Afr/Ap 12 Nov-14 Nov  022/030-012/015-018/025
+
+VI.  Geomagnetic Activity Probabilities 12 Nov-14 Nov
+A.  Middle Latitudes
+Active                35/30/40
+Minor Storm           25/10/20
+Major-severe storm    10/01/01
+B.  High Latitudes
+Active                10/15/10
+Minor Storm           25/30/30
+Major-severe storm    60/40/55

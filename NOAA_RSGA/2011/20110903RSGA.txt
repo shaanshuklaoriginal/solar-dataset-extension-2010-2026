@@ -1,0 +1,61 @@
+:Product: 0903RSGA.txt
+:Issued: 2011 Sep 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 246 Issued at 2200Z on 03 Sep 2011
+IA.  Analysis of Solar Active Regions and Activity from  02/2100Z
+to 03/2100Z:  Solar activity was at low levels due to several C-class
+events observed during the period. As it approached the west limb,
+Region 1280 (N12W78) produced three C-class flares, the largest a
+C2/Sf at 03/1736Z. Region 1281 (S19W10) produced a C2/Sf at
+03/0756Z. Region 1282 (N23W52) indicated decay in its intermediate
+spots, but developed a delta magnetic structure in the large leader
+spot. Two new regions were numbered during the period. New Region
+1286 (N20W57) rapidly emerged as an eight spot D-type group and
+produced a C1 x-ray event at 03/1846Z. New Region 1287 (S30E64)
+rotated onto the disk as a three spot C-type group. All remaining
+regions were quiet and stable. No Earth-directed CMEs were detected
+during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+for the next three days (04 - 06 September) with a slight chance for
+M-class activity.
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z:
+The geomagnetic field was at quiet to unsettled levels with an
+isolated active period observed at Boulder between 03/0900Z - 1200Z.
+At about 03/0100Z, observations from the ACE spacecraft indicated an
+increase in temperature, density and wind speed. These increases,
+coupled with a brief period of southward Bz to -12nT and an increase
+in Bt to 13nT, were indicative of a co-rotating interaction region
+in advance of a coronal hole high speed stream.  During the period,
+wind speed increased from about 275 km/s to near 425 km/s while Bz
+generally fluctuated between +/- 5 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels, with a chance for
+isolated active periods, on day one (04 September) as the coronal
+hole high speed stream (CH HSS) persists. Days two and three (05 -
+06 September) will see a return to mostly quiet levels as the CH HSS
+moves out of a geoeffective position.
+III.  Event Probabilities 04 Sep-06 Sep
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           03 Sep 119
+Predicted   04 Sep-06 Sep  120/120/115
+90 Day Mean        03 Sep 097
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Sep  001/003
+Estimated Afr/Ap 03 Sep  011/011
+Predicted Afr/Ap 04 Sep-06 Sep  008/008-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 04 Sep-06 Sep
+A.  Middle Latitudes
+Active                20/15/10
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/20/15
+Minor storm           10/05/01
+Major-severe storm    01/01/01

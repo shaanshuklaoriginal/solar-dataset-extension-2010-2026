@@ -1,0 +1,51 @@
+:Product: 1031RSGA.txt
+:Issued: 2014 Oct 31 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 304 Issued at 2200Z on 31 Oct 2014
+
+IA.  Analysis of Solar Active Regions and Activity from 30/2100Z to
+31/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C8 event observed at
+31/0101Z. There are currently 6 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a slight chance for an M-class flare on day one (01 Nov) and likely to
+be low on days two and three (02 Nov, 03 Nov).
+
+IIA.  Geophysical Activity Summary 30/2100Z to 31/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 531 km/s at
+31/1928Z. Total IMF reached 12 nT at 31/1229Z. The maximum southward
+component of Bz reached -8 nT at 31/1824Z. Electrons greater than 2 MeV
+at geosynchronous orbit reached a peak level of 1475 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one, two, and three (01 Nov,
+02 Nov, 03 Nov).
+
+III.  Event probabilities 01 Nov-03 Nov
+Class M    10/05/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           31 Oct 121
+Predicted   01 Nov-03 Nov 120/115/110
+90 Day Mean        31 Oct 141
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Oct  005/004
+Estimated Afr/Ap 31 Oct  006/006
+Predicted Afr/Ap 01 Nov-03 Nov  009/008-008/008-008/008
+
+VI.  Geomagnetic Activity Probabilities 01 Nov-03 Nov
+A.  Middle Latitudes
+Active                25/25/25
+Minor Storm           10/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/25/25
+Major-severe storm    35/35/35

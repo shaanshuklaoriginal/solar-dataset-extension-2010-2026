@@ -1,0 +1,43 @@
+:Product: 1223RSGA.txt
+:Issued: 2011 Dec 23 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 357 Issued at 2200Z on 23 Dec 2011
+IA.  Analysis of Solar Active Regions and Activity from  22/2100Z
+to 23/2100Z:  Solar activity was low.  The largest of the three
+C-class flares observed during the period was a C3 from Region 1376
+(N16W84) as it prepared to rotate off the visible disk.  Rotating
+onto the disk was new Region 1386 (S16E72), an Hsx type group with
+alpha magnetic characteristics.  The remaining regions were
+magnetically simple and quiescent.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+low with a slight chance for an M-class flare.
+IIA.  Geophysical Activity Summary 22/2100Z to 23/2100Z:
+The geomagnetic field was at quiet levels.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain at mostly quiet levels for the next three days
+(24-26 December).
+III.  Event Probabilities 24 Dec-26 Dec
+Class M    10/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           23 Dec 138
+Predicted   24 Dec-26 Dec  140/140/140
+90 Day Mean        23 Dec 144
+V.  Geomagnetic A Indices
+Observed Afr/Ap 22 Dec  004/002
+Estimated Afr/Ap 23 Dec  000/001
+Predicted Afr/Ap 24 Dec-26 Dec  006/005-006/005-006/005
+VI.  Geomagnetic Activity Probabilities 24 Dec-26 Dec
+A.  Middle Latitudes
+Active                05/05/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/20
+Major-severe storm    05/05/10

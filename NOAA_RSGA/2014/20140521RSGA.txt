@@ -1,0 +1,55 @@
+:Product: 0521RSGA.txt
+:Issued: 2014 May 21 2225 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 141 Issued at 2200Z on 21 May 2014
+
+*****CORRECTION FOR MAX WIND SPEED*****
+
+IA.  Analysis of Solar Active Regions and Activity from 20/2100Z to
+21/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C2 event observed at
+21/0138Z from Region 2071 (S12E48). There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares and a slight chance for an M-class
+flare on days one, two, and three (22 May, 23 May, 24 May).
+
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 348 km/s at
+20/2206Z. Total IMF reached 5 nT at 21/1752Z. The maximum southward
+component of Bz reached -2 nT at 21/1827Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one and two (22 May, 23 May)
+and quiet levels on day three (24 May).
+
+III.  Event probabilities 22 May-24 May
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           21 May 114
+Predicted   22 May-24 May 115/110/110
+90 Day Mean        21 May 148
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 May  004/004
+Estimated Afr/Ap 21 May  004/004
+Predicted Afr/Ap 22 May-24 May  008/008-008/008-006/005
+
+VI.  Geomagnetic Activity Probabilities 22 May-24 May
+A.  Middle Latitudes
+Active                15/15/05
+Minor Storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/20/15
+Minor Storm           30/30/15
+Major-severe storm    20/20/05
+
+*****CORRECTED FOR MAX WIND SPEED*****

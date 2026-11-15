@@ -1,0 +1,51 @@
+:Product: 0730RSGA.txt
+:Issued: 2011 Jul 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 211 Issued at 2200Z on 30 Jul 2011
+IA.  Analysis of Solar Active Regions and Activity from  29/2100Z
+to 30/2100Z:  Solar activity was high.  Region 1261 (N17E22), a Dkc
+spot group with a Beta-Gamma-Delta magnetic classification, produced
+an impulsive M9 flare at 0209Z with an associated Tenflare.  There
+appeared to be no CME associated with the event in LASCO imagery. 
+Region 1260 (N19W09) has shown consolidation in its trailer spots
+and is now classified as a Ehi spot group with a Beta magnetic
+configuration.  Region 1263 (N18E48) has been relatively stable and
+did not produce any significant flaring during the period.  New
+Region 1265 (N18W41) was numbered today.
+IB.  Solar Activity Forecast:  Solar activity is expected to continue
+at low levels with the chance for M-class flares.
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z:
+The geomagnetic field was quiet to active.  Active periods were
+likely due to a co-rotating interaction region (CIR) associated with
+the onset of a coronal hole high speed stream.  ACE signatures
+indicate a possible weak CIR onset at approximately 0900Z on 30
+July.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active from 31 July to 01 August due to
+effects from the coronal hole high speed stream.  Quiet to unsettled
+conditions are expected on 02 August.
+III.  Event Probabilities 31 Jul-02 Aug
+Class M    45/45/40
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           30 Jul 113
+Predicted   31 Jul-02 Aug  110/110/110
+90 Day Mean        30 Jul 095
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Jul  003/005
+Estimated Afr/Ap 30 Jul  011/012
+Predicted Afr/Ap 31 Jul-02 Aug  012/012-012/012-007/007
+VI.  Geomagnetic Activity Probabilities 31 Jul-02 Aug
+A.  Middle Latitudes
+Active                35/35/15
+Minor storm           15/15/05
+Major-severe storm    05/05/01
+B.  High Latitudes
+Active                40/40/20
+Minor storm           20/20/10
+Major-severe storm    10/10/01

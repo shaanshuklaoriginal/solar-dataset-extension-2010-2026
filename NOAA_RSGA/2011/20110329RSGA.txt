@@ -1,0 +1,55 @@
+:Product: 0329RSGA.txt
+:Issued: 2011 Mar 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 088 Issued at 2200Z on 29 Mar 2011
+IA.  Analysis of Solar Active Regions and Activity from  28/2100Z
+to 29/2100Z:  Solar activity remained at low levels. Region 1183
+(N15E39) produced a single C1 flare at 29/0515Z, along with several
+optical subflares early in the period. Region 1183 showed gradual
+spot and penumbral growth through the summary period and was
+classified as an Eac group with a beta magnetic configuration.
+Region 1176 (S16W24) showed no significant changes during the period
+and produced an isolated B-class flare. No new regions were
+numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+during the period (30 March - 01 April) with a chance for an M-class
+flare from Region 1183. Old Region 1169 (N17, L=078) is expected to
+return to the visible disk late on day 1 (30 March) and may also
+provide a chance for an M-class flare.
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z:
+Geomagnetic activity was at quiet levels. A weak geomagnetic sudden
+impulse (SI) occurred at 29/1604Z (8 nT, as measured by the Boulder
+USGS magnetometer). The SI likely represented the passage of the
+halo-CME observed on 24 March. ACE solar wind data showed increased
+velocities (313 to 384 km/s), as well as increases in density (2 to
+27 p/cc) and IMF Bt (5 to 9 nT) following the CME passage. IMF Bz
+was mostly northward following the passage.
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be at quiet to unsettled levels during the period (30
+March - 01 April) with a chance for brief active levels due to
+recurrent coronal hole high-speed stream effects.
+III.  Event Probabilities 30 Mar-01 Apr
+Class M    40/40/40
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           29 Mar 116
+Predicted   30 Mar-01 Apr  120/125/130
+90 Day Mean        29 Mar 097
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 Mar  002/003
+Estimated Afr/Ap 29 Mar  003/005
+Predicted Afr/Ap 30 Mar-01 Apr  010/010-010/010-008/008
+VI.  Geomagnetic Activity Probabilities 30 Mar-01 Apr
+A.  Middle Latitudes
+Active                20/20/15
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/25/20
+Minor storm           10/10/05
+Major-severe storm    01/01/01

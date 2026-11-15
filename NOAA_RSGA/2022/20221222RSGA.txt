@@ -1,0 +1,52 @@
+:Product: 1222RSGA.txt
+:Issued: 2022 Dec 22 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 356 Issued at 2200Z on 22 Dec 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 21/2100Z to
+22/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C5 event observed at
+21/2219Z from Region 3169 (N19E19). There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a slight chance for an M-class flare on days one, two, and three (23
+Dec, 24 Dec, 25 Dec).
+
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 475 km/s at 22/1908Z. Total IMF reached 9
+nT at 22/1612Z. The maximum southward component of Bz reached -9 nT at
+22/1731Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 127 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (23 Dec) and quiet to
+unsettled levels on days two and three (24 Dec, 25 Dec).
+
+III.  Event probabilities 23 Dec-25 Dec
+Class M    20/20/20
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           22 Dec 131
+Predicted   23 Dec-25 Dec 130/130/130
+90 Day Mean        22 Dec 133
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 Dec  007/008
+Estimated Afr/Ap 22 Dec  007/009
+Predicted Afr/Ap 23 Dec-25 Dec  010/010-009/008-006/008
+
+VI.  Geomagnetic Activity Probabilities 23 Dec-25 Dec
+A.  Middle Latitudes
+Active                35/15/15
+Minor Storm           10/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/15/15
+Minor Storm           30/20/20
+Major-severe storm    25/20/20

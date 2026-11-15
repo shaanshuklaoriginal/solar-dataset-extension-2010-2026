@@ -1,0 +1,51 @@
+:Product: 1120RSGA.txt
+:Issued: 2011 Nov 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 324 Issued at 2200Z on 20 Nov 2011
+IA.  Analysis of Solar Active Regions and Activity from  19/2100Z
+to 20/2100Z:  Solar activity was low. Frequent C-class flares
+occurred during the period, mostly from Region 1354 (S17E30). Region
+1354 showed little change during the period, but exhibited a
+moderately complex beta-gamma magnetic configuration. New Region
+1357 (N17W18) was numbered and showed gradual spot growth. It
+produced a single low-level C-class flare during the period. A slow
+CME was observed off the northwest limb, first visible in SOHO/LASCO
+C2 images at around 20/1448Z. The CME had an estimated plane-of-sky
+speed of 163 km/s and was likely associated with a filament eruption
+from the northwest quadrant. STEREO-A observations suggest the CME
+had an Earthward component, but further analysis will be required
+due to limited data.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+during the period (21 - 23 November) with a chance for an M-class
+flare from Region 1354.
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet through the period (21 - 23 November). The
+above-mentioned CME is not expected to disturb the field during the
+period.
+III.  Event Probabilities 21 Nov-23 Nov
+Class M    30/30/30
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           20 Nov 140
+Predicted   21 Nov-23 Nov  140/135/135
+90 Day Mean        20 Nov 138
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 Nov  001/001
+Estimated Afr/Ap 20 Nov  001/002
+Predicted Afr/Ap 21 Nov-23 Nov  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 21 Nov-23 Nov
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01

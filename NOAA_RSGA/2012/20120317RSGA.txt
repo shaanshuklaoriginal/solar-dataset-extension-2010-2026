@@ -1,0 +1,59 @@
+:Product: 0317RSGA.txt
+:Issued: 2012 Mar 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 077 Issued at 2200Z on 17 Mar 2012
+IA.  Analysis of Solar Active Regions and Activity from  16/2100Z
+to 17/2100Z:  Solar activity was moderate.  Region 1435 (S26W37) 
+grew rapidly overnight ending the period as a Dro type group with
+beta magnetic characteristics.  Nearby Region 1434 (S22W27) produced
+an impulsive M1/Sf  flare at 17/2039Z.  This flare was accompanied
+by a Type II radio sweep (1140 km/s).  A northward directed wave was
+visible in SDO/AIA 193 imagery.  Region 1432 (N14W39), currently a
+Cro type group with beta magnetic characteristics, produced a C1
+flare at 17/0312, but was generally quiet overnight.  New Region
+1437 (S34E15) was numbered today.  It and the remaining regions were
+small, magnetically simple, and stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for an isolated M-class flare all three days (18-20
+March), particularly from the vicinity of Regions 1434 and 1435.
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z:
+Geomagnetic field activity ranged from quiet to active levels with
+isolated minor to major storm levels observed at high latitudes. 
+This activity was in response to the continued presence of a high
+speed solar wind stream.  Solar wind speed, measured at the ACE
+spacecraft, remained around 650 km/s while Bz ranged between +5 and
+-5 nT. The greater than 2 MeV electron flux at geosynchronous orbit
+reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to begin at unsettled levels and increase to active to
+isolated minor storm levels on Day 1 (18 March) as a CME from 15
+March arrives.  Activity levels are expected to be predominantly
+active on Day 2 (19 March), declining to unsettled levels on Day 3
+(20 March) as effects from the CME subside.  Analysis of the M1/Sf
+flare is ongoing to determine if it was associated with an
+Earth-directed CME.
+III.  Event Probabilities 18 Mar-20 Mar
+Class M    30/30/30
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           17 Mar 102
+Predicted   18 Mar-20 Mar  100/100/105
+90 Day Mean        17 Mar 124
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Mar  017/021
+Estimated Afr/Ap 17 Mar  013/016
+Predicted Afr/Ap 18 Mar-20 Mar  018/025-015/020-008/010
+VI.  Geomagnetic Activity Probabilities 18 Mar-20 Mar
+A.  Middle Latitudes
+Active                40/30/05
+Minor storm           20/15/01
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           25/20/10
+Major-severe storm    35/25/05

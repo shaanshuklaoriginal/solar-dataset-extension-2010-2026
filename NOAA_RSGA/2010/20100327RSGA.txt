@@ -1,0 +1,40 @@
+:Product: 0327RSGA.txt
+:Issued: 2010 Mar 27 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 086 Issued at 2200Z on 27 Mar 2010
+IA.  Analysis of Solar Active Regions and Activity from  26/2100Z
+to 27/2100Z:  Solar activity was low. Region 1057 (N15E16) produced
+several C-class flares during the period. New Region 1059 (S21E73)
+was numbered today as an H-type spot group.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+low with C-class flares expected and a slight chance for a M-class
+flare over the next 3 days (28-30 March).
+IIA.  Geophysical Activity Summary 26/2100Z to 27/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain quiet over the next 3 days (28-30 March).
+III.  Event Probabilities 28 Mar-30 Mar
+Class M    20/20/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           27 Mar 088
+Predicted   28 Mar-30 Mar 088/090/090
+90 Day Mean        27 Mar 082
+V.  Geomagnetic A Indices
+Observed Afr/Ap 26 Mar  002/004
+Estimated Afr/Ap 27 Mar  003/005
+Predicted Afr/Ap 28 Mar-30 Mar  005/005-005/005-005/007
+VI.  Geomagnetic Activity Probabilities 28 Mar-30 Mar
+A.  Middle Latitudes
+Active                20/20/20
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/25/25
+Minor storm           10/10/10
+Major-severe storm    01/01/01

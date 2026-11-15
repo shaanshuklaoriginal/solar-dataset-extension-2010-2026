@@ -1,0 +1,52 @@
+:Product: 0711RSGA.txt
+:Issued: 2017 Jul 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 192 Issued at 2200Z on 11 Jul 2017
+
+IA.  Analysis of Solar Active Regions and Activity from 10/2100Z to
+11/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+11/2031Z from Region 2665 (S06W03). There are currently 1 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low with a
+chance for M-class flares on days one, two, and three (12 Jul, 13 Jul,
+14 Jul).
+
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 640 km/s. Total IMF reached 10 nT at
+10/2147Z. The maximum southward component of Bz reached -3 nT at
+11/0303Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 477 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (12 Jul), quiet levels on
+day two (13 Jul) and unsettled to active levels on day three (14 Jul).
+
+III.  Event probabilities 12 Jul-14 Jul
+Class M    25/25/25
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           11 Jul 091
+Predicted   12 Jul-14 Jul 090/090/090
+90 Day Mean        11 Jul 076
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Jul  011/010
+Estimated Afr/Ap 11 Jul  009/010
+Predicted Afr/Ap 12 Jul-14 Jul  008/008-005/005-011/015
+
+VI.  Geomagnetic Activity Probabilities 12 Jul-14 Jul
+A.  Middle Latitudes
+Active                20/10/25
+Minor Storm           05/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/15/30
+Major-severe storm    30/10/40

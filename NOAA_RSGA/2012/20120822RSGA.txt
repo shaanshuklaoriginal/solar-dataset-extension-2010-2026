@@ -1,0 +1,51 @@
+:Product: 0822RSGA.txt
+:Issued: 2012 Aug 22 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 235 Issued at 2200Z on 22 Aug 2012
+IA.  Analysis of Solar Active Regions and Activity from  21/2100Z
+to 22/2100Z:  Solar activity was very low. Region 1548 (N18E18)
+produced the largest event of the period, a B6/Sf flare at 22/1658Z.
+The remaining numbered regions were stable and quiet. A full halo
+CME was observed in SOHO/LASCO C2 coronagraph imagery beginning at
+21/2024Z with an estimated plane-of-sky speed of 884 km/s. STEREO-A
+and STEREO-B COR2 imagery shows this CME to be a back-sided event
+and is not expected to be geoeffective. SDO/AIA 193 imagery showed a
+filament eruption in the vicinity of plage Region 1549 (S18W72) at
+approximately 22/0930Z. A CME was subsequently observed in LASCO/C2
+coronagraph imagery at 22/1012Z, and in LASCO C3 imagery at
+22/1118Z. Analysis is underway to determine the potential
+geoeffectiveness of this event.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a slight chance for C-class flares for the next three days
+(23-25 August).
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z:
+The geomagnetic field was quiet to unsettled. The greater than 2 MeV
+electron flux at geosynchronous orbit reached high levels during the
+period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominately quiet for days 1-3 (23-25 August).
+III.  Event Probabilities 23 Aug-25 Aug
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           22 Aug 095
+Predicted   23 Aug-25 Aug  095/100/100
+90 Day Mean        22 Aug 124
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 Aug  007/006
+Estimated Afr/Ap 22 Aug  005/006
+Predicted Afr/Ap 23 Aug-25 Aug  006/005-006/005-005/005
+VI.  Geomagnetic Activity Probabilities 23 Aug-25 Aug
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           15/15/15
+Major-severe storm    05/05/05

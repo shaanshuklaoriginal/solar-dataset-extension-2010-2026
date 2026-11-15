@@ -1,0 +1,54 @@
+:Product: 0225RSGA.txt
+:Issued: 2012 Feb 25 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 056 Issued at 2200Z on 25 Feb 2012
+IA.  Analysis of Solar Active Regions and Activity from  24/2100Z
+to 25/2100Z:  Solar activity was very low.  Umbral separation was
+observed in Region 1422 (N15W78).  Slight decay was observed in the
+trailing spots of Region 1424 (N08E52).  The rest of the spot groups
+were relatively quiet and stable.  A filament eruption on the SE
+limb was observed in SDO/AIA 304 imagery beginning at 24/1911Z.  A
+corresponding CME off the SE limb was observed in LASCO C2 imagery
+beginning at 24/1948Z.  The CME is not expected to be geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a chance for C-class activity for the next three days (26 -
+28 February).
+IIA.  Geophysical Activity Summary 24/2100Z to 25/2100Z:
+The geomagnetic field was at quiet to unsettled levels.  Isolated
+major storm conditions were observed at high latitudes (College)
+during the periods ending at 25/1200Z and 25/1500Z.  A greater than
+10 MeV proton enhancement began at approximately 25/0330Z and
+reached a maximum of 3 pfu at 25/1830Z and continued to be enhanced
+by the end of the reporting period.  The event did not reach event
+threshold and likely originated from a backside event.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet on day 1 (26 February).  Early on day 2
+(27 February), unsettled to active conditions are expected with
+minor storm periods possible due to the expected arrival of the 24
+February CME.  Conditions are expected to calm to quiet to unsettled
+levels with active periods possible by day 3 (28 February).
+III.  Event Probabilities 26 Feb-28 Feb
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           25 Feb 108
+Predicted   26 Feb-28 Feb  100/100/100
+90 Day Mean        25 Feb 129
+V.  Geomagnetic A Indices
+Observed Afr/Ap 24 Feb  006/004
+Estimated Afr/Ap 25 Feb  004/006
+Predicted Afr/Ap 26 Feb-28 Feb  004/005-011/015-010/010
+VI.  Geomagnetic Activity Probabilities 26 Feb-28 Feb
+A.  Middle Latitudes
+Active                05/25/20
+Minor storm           01/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/30/25
+Minor storm           10/25/20
+Major-severe storm    05/15/10

@@ -1,0 +1,54 @@
+:Product: 0506RSGA.txt
+:Issued: 2023 May 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 126 Issued at 2200Z on 06 May 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 05/2100Z to
+06/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C9 event observed at
+05/2227Z from Region 3288. There are currently 5 numbered sunspot
+regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(07 May, 08 May, 09 May).
+
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z: The geomagnetic
+field has been at quiet to major storm levels for the past 24 hours.
+Solar wind speed reached a peak of 561 km/s at 06/1037Z. Total IMF
+reached 18 nT at 06/0452Z. The maximum southward component of Bz reached
+-16 nT at 06/0401Z.  Electrons greater than 2 MeV at geosynchronous
+orbit reached a peak level of 3102 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to major storm levels on day one (07 May), active to
+severe storm levels on day two (08 May) and unsettled to minor storm
+levels on day three (09 May). Protons have a slight chance of crossing
+threshold on days one, two, and three (07 May, 08 May, 09 May).
+
+III.  Event probabilities 07 May-09 May
+Class M    55/55/55
+Class X    15/15/15
+Proton     15/15/15
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           06 May 152
+Predicted   07 May-09 May 155/155/160
+90 Day Mean        06 May 160
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 May  004/005
+Estimated Afr/Ap 06 May  022/034
+Predicted Afr/Ap 07 May-09 May  024/032-036/055-019/024
+
+VI.  Geomagnetic Activity Probabilities 07 May-09 May
+A.  Middle Latitudes
+Active                30/20/40
+Minor Storm           40/35/25
+Major-severe storm    15/40/05
+B.  High Latitudes
+Active                15/05/15
+Minor Storm           20/20/30
+Major-severe storm    30/65/45

@@ -1,0 +1,60 @@
+:Product: 0603RSGA.txt
+:Issued: 2012 Jun 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 155 Issued at 2200Z on 03 Jun 2012
+IA.  Analysis of Solar Active Regions and Activity from  02/2100Z
+to 03/2100Z:  Solar activity was moderate.  Region 1496 (N16E33)
+produced an impulsive M3 flare at 03/1755Z.  The flare was
+accompanied by a Tenflare (320 sfu) at 03/1753Z.  A Type II emission
+(est 1077 km/s)  was also reported at 03/1759Z.  A CME was later
+observed in LASCO C3 imagery departing the northeast limb at
+03/1854Z.  Earlier in the day, C3 imagery showed a CME departing the
+southeast limb at 03/1342Z associated with a filament eruption. 
+Analysis is underway to determine the potential geoeffectiveness of
+the CMEs.  New Region 1499 (N16E50) was numbered today as a small
+Dso type group with beta magnetic characteristics. All regions on
+the disk were classified as simple alpha or beta magnetic
+characteristics.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+low with a chance for an M-class flare for the next three days
+(04-06 June).
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z:
+The geomagnetic field ranged from quiet to minor storm levels. 
+Although the solar wind speed measured at the ACE spacecraft
+remained below 400 km/s for most of the period, the Bz component of
+the interplanetary magnetic field remaind southward from
+approximately 03/0400Z until about 02/1730Z, ranging from -5 nT to
+as low as -15 nT.  The geomagnetic field responded with an active
+period from 03/12-15Z and a minor storm period from 03/15-18Z. 
+Conditions returned to active levels for the last period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at active levels for days one and two (4-5 June) with
+a chance for isolated minor storm periods.  Day three (6 June) is
+expected to be at unsettled to active levels.  A recurrent coronal
+hole high speed stream is expected to be in a geoeffective position
+throughout the forecast period.
+III.  Event Probabilities 04 Jun-06 Jun
+Class M    25/25/25
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           03 Jun 129
+Predicted   04 Jun-06 Jun  130/130/130
+90 Day Mean        03 Jun 117
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Jun  008/008
+Estimated Afr/Ap 03 Jun  014/021
+Predicted Afr/Ap 04 Jun-06 Jun  014/020-014/027-014/018
+VI.  Geomagnetic Activity Probabilities 04 Jun-06 Jun
+A.  Middle Latitudes
+Active                35/40/40
+Minor storm           20/20/20
+Major-severe storm    05/05/05
+B.  High Latitudes
+Active                10/10/10
+Minor storm           30/25/30
+Major-severe storm    50/60/55

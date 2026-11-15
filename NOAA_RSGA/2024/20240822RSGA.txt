@@ -1,0 +1,52 @@
+:Product: 0822RSGA.txt
+:Issued: 2024 Aug 22 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 235 Issued at 2200Z on 22 Aug 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 21/2100Z to
+22/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a M5 event observed at
+21/2208Z from Region 3796 (S03E26). There are currently 10 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(23 Aug, 24 Aug, 25 Aug).
+
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 390 km/s at 22/0921Z. Total IMF reached 11
+nT at 22/1927Z. The maximum southward component of Bz reached -7 nT at
+22/1422Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 164 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (23 Aug) and quiet levels
+on days two and three (24 Aug, 25 Aug).
+
+III.  Event probabilities 23 Aug-25 Aug
+Class M    55/55/55
+Class X    10/10/10
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           22 Aug 231
+Predicted   23 Aug-25 Aug 230/235/240
+90 Day Mean        22 Aug 205
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 Aug  008/008
+Estimated Afr/Ap 22 Aug  009/009
+Predicted Afr/Ap 23 Aug-25 Aug  008/008-006/005-006/005
+
+VI.  Geomagnetic Activity Probabilities 23 Aug-25 Aug
+A.  Middle Latitudes
+Active                15/10/10
+Minor Storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/20/20
+Major-severe storm    25/15/15

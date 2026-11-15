@@ -1,0 +1,57 @@
+:Product: 0920RSGA.txt
+:Issued: 2012 Sep 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 264 Issued at 2200Z on 20 Sep 2012
+IA.  Analysis of Solar Active Regions and Activity from  19/2100Z
+to 20/2100Z:  Solar activity was at low levels.  Region 1574 (S22W70)
+produced a C1/Sf flare at 20/1139Z.  Over the period, the region
+grew from a simple unipolar spot to a 4 spot bipolar group.  All
+other spotted regions indicated little change.  No Earth-directed
+CMEs were observed.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a slight chance for M-class activity for the next
+three days (21 - 23 September).
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z:
+The geomagnetic field was at predominately quiet to unsettled levels
+with a period of active conditions observed between 19/2100 - 2400Z.
+The period began with wind speeds, as measured at the ACE
+spacecraft, steady at 400 km/s while the Bz component of the
+interplanetary magnetic field (IMF) was mostly south at about -10
+nT.  At about 19/2300Z, wind speed and temperature indicated slight
+increases while IMF Bz began fluctuating between +8 to -6 nT.  By
+about 20/0100Z, the phi angle changed from a positive (away) to a
+negative (toward) orientation.  These changes were all indicative of
+a co-rotating interaction region in advance of a coronal hole high
+speed stream.  By the end of the period, wind velocities were steady
+at about 575 km/s while IMF Bz did not vary much beyond +/- 2 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels with isolated active
+intervals for days one and two (21 - 22 September) as a coronal hole
+high speed stream (CH HSS) remains geoeffective.  By day three (23
+September), mostly quiet to unsettled levels are expected as CH HSS
+effects wane.
+III.  Event Probabilities 21 Sep-23 Sep
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           20 Sep 117
+Predicted   21 Sep-23 Sep  115/115/120
+90 Day Mean        20 Sep 122
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 Sep  013/014
+Estimated Afr/Ap 20 Sep  010/012
+Predicted Afr/Ap 21 Sep-23 Sep  008/012-009/012-008/010
+VI.  Geomagnetic Activity Probabilities 21 Sep-23 Sep
+A.  Middle Latitudes
+Active                30/30/20
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                35/35/25
+Minor storm           10/10/05
+Major-severe storm    01/01/01

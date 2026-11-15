@@ -1,0 +1,45 @@
+:Product: 0914RSGA.txt
+:Issued: 2011 Sep 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 257 Issued at 2200Z on 14 Sep 2011
+IA.  Analysis of Solar Active Regions and Activity from  13/2100Z
+to 14/2100Z:  Solar activity remained low. Seven C-class flares were
+observed during the period. The largest was a C9/1f flare observed
+at 14/2051Z from Region 1297 (S16W52). A full halo CME was observed
+from SOHO NASA LASCO C2 images at 14/0000Z with an estimated
+plane-of-sky speed of 428 km/s. The source of the CME was an
+eruption in the vicinity of Region 1289 (N24W25).
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for isolated M-class flares for the period (15-17
+September).
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z:
+The geomagnetic field was quiet. The greater than 2 MeV electron flux
+at geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at predominantly quiet levels for the period (15-17
+September). The CME is expected to be geoeffective.
+III.  Event Probabilities 15 Sep-17 Sep
+Class M    30/30/30
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           14 Sep 143
+Predicted   15 Sep-17 Sep  145/145/145
+90 Day Mean        14 Sep 101
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Sep  011/017
+Estimated Afr/Ap 14 Sep  004/005
+Predicted Afr/Ap 15 Sep-17 Sep  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 15 Sep-17 Sep
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01

@@ -1,0 +1,44 @@
+:Product: 0119RSGA.txt
+:Issued: 2010 Jan 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 019 Issued at 2200Z on 19 Jan 2010
+IA.  Analysis of Solar Active Regions and Activity from  18/2100Z
+to 19/2100Z:  Solar activity was moderate. The new region rotating on
+to the east limb (new Region 1041, near S27) produced an M2.3 flare
+at 19/1341Z and an M1.7 flare at 19/2035Z, as well as three
+C-flares.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+to moderate. Occasional C-class flares are expected. Isolated
+M-class flares are likely.
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled, with isolated active levels at
+high latitudes, on day one (20 January) due to a coronal hole
+high-speed stream. Quiet levels are expected to return on days two
+and three (21-22 January).
+III.  Event Probabilities 20 Jan-22 Jan
+Class M    60/60/60
+Class X    05/05/05
+Proton     05/05/05
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           19 Jan 084
+Predicted   20 Jan-22 Jan  084/084/084
+90 Day Mean        19 Jan 077
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Jan  002/003
+Estimated Afr/Ap 19 Jan  002/004
+Predicted Afr/Ap 20 Jan-22 Jan  007/010-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 20 Jan-22 Jan
+A.  Middle Latitudes
+Active                15/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/05/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01

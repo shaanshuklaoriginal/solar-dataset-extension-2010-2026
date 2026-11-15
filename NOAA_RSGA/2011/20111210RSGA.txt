@@ -1,0 +1,48 @@
+:Product: 1210RSGA.txt
+:Issued: 2011 Dec 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 344 Issued at 2200Z on 10 Dec 2011
+IA.  Analysis of Solar Active Regions and Activity from  09/2100Z
+to 10/2100Z:  Solar activity was low. Region 1375 (N09E39) produced a
+C1 x-ray event at 10/0631Z.  The remainder of the disk and limb was
+quiet and stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+at low levels with a slight chance for M-class activity all three
+days of the period (11 - 13 December).
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z:
+The geomagnetic field was at quiet to unsettled levels.  Solar wind
+velocities gradually increased through the period from 350 km/s to a
+peak of near 500 km/s at about 10/1000Z.  Excursions of southward
+interplanetary magnetic field Bz to -10 nT were observed between
+01/0200Z - 0600Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels with isolated active
+periods on day one (11 December) due to effects of a recurrent
+coronal hole high speed stream (CH HSS).  A return to mostly quiet
+conditions are expected by days two and three (12 - 13 December) as
+effects from the CH HSS wane.
+III.  Event Probabilities 11 Dec-13 Dec
+Class M    20/20/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           10 Dec 140
+Predicted   11 Dec-13 Dec  140/140/140
+90 Day Mean        10 Dec 146
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Dec  003/003
+Estimated Afr/Ap 10 Dec  005/005
+Predicted Afr/Ap 11 Dec-13 Dec  007/008-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 11 Dec-13 Dec
+A.  Middle Latitudes
+Active                15/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/10/10
+Minor storm           05/01/01
+Major-severe storm    01/01/01

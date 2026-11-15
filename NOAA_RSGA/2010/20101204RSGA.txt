@@ -1,0 +1,39 @@
+:Product: 1204RSGA.txt
+:Issued: 2010 Dec 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 338 Issued at 2200Z on 04 Dec 2010
+IA.  Analysis of Solar Active Regions and Activity from 03/2100Z
+to 04/2100Z:  Solar activity was very low.  Region 1130 (N12W83)
+was classified as an Hsx-Alpha type spot group.  Region 1131 (N30E40) became more complex overnight and was classified as a Cao-Beta type spot group.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+at very low levels with a chance for a C-class X-ray event during the
+next three days (5-7 Dec).
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain quiet during the next three days (5-7 Dec).
+III.  Event Probabilities 05 Dec-07 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           04 Dec 087
+Predicted   05 Dec-07 Dec  087/089/089
+90 Day Mean        04 Dec 082
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Dec  000/001
+Estimated Afr/Ap 04 Dec  001/001
+Predicted Afr/Ap 05 Dec-07 Dec  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 05 Dec-07 Dec
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/10
+Minor storm           01/01/05
+Major-severe storm    00/00/01

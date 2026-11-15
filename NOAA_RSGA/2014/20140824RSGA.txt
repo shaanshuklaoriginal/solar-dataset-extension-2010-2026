@@ -1,0 +1,52 @@
+:Product: 0824RSGA.txt
+:Issued: 2014 Aug 24 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 236 Issued at 2200Z on 24 Aug 2014
+
+IA.  Analysis of Solar Active Regions and Activity from 23/2100Z to
+24/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a M5 event observed at
+24/1217Z from Region 2151 (S07E58). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(25 Aug, 26 Aug, 27 Aug).
+
+IIA.  Geophysical Activity Summary 23/2100Z to 24/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 297 km/s at
+24/0338Z. Total IMF reached 5 nT at 24/0142Z. The maximum southward
+component of Bz reached -3 nT at 24/0513Z. Electrons greater than 2 MeV
+at geosynchronous orbit reached a peak level of 293 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (25 Aug) and quiet to active levels on
+days two and three (26 Aug, 27 Aug).
+
+III.  Event probabilities 25 Aug-27 Aug
+Class M    55/55/55
+Class X    10/10/10
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           24 Aug 141
+Predicted   25 Aug-27 Aug 135/135/135
+90 Day Mean        24 Aug 127
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 23 Aug  008/006
+Estimated Afr/Ap 24 Aug  005/005
+Predicted Afr/Ap 25 Aug-27 Aug  006/005-011/015-010/012
+
+VI.  Geomagnetic Activity Probabilities 25 Aug-27 Aug
+A.  Middle Latitudes
+Active                05/35/30
+Minor Storm           01/15/10
+Major-severe storm    01/05/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           10/20/20
+Major-severe storm    05/15/20

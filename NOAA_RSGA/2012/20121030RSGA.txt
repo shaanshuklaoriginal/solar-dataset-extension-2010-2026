@@ -1,0 +1,44 @@
+:Product: 1030RSGA.txt
+:Issued: 2012 Oct 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 304 Issued at 2200Z on 30 Oct 2012
+IA.  Analysis of Solar Active Regions and Activity from  29/2100Z
+to 30/2100Z:  Solar activity was very low.  Region 1598 (S11W51)
+produced a B8 flare at 0137Z.  A filament eruption occurred from
+0640Z to 0855Z near S32E07 with a heliographic extent of 24 degrees.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a chance for low level activity.
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z:
+Geomagnetic field activity was at quiet levels.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet on day 1 (31 October), increasing to a
+chance for active levels with the arrival of the 27 and 28 October
+CMEs late in the day.  Unsettled to active with a chance for minor
+storm levels are expected on day 2 (1 November) from CME effects. 
+On day 3 (2 November) conditions are expected to decline to quiet to
+unsettled with a chance for active as CME effects subside.
+III.  Event Probabilities 31 Oct-02 Nov
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           30 Oct 106
+Predicted   31 Oct-02 Nov  105/100/095
+90 Day Mean        30 Oct 121
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Oct  002/004
+Estimated Afr/Ap 30 Oct  002/003
+Predicted Afr/Ap 31 Oct-02 Nov  010/012-015/020-007/010
+VI.  Geomagnetic Activity Probabilities 31 Oct-02 Nov
+A.  Middle Latitudes
+Active                25/45/20
+Minor storm           10/15/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/15
+Minor storm           20/30/25
+Major-severe storm    35/60/25

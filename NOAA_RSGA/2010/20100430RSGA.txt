@@ -1,0 +1,44 @@
+:Product: 0430RSGA.txt
+:Issued: 2010 Apr 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 120 Issued at 2200Z on 30 Apr 2010
+IA.  Analysis of Solar Active Regions and Activity from  29/2100Z
+to 30/2100Z:  Solar activity was low.  Region 1064 (N15E28) was
+numbered today and produced a B1 flare at 30/0021Z.  The GOES-14
+imagery observed a C2 x-ray flare at 30/1934Z.  The source of this
+event was located just beyond the NE limb of the sun.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low.  There is a slight chance for a C-class flare from the
+active area approaching the NE limb.
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for days one and two (01-02 May).  Quiet to
+unsettled levels, with isolated active conditions, are expected on
+day three (03 May) as a recurrent coronal hole high speed stream
+becomes geoeffective.
+III.  Event Probabilities 01 May-03 May
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           30 Apr 079
+Predicted   01 May-03 May  079/079/079
+90 Day Mean        30 Apr 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Apr  004/006
+Estimated Afr/Ap 30 Apr  005/005
+Predicted Afr/Ap 01 May-03 May  005/005-005/005-007/008
+VI.  Geomagnetic Activity Probabilities 01 May-03 May
+A.  Middle Latitudes
+Active                05/05/10
+Minor storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/15
+Minor storm           01/01/05
+Major-severe storm    01/01/01

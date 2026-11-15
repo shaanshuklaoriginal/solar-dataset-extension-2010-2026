@@ -1,0 +1,47 @@
+:Product: 0917RSGA.txt
+:Issued: 2012 Sep 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 261 Issued at 2200Z on 17 Sep 2012
+IA.  Analysis of Solar Active Regions and Activity from  16/2100Z
+to 17/2100Z:  Solar activity has been at low levels for the past 24
+hours. Two low level C-class solar events were observed today from
+around the southeast limb, from a yet to be numbered active region.
+The remaining 5 sunspot regions, currently on the visible disk, have
+remained stable and quiet. Three CMEs were observed in the past 24
+hours, however none of them appear to be Earth-directed.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a slight chance for M-class events for the next
+three days (18-20 September).
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z:
+The geomagnetic field has been at predominantly quiet levels for the
+past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at mostly quiet levels on days one and two (18-19
+September). Quiet to unsettled levels are expected on day three (20
+September) as a coronal hole high speed solar wind stream is
+forecast to become geoeffective.
+III.  Event Probabilities 18 Sep-20 Sep
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           17 Sep 102
+Predicted   18 Sep-20 Sep  105/105/110
+90 Day Mean        17 Sep 122
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Sep  007/007
+Estimated Afr/Ap 17 Sep  004/005
+Predicted Afr/Ap 18 Sep-20 Sep  006/005-005/005-007/008
+VI.  Geomagnetic Activity Probabilities 18 Sep-20 Sep
+A.  Middle Latitudes
+Active                10/10/20
+Minor storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/15/20
+Minor storm           20/25/25
+Major-severe storm    10/15/20

@@ -1,0 +1,51 @@
+:Product: 0911RSGA.txt
+:Issued: 2016 Sep 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 255 Issued at 2200Z on 11 Sep 2016
+
+IA.  Analysis of Solar Active Regions and Activity from 10/2100Z to
+11/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 4 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low with a
+slight chance for an M-class flare on day one (12 Sep) and expected to
+be very low with a chance for a C-class flares and a slight chance for
+an M-class flare on days two and three (13 Sep, 14 Sep).
+
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 390 km/s at 10/2250Z. Total IMF reached 6 nT at
+11/1713Z. The maximum southward component of Bz reached -4 nT at
+11/1719Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 11499 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (12 Sep) and quiet to
+unsettled levels on days two and three (13 Sep, 14 Sep).
+
+III.  Event probabilities 12 Sep-14 Sep
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           11 Sep 086
+Predicted   12 Sep-14 Sep 086/082/080
+90 Day Mean        11 Sep 086
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Sep  004/004
+Estimated Afr/Ap 11 Sep  004/005
+Predicted Afr/Ap 12 Sep-14 Sep  012/015-008/008-008/008
+
+VI.  Geomagnetic Activity Probabilities 12 Sep-14 Sep
+A.  Middle Latitudes
+Active                15/10/10
+Minor Storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/15/15
+Major-severe storm    20/10/15

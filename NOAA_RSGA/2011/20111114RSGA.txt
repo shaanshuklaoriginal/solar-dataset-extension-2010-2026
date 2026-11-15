@@ -1,0 +1,56 @@
+:Product: 1114RSGA.txt
+:Issued: 2011 Nov 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 318 Issued at 2200Z on 14 Nov 2011
+IA.  Analysis of Solar Active Regions and Activity from  13/2100Z
+to 14/2100Z:  Solar activity was low.  Four new emerging flux regions
+were observed overnight, one of which emerged on the disk as Region
+1348 (N20W70).  Region 1348 was responsible for two C-flares
+overnight; the largest was a C5/Sf at 14/0930Z.  Associated with
+this event was a Type II radio sweep with an estimated plane-of-sky
+velocity of 610 km/sec.  Possible decay was noted in the trailing
+spots of Regions 1339 (N19W89) and 1344 (S17W86) as they are
+rotating off of the west limb.  There was growth noted in the
+trailing spots of Region 1341 (N09W35). A slight amount of
+consolidation was observed in Region 1347 (N07E28).  The additional
+three new flux regions were assigned numbers 1349 (N15W02), 1350
+(N26E67), and 1351 (S23E51).  A coronal mass ejection (CME) was
+observed in LASCO C3 imagery at approximately 12/1906Z off of the
+east limb.  The plane-of-sky velocity was calculated to be 638
+km/sec.  An additional CME was observed in LASCO C3 imagery at
+13/1930Z from the north limb.  Neither CME is expected to become
+geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+through the period (15 - 17 November).  There is a slight chance for
+an isolated M-class flare from Regions 1339, 1344 and new Region
+1350.
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at mostly quiet levels during the period (15 - 17
+November).
+III.  Event Probabilities 15 Nov-17 Nov
+Class M    20/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           14 Nov 161
+Predicted   15 Nov-17 Nov  155/150/150
+90 Day Mean        14 Nov 135
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Nov  002/000
+Estimated Afr/Ap 14 Nov  002/002
+Predicted Afr/Ap 15 Nov-17 Nov  004/005-004/005-004/005
+VI.  Geomagnetic Activity Probabilities 15 Nov-17 Nov
+A.  Middle Latitudes
+Active                06/06/06
+Minor storm           01/01/01
+Major-severe storm    00/00/00
+B.  High Latitudes
+Active                16/16/16
+Minor storm           17/17/17
+Major-severe storm    08/08/08

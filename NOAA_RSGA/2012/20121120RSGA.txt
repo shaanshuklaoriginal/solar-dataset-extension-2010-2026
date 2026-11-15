@@ -1,0 +1,56 @@
+:Product: 1120RSGA.txt
+:Issued: 2012 Nov 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 325 Issued at 2200Z on 20 Nov 2012
+
+IA.  Analysis of Solar Active Regions and Activity from 19/2100Z to
+20/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event, with an
+associated Earth-directed CME (estimated velocity of 664 km/s), observed
+at 20/1241Z. There are currently 7 numbered sunspot regions on the disk.
+Region 1618 (N08E14) has retained its beta-gamma magnetic complexity.
+New Region 1620 (S08E59) was numbered.
+IB.  Solar Activity Forecast: Solar activity is expected to be at
+moderate levels on days one, two, and three (21 Nov, 22 Nov, 23 Nov).
+
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+461 km/s at 20/1958Z. Total IMF reached 7.8 nT at 19/2347Z. The maximum
+southward component of Bz reached -7.2 nT at 20/1725Z. Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 1277 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at mostly quiet levels for the next three days (21 Nov, 22 Nov, 23
+Nov). Protons have a slight chance to cross alert threshold on days one,
+two, and three (21 Nov, 22 Nov, 23 Nov) due to expected solar flare
+activity from Region 1618. Further analysis is needed to determine the
+geoeffectiveness of todays CME.
+
+III.  Event probabilities 21 Nov-23 Nov
+Class M    70/70/70
+Class X    15/15/15
+Proton     15/15/15
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           20 Nov 141
+Predicted   21 Nov-23 Nov 140/135/135
+90 Day Mean        20 Nov 122
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 Nov  003/005
+Estimated Afr/Ap 20 Nov  009/012
+Predicted Afr/Ap 21 Nov-23 Nov  006/005-006/005-007/009
+
+VI.  Geomagnetic Activity Probabilities 21 Nov-23 Nov
+A.  Middle Latitudes
+Active                05/05/10
+Minor Storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           10/10/20
+Major-severe storm    05/05/20

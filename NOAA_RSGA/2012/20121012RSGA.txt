@@ -1,0 +1,52 @@
+:Product: 1012RSGA.txt
+:Issued: 2012 Oct 12 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 286 Issued at 2200Z on 12 Oct 2012
+IA.  Analysis of Solar Active Regions and Activity from  11/2100Z
+to 12/2100Z:  Solar activity was low.  Region 1589 (N13E35) was
+responsible for several low level C-flares and a C9/1f flare at
+12/0820Z.  Region 1589 continues to maintain its Beta-Gamma magnetic
+classification.  New region 1591 (N07E71) rotated onto the disk as a
+bipolar D-type group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for M-class flares and a slight chance for an X-flare
+during the forecast period (13-15 October).
+IIA.  Geophysical Activity Summary 11/2100Z to 12/2100Z:
+The geomagnetic field was quiet to active.  Solar wind speed,
+measured at the ACE spacecraft, ranged between approximately 450 and
+550 km/s.  Prolonged periods of southward Bz (near -5 nT) coupled
+with enhanced wind speed resulted in an isolated active period
+between 12/0300 - 0600Z. The greater than 2 MeV electron flux at
+geosynchronous orbit was at high levels throughout the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled on day 1 (13 October).  A coronal
+hole high speed stream is expected to become geoeffective on days
+2-3 (14-15 October) resulting in quiet to unsettled conditions with
+a chance for active periods.  On day 3, a slight chance exists for a
+greater than 10 MeV proton event at geosynchronous orbit as Region
+1589 rotates into a more geoeffective position.
+III.  Event Probabilities 13 Oct-15 Oct
+Class M    35/35/35
+Class X    10/10/10
+Proton     01/05/10
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           12 Oct 122
+Predicted   13 Oct-15 Oct  125/130/130
+90 Day Mean        12 Oct 118
+V.  Geomagnetic A Indices
+Observed Afr/Ap 11 Oct  005/006
+Estimated Afr/Ap 12 Oct  012/012
+Predicted Afr/Ap 13 Oct-15 Oct  007/008-010/012-011/012
+VI.  Geomagnetic Activity Probabilities 13 Oct-15 Oct
+A.  Middle Latitudes
+Active                15/30/30
+Minor storm           05/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           20/30/30
+Major-severe storm    20/40/40

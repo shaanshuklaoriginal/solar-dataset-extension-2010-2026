@@ -1,0 +1,61 @@
+:Product: 1127RSGA.txt
+:Issued: 2011 Nov 28 0150 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+:::::::::: CORRECTED COPY ::::::::::
+SDF Number 331 Issued at 2200Z on 27 Nov 2011
+IA.  Analysis of Solar Active Regions and Activity from  26/2100Z
+to 27/2100Z:  Solar activity has been at low levels for the past 24
+hours. Region 1354 (S16W64) decayed to plage late yesterday, however
+early in the period today, a CME originated from the vicinity of
+Region 1354. This CME was first visible in LASCO C2 imagery at
+27/1036Z and appears to have no Earth directed components. At the
+time of this report, an Eruptive Prominence on the Limb (EPL) was
+recorded off the west limb around Region 1353 (N08W62). Early
+analysis also indicates this CME not being Earth directed. New
+Region 1362 (N08E76) was numbered today as it rotated onto the east
+limb.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a slight chance for M-class activity for the next
+three days (28-30 November).
+IIA.  Geophysical Activity Summary 26/2100Z to 27/2100Z:
+The geomagnetic field has been at predominantly quiet levels with an
+isolated period at active levels recorded at high latitudes. Solar
+wind measurements, as made by the ACE spacecraft, indicate the
+possible arrival of the corotating interaction region (CIR) in front
+of the anticipated coronal hole high speed stream (CH HSS). The
+greater than 10 MeV proton event that began yesterday at 1125Z is
+still in progress. Max flux for this event, so far, was 80 pfu at
+27/0125Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at unsettled to active levels with a chance for minor
+storm periods for the next two days (28-29 November). These elevated
+levels are expected due to the combination of the arrival of a CH
+HSS and CME effects. On day three (30 November), a slight decrease
+in activity to mostly unsettled levels is expected, as the effects
+of these two events wane.
+III.  Event Probabilities 28 Nov-30 Nov
+Class M    10/10/10
+Class X    01/01/01
+Proton     90/10/01
+PCAF       in progress
+IV.  Penticton 10.7 cm Flux
+Observed           27 Nov 135
+Predicted   28 Nov-30 Nov  140/145/145
+90 Day Mean        27 Nov 141
+V.  Geomagnetic A Indices
+Observed Afr/Ap 26 Nov  004/003
+Estimated Afr/Ap 27 Nov  005/005
+Predicted Afr/Ap 28 Nov-30 Nov  011/012-013/018-011/012
+VI.  Geomagnetic Activity Probabilities 28 Nov-30 Nov
+A.  Middle Latitudes
+Active                39/40/31
+Minor storm           17/20/12
+Major-severe storm    01/02/01
+B.  High Latitudes
+Active                11/10/15
+Minor storm           27/26/30
+Major-severe storm    58/61/43
+COMMENT: Corrected Part IA to read New Region 1362 (N08E76).

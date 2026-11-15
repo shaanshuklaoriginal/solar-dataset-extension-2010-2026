@@ -1,0 +1,50 @@
+:Product: 1113RSGA.txt
+:Issued: 2010 Nov 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 317 Issued at 2200Z on 13 Nov 2010
+IA.  Analysis of Solar Active Regions and Activity from  12/2100Z
+to 13/2100Z:  Solar activity was low. Region 1123 (S23W24) produced
+the only C-class x-ray event of the period, a C1.3/Sf at 13/1128Z.
+Associated with this event were radio bursts at 245 MHz and 410 MHz.
+An eight degree filament with east-west orientation disappeared
+from the disk near N31W09 around 13/06Z. A halo CME became visible
+on LASCO C2 at 13/11Z and on C3 and STEREO coronagraphs by 13/21Z
+with an earth sided trajectory. This event is believed to be
+associated with the DSF at 13/06Z.
+IB.  Solar Activity Forecast:  Solar activity is forecast to be low
+with a C-class x-ray event likely for the next 3 days (14-16
+November).
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z:
+The geomagnetic field has been quiet. The greater than 2 MeV electron
+flux at geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled with the chance for active
+conditions on day 1 (14 November). Conditions are forecast to be
+mostly active with the chance for minor storming on days 2 and 3
+(15-16 November), due to the expected arrival of a combined shock
+from multiple CMEs observed on 11 and 12 November.
+III.  Event Probabilities 14 Nov-16 Nov
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           13 Nov 085
+Predicted   14 Nov-16 Nov  085/085/085
+90 Day Mean        13 Nov 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Nov  009/015
+Estimated Afr/Ap 13 Nov  006/006
+Predicted Afr/Ap 14 Nov-16 Nov  008/010-018/018-012/012
+VI.  Geomagnetic Activity Probabilities 14 Nov-16 Nov
+A.  Middle Latitudes
+Active                30/40/50
+Minor storm           10/45/20
+Major-severe storm    05/15/10
+B.  High Latitudes
+Active                40/30/50
+Minor storm           10/50/30
+Major-severe storm    05/20/15

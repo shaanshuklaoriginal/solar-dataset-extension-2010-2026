@@ -1,0 +1,56 @@
+:Product: 0412RSGA.txt
+:Issued: 2012 Apr 12 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 103 Issued at 2200Z on 12 Apr 2012
+IA.  Analysis of Solar Active Regions and Activity from  11/2100Z
+to 12/2100Z:  Solar activity has been at very low levels for the past
+24 hours. Region 1455 (N06W05) has been the most active region
+producing multiple B-class x-ray events. Region 1455 has shown rapid
+growth in area and magnetic complexity, now a D-type beta group. New
+Region 1456 (S20W19) was numbered today. Multiple CMEs were observed
+during the period but none appear to be Earth directed.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low levels with a chance for C-class activity for the next
+three days (13 - 15 April) as Regions 1455 and 1456 continue to grow
+and evolve.
+IIA.  Geophysical Activity Summary 11/2100Z to 12/2100Z:
+The geomagnetic field has been at quiet to active levels over the
+past 24 hours. Characteristics of an anticipated high speed solar
+wind stream from a coronal hole were observed by the ACE spacecraft,
+with subsequent elevated geomagnetic levels here at Earth.
+Measurements from the ACE spacecraft showed an increase in solar
+wind speeds from around 370 km/s to around 600 km/s with the total
+IMF hovering around 12 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at unsettled to active levels with the chance for
+minor storm periods on day one (13 April) as the effects of a
+coronal hole high speed stream (CH HSS) continue. Quiet to unsettled
+levels with a chance for active periods are expected on day two (14
+April) as the effects of the CH HSS wane. Predominantly quiet levels
+are expected on day three (15 April) as the geomagnetic field
+returns to nominal levels.
+III.  Event Probabilities 13 Apr-15 Apr
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           12 Apr 095
+Predicted   13 Apr-15 Apr  095/095/095
+90 Day Mean        12 Apr 114
+V.  Geomagnetic A Indices
+Observed Afr/Ap 11 Apr  005/004
+Estimated Afr/Ap 12 Apr  009/010
+Predicted Afr/Ap 13 Apr-15 Apr  013/018-010/010-009/008
+VI.  Geomagnetic Activity Probabilities 13 Apr-15 Apr
+A.  Middle Latitudes
+Active                35/30/25
+Minor storm           10/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                40/35/30
+Minor storm           30/20/15
+Major-severe storm    15/10/10

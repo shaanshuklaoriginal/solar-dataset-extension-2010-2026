@@ -1,0 +1,46 @@
+:Product: 1201RSGA.txt
+:Issued: 2010 Dec 01 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 335 Issued at 2200Z on 01 Dec 2010
+IA.  Analysis of Solar Active Regions and Activity from  30/2100Z
+to 01/2100Z:  Solar activity was low during the past 24 hours. 
+Region 1130 (N14W40) produced a C1 flare at 01/0622Z and appears to
+be growing steadily.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low.  There is a chance for additional C-class activity due
+to the growth of Region 1130 and the return of old Regions 1124
+(N14, L=190) and 1123 (S22, L=171).
+IIA.  Geophysical Activity Summary 30/2100Z to 01/2100Z:
+The geomagnetic field was quiet during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet on day one (02 December).  Quiet to
+unsettled conditions with a chance for isolated active periods is
+expected on days two and three (03-04 December) due to possible
+effects from a CME associated with the disappearing filament
+observed on 29 November.  The CME observed near N15E40 on 30
+November could also contribute to elevated activity on those days.
+III.  Event Probabilities 02 Dec-04 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           01 Dec 087
+Predicted   02 Dec-04 Dec  088/090/090
+90 Day Mean        01 Dec 082
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Nov  002/003
+Estimated Afr/Ap 01 Dec  002/003
+Predicted Afr/Ap 02 Dec-04 Dec  005/005-010/010-008/008
+VI.  Geomagnetic Activity Probabilities 02 Dec-04 Dec
+A.  Middle Latitudes
+Active                10/25/20
+Minor storm           01/15/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/30/25
+Minor storm           05/15/10
+Major-severe storm    01/01/01

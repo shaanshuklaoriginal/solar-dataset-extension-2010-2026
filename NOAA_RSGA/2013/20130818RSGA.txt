@@ -1,0 +1,52 @@
+:Product: 0818RSGA.txt
+:Issued: 2013 Aug 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 230 Issued at 2200Z on 18 Aug 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 17/2100Z to
+18/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+18/1131Z. There are currently 9 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (19 Aug, 20 Aug,
+21 Aug).
+
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 650 km/s at
+17/2126Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 4650 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (19 Aug), quiet to active levels on day
+two (20 Aug) and unsettled to active levels on day three (21 Aug).
+Protons have a chance of crossing threshold on days one, two, and three
+(19 Aug, 20 Aug, 21 Aug).
+
+III.  Event probabilities 19 Aug-21 Aug
+Class M    25/25/25
+Class X    05/05/05
+Proton     25/25/25
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           18 Aug 126
+Predicted   19 Aug-21 Aug 130/125/120
+90 Day Mean        18 Aug 113
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 Aug  009/008
+Estimated Afr/Ap 18 Aug  006/006
+Predicted Afr/Ap 19 Aug-21 Aug  006/005-010/018-018/025
+
+VI.  Geomagnetic Activity Probabilities 19 Aug-21 Aug
+A.  Middle Latitudes
+Active                15/25/45
+Minor Storm           01/05/15
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                20/20/10
+Minor Storm           35/35/35
+Major-severe storm    25/30/55

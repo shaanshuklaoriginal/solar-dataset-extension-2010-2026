@@ -1,0 +1,49 @@
+:Product: 0920RSGA.txt
+:Issued: 2026 Sep 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 263 Issued at 2200Z on 20 Sep 2026
+
+IA.  Analysis of Solar Active Regions and Activity from 19/2100Z to
+20/2100Z: Solar activity has been at low levels for the past 24 hours.
+There are currently 4 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares on days one, two, and three (21 Sep,
+22 Sep, 23 Sep).
+
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 430 km/s. Total IMF reached 5 nT. The
+maximum southward component of Bz reached -4 nT.  Electrons greater than
+2 MeV at geosynchronous orbit reached a peak level of 627 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one, two, and three (21 Sep, 22 Sep, 23
+Sep).
+
+III.  Event probabilities 21 Sep-23 Sep
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           20 Sep 101
+Predicted   21 Sep-23 Sep 105/105/100
+90 Day Mean        20 Sep 125
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 Sep  006/007
+Estimated Afr/Ap 20 Sep  006/006
+Predicted Afr/Ap 21 Sep-23 Sep  005/005-006/005-006/005
+
+VI.  Geomagnetic Activity Probabilities 21 Sep-23 Sep
+A.  Middle Latitudes
+Active                10/10/10
+Minor Storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/15/15
+Major-severe storm    15/15/15

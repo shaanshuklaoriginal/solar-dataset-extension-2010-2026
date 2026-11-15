@@ -1,0 +1,52 @@
+:Product: 0615RSGA.txt
+:Issued: 2023 Jun 15 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 166 Issued at 2200Z on 15 Jun 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 14/2100Z to
+15/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C9 event observed at
+15/1255Z from Region 3336 (S21E54). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a slight chance for an M-class flare on days one, two, and three (16
+Jun, 17 Jun, 18 Jun).
+
+IIA.  Geophysical Activity Summary 14/2100Z to 15/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 506 km/s at 14/2214Z. Total IMF
+reached 19 nT at 15/2046Z. The maximum southward component of Bz reached
+-11 nT at 15/1634Z.  Electrons greater than 2 MeV at geosynchronous
+orbit reached a peak level of 150 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (16 Jun) and quiet to
+unsettled levels on days two and three (17 Jun, 18 Jun).
+
+III.  Event probabilities 16 Jun-18 Jun
+Class M    20/20/20
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           15 Jun 153
+Predicted   16 Jun-18 Jun 155/160/160
+90 Day Mean        15 Jun 153
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 14 Jun  005/004
+Estimated Afr/Ap 15 Jun  015/022
+Predicted Afr/Ap 16 Jun-18 Jun  017/018-010/012-008/008
+
+VI.  Geomagnetic Activity Probabilities 16 Jun-18 Jun
+A.  Middle Latitudes
+Active                35/25/15
+Minor Storm           15/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/15
+Major-severe storm    20/25/15

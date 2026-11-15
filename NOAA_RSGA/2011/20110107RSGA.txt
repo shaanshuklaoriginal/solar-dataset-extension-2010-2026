@@ -1,0 +1,60 @@
+:Product: 0107RSGA.txt
+:Issued: 2011 Jan 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 007 Issued at 2200Z on 07 Jan 2011
+IA.  Analysis of Solar Active Regions and Activity from  06/2100Z
+to 07/2100Z:  Solar activity was at very low levels. Departing Region
+1141 (N33, L=263) produced a B5 X-ray event at 07/1520Z as the
+region rotated around the west limb. New Region 1143 (S22E16)
+emerged on the disk as a D-type bi-polar group and exhibited steady
+growth through the period. Region 1139 (S27W74) redeveloped spots
+after a 6-day spotless plage interval. Region 1140 (N33W24)
+redeveloped spots to the north of the large H spot and was
+reclassified as a C-type bi-polar group. Region 1142 (S14W45)
+decayed to a uni-polar group.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+at predominately very low levels during the forecast period (08 - 10
+January). A chance for isolated C-class activity exists all three
+days.
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z:
+Geomagnetic field activity ranged from quiet to active levels with a
+minor storm interval observed between 06/2100 - 2400Z. The increase
+in activity was due to the onset of a coronal hole high speed
+stream. Solar wind velocities, as observed at the ACE satellite,
+steadily increased throughout the period from about 450 km/s at
+06/2100Z to a maximum of 627 km/s at 07/1545Z. Velocities remained
+near 600 km/s through the end of the period. The Bz component of the
+interplanetary magnetic field reached a maximum southward value of
+-14nT at 06/2226Z and remained southward between -5 nT to -10 nT for
+about 6 hours. For the remainder of the period, Bz fluctuated
+between +/- 4 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at predominately quiet to unsettled levels all three
+days of the forecast period (08 - 10 January). Isolated active to
+minor storm periods are possible on 08 and 09 January. This activity
+is due to continued effects of the coronal hole high speed stream.
+III.  Event Probabilities 08 Jan-10 Jan
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           07 Jan 086
+Predicted   08 Jan-10 Jan  086/086/084
+90 Day Mean        07 Jan 084
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Jan  009/008
+Estimated Afr/Ap 07 Jan  010/012
+Predicted Afr/Ap 08 Jan-10 Jan  010/010-010/010-007/008
+VI.  Geomagnetic Activity Probabilities 08 Jan-10 Jan
+A.  Middle Latitudes
+Active                20/20/15
+Minor storm           10/10/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                30/30/25
+Minor storm           15/15/10
+Major-severe storm    01/01/01

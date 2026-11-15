@@ -1,0 +1,52 @@
+:Product: 0118RSGA.txt
+:Issued: 2022 Jan 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 18 Issued at 2200Z on 18 Jan 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 17/2100Z to
+18/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was an M1/Sf flare observed
+at 18/1744Z from Region 2929 (N07W58). There are currently 4 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low with a
+slight chance for an M-class flare on days one, two, and three (19 Jan,
+20 Jan, 21 Jan).
+
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 652 km/s at 18/1310Z. Total IMF
+reached 8 nT at 17/2224Z. The maximum southward component of Bz reached
+-4 nT at 18/1919Z.  Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 4360 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one, two, and three (19 Jan,
+20 Jan, 21 Jan).
+
+III.  Event probabilities 19 Jan-21 Jan
+Class M    20/20/20
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           18 Jan 115
+Predicted   19 Jan-21 Jan 115/115/110
+90 Day Mean        18 Jan 097
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 Jan  006/007
+Estimated Afr/Ap 18 Jan  014/018
+Predicted Afr/Ap 19 Jan-21 Jan  008/008-007/008-008/008
+
+VI.  Geomagnetic Activity Probabilities 19 Jan-21 Jan
+A.  Middle Latitudes
+Active                20/20/20
+Minor Storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/25/25
+Major-severe storm    25/25/25

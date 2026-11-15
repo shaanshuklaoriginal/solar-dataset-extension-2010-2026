@@ -1,0 +1,58 @@
+:Product: 1011RSGA.txt
+:Issued: 2010 Oct 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 284 Issued at 2200Z on 11 Oct 2010
+IA.  Analysis of Solar Active Regions and Activity from  10/2100Z
+to 11/2100Z:  Solar activity was very low. Region 1112 (S19E40)
+showed little change during the period. SDO/AIA 193 imagery observed
+a filament eruption at approximately 10/2121Z. The filament was 17
+degrees long and centered near S08E48, just north of Region 1112. A
+slow-moving, CME was detected at 11/0012Z by SOHO LASCO c2 imagery
+and did not appear to be Earth-directed.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+very low with a slight chance for C-class activity.
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z:
+The geomagnetic field ranged from quiet to minor storm levels.
+Activity levels were quiet through 11/0600Z.  By 11/0900Z,
+geomagnetic activity increased at all latitudes to predominately
+unsettled to active levels with an isolated minor storm period
+observed between 11/1200 - 1500Z.  At approximately 11/0300Z,
+measurements at the ACE spacecraft observed flucuations in the B
+component of the interplanetary magnetic field (IMF) along with a
+sharp increase in density and a slight increase in wind velocity. 
+The IMF Bz reached a maximum of -13 nT at 11/0915Z, and remained
+southward through 11/1805Z.  The IMF Bt hit a maximum of 14 nT at
+11/0936Z while density reached a peak of 47 p/cc at 11/0509Z.  Wind
+velocities increased slightly from a low of 325 km/s at the
+beginning of the summary period and peaked near 375 km/s at
+11/1826Z.  The increase in activity is most likely a result of a
+glancing blow from the 06 October full-halo CME.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled, with isolated active periods on
+day one (12 October) due to lingering CME effects.  Mostly quiet
+levels are expected by days two and three (13 - 14 October).
+III.  Event Probabilities 12 Oct-14 Oct
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           11 Oct 075
+Predicted   12 Oct-14 Oct  076/076/076
+90 Day Mean        11 Oct 080
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Oct  001/002
+Estimated Afr/Ap 11 Oct  012/015
+Predicted Afr/Ap 12 Oct-14 Oct  008/012-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 12 Oct-14 Oct
+A.  Middle Latitudes
+Active                25/15/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                35/20/15
+Minor storm           10/01/01
+Major-severe storm    01/01/01

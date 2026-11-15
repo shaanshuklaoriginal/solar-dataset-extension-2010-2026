@@ -1,0 +1,47 @@
+:Product: 0205RSGA.txt
+:Issued: 2010 Feb 05 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 036 Issued at 2200Z on 05 Feb 2010
+IA.  Analysis of Solar Active Regions and Activity from  04/2100Z
+to 05/2100Z:  Solar activity was very low. Region 1043 (N23W46)
+produced an A8 x-ray event at about 0200Z which was associated with
+a faint CME.  A second B2 flare occurred at 1338Z from a region on
+the northeast limb. Newly numbered Region 1044 (N18W36) produced a
+B3 xray event at 1903Z, but is a small, unipolar group so far. The
+northern hemisphere coronal hole is nearing center disk.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+very low for the next three days (6-8 February), with only a slight
+chance for C-class flares.
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain quiet for day 1 (6 February). Unsettled to active
+conditions with a slight chance for minor storming are expected for
+days 2 and 3 (7-8 February). The increase in activity is forecast
+due to possible effects from the CME observed on 03 February, as
+well as the coronal hole mentioned in part 1A.
+III.  Event Probabilities 06 Feb-08 Feb
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           05 Feb 078
+Predicted   06 Feb-08 Feb  080/083/085
+90 Day Mean        05 Feb 077
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 Feb  002/002
+Estimated Afr/Ap 05 Feb  001/005
+Predicted Afr/Ap 06 Feb-08 Feb  005/005-012/012-012/012
+VI.  Geomagnetic Activity Probabilities 06 Feb-08 Feb
+A.  Middle Latitudes
+Active                05/35/35
+Minor storm           01/25/25
+Major-severe storm    01/05/05
+B.  High Latitudes
+Active                05/40/40
+Minor storm           01/30/30
+Major-severe storm    01/05/05

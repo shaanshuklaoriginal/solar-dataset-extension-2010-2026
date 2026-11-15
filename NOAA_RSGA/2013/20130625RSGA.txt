@@ -1,0 +1,55 @@
+:Product: 0625RSGA.txt
+:Issued: 2013 Jun 25 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 176 Issued at 2200Z on 25 Jun 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 24/2100Z to
+25/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 6 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a slight chance for an M-class flare on day one (26 Jun) and likely to
+be low with a slight chance for an M-class flare on day two (27 Jun) and
+expected to be very low with a chance for a C-class flares and a slight
+chance for an M-class flare on day three (28 Jun).
+
+IIA.  Geophysical Activity Summary 24/2100Z to 25/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+590 km/s at 25/0812Z. Total IMF reached 5 nT at 24/2130Z. The maximum
+southward component of Bz reached -4 nT at 24/2147Z. Protons greater
+than 10 MeV at geosynchronous orbit reached a peak level of 2 pfu at
+24/2300Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 17149 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (26 Jun) and unsettled to
+active levels with a chance for minor storm levels on days two and three
+(27 Jun, 28 Jun).
+
+III.  Event probabilities 26 Jun-28 Jun
+Class M    20/15/10
+Class X    05/01/01
+Proton     05/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           25 Jun 109
+Predicted   26 Jun-28 Jun 105/100/095
+90 Day Mean        25 Jun 123
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 24 Jun  014/020
+Estimated Afr/Ap 25 Jun  008/009
+Predicted Afr/Ap 26 Jun-28 Jun  006/008-011/016-013/015
+
+VI.  Geomagnetic Activity Probabilities 26 Jun-28 Jun
+A.  Middle Latitudes
+Active                10/35/30
+Minor Storm           01/20/10
+Major-severe storm    01/05/01
+B.  High Latitudes
+Active                15/10/15
+Minor Storm           20/25/25
+Major-severe storm    15/50/40

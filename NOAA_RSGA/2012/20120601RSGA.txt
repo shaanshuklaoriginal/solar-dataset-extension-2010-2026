@@ -1,0 +1,52 @@
+:Product: 0601RSGA.txt
+:Issued: 2012 Jun 01 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 153 Issued at 2200Z on 01 Jun 2012
+IA.  Analysis of Solar Active Regions and Activity from  31/2100Z
+to 01/2100Z:  Solar activity was low.  C-class flares were observed
+from both Region 1493 (N14E49) and newly numbered Region 1498
+(N07E69).  The largest flare was a C2/1F at 01/1710Z from Region
+1498, a Cso type group with a beta magnetic configuration.  Region
+1493 was the largest region on the disk, occupying 170 millionths
+and classified as a Dho type group with a beta magnetic
+configuration.  New Regions 1496 (N16E59)  and 1497 (S22E34) were
+also numbered yesterday.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+low with a slight chance for an M-class event for the next three
+days (02-04 June).
+IIA.  Geophysical Activity Summary 31/2100Z to 01/2100Z:
+The geomagnetic field ranged from quiet to unsettled levels.  A solar
+sector boundary change, from positive to negative, was observed at
+the ACE spacecraft between 01/01Z and 03Z.  Solar wind speed was
+around 350 km/s.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to begin at quiet levels on day 1 (2 June).  An increase to
+unsettled to active levels is expected on days 2 and 3 (3-4 June)
+with the arrival of a recurrent coronal hole high speed stream.  The
+coronal hole high speed stream will also bring a slight chance for
+isolated minor storm conditions.
+III.  Event Probabilities 02 Jun-04 Jun
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           01 Jun 129
+Predicted   02 Jun-04 Jun  130/130/130
+90 Day Mean        01 Jun 117
+V.  Geomagnetic A Indices
+Observed Afr/Ap 31 May  007/008
+Estimated Afr/Ap 01 Jun  005/006
+Predicted Afr/Ap 02 Jun-04 Jun  004/005-009/010-013/015
+VI.  Geomagnetic Activity Probabilities 02 Jun-04 Jun
+A.  Middle Latitudes
+Active                05/20/35
+Minor storm           01/10/20
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                15/15/10
+Minor storm           15/25/30
+Major-severe storm    05/30/50

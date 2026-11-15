@@ -1,0 +1,51 @@
+:Product: 0825RSGA.txt
+:Issued: 2012 Aug 25 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 238 Issued at 2200Z on 25 Aug 2012
+IA.  Analysis of Solar Active Regions and Activity from  24/2100Z
+to 25/2100Z:  Solar activity was low.  Region 1554 (N15W00) produced
+one C1/Sf flare at 0236Z.  No CMEs observed in the past 24 hours are
+expected to be geoeffective.  New Region 1555 (N09E69) was numbered
+overnight and has developed into a Dao type spot group with a beta
+magnetic configuration.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a chance for C-class activity.
+IIA.  Geophysical Activity Summary 24/2100Z to 25/2100Z:
+Geomagnetic activity was at quiet to unsettled levels with two
+periods of active to major storm levels at high latitudes.  Solar
+wind velocity increased to around 600 km/s with the arrival of a
+coronal hole high speed stream.
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be at quiet to unsettled levels with a slight chance for
+active to major storm levels at high latitudes on 26 August due to
+residual coronal hole high speed stream effects.  Activity is
+expected to decline to mostly quiet levels with a slight chance for
+active to minor storm levels at high latitudes on 27 August.  On day
+3 (28 August) conditions are expected to return to quiet to
+unsettled levels with a chance for minor to major storm levels due
+to the arrival of another negative polarity coronal hole.
+III.  Event Probabilities 26 Aug-28 Aug
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           25 Aug 106
+Predicted   26 Aug-28 Aug  110/110/110
+90 Day Mean        25 Aug 124
+V.  Geomagnetic A Indices
+Observed Afr/Ap 24 Aug  009/010
+Estimated Afr/Ap 25 Aug  008/009
+Predicted Afr/Ap 26 Aug-28 Aug  007/008-005/005-007/008
+VI.  Geomagnetic Activity Probabilities 26 Aug-28 Aug
+A.  Middle Latitudes
+Active                15/05/15
+Minor storm           05/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           20/15/25
+Major-severe storm    20/05/25

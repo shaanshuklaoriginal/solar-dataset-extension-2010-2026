@@ -1,0 +1,44 @@
+:Product: 1101RSGA.txt
+:Issued: 2010 Nov 01 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 305 Issued at 2200Z on 01 Nov 2010
+IA.  Analysis of Solar Active Regions and Activity from  31/2100Z
+to 01/2100Z:  Solar activity was low.  A C1 flare was observed at
+01/0443Z from Region 1117 (N22, L=063) as it rotated around the west
+limb. Region 1120 (N39E41) has been quiet.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low on day one (02 November). Very low conditions are
+expected on days two and three (03 - 04 November) as Region 1117
+rotates off the solar disk.
+IIA.  Geophysical Activity Summary 31/2100Z to 01/2100Z:
+The geomagnetic field was at quiet levels.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels, with a slight chance
+for active conditions during the next three days (02 - 04 November).
+The increase in activity is due to a recurrent coronal hole
+high-speed stream.
+III.  Event Probabilities 02 Nov-04 Nov
+Class M    15/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           01 Nov 079
+Predicted   02 Nov-04 Nov  078/078/078
+90 Day Mean        01 Nov 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 31 Oct  004/003
+Estimated Afr/Ap 01 Nov  007/010
+Predicted Afr/Ap 02 Nov-04 Nov  007/008-005/005-007/007
+VI.  Geomagnetic Activity Probabilities 02 Nov-04 Nov
+A.  Middle Latitudes
+Active                15/10/15
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/10/20
+Minor storm           01/01/01
+Major-severe storm    01/01/01

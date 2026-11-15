@@ -1,0 +1,53 @@
+:Product: 0713RSGA.txt
+:Issued: 2012 Jul 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 195 Issued at 2200Z on 13 Jul 2012
+IA.  Analysis of Solar Active Regions and Activity from  12/2100Z
+to 13/2100Z:  Solar activity has been at low levels for the past 24
+hours. Region 1521 (S21W34) has been the most active region,
+producing multiple low-level C-class events. Region 1520 (S16W23)
+has decayed in area but remains the most magnetically complex region
+on the disk, still classified as a beta-gamma-delta. The other four
+numbered active sunspot regions have remained quiet and rather
+stable. A CME was observed in LASCO C2 imagery at 13/0224Z. After
+analysis, the CME was determined to not be geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low to moderate levels for the next three days (14-16 July), as
+Regions 1520 and 1521 continue to evolve and rotate toward the west
+limb.
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+The greater than 2 MeV electron flux at geosynchronous orbit reached
+high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to minor storm levels with a slight chance
+for isolated periods at major storm levels on day one (14 July), due
+the arrival of the 12 July CME. Unsettled to active levels with a
+chance for minor storm periods are expected on day two (15 July), as
+effects of the CME continue. A return to predominantly quiet levels
+is expected on day three (16 July).
+III.  Event Probabilities 14 Jul-16 Jul
+Class M    70/70/70
+Class X    20/20/20
+Proton     99/99/50
+PCAF       red
+IV.  Penticton 10.7 cm Flux
+Observed           13 Jul 147
+Predicted   14 Jul-16 Jul  145/135/125
+90 Day Mean        13 Jul 128
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Jul  011/014
+Estimated Afr/Ap 13 Jul  003/003
+Predicted Afr/Ap 14 Jul-16 Jul  017/034-014/018-004/005
+VI.  Geomagnetic Activity Probabilities 14 Jul-16 Jul
+A.  Middle Latitudes
+Active                15/35/05
+Minor storm           15/15/01
+Major-severe storm    15/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor storm           30/20/10
+Major-severe storm    60/20/05

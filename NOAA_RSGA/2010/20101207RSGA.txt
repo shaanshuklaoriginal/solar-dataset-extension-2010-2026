@@ -1,0 +1,41 @@
+:Product: 1207RSGA.txt
+:Issued: 2010 Dec 07 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 341 Issued at 2200Z on 07 Dec 2010
+IA.  Analysis of Solar Active Regions and Activity from  06/2100Z
+to 07/2100Z:  Solar activity was very low.  Regions 1131 (N31E03) and
+1133 (N15E31) remained quiet and stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low for the next 3 days (08-10 December).
+IIA.  Geophysical Activity Summary 06/2100Z to 07/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet for days 1 and 2 (08-09 December), and
+quiet to unsettled with the chance for active conditions on day 3
+(10 December). The increase in activity is due to the anticipated
+effects of a recurrent coronal hole.
+III.  Event Probabilities 08 Dec-10 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           07 Dec 087
+Predicted   08 Dec-10 Dec  088/088/088
+90 Day Mean        07 Dec 082
+V.  Geomagnetic A Indices
+Observed Afr/Ap 06 Dec  003/002
+Estimated Afr/Ap 07 Dec  003/004
+Predicted Afr/Ap 08 Dec-10 Dec  005/005-005/005-008/008
+VI.  Geomagnetic Activity Probabilities 08 Dec-10 Dec
+A.  Middle Latitudes
+Active                05/05/20
+Minor storm           01/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/30
+Minor storm           01/01/20
+Major-severe storm    01/01/05

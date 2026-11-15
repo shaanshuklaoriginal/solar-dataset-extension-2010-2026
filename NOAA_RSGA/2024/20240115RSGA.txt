@@ -1,0 +1,52 @@
+:Product: 0115RSGA.txt
+:Issued: 2024 Jan 15 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 15 Issued at 2200Z on 15 Jan 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 14/2100Z to
+15/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C2 event observed at
+15/1405Z. There are currently 10 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (16 Jan, 17 Jan,
+18 Jan).
+
+IIA.  Geophysical Activity Summary 14/2100Z to 15/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached an estimated peak of 372 km/s at 15/1306Z. Wind speeds were
+suspect due to unreliable DSCOVR data. Total IMF reached 9 nT at
+15/1845Z. The maximum southward component of Bz reached -4 nT at
+15/1940Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 117 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one, two, and three (16 Jan,
+17 Jan, 18 Jan).
+
+III.  Event probabilities 16 Jan-18 Jan
+Class M    30/30/30
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           15 Jan 183
+Predicted   16 Jan-18 Jan 185/185/175
+90 Day Mean        15 Jan 151
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 14 Jan  005/006
+Estimated Afr/Ap 15 Jan  005/005
+Predicted Afr/Ap 16 Jan-18 Jan  008/008-008/010-008/008
+
+VI.  Geomagnetic Activity Probabilities 16 Jan-18 Jan
+A.  Middle Latitudes
+Active                20/25/20
+Minor Storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/30/25
+Major-severe storm    25/30/25

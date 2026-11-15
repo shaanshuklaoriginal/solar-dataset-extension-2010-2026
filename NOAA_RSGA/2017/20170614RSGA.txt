@@ -1,0 +1,48 @@
+:Product: 0614RSGA.txt
+:Issued: 2017 Jun 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 165 Issued at 2200Z on 14 Jun 2017
+
+IA.  Analysis of Solar Active Regions and Activity from 13/2100Z to
+14/2100Z: Solar activity has been at very low levels for the past 24
+hours. There is currently 1 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+on days one, two, and three (15 Jun, 16 Jun, 17 Jun).
+
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 534 km/s at 14/0236Z. Total IMF reached 5 nT at
+14/1915Z. The maximum southward component of Bz reached -3 nT at
+14/0401Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (15 Jun) and unsettled to
+active levels on days two and three (16 Jun, 17 Jun).
+
+III.  Event probabilities 15 Jun-17 Jun
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           14 Jun 074
+Predicted   15 Jun-17 Jun 074/074/074
+90 Day Mean        14 Jun 077
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Jun  006/006
+Estimated Afr/Ap 14 Jun  005/006
+Predicted Afr/Ap 15 Jun-17 Jun  012/015-015/025-012/015
+
+VI.  Geomagnetic Activity Probabilities 15 Jun-17 Jun
+A.  Middle Latitudes
+Active                30/35/25
+Minor Storm           10/15/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/20/15
+Major-severe storm    40/20/15

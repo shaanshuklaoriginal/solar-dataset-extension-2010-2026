@@ -1,0 +1,47 @@
+:Product: 0827RSGA.txt
+:Issued: 2012 Aug 27 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 240 Issued at 2200Z on 27 Aug 2012
+IA.  Analysis of Solar Active Regions and Activity from  26/2100Z
+to 27/2100Z:  Solar activity was very low. Region 1558 (N18E78)
+produced the largest flare of the period, a B9 at 27/0821Z. Three
+new regions were numbered: Region 1556 (S12W79) an Axx-alpha type
+group; Region 1557 (N17E38) a Bxo-beta type group; and Region 1558 a
+Bxo-beta type group. The remaining numbered regions were stable and
+quiet. Several CMEs were observed however none appear to be
+Earth-directed.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low with a slight chance for moderate activity for the next
+three days (28-30 August).
+IIA.  Geophysical Activity Summary 26/2100Z to 27/2100Z:
+The geomagnetic field was quiet to unsettled.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled with a slight chance for active
+conditions on days 1-2 (28-29 August) due to continued effects from
+a coronal hole high speed stream. On day 3 (30 August), conditions
+are expected to return to predominately quiet levels.
+III.  Event Probabilities 28 Aug-30 Aug
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           27 Aug 112
+Predicted   28 Aug-30 Aug  120/120/125
+90 Day Mean        27 Aug 124
+V.  Geomagnetic A Indices
+Observed Afr/Ap 26 Aug  010/011
+Estimated Afr/Ap 27 Aug  006/007
+Predicted Afr/Ap 28 Aug-30 Aug  007/008-007/008-006/005
+VI.  Geomagnetic Activity Probabilities 28 Aug-30 Aug
+A.  Middle Latitudes
+Active                15/15/05
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           25/25/15
+Major-severe storm    25/25/05

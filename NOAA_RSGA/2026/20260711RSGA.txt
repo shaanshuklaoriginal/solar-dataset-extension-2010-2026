@@ -1,0 +1,52 @@
+:Product: 0711RSGA.txt
+:Issued: 2026 Jul 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 192 Issued at 2200Z on 11 Jul 2026
+
+IA.  Analysis of Solar Active Regions and Activity from 10/2100Z to
+11/2100Z: Solar activity has been at low levels for the past 24 hours.
+There are currently 4 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one and two (12 Jul, 13 Jul) and
+likely to be low with a slight chance for an M-class flare on day three
+(14 Jul).
+
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 542 km/s at 11/1806 UTC. Total IMF reached
+8 nT at 11/1742 UTC. The maximum southward component of Bz reached -4 nT
+at 11/1857 UTC.  Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 4619 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (12 Jul), quiet to
+unsettled levels on day two (13 Jul) and quiet levels on day three (14
+Jul).
+
+III.  Event probabilities 12 Jul-14 Jul
+Class M    25/25/20
+Class X    05/05/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           11 Jul 112
+Predicted   12 Jul-14 Jul 105/105/115
+90 Day Mean        11 Jul 132
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Jul  012/012
+Estimated Afr/Ap 11 Jul  007/008
+Predicted Afr/Ap 12 Jul-14 Jul  016/024-010/010-007/006
+
+VI.  Geomagnetic Activity Probabilities 12 Jul-14 Jul
+A.  Middle Latitudes
+Active                35/20/10
+Minor Storm           10/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/15/15
+Major-severe storm    35/10/10

@@ -1,0 +1,40 @@
+:Product: 1221RSGA.txt
+:Issued: 2010 Dec 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 355 Issued at 2200Z on 21 Dec 2010
+IA.  Analysis of Solar Active Regions and Activity from  20/2100Z
+to 21/2100Z:  Solar activity was very low.  The visible disk remained
+spotless.  A filament eruption was observed at approximately
+21/0236Z.  An associated CME was subsequently observed off the
+Northeast limb in the LASCO C2 Coronagraph imagery at 21/0248Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low for the next three days (22-24 December).
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z:
+The geomagnetic field was mostly quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the next three days (22-24 December).
+III.  Event Probabilities 22 Dec-24 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           21 Dec 078
+Predicted   22 Dec-24 Dec  078/076/078
+90 Day Mean        21 Dec 083
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 Dec  006/008
+Estimated Afr/Ap 21 Dec  002/005
+Predicted Afr/Ap 22 Dec-24 Dec  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 22 Dec-24 Dec
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

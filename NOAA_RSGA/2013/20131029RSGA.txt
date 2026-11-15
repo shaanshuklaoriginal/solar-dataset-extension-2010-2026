@@ -1,0 +1,56 @@
+:Product: 1029RSGA.txt
+:Issued: 2013 Oct 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 302 Issued at 2200Z on 29 Oct 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 28/2100Z to
+29/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C9 event observed at
+29/1831Z from Region 1875 (N06W92). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be moderate
+with a chance for X-class flares on days one, two, and three (30 Oct, 31
+Oct, 01 Nov).
+
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+367 km/s at 29/0940Z. Total IMF reached 12 nT at 29/1225Z. The maximum
+southward component of Bz reached -9 nT at 29/1012Z. Protons greater
+than 10 MeV at geosynchronous orbit reached a peak level of 4 pfu at
+29/0140Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 732 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one and three (30 Oct, 01
+Nov) and unsettled to minor storm levels on day two (31 Oct). Protons
+have a chance of crossing threshold on days one, two, and three (30 Oct,
+31 Oct, 01 Nov).
+
+III.  Event probabilities 30 Oct-01 Nov
+Class M    60/60/60
+Class X    25/25/25
+Proton     25/25/25
+PCAF       yellow
+
+IV.  Penticton 10.7 cm Flux
+Observed           29 Oct 153
+Predicted   30 Oct-01 Nov 150/145/140
+90 Day Mean        29 Oct 116
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 Oct  002/001
+Estimated Afr/Ap 29 Oct  006/008
+Predicted Afr/Ap 30 Oct-01 Nov  011/012-017/024-010/012
+
+VI.  Geomagnetic Activity Probabilities 30 Oct-01 Nov
+A.  Middle Latitudes
+Active                20/45/20
+Minor Storm           05/20/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/20
+Major-severe storm    20/35/25

@@ -1,0 +1,46 @@
+:Product: 0829RSGA.txt
+:Issued: 2010 Aug 29 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 241 Issued at 2200Z on 29 Aug 2010
+IA.  Analysis of Solar Active Regions and Activity from  28/2100Z
+to 29/2100Z:  Solar activity has been at very low levels for the past
+24 hours. Region 1101 (N12E07) remains quiet and stable. New Region
+1102 (N27W13) was numbered today and emerged on the disk as a C-type
+sunspot group with a beta magnetic classification.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low levels for the next three days (30 August - 01 September).
+IIA.  Geophysical Activity Summary 28/2100Z to 29/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+ACE solar wind readings indicated velocities gradually decreasing 
+from 580 to 450 km/s during the period. This decrease in velocity
+was associated with the waning effects of the latest coronal hole
+high speed stream. The greater than 2 MeV electron flux at
+geosynchronous orbit was at high levels throughout the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels for the next three days (30 August -
+01 September).
+III.  Event Probabilities 30 Aug-01 Sep
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           29 Aug 074
+Predicted   30 Aug-01 Sep  074/075/076
+90 Day Mean        29 Aug 077
+V.  Geomagnetic A Indices
+Observed Afr/Ap 28 Aug  005/007
+Estimated Afr/Ap 29 Aug  002/005
+Predicted Afr/Ap 30 Aug-01 Sep  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 30 Aug-01 Sep
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

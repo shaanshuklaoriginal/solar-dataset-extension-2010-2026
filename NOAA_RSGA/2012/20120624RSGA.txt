@@ -1,0 +1,39 @@
+:Product: 0624RSGA.txt
+:Issued: 2012 Jun 24 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 176 Issued at 2200Z on 24 Jun 2012
+IA.  Analysis of Solar Active Regions and Activity from  23/2100Z
+to 24/2100Z:  Solar activity was very low.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low.
+IIA.  Geophysical Activity Summary 23/2100Z to 24/2100Z:
+Geomagnetic field activity was at quiet levels. The greater than 2
+MeV electron flux at geosynchronous orbit reached high levels during
+the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be mostly quiet during the period (25 - 27 June).
+III.  Event Probabilities 25 Jun-27 Jun
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           24 Jun 085
+Predicted   25 Jun-27 Jun  085/085/090
+90 Day Mean        24 Jun 119
+V.  Geomagnetic A Indices
+Observed Afr/Ap 23 Jun  004/005
+Estimated Afr/Ap 24 Jun  005/005
+Predicted Afr/Ap 25 Jun-27 Jun  005/005-006/005-006/005
+VI.  Geomagnetic Activity Probabilities 25 Jun-27 Jun
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/10
+Major-severe storm    05/05/05

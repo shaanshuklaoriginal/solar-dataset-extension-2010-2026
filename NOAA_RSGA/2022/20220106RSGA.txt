@@ -1,0 +1,51 @@
+:Product: 0106RSGA.txt
+:Issued: 2022 Jan 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 6 Issued at 2200Z on 06 Jan 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 05/2100Z to
+06/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 2 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a slight chance for a C-class flare on day one (07 Jan) and
+expected to be very low with a chance for a C-class flares and a slight
+chance for an M-class flare on days two and three (08 Jan, 09 Jan).
+
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 406 km/s at 06/0715Z. Total IMF reached 5 nT at
+05/2208Z. The maximum southward component of Bz reached -3 nT at
+06/1751Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 910 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one and two (07 Jan, 08 Jan) and quiet to
+unsettled levels on day three (09 Jan).
+
+III.  Event probabilities 07 Jan-09 Jan
+Class M    05/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           06 Jan 094
+Predicted   07 Jan-09 Jan 094/096/096
+90 Day Mean        06 Jan 093
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Jan  003/002
+Estimated Afr/Ap 06 Jan  003/004
+Predicted Afr/Ap 07 Jan-09 Jan  005/005-006/005-008/012
+
+VI.  Geomagnetic Activity Probabilities 07 Jan-09 Jan
+A.  Middle Latitudes
+Active                10/10/25
+Minor Storm           01/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/30
+Major-severe storm    20/20/40

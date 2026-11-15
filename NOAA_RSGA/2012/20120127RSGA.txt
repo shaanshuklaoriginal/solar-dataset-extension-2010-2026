@@ -1,0 +1,63 @@
+:Product: 0127RSGA.txt
+:Issued: 2012 Jan 27 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 027 Issued at 2200Z on 27 Jan 2012
+IA.  Analysis of Solar Active Regions and Activity from  26/2100Z
+to 27/2100Z:  Solar activity was high. Region 1402 (N29W88) produced
+an X1/1f flare at 27/1837Z with associated Type II (est. speed 1523
+km/s) and Type IV Radio Sweeps, along with an 810 pfu Tenflare. An
+associated CME was first visible in SOHO/LASCO C2 imagery at
+27/1827Z. The majority of the ejecta is directed towards the STEREO
+A spacecraft, however, further analysis is necessary to determine
+potential geoeffectiveness.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+on day one (28 January) with a chance for isolated M-class activity
+as Region 1402 rotates around the west limb. Activity is expected to
+be very low to low on days two and three (29-30 January).
+IIA.  Geophysical Activity Summary 26/2100Z to 27/2100Z:
+The geomagnetic field was quiet to unsettled with isolated active
+periods observed at mid-latitudes and an isolated minor storm period
+observed at high latitudes. The increase in activity is due to the
+arrival of a recurrent coronal hole high speed stream (CH HSS). The
+greater than 10 MeV and greater than 100 MeV proton flux at
+geosynchronous orbit were above event threshold during the period
+due to the X1 flare mentioned above. The greater than 10 MeV proton
+event, which began at 27/1905Z and reached 96 pfu at the time of
+this writing, is still in progress. The greater than 100 MeV proton
+event, which began at 27/1900Z and reached 11 pfu at the time of
+this writing, is also still in progress. The Penticton 10.7 cm flux
+value was enhanced due to the X1 flare mentioned above. The greater
+than 2 MeV electron flux at geosynchronous orbit reached high levels
+during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled on day one (28 January) due to
+continued effects from the CH HSS. Mostly quiet conditions are
+expected for days two and three (29-30 January). The greater than 10
+MeV and 100 MeV proton events are expected to continue on day one. A
+more reliable end time will be possible once the peak levels are
+observed.
+III.  Event Probabilities 28 Jan-30 Jan
+Class M    25/01/01
+Class X    05/01/01
+Proton     99/50/01
+PCAF       Red
+IV.  Penticton 10.7 cm Flux
+Observed           27 Jan 142
+Predicted   28 Jan-30 Jan  120/120/120
+90 Day Mean        27 Jan 144
+V.  Geomagnetic A Indices
+Observed Afr/Ap 26 Jan  005/006
+Estimated Afr/Ap 27 Jan  007/008
+Predicted Afr/Ap 28 Jan-30 Jan  007/008-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 28 Jan-30 Jan
+A.  Middle Latitudes
+Active                20/10/10
+Minor storm           10/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/15/15
+Minor storm           15/01/01
+Major-severe storm    05/01/01

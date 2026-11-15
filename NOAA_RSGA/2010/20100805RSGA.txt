@@ -1,0 +1,43 @@
+:Product: 0805RSGA.txt
+:Issued: 2010 Aug 05 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 217 Issued at 2200Z on 05 Aug 2010
+IA.  Analysis of Solar Active Regions and Activity from  04/2100Z
+to 05/2100Z:  Solar activity remained very low. New region 1094
+(N25W57) was numbered today. Region 1094 is a Cso beta sunspot
+group. Region 1093 (N11E58) produced several B-class flares during
+the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a chance for an isolated  C-class flare from Regions 1093
+and 1094.
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z:
+Geomagnetic field activity ranged from quiet to active levels in
+response to CMEs observed on 01 August.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be mostly quiet with an isolated chance of unsettled
+levels at high latitudes during the next three days (06 - 08 August).
+III.  Event Probabilities 06 Aug-08 Aug
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           05 Aug 083
+Predicted   06 Aug-08 Aug  084/084/084
+90 Day Mean        05 Aug 075
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 Aug  026/042
+Estimated Afr/Ap 05 Aug  009/015
+Predicted Afr/Ap 06 Aug-08 Aug  007/007-007/007-005/005
+VI.  Geomagnetic Activity Probabilities 06 Aug-08 Aug
+A.  Middle Latitudes
+Active                20/20/15
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/25/20
+Minor storm           10/10/01
+Major-severe storm    01/01/01

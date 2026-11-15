@@ -1,0 +1,53 @@
+:Product: 0918RSGA.txt
+:Issued: 2022 Sep 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 261 Issued at 2200Z on 18 Sep 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 17/2100Z to
+18/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C3 event observed at
+18/1540Z from Region 3100 (S22W60). There are currently 2 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a slight chance for an M-class flare on days one, two, and three (19
+Sep, 20 Sep, 21 Sep).
+
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 550 km/s at 18/2013Z. Total IMF reached 12
+nT at 18/0911Z. The maximum southward component of Bz reached -9 nT at
+18/1149Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 2 pfu at 18/0215Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 614 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (19 Sep) and quiet levels
+on days two and three (20 Sep, 21 Sep).
+
+III.  Event probabilities 19 Sep-21 Sep
+Class M    20/20/20
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           18 Sep 136
+Predicted   19 Sep-21 Sep 138/135/135
+90 Day Mean        18 Sep 123
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 Sep  005/004
+Estimated Afr/Ap 18 Sep  011/012
+Predicted Afr/Ap 19 Sep-21 Sep  010/010-005/005-005/005
+
+VI.  Geomagnetic Activity Probabilities 19 Sep-21 Sep
+A.  Middle Latitudes
+Active                15/15/15
+Minor Storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           15/15/15
+Major-severe storm    10/10/10

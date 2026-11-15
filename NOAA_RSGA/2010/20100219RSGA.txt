@@ -1,0 +1,40 @@
+:Product: 0219RSGA.txt
+:Issued: 2010 Feb 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 050 Issued at 2200Z on 19 Feb 2010
+IA.  Analysis of Solar Active Regions and Activity from  18/2100Z
+to 19/2100Z:  Solar activity was very low. Isolated B-class flares
+were observed during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low levels. There is a slight chance for an isolated C-class
+flare.
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z:
+Geomagnetic field activity was quiet.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be mostly quiet throughout the forecast period (20 - 22
+February).
+III.  Event Probabilities 20 Feb-22 Feb
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           19 Feb 084
+Predicted   20 Feb-22 Feb  085/084/084
+90 Day Mean        19 Feb 080
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Feb  002/004
+Estimated Afr/Ap 19 Feb  005/005
+Predicted Afr/Ap 20 Feb-22 Feb  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 20 Feb-22 Feb
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           05/05/05
+Major-severe storm    01/01/01

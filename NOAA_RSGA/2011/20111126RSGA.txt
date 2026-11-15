@@ -1,0 +1,57 @@
+:Product: 1126RSGA.txt
+:Issued: 2011 Nov 26 2220 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+:::::::::: CORRECTED COPY ::::::::::
+SDF Number 330 Issued at 2200Z on 26 Nov 2011
+IA.  Analysis of Solar Active Regions and Activity from  25/2100Z
+to 26/2100Z:  Solar activity has been at low levels for the past 24
+hours. A long duration C1 flare was observed at 26/0710Z in
+conjunction with an eruptive filament channel near Region 1353
+(N08W49). A full halo CME, first observed in C2 imagery at 26/0712Z,
+was also associated with this event. The other regions on the disk
+remained mostly stable and quiet throughout the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low levels with a slight chance for M-class events, for the next
+three days (27-29 November).
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+At around 26/0840Z, signatures from the ACE spacecraft indicated
+elevated levels of greater than 10 MeV protons. This increase was
+associated with the eruptive filament channel, CME, and C1 flare
+mentioned earlier. A greater than 10 MeV proton event at 
+geosynchronous orbit began at 26/1125Z. Max flux for this event,
+thus far, was 54 pfu at 26/2055Z. This proton event was still in
+progress when this report was issued.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain at predominantly quiet levels on day one (27
+November). An increase to unsettled to active levels with a chance
+for minor storm conditions is expected on days two and three (28-29
+November). These elevated conditions are the result of the combined
+effects of a coronal hole high speed stream becoming geoeffective
+early on day two, and the arrival of todays full halo CME late on
+day two or early on day three.
+III.  Event Probabilities 27 Nov-29 Nov
+Class M    10/10/10
+Class X    01/01/01
+Proton     90/10/01
+PCAF       in progress
+IV.  Penticton 10.7 cm Flux
+Observed           26 Nov 133
+Predicted   27 Nov-29 Nov  135/140/145
+90 Day Mean        26 Nov 140
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Nov  003/004
+Estimated Afr/Ap 26 Nov  003/005
+Predicted Afr/Ap 27 Nov-29 Nov  006/008-011/012-013/015
+VI.  Geomagnetic Activity Probabilities 27 Nov-29 Nov
+A.  Middle Latitudes
+Active                10/39/40
+Minor storm           03/17/20
+Major-severe storm    00/01/02
+B.  High Latitudes
+Active                15/11/10
+Minor storm           15/27/26
+Major-severe storm    08/58/61

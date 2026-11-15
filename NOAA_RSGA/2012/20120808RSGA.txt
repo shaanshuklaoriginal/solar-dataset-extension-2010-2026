@@ -1,0 +1,55 @@
+:Product: 0808RSGA.txt
+:Issued: 2012 Aug 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 221 Issued at 2200Z on 08 Aug 2012
+IA.  Analysis of Solar Active Regions and Activity from  07/2100Z
+to 08/2100Z:  Solar activity was low.  Region 1542 (S14E50) remained
+the most active region on the solar disk, producing seven C-class
+flares.  The largest of these flares was a C4/Sf flare that occurred
+at 08/1132Z.  A large portion of a filament erupted from the
+southwest quadrant beginning around 08/0200Z. A slow coronal mass
+ejection (CME) (estimated plane-of-sky speed 346 km/s) was first
+observed off the west limb in SOHO/LASCO C2 imagery at 08/0612Z and
+was likely associated with the filament eruption. The bulk of the
+CME material did not appear to be Earth-directed.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance for an isolated M-class flare.
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z:
+The geomagnetic field was quiet to unsettled with an active period
+from 08/0000-0300Z.  Indications of a solar sector boundary crossing
+were evident on the ACE spacecraft as sustained southward IMF Bz and
+enhanced IMF Bt occurred prior to the active period. ACE EPAM data
+indicated the beginning of a slow rise in energetic particles at
+approximately 08/1200Z.  This rise is likely associated with the
+anticipated glancing blow from the 04 Aug CME.
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be quiet to unsettled with a slight chance for isolated
+active to minor storm periods early on day one (09 Aug).  Activity
+should return to quiet to unsettled late in the day as effects of
+the CME wane.  Days two and three (10 and 11 Aug) are expected to be
+at predominately quiet levels.
+III.  Event Probabilities 09 Aug-11 Aug
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           08 Aug 133
+Predicted   09 Aug-11 Aug  130/130/125
+90 Day Mean        08 Aug 128
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Aug  008/008
+Estimated Afr/Ap 08 Aug  009/010
+Predicted Afr/Ap 09 Aug-11 Aug  011/010-006/005-006/005
+VI.  Geomagnetic Activity Probabilities 09 Aug-11 Aug
+A.  Middle Latitudes
+Active                20/05/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           30/15/15
+Major-severe storm    25/05/05

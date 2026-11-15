@@ -1,0 +1,70 @@
+:Product: 0717RSGA.txt
+:Issued: 2012 Jul 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 199 Issued at 2200Z on 17 Jul 2012
+IA.  Analysis of Solar Active Regions and Activity from  16/2100Z
+to 17/2100Z:  Solar activity was moderate. Todays activity was
+dominated by a very long-duration M1 flare that occurred between
+1203-1904Z with maximum at 1715Z. The source region appeared to
+primarily be Region 1520 (S17W75), although it appears that Region
+1521 (S19W85) was involved in the early phase and may have been the
+initial trigger for the overall event. An associated, bright CME was
+observed off the southwest limb beginning at 1400Z; the leading edge
+plane-of-sky speed was estimated to be about 960 km/s in the LASCO
+C3 field of view. The proximity of Regions 1519 (S17 just past west
+limb), 1520, and 1521 to the west limb hindered analysis of the spot
+groups. New Region 1524 (S18E52) was assigned and is a simple C-type
+sunspot group. An additional new spot group appeared to be emerging
+just south of Region 1524.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate for the next 24 hours with 1520 and 1521 as the most likely
+source regions. Activity and background levels are expected to
+decrease significantly by the second and third days as these regions
+rotate beyond west limb.
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z:
+The geomagnetic field ranged from active to quiet levels with some
+isolated minor and major storm intervals at high latitudes.
+Unsettled to active levels prevailed duing the earlier part of the
+period and quiet to unsettled levels dominated from 17/0900Z through
+the end of the day. Solar wind observations from the ACE spacecraft
+showed continued influence of the 12 July CME from the beginning of
+the period through about 17/0600Z. The z-component of the
+interplanetary magnetic field was initially negative and reached a
+peak negative value of about -9 nT during this latter phase of the
+CME passage. Nominal solar wind conditions prevailed from 17/0600Z
+through the end of the day. A greater than 10 MeV proton event began
+at 17/1715Z in response to todays long-duration M1 and associated
+CME event. The peak value observed so far was 87 PFU at 17/2030Z.
+The greater than 2 MeV electron flux at geosynchronous orbit reached
+high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet for the next three days. Model results for
+todays CME from the west limb indicate an interplanetary
+disturbance that is too far west to produce geomagnetic activity.
+The greater than 10 MeV proton event is expected to continue through
+part of the first day (18 July).
+III.  Event Probabilities 18 Jul-20 Jul
+Class M    55/40/25
+Class X    10/10/05
+Proton     95/20/05
+PCAF       yellow
+IV.  Penticton 10.7 cm Flux
+Observed           17 Jul 128
+Predicted   18 Jul-20 Jul  115/105/095
+90 Day Mean        17 Jul 129
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Jul  027/040
+Estimated Afr/Ap 17 Jul  015/020
+Predicted Afr/Ap 18 Jul-20 Jul  006/005-007/005-006/005
+VI.  Geomagnetic Activity Probabilities 18 Jul-20 Jul
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/10
+Major-severe storm    05/05/05

@@ -1,0 +1,53 @@
+:Product: 0414RSGA.txt
+:Issued: 2024 Apr 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 105 Issued at 2200Z on 14 Apr 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 13/2100Z to
+14/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M4 event observed at
+14/0232Z from Region 3637 (S12E53). There are currently 10 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (15 Apr, 16 Apr,
+17 Apr).
+
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 582 km/s at 13/2317Z. Total IMF reached 6 nT at
+14/0041Z. The maximum southward component of Bz reached -4 nT at
+14/1845Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 484 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to minor storm levels on day one (15 Apr), quiet to
+unsettled levels on day two (16 Apr) and quiet levels on day three (17
+Apr).
+
+III.  Event probabilities 15 Apr-17 Apr
+Class M    45/45/45
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           14 Apr 178
+Predicted   15 Apr-17 Apr 180/180/180
+90 Day Mean        14 Apr 159
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Apr  006/004
+Estimated Afr/Ap 14 Apr  006/006
+Predicted Afr/Ap 15 Apr-17 Apr  013/018-008/008-005/005
+
+VI.  Geomagnetic Activity Probabilities 15 Apr-17 Apr
+A.  Middle Latitudes
+Active                40/20/10
+Minor Storm           30/05/01
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                10/15/15
+Minor Storm           25/25/20
+Major-severe storm    65/25/15

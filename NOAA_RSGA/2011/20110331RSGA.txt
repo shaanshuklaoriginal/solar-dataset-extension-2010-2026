@@ -1,0 +1,44 @@
+:Product: 0331RSGA.txt
+:Issued: 2011 Mar 31 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 090 Issued at 2200Z on 31 Mar 2011
+IA.  Analysis of Solar Active Regions and Activity from  30/2100Z
+to 31/2100Z:  Solar activity remained at low levels. Region 1176
+(S16W51) produced a C2/Sf flare at 31/1535Z. Region 1183 (N15E14)
+produced a C1 flare at 31/0202Z. Both regions exhibited gradual
+decay during the period. No new regions were assigned.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+during the period (01 - 03 April) with a chance for moderate levels
+(isolated M-class).
+IIA.  Geophysical Activity Summary 30/2100Z to 31/2100Z:
+Geomagnetic activity was at quiet levels.
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be at quiet to unsettled levels on day 1 (01 April) due
+to possible coronal hole high-speed stream effects. Activity is
+expected to decrease to quiet levels during days 2 - 3 (02 - 03
+April).
+III.  Event Probabilities 01 Apr-03 Apr
+Class M    30/30/30
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           31 Mar 113
+Predicted   01 Apr-03 Apr  115/115/110
+90 Day Mean        31 Mar 098
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Mar  004/005
+Estimated Afr/Ap 31 Mar  003/005
+Predicted Afr/Ap 01 Apr-03 Apr  008/008-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 01 Apr-03 Apr
+A.  Middle Latitudes
+Active                20/10/10
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/15/15
+Minor storm           10/01/01
+Major-severe storm    01/01/01

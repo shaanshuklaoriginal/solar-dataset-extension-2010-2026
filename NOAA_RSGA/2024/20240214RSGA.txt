@@ -1,0 +1,56 @@
+:Product: 0214RSGA.txt
+:Issued: 2024 Feb 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 45 Issued at 2200Z on 14 Feb 2024
+
+IA.  Analysis of Solar Active Regions and Activity from 13/2100Z to
+14/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+14/0310Z from Region 3582 (N06W40). There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one and two (15 Feb,
+16 Feb) and expected to be low with a chance for M-class flares on day
+three (17 Feb).
+
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 510 km/s at 14/0853Z. Total IMF reached 7
+nT at 14/0607Z. The maximum southward component of Bz reached -5 nT at
+14/0145Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 47 pfu at 14/1030Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 110 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (15 Feb) and quiet levels
+on days two and three (16 Feb, 17 Feb). Protons greater than 10 Mev are
+expected to cross threshold on day one (15 Feb) and have a slight chance
+of crossing threshold on day two (16 Feb).
+
+III.  Event probabilities 15 Feb-17 Feb
+Class M    55/55/35
+Class X    15/15/05
+Proton     75/15/05
+PCAF       red
+
+IV.  Penticton 10.7 cm Flux
+Observed           14 Feb 184
+Predicted   15 Feb-17 Feb 185/182/175
+90 Day Mean        14 Feb 162
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 Feb  008/007
+Estimated Afr/Ap 14 Feb  010/012
+Predicted Afr/Ap 15 Feb-17 Feb  010/010-006/005-006/005
+
+VI.  Geomagnetic Activity Probabilities 15 Feb-17 Feb
+A.  Middle Latitudes
+Active                20/10/10
+Minor Storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           30/20/20
+Major-severe storm    30/20/20

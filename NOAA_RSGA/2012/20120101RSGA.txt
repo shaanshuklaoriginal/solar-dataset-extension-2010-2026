@@ -1,0 +1,43 @@
+:Product: 0101RSGA.txt
+:Issued: 2012 Jan 01 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 001 Issued at 2200Z on 01 Jan 2012
+IA.  Analysis of Solar Active Regions and Activity from  31/2100Z
+to 01/2100Z:  Solar activity was low.  One C3/Sf flare was observed
+at 01/0734Z from Region 1389 (S22E17).  This region diminished in
+spot count and magnetic complexity over the past 24 hours.  The
+remaining regions were stable.  The 10cm solar flux was estimated.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low,
+with a slight chance for an M-class event for the next three days
+(01-03 January).
+IIA.  Geophysical Activity Summary 31/2100Z to 01/2100Z:
+The geomagnetic field was quiet.  Hourly averages of solar wind speed
+at the ACE spacecraft were about 360 km/s while Bz was near -2 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain mostly quiet with a slight chance for unsettled
+conditions for the next three days (02-04 January).
+III.  Event Probabilities 02 Jan-04 Jan
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           01 Jan 130
+Predicted   02 Jan-04 Jan  135/135/135
+90 Day Mean        01 Jan 144
+V.  Geomagnetic A Indices
+Observed Afr/Ap 31 Dec  005/004
+Estimated Afr/Ap 01 Jan  000/004
+Predicted Afr/Ap 02 Jan-04 Jan  006/005-006/005-007/008
+VI.  Geomagnetic Activity Probabilities 02 Jan-04 Jan
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           10/10/15
+Major-severe storm    10/05/10

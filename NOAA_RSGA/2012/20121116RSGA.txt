@@ -1,0 +1,71 @@
+:Product: 1116RSGA.txt
+:Issued: 2012 Nov 16 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 321 Issued at 2200Z on 16 Nov 2012
+
+IA.  Analysis of Solar Active Regions and Activity from 15/2100Z to
+16/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C8 flare observed at
+16/1539Z from the northeast limb.  This event was accompanied by a Type
+II radio sweep (511 km/s).  A long duration C1 flare from Region 1613
+(S23W05) occurred at 16/0751Z with an associated 24 degree filament
+eruption centered near S39E22 at 16/0720Z.  Another filament eruption
+was observed from the East limb seen in SDO/AIA 304 imagery beginning at
+16/0648 UTC.  Analysis of SOHO/LASCO C2 suggested these eruptions would
+not be geoeffective.
+
+Yesterdays general trend of decreasing size and complexity continued
+among all active regions, leaving Region 1610 (S22W63) as the only
+beta-gamma type group on the visible disk.  However, flux emergence was
+observed in other portions of the disk.  New Region 1617 (S18W18) was
+numbered today, and emerging flux was noted near N12E35 on SDO/HMI
+magnetogram loops and later reported by Holloman Solar Observatory
+
+There are currently 8 numbered sunspot regions on the disk.
+
+IB.  Solar Activity Forecast: Solar activity is expected to be at low
+levels with a chance for an isolated moderate event on days one, two,
+and three (17 Nov, 18 Nov, 19 Nov).
+
+IIA.  Geophysical Activity Summary 15/2100Z to 16/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+at the ACE spacecraft reached a peak speed of 453 km/s at 16/1112Z, but
+generally remained in the low to mid 400 km/s range under the waning
+influence of a weak negative coronal hole high speed stream.  Bz was
+generally -4nT or greater through the period.  No significant
+discontinuities were observed in the measured variables.
+
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels for the next three days (17 Nov, 18
+Nov, 19 Nov). The field is expected to be occasionally unsettled over
+the next three days as another coronal hole high speed stream becomes
+geoeffective.
+
+III.  Event probabilities 17 Nov-19 Nov
+Class M    25/25/25
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           16 Nov 138
+Predicted   17 Nov-19 Nov 141/145/145
+90 Day Mean        16 Nov 120
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 15 Nov  003/003
+Estimated Afr/Ap 16 Nov  005/005
+Predicted Afr/Ap 17 Nov-19 Nov  008/008-007/008-006/005
+
+VI.  Geomagnetic Activity Probabilities 17 Nov-19 Nov
+A.  Middle Latitudes
+Active                20/10/05
+Minor Storm           10/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           30/20/10
+Major-severe storm    35/20/05

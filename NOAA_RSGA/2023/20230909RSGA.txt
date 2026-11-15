@@ -1,0 +1,52 @@
+:Product: 0909RSGA.txt
+:Issued: 2023 Sep 09 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 252 Issued at 2200Z on 09 Sep 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 08/2100Z to
+09/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C8 event observed at
+09/0120Z from Region 3421 (N11W64). There are currently 5 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (10 Sep, 11 Sep,
+12 Sep).
+
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 460 km/s at 09/0354Z. Total IMF reached 7
+nT at 09/1143Z. The maximum southward component of Bz reached -6 nT at
+09/1058Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 288 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one and two (10 Sep, 11 Sep)
+and quiet to active levels on day three (12 Sep).
+
+III.  Event probabilities 10 Sep-12 Sep
+Class M    45/45/40
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           09 Sep 161
+Predicted   10 Sep-12 Sep 160/155/150
+90 Day Mean        09 Sep 162
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 Sep  008/006
+Estimated Afr/Ap 09 Sep  008/009
+Predicted Afr/Ap 10 Sep-12 Sep  007/008-008/008-011/015
+
+VI.  Geomagnetic Activity Probabilities 10 Sep-12 Sep
+A.  Middle Latitudes
+Active                20/20/35
+Minor Storm           05/05/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/25
+Minor Storm           25/20/30
+Major-severe storm    25/20/20

@@ -1,0 +1,48 @@
+:Product: 0521RSGA.txt
+:Issued: 2012 May 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 142 Issued at 2200Z on 21 May 2012
+IA.  Analysis of Solar Active Regions and Activity from  20/2100Z
+to 21/2100Z:  Solar activity was very low.  No Earth-directed CMEs
+were observed during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low to low levels with a slight chance for an M-class flare for
+the forecast period (22 - 24 May).
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z:
+The geomagnetic field was at quiet to active levels.  A weak
+interplanetary shock was observed at the ACE spacecraft at 21/1844Z.
+An associated sudden impulse of 34 nT was observed at the Boulder
+magnetometer at 21/1937Z.  The geomagnetic field responded with an
+active period between 21/1800 - 2100Z.  This activity was likely
+attributable to the arrival of the 18 May CME.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels with a chance for active
+periods on days 1-2 (22 - 23 May) as recurrent coronal hole high
+speed streams (CH HSS) move into a geoeffective position.  Quiet to
+unsettled conditions are expected on day 3 (24 May) as effects of
+the CH HSS wane.
+III.  Event Probabilities 22 May-24 May
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           21 May 125
+Predicted   22 May-24 May  125/125/120
+90 Day Mean        21 May 116
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 May  012/011
+Estimated Afr/Ap 21 May  005/007
+Predicted Afr/Ap 22 May-24 May  010/010-007/010-007/008
+VI.  Geomagnetic Activity Probabilities 22 May-24 May
+A.  Middle Latitudes
+Active                20/20/10
+Minor storm           10/10/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/25/15
+Minor storm           15/15/05
+Major-severe storm    01/01/01

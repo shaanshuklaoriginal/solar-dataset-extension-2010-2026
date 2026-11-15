@@ -1,0 +1,51 @@
+:Product: 0731RSGA.txt
+:Issued: 2014 Jul 31 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 212 Issued at 2200Z on 31 Jul 2014
+
+IA.  Analysis of Solar Active Regions and Activity from 30/2100Z to
+31/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M2 event observed at
+31/1114Z from Region 2130 (S07E42). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (01 Aug, 02 Aug,
+03 Aug).
+
+IIA.  Geophysical Activity Summary 30/2100Z to 31/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 348 km/s at
+31/1006Z. Total IMF reached 5 nT at 31/2044Z. The maximum southward
+component of Bz reached -4 nT at 31/2035Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (01 Aug) and quiet to active levels on
+days two and three (02 Aug, 03 Aug).
+
+III.  Event probabilities 01 Aug-03 Aug
+Class M    40/40/40
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           31 Jul 156
+Predicted   01 Aug-03 Aug 160/160/150
+90 Day Mean        31 Jul 130
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Jul  007/004
+Estimated Afr/Ap 31 Jul  006/005
+Predicted Afr/Ap 01 Aug-03 Aug  006/005-006/008-013/014
+
+VI.  Geomagnetic Activity Probabilities 01 Aug-03 Aug
+A.  Middle Latitudes
+Active                10/25/30
+Minor Storm           01/05/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/20/15
+Minor Storm           15/30/30
+Major-severe storm    15/30/40

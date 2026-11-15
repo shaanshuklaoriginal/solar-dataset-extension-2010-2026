@@ -1,0 +1,52 @@
+:Product: 0708RSGA.txt
+:Issued: 2015 Jul 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 189 Issued at 2200Z on 08 Jul 2015
+
+IA.  Analysis of Solar Active Regions and Activity from 07/2100Z to
+08/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+07/2310Z from Region 2381 (N14E17). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low with a
+slight chance for an M-class flare on days one, two, and three (09 Jul,
+10 Jul, 11 Jul).
+
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 453 km/s at
+08/0141Z. Total IMF reached 5 nT at 08/1935Z. The maximum southward
+component of Bz reached -4 nT at 08/1949Z. Electrons greater than 2 MeV
+at geosynchronous orbit reached a peak level of 954 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (09 Jul), quiet to active levels on day
+two (10 Jul) and unsettled to minor storm levels on day three (11 Jul).
+
+III.  Event probabilities 09 Jul-11 Jul
+Class M    20/20/20
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           08 Jul 129
+Predicted   09 Jul-11 Jul 125/125/125
+90 Day Mean        08 Jul 125
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Jul  005/006
+Estimated Afr/Ap 08 Jul  005/005
+Predicted Afr/Ap 09 Jul-11 Jul  006/005-009/012-017/025
+
+VI.  Geomagnetic Activity Probabilities 09 Jul-11 Jul
+A.  Middle Latitudes
+Active                10/30/35
+Minor Storm           05/15/25
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                15/15/10
+Minor Storm           20/30/30
+Major-severe storm    20/40/55

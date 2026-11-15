@@ -1,0 +1,42 @@
+:Product: 1116RSGA.txt
+:Issued: 2010 Nov 16 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 320 Issued at 2200Z on 16 Nov 2010
+IA.  Analysis of Solar Active Regions and Activity from  15/2100Z
+to 16/2100Z:  Solar activity has been very low. Region 1126 (S32E20)
+produced a few small B-class flares. New Region 1127 (N25E71)
+rotated onto the visible disk.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low. There is a chance of a C-class flare from Region 1126
+over the next three days (17-19 November).
+IIA.  Geophysical Activity Summary 15/2100Z to 16/2100Z:
+The geomagnetic field was quiet. The greater than 2 MeV electron flux
+at geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled for the next three days (17-19
+November).
+III.  Event Probabilities 17 Nov-19 Nov
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           16 Nov 092
+Predicted   17 Nov-19 Nov  090/090/090
+90 Day Mean        16 Nov 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 15 Nov  005/007
+Estimated Afr/Ap 16 Nov  004/007
+Predicted Afr/Ap 17 Nov-19 Nov  007/007-007/007-007/007
+VI.  Geomagnetic Activity Probabilities 17 Nov-19 Nov
+A.  Middle Latitudes
+Active                40/30/40
+Minor storm           10/05/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                40/30/40
+Minor storm           20/10/20
+Major-severe storm    01/01/05

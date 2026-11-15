@@ -1,0 +1,42 @@
+:Product: 1231RSGA.txt
+:Issued: 2010 Dec 31 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 365 Issued at 2200Z on 31 Dec 2010
+IA.  Analysis of Solar Active Regions and Activity from  30/2100Z
+to 31/2100Z:  Solar activity increased to low levels. Region 1138
+(N12W70) produced a C1 flare at 31/0425Z associated with a Type II
+radio sweep (estimated shock velocity 875 km/s) and a
+non-Earth-directed CME. New Region 1140 (N32E67) produced a B9 flare
+at 31/1934Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low during the period (01 - 03 January) with a chance for
+isolated C-class flares from Region 1140.
+IIA.  Geophysical Activity Summary 30/2100Z to 31/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels through the period (01 - 03 January).
+III.  Event Probabilities 01 Jan-03 Jan
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           31 Dec 091
+Predicted   01 Jan-03 Jan  092/090/088
+90 Day Mean        31 Dec 083
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Dec  004/005
+Estimated Afr/Ap 31 Dec  004/005
+Predicted Afr/Ap 01 Jan-03 Jan  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 01 Jan-03 Jan
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

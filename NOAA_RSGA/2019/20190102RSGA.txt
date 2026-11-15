@@ -1,0 +1,48 @@
+:Product: 0102RSGA.txt
+:Issued: 2019 Jan 02 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 2 Issued at 2200Z on 02 Jan 2019
+
+IA.  Analysis of Solar Active Regions and Activity from 01/2100Z to
+02/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 1 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a slight chance for a C-class flare on days one, two, and three (03
+Jan, 04 Jan, 05 Jan).
+
+IIA.  Geophysical Activity Summary 01/2100Z to 02/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 404 km/s at 02/0757Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 737 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (03 Jan), quiet to active levels on day
+two (04 Jan) and unsettled to minor storm levels on day three (05 Jan).
+
+III.  Event probabilities 03 Jan-05 Jan
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           02 Jan 075
+Predicted   03 Jan-05 Jan 075/075/075
+90 Day Mean        02 Jan 070
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 01 Jan  005/005
+Estimated Afr/Ap 02 Jan  004/005
+Predicted Afr/Ap 03 Jan-05 Jan  005/005-010/014-017/020
+
+VI.  Geomagnetic Activity Probabilities 03 Jan-05 Jan
+A.  Middle Latitudes
+Active                10/25/35
+Minor Storm           01/10/25
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                15/15/10
+Minor Storm           20/30/20
+Major-severe storm    10/40/65

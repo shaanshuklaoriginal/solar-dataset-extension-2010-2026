@@ -1,0 +1,42 @@
+:Product: 0811RSGA.txt
+:Issued: 2010 Aug 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 223 Issued at 2200Z on 11 Aug 2010
+IA.  Analysis of Solar Active Regions and Activity from  10/2100Z
+to 11/2100Z:  Solar activity was very low. Several low-level B-class
+flares were observed during the period. Region 1098 (N15E28) was
+numbered and was classified as a Dro spot group with a beta magnetic
+configuration.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low, with a chance for a C-class flare from Region 1098.
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z:
+The geomagnetic field was at quiet to unsettled levels, with a single
+unsettled period between 11/06-09Z. The greater than 2 MeV electron
+flux at geosynchronous orbit was at high levels today.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be quiet for the next three days (12-14 August).
+III.  Event Probabilities 12 Aug-14 Aug
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           11 Aug 086
+Predicted   12 Aug-14 Aug  086/087/087
+90 Day Mean        11 Aug 076
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Aug  007/008
+Estimated Afr/Ap 11 Aug  005/005
+Predicted Afr/Ap 12 Aug-14 Aug  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 12 Aug-14 Aug
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01

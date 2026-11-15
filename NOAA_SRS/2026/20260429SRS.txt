@@ -1,0 +1,23 @@
+:Product: 0429SRS.txt
+:Issued: 2026 Apr 29 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 119 Issued at 0030Z on 29 Apr 2026
+Report compiled from data received at SWO on 28 Apr
+I.  Regions with Sunspots.  Locations Valid at 28/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+4420 N16W43   227  0340 Fkc  16   22 Beta-Gamma-Delta
+4421 S12W30   214  0020 Hrx  02   03 Alpha
+4423 S06W26   210  0010 Axx  01   01 Alpha
+4424 N17W08   192  0150 Eao  12   14 Beta
+4425 N05E22   162  0320 Ekc  13   27 Beta-Delta
+4427 S31E27   157  0010 Axx  01   01 Alpha
+4428 S24E13   171  0020 Cro  03   06 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 28/2400Z Apr
+Nmbr  Location  Lo
+4426  N12W80   264
+II. Regions Due to Return 29 Apr to 01 May
+Nmbr Lat    Lo
+4416 N20    061

@@ -1,0 +1,59 @@
+:Product: 0808RSGA.txt
+:Issued: 2011 Aug 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 220 Issued at 2200Z on 08 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  07/2100Z
+to 08/2100Z:  Solar activity was moderate.  Region 1263 (N18W68)
+produced the largest x-ray flare of the period, a M3/1b at 1810Z. 
+This event was accompanied by a Type II radio emission (3284 km/s)
+and a Tenflare (300 sfu).  STEREO-A COR2 imagery indicated a CME
+first visible at 1824Z.  Extrapolation from later images suggested a
+speed of approximately 2010 km/s.  Preliminary LASCO C3 image
+analysis suggested a speed of 1152 km/s. Region 1263 ended the
+period as a Ekc type spot group with beta-gamma-delta magnetic
+characteristics.   The remaining regions on the disk were small,
+simple and relatively quiet.
+IB.  Solar Activity Forecast:  Solar activity is expected to remain
+low to moderate for the next three days (09-11 Aug) with Region 1263
+being the most likely source of activity.  A slight chance for an
+isolated X flare and/or proton event remains through the forecast
+period.
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z:
+The geomagnetic field was quiet to unsettled as the effects from a
+recurrent coronal hole high speed stream began to taper off.  Solar
+wind speed at the ACE spacecraft was approximately 600 km/s while
+the Bz component of the interplanetary magnetic field remained near
+zero.  There was an enhancement of the greater than 10-MeV protons
+in response to the M3 flare mentioned above. The greater than 2 MeV
+electron flux at geosynchronous orbit reached high levels during the
+period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominantly quiet for the next three days in the
+wake of the coronal hole high speed stream.  Further analysis of the
+CME observed in STEREO and SOHO imagery is underway to determine its
+geoeffective potential.
+III.  Event Probabilities 09 Aug-11 Aug
+Class M    55/55/40
+Class X    10/10/05
+Proton     10/10/10
+PCAF       Yellow
+IV.  Penticton 10.7 cm Flux
+Observed           08 Aug 102
+Predicted   09 Aug-11 Aug  095/085/085
+90 Day Mean        08 Aug 096
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Aug  006/007
+Estimated Afr/Ap 08 Aug  010/012
+Predicted Afr/Ap 09 Aug-11 Aug  010/012-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 09 Aug-11 Aug
+A.  Middle Latitudes
+Active                15/15/05
+Minor storm           05/05/05
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                20/20/11
+Minor storm           10/15/06
+Major-severe storm    05/05/01

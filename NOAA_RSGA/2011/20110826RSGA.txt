@@ -1,0 +1,51 @@
+:Product: 0826RSGA.txt
+:Issued: 2011 Aug 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 238 Issued at 2200Z on 26 Aug 2011
+IA.  Analysis of Solar Active Regions and Activity from  25/2100Z
+to 26/2100Z:  Solar activity was at low levels. Region 1271 (N17W69)
+produced two C-class events during the period, the largest a C2
+x-ray event at 26/1313Z. The region continued to exhibit decay in
+spot count, area and magnetic complexity. Other activity consisted
+of a B9 x-ray event from Region 1279 (N13E61), observed at 26/1333Z.
+New Region 1280 (N17E24) emerged on the disk as a simple bi-polar
+spot group. The remainder of the regions were quiet and stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+for the next three days (27 - 29 August). A slight chance for
+M-class activity exists on days one and two from Region 1271 before
+the region rotates around the west limb on 28 August.
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z:
+The geomagnetic field was quiet. Observations from the ACE spacecraft
+indicated steady conditions with wind speeds averaging about 400
+km/s.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain at quiet levels for day one (27 August). By day
+two (28 August), activity levels are expected to increase to quiet
+to unsettled, with isolated active periods, due to a geoeffective,
+recurrent coronal hole high speed stream. The conditions are
+expected to persist through day three (29 August).
+III.  Event Probabilities 27 Aug-29 Aug
+Class M    10/05/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           26 Aug 105
+Predicted   27 Aug-29 Aug  105/100/100
+90 Day Mean        26 Aug 097
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Aug  004/004
+Estimated Afr/Ap 26 Aug  002/004
+Predicted Afr/Ap 27 Aug-29 Aug  005/005-007/010-007/008
+VI.  Geomagnetic Activity Probabilities 27 Aug-29 Aug
+A.  Middle Latitudes
+Active                15/20/20
+Minor storm           01/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/30/25
+Minor storm           01/15/10
+Major-severe storm    01/01/01

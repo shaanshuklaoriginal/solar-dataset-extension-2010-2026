@@ -1,0 +1,63 @@
+:Product: 0527RSGA.txt
+:Issued: 2011 May 28 0225 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+:::::::::: CORRECTED COPY ::::::::::
+SDF Number 147 Issued at 2200Z on 27 May 2011
+IA.  Analysis of Solar Active Regions and Activity from  26/2100Z
+to 27/2100Z:  Solar activity was low.  New Region 1226 (S18E74)
+produced a B-class event and four C-class events since being
+numbered today.  The largest was a C5 observed at 27/1643Z.  This
+region began with a B1 event at 26/1654Z as it approached the
+southeast limb yesterday.  It is currently an H-type group, however,
+the region is still rotating onto the disk and more white light area
+are evident in the SDO/HMI imagery just visible on the limb.  Region
+1223 (S16W00) produced the only other event during the period, a B4
+at 27/0953Z.  This region is a Dso group with a beta magnetic
+classification and grew slightly in sunspot count.  Two more regions
+were numbered today as Regions 1224 (N21W15) and 1225 (N18E55). 
+Region 1224 is a Dso group with a beta magnetic classification and
+1225 is another H-type group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for C-class events, and a slight chance for an M-class
+event, as regions on the disk continue to evolve.
+IIA.  Geophysical Activity Summary 26/2100Z to 27/2100Z:
+The geomagnetic field was quiet to unsettled.  Observations from the
+ACE spacecraft suggest the earth is under the continued influence of
+the co-rotating interaction region in advance of the recurrent
+coronal hole high speed stream.  Solar winds have slowly increased
+from around 390 to 500 km/s.  The IMF Bt averaged around 8 nT with
+the Bz mostly southward (-8 nT) through the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be predominately unsettled with occasional active
+periods, including isolated minor storm conditions at high-latitudes
+for day one (28 May).  This is expected due to effects from the
+recurrent coronal hole high speed stream (CH HSS).  In addition
+there are possible effects from the disappearing filament observed
+on 25 May.  Quiet to unsettled conditions, with isolated active
+levels, are expected for days two and three (29-30 May) with
+continued CH HSS effects.
+III.  Event Probabilities 28 May-30 May
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           27 May 090
+Predicted   28 May-30 May  090/095/095
+90 Day Mean        27 May 108
+V.  Geomagnetic A Indices
+Observed Afr/Ap 26 May  004/007
+Estimated Afr/Ap 27 May  010/012
+Predicted Afr/Ap 28 May-30 May  015/018-010/012-008/008
+VI.  Geomagnetic Activity Probabilities 28 May-30 May
+A.  Middle Latitudes
+Active                25/20/15
+Minor storm           10/05/05
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                35/30/20
+Minor storm           15/10/10
+Major-severe storm    05/05/05

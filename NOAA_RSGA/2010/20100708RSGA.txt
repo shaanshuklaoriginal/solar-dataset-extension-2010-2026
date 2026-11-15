@@ -1,0 +1,46 @@
+:Product: 0708RSGA.txt
+:Issued: 2010 Jul 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 189 Issued at 2200Z on 08 Jul 2010
+IA.  Analysis of Solar Active Regions and Activity from  07/2100Z
+to 08/2100Z:  Solar activity was very low.  The SOHO/LASCO EIT
+imagery observed a faint eruption along a filament channel
+approaching the northwest limb.  A CME was observed on the C2
+imagery following this event around 08/1630Z.  The CME is not
+expected to be earth directed.  Several B-class flares were observed
+during the last 24 hours which are associated with a loop structured
+region approaching the northeast limb (old Region 1083 N19, L=331).
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a slight chance for a C-class event.
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z:
+The geomagnetic field was quiet.  The greater than 2 MeV electron
+flux at geosynchronous orbit was at high levels today.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet with isolated unsettled levels for day
+one (09 July) due to a recurrent coronal hole high speed stream. 
+Quiet conditions are expected for days two and three (10-11 July).
+III.  Event Probabilities 09 Jul-11 Jul
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           08 Jul 074
+Predicted   09 Jul-11 Jul  076/078/078
+90 Day Mean        08 Jul 074
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Jul  002/003
+Estimated Afr/Ap 08 Jul  002/002
+Predicted Afr/Ap 09 Jul-11 Jul  005/006-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 09 Jul-11 Jul
+A.  Middle Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                05/05/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01

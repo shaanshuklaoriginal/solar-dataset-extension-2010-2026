@@ -1,0 +1,54 @@
+:Product: 0113RSGA.txt
+:Issued: 2015 Jan 13 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 13 Issued at 2200Z on 13 Jan 2015
+
+IA.  Analysis of Solar Active Regions and Activity from 12/2100Z to
+13/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a M5 event observed at
+13/0424Z from Region 2257 (N07W81). There are currently 6 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+day one (14 Jan) and expected to be low with a chance for M-class flares
+on days two and three (15 Jan, 16 Jan).
+
+IIA.  Geophysical Activity Summary 12/2100Z to 13/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+479 km/s at 13/1312Z. Total IMF reached 8 nT at 13/0351Z. The maximum
+southward component of Bz reached -6 nT at 13/1107Z. Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 224 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (14 Jan), quiet to active levels on day
+two (15 Jan) and quiet to unsettled levels on day three (16 Jan).
+
+III.  Event probabilities 14 Jan-16 Jan
+Class M    45/40/35
+Class X    10/05/05
+Proton     05/05/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           13 Jan 145
+Predicted   14 Jan-16 Jan 145/140/140
+90 Day Mean        13 Jan 160
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 12 Jan  007/006
+Estimated Afr/Ap 13 Jan  008/008
+Predicted Afr/Ap 14 Jan-16 Jan  006/005-011/012-009/010
+
+VI.  Geomagnetic Activity Probabilities 14 Jan-16 Jan
+A.  Middle Latitudes
+Active                10/30/20
+Minor Storm           01/15/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/30/25
+Major-severe storm    10/40/30
+COMMENT: 10 cm Flux is estimated due to lack of Penticton report.

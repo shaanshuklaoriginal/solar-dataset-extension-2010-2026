@@ -1,0 +1,43 @@
+:Product: 1031RSGA.txt
+:Issued: 2011 Oct 31 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 304 Issued at 2200Z on 31 Oct 2011
+IA.  Analysis of Solar Active Regions and Activity from  30/2100Z
+to 31/2100Z:  Solar activity was moderate during the period. A new
+region that has not yet emerged around the east limb produced a pair
+of M1 flares at 31/1508Z and 31/1808Z. A CME associated with the
+first of the two events was visible in NASA SOHO LASCO C2 imagery as
+well as on STEREO A, but appears not be a Earth directed trajectory.
+IB.  Solar Activity Forecast:  Solar activity is forecast to moderate
+with M-class flares likely to reoccur over the next 3 days (1-3
+November).
+IIA.  Geophysical Activity Summary 30/2100Z to 31/2100Z:
+The geomagnetic field was quiet to unsettled during the period as
+waning CH HSS effects lingered.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+forecast to be mostly quiet for the next 3 days (1-3 November).
+III.  Event Probabilities 01 Nov-03 Nov
+Class M    60/60/60
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           31 Oct 138
+Predicted   01 Nov-03 Nov  140/145/145
+90 Day Mean        31 Oct 124
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Oct  004/006
+Estimated Afr/Ap 31 Oct  007/008
+Predicted Afr/Ap 01 Nov-03 Nov  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 01 Nov-03 Nov
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor storm           05/05/05
+Major-severe storm    01/01/01

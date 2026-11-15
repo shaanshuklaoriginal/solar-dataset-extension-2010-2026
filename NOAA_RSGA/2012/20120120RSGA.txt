@@ -1,0 +1,52 @@
+:Product: 0120RSGA.txt
+:Issued: 2012 Jan 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 020 Issued at 2200Z on 20 Jan 2012
+IA.  Analysis of Solar Active Regions and Activity from  19/2100Z
+to 20/2100Z:  Solar activity was very low with no flares detected.
+Region 1401 (N15W01) showed intermediate spot development during the
+period and was classified as an Eki group with beta magnetic
+structure. Region 1402 (N28E03) showed no significant changes and
+was classified as a Dki group with beta magnetic structure. No new
+regions were numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+through the period (21 - 23 January) with a chance for an M-class
+flare from Region 1401 or 1402.
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z:
+The geomagnetic field was quiet. An enhancement of the greater than
+10 MeV proton flux at geosynchronous orbit began around 20/0800Z and
+continued through the end of the period. The enhancement was
+associated with the long-duration M3/2n flare observed on 19
+January.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels during day 1 (21 January) and most of
+day 2 (22 January). Field activity is expected to increase to
+unsettled to active levels late on day 2 and day 3 (23 January) with
+a chance for minor storm levels due to the arrival of the halo-CME
+observed on 19 January. There will be a slight chance for a greater
+than 10 MeV proton event at geosynchronous orbit during the period.
+III.  Event Probabilities 21 Jan-23 Jan
+Class M    45/45/45
+Class X    10/10/10
+Proton     10/10/10
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           20 Jan 141
+Predicted   21 Jan-23 Jan  145/145/145
+90 Day Mean        20 Jan 144
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 Jan  001/003
+Estimated Afr/Ap 20 Jan  003/004
+Predicted Afr/Ap 21 Jan-23 Jan  004/005-010/010-010/025
+VI.  Geomagnetic Activity Probabilities 21 Jan-23 Jan
+A.  Middle Latitudes
+Active                05/25/35
+Minor storm           01/15/20
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                10/30/40
+Minor storm           01/20/25
+Major-severe storm    01/05/10

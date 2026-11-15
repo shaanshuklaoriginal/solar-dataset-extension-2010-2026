@@ -1,0 +1,41 @@
+:Product: 0228RSGA.txt
+:Issued: 2010 Feb 28 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 059 Issued at 2200Z on 28 Feb 2010
+IA.  Analysis of Solar Active Regions and Activity from  27/2100Z
+to 28/2100Z:  Solar activity was very low. No significant flares were
+detected during the forecast period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low due to the return of old Region 1045 (N24, L242).
+IIA.  Geophysical Activity Summary 27/2100Z to 28/2100Z:
+Geomagnetic field activity was at quiet levels.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be mostly quiet on days one and two (01 - 02 March) due
+to a recurrent coronal hole high-speed stream. Activity is expected
+to be at quiet levels on day three as the coronal hole effects
+subside.
+III.  Event Probabilities 01 Mar-03 Mar
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           28 Feb 078
+Predicted   01 Mar-03 Mar  084/084/084
+90 Day Mean        28 Feb 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 27 Feb  000/002
+Estimated Afr/Ap 28 Feb  005/005
+Predicted Afr/Ap 01 Mar-03 Mar  007/010-007/007-005/005
+VI.  Geomagnetic Activity Probabilities 01 Mar-03 Mar
+A.  Middle Latitudes
+Active                15/15/05
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/20/05
+Minor storm           05/05/01
+Major-severe storm    01/01/01

@@ -1,0 +1,53 @@
+:Product: 1103RSGA.txt
+:Issued: 2021 Nov 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 307 Issued at 2200Z on 03 Nov 2021
+
+IA.  Analysis of Solar Active Regions and Activity from 02/2100Z to
+03/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 3 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+with a chance for a C-class flares and a slight chance for an M-class
+flare on day one (04 Nov) and expected to be very low with a chance for
+a C-class flares on days two and three (05 Nov, 06 Nov).
+
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z: The geomagnetic
+field has been at quiet to active levels for the past 24 hours. Solar
+wind speed reached a peak of 773 km/s at 03/2059Z. Total IMF reached 24
+nT at 03/2038Z. The maximum southward component of Bz reached -15 nT at
+03/2033Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 14 pfu at 03/2055Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 856 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to major storm levels on day one (04 Nov), unsettled
+to active levels on day two (05 Nov) and quiet to active levels on day
+three (06 Nov).
+
+III.  Event probabilities 04 Nov-06 Nov
+Class M    10/05/05
+Class X    01/01/01
+Proton     05/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           03 Nov 089
+Predicted   04 Nov-06 Nov 090/090/085
+90 Day Mean        03 Nov 086
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Nov  012/017
+Estimated Afr/Ap 03 Nov  010/013
+Predicted Afr/Ap 04 Nov-06 Nov  024/035-017/022-013/015
+
+VI.  Geomagnetic Activity Probabilities 04 Nov-06 Nov
+A.  Middle Latitudes
+Active                35/35/40
+Minor Storm           45/25/20
+Major-severe storm    10/05/05
+B.  High Latitudes
+Active                05/10/10
+Minor Storm           20/20/30
+Major-severe storm    75/55/55

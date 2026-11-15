@@ -1,0 +1,51 @@
+:Product: 1210RSGA.txt
+:Issued: 2016 Dec 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 345 Issued at 2200Z on 10 Dec 2016
+
+IA.  Analysis of Solar Active Regions and Activity from 09/2100Z to
+10/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C4 event observed at
+10/1715Z from Region 2615 (S06, L=141). There are currently 0 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+on days one, two, and three (11 Dec, 12 Dec, 13 Dec).
+
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z: The geomagnetic
+field has been at unsettled to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 721 km/s at 10/0307Z. Total IMF
+reached 7 nT at 09/2150Z. The maximum southward component of Bz reached
+-5 nT at 09/2139Z. Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 10713 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (11 Dec), quiet to unsettled
+levels on day two (12 Dec) and quiet levels on day three (13 Dec).
+
+III.  Event probabilities 11 Dec-13 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           10 Dec 072
+Predicted   11 Dec-13 Dec 070/070/073
+90 Day Mean        10 Dec 083
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Dec  018/022
+Estimated Afr/Ap 10 Dec  016/019
+Predicted Afr/Ap 11 Dec-13 Dec  011/012-007/008-006/005
+
+VI.  Geomagnetic Activity Probabilities 11 Dec-13 Dec
+A.  Middle Latitudes
+Active                20/10/05
+Minor Storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/15/15
+Major-severe storm    20/10/10

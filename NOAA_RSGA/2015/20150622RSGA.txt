@@ -1,0 +1,56 @@
+:Product: 0622RSGA.txt
+:Issued: 2015 Jun 22 2220 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 172 Issued at 2200Z on 22 Jun 2015
+
+IA.  Analysis of Solar Active Regions and Activity from 21/2100Z to
+22/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was a M6 event observed at
+22/1823Z from Region 2371 (N13W14). There are currently 3 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(23 Jun, 24 Jun, 25 Jun).
+
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z: The geomagnetic
+field has been at quiet to severe storm levels for the past 24 hours.
+Solar wind speed, as measured by the ACE spacecraft, reached a peak
+speed of 737 km/s at 22/1830Z. Total IMF reached 42 nT at 22/2000Z. The
+maximum southward component of Bz reached -39 nT at 22/1850Z. Protons
+greater than 10 MeV at geosynchronous orbit reached a peak level of 1066
+pfu at 22/1900Z. Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 4102 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to severe storm levels on day one (23 Jun) and quiet
+to minor storm levels on days two and three (24 Jun, 25 Jun). Protons
+are expected to cross threshold on days one, two, and three (23 Jun, 24
+Jun, 25 Jun).
+
+III.  Event probabilities 23 Jun-25 Jun
+Class M    75/75/75
+Class X    20/20/20
+Proton     99/99/99
+PCAF       red
+
+IV.  Penticton 10.7 cm Flux
+Observed           22 Jun 135
+Predicted   23 Jun-25 Jun 135/135/135
+90 Day Mean        22 Jun 127
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 Jun   0NA/008
+Estimated Afr/Ap 22 Jun  035/054
+Predicted Afr/Ap 23 Jun-25 Jun  024/040-014/020-018/020
+
+VI.  Geomagnetic Activity Probabilities 23 Jun-25 Jun
+A.  Middle Latitudes
+Active                20/45/35
+Minor Storm           40/25/25
+Major-severe storm    40/05/05
+B.  High Latitudes
+Active                01/05/10
+Minor Storm           10/20/25
+Major-severe storm    90/70/60

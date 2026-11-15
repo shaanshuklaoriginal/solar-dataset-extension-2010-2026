@@ -1,0 +1,47 @@
+:Product: 0920RSGA.txt
+:Issued: 2010 Sep 20 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 263 Issued at 2200Z on 20 Sep 2010
+IA.  Analysis of Solar Active Regions and Activity from  19/2100Z
+to 20/2100Z:  Solar activity was low. A C2 X-ray event was observed
+at 20/1945Z. The event appeared to originate from an emerging flux
+region on the east limb near N20. Region 1106 (S21W53) decayed in
+the trailer portion of the spot group, but maintained a bi-polar
+magnetic configuration. Region 1108 (S30E24) exhibited little change
+during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low with a slight chance of M-class activity for the next
+three days (21 - 23 September).
+IIA.  Geophysical Activity Summary 19/2100Z to 20/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels, with isolated active
+periods, for day one (21 September).  Mostly unsettled, with
+isolated active to minor storm levels, are expected on days two and
+three (22 - 23 September).  The increase in activity is due to a
+large, recurrent coronal hole high speed stream.
+III.  Event Probabilities 21 Sep-23 Sep
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           20 Sep 083
+Predicted   21 Sep-23 Sep  083/083/084
+90 Day Mean        20 Sep 078
+V.  Geomagnetic A Indices
+Observed Afr/Ap 19 Sep  002/004
+Estimated Afr/Ap 20 Sep  003/005
+Predicted Afr/Ap 21 Sep-23 Sep  008/012-015/018-015/018
+VI.  Geomagnetic Activity Probabilities 21 Sep-23 Sep
+A.  Middle Latitudes
+Active                20/30/30
+Minor storm           01/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/35/35
+Minor storm           05/10/10
+Major-severe storm    01/01/01

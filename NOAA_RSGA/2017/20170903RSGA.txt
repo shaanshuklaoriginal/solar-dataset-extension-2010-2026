@@ -1,0 +1,52 @@
+:Product: 0903RSGA.txt
+:Issued: 2017 Sep 03 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 246 Issued at 2200Z on 03 Sep 2017
+
+IA.  Analysis of Solar Active Regions and Activity from 02/2100Z to
+03/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+02/2203Z from Region 2672 (N08W98). There are currently 5 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a slight chance for an M-class flare on days one, two, and three (04
+Sep, 05 Sep, 06 Sep).
+
+IIA.  Geophysical Activity Summary 02/2100Z to 03/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 587 km/s at 02/2116Z. Total IMF reached 5
+nT at 02/2212Z. The maximum southward component of Bz reached -3 nT at
+02/2222Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 12319 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on days one and two (04 Sep, 05 Sep)
+and quiet levels on day three (06 Sep).
+
+III.  Event probabilities 04 Sep-06 Sep
+Class M    20/20/20
+Class X    01/01/01
+Proton     01/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           03 Sep 120
+Predicted   04 Sep-06 Sep 120/118/116
+90 Day Mean        03 Sep 078
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 02 Sep  025/026
+Estimated Afr/Ap 03 Sep  011/012
+Predicted Afr/Ap 04 Sep-06 Sep  007/010-007/008-006/005
+
+VI.  Geomagnetic Activity Probabilities 04 Sep-06 Sep
+A.  Middle Latitudes
+Active                20/15/10
+Minor Storm           05/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/20/15
+Major-severe storm    25/20/05

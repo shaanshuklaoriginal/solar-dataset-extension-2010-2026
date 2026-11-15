@@ -1,0 +1,39 @@
+:Product: 0202RSGA.txt
+:Issued: 2012 Feb 02 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 033 Issued at 2200Z on 02 Feb 2012
+IA.  Analysis of Solar Active Regions and Activity from  01/2100Z
+to 02/2100Z:  Solar activity was very low.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low for the next 3 days (03-05 February).
+IIA.  Geophysical Activity Summary 01/2100Z to 02/2100Z:
+The geomagnetic field was quiet.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled on day 1 (03 February) due to CH
+HSS effects. Conditions should return to mostly quiet levels on days
+2 and 3 (04-05 February).
+III.  Event Probabilities 03 Feb-05 Feb
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           02 Feb 118
+Predicted   03 Feb-05 Feb  120/120/120
+90 Day Mean        02 Feb 141
+V.  Geomagnetic A Indices
+Observed Afr/Ap 01 Feb  005/006
+Estimated Afr/Ap 02 Feb  003/004
+Predicted Afr/Ap 03 Feb-05 Feb  008/008-004/005-005/005
+VI.  Geomagnetic Activity Probabilities 03 Feb-05 Feb
+A.  Middle Latitudes
+Active                15/10/10
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/10/10
+Minor storm           05/01/01
+Major-severe storm    01/01/01

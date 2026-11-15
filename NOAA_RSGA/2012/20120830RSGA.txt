@@ -1,0 +1,47 @@
+:Product: 0830RSGA.txt
+:Issued: 2012 Aug 30 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 243 Issued at 2200Z on 30 Aug 2012
+IA.  Analysis of Solar Active Regions and Activity from  29/2100Z
+to 30/2100Z:  Solar activity was moderate. A region around the east
+limb produced an M1 flare at 1211Z along with multiple C-class
+flares. No Earth-directed CMEs were observed in the past 24 hours.
+New Regions 1562 (S16E56) and 1563 (S25E71) were numbered today.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for moderate activity.
+IIA.  Geophysical Activity Summary 29/2100Z to 30/2100Z:
+Geomagnetic activity was at mostly quiet levels. The greater than 2
+MeV electron flux at geosynchronous orbit reached high levels during
+the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be quiet to unsettled on 31 August and 1 September with
+a chance for minor to major storm levels at high latitudes. Activity
+is expected to return to mostly quiet levels on 2 September with a
+slight chance for active to minor storm levels at high latitudes.
+Increased activity on days 1 and 2 is due to a coronal hole high
+speed stream.
+III.  Event Probabilities 31 Aug-02 Sep
+Class M    40/40/40
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           30 Aug 128
+Predicted   31 Aug-02 Sep  130/130/130
+90 Day Mean        30 Aug 124
+V.  Geomagnetic A Indices
+Observed Afr/Ap 29 Aug  005/004
+Estimated Afr/Ap 30 Aug  005/005
+Predicted Afr/Ap 31 Aug-02 Sep  010/010-007/008-006/005
+VI.  Geomagnetic Activity Probabilities 31 Aug-02 Sep
+A.  Middle Latitudes
+Active                15/10/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           25/15/15
+Major-severe storm    20/05/05

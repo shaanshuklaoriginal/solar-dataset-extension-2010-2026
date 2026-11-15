@@ -1,0 +1,55 @@
+:Product: 0511RSGA.txt
+:Issued: 2012 May 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 132 Issued at 2200Z on 11 May 2012
+IA.  Analysis of Solar Active Regions and Activity from  10/2100Z
+to 11/2100Z:  Solar activity has been at low levels for the past 24
+hours with several C-class x-ray flares.  Region 1476 (N10W06) was
+the source for nearly all of the reported flares, with the largest
+being a C6 that occurred at 11/1738Z.  This region has remained
+mostly consistent as an Fkc/beta-gamma-delta spot group, but has
+shown some signs of decay, mainly in the trailer spots.  New Regions
+1479 (N15E65) and 1480 (S16W10) were numbered over the last 24
+hours, are Hsx/Axx classifications respectively, and have yet to
+show much activity.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+moderate levels with a slight chance for X-class x-ray flares for
+the next three days (12 - 14 May) as Region 1476 keeps its
+Fkc/beta-gamma-delta configuration.
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z:
+The geomagnetic field has been at quiet to active levels for the past
+24 hours.  Solar wind measurements, as observed by the ACE
+spacecraft, showed a fairly steady drop in speeds from approximately
+650 km/s down to approximately 550 km/s.  The effects of the coronal
+hole high speed stream (CH HSS) should begin to wane over the next
+24-48hrs.  The total IMF remains fairly stable at approximately 5
+nT. The greater than 2 MeV electron flux at geosynchronous orbit
+reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet to unsettled levels for days one and two
+(12-13 May), then return to quiet levels on day three (14 May).
+III.  Event Probabilities 12 May-14 May
+Class M    75/75/75
+Class X    20/20/20
+Proton     10/10/10
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           11 May 136
+Predicted   12 May-14 May  130/130/130
+90 Day Mean        11 May 113
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 May  011/013
+Estimated Afr/Ap 11 May  011/012
+Predicted Afr/Ap 12 May-14 May  007/008-007/008-006/005
+VI.  Geomagnetic Activity Probabilities 12 May-14 May
+A.  Middle Latitudes
+Active                15/10/05
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/15/15
+Minor storm           25/20/15
+Major-severe storm    20/10/05

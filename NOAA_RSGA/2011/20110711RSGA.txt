@@ -1,0 +1,54 @@
+:Product: 0711RSGA.txt
+:Issued: 2011 Jul 11 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 192 Issued at 2200Z on 11 Jul 2011
+IA.  Analysis of Solar Active Regions and Activity from  10/2100Z
+to 11/2100Z:  Solar activity was low. Region 1249 (S18W04) produced a
+C2/1f at 11/1103Z with a Type II radio signature (est. shock
+velocity 977 km/s). A CME associated with this event became visible
+in STEREO COR-2 imagery at 11/1209Z and had an estimated speed of
+750 km/s. Region 1251 (N15E68) was numbered overnight and is
+currently an Hsx-alpha type region. All other regions on the disk
+appear to be relatively stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance for M-class activity for the next three days
+(12-14 July).
+IIA.  Geophysical Activity Summary 10/2100Z to 11/2100Z:
+The geomagnetic field was quiet to active during the past 24 hours.
+The increase in activity is due to a combination of the coronal hole
+high speed stream (CH HSS) and the CME observed on 09 July. A Sudden
+Impulse (SI) was observed at Earth at 11/0852Z with a 24 nT
+deviation measured at the Boulder magnetometer indicating the
+arrival of the CME. ACE spacecraft measurements indicated solar wind
+velocities of 700 km/s towards the end of the period, most likely
+due to the arrival of a second CH HSS.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be unsettled to active with isolated minor storm periods
+for the next three days (12-14 July) due to the onset of a recurrent
+CH HSS and the anticipated arrival (late on day two) of the CME
+observed early this morning.
+III.  Event Probabilities 12 Jul-14 Jul
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           11 Jul 090
+Predicted   12 Jul-14 Jul  092/094/094
+90 Day Mean        11 Jul 099
+V.  Geomagnetic A Indices
+Observed Afr/Ap 10 Jul  008/012
+Estimated Afr/Ap 11 Jul  010/012
+Predicted Afr/Ap 12 Jul-14 Jul  007/007-010/012-015/015
+VI.  Geomagnetic Activity Probabilities 12 Jul-14 Jul
+A.  Middle Latitudes
+Active                20/30/15
+Minor storm           10/15/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/30/15
+Minor storm           15/15/05
+Major-severe storm    01/01/01

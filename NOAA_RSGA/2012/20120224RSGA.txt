@@ -1,0 +1,48 @@
+:Product: 0224RSGA.txt
+:Issued: 2012 Feb 24 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 055 Issued at 2200Z on 24 Feb 2012
+IA.  Analysis of Solar Active Regions and Activity from  23/2100Z
+to 24/2100Z:  Solar activity was very low.  An asymmetrical, halo CME
+was observed in SOHO/LASCO C2 imagery beginning at 24/0346Z.  The
+associated event was a filament eruption centered near N32E38 which
+was observed in SDO/AIA 304 imagery beginning at 24/0225Z.  New
+Region 1424 (N09E68) rotated on the East limb and was numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a chance for C-class activity for the next three days (25 -
+27 February).
+IIA.  Geophysical Activity Summary 23/2100Z to 24/2100Z:
+The geomagnetic field was mostly quiet.  Solar wind speeds at the ACE
+spacecraft ranged from approximately 400 - 460 km/s while the Bz
+component of the Interplanetary Magnetic Field did not vary much
+beyond +/- 5 nT.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet on days 1 and 2 (25 - 26 February).  A
+glancing blow from todays CME is expected to become geoeffective
+early on day 3 (27 February) causing unsettled to active periods
+with isolated minor storm periods possible.
+III.  Event Probabilities 25 Feb-27 Feb
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           24 Feb 109
+Predicted   25 Feb-27 Feb  105/100/100
+90 Day Mean        24 Feb 129
+V.  Geomagnetic A Indices
+Observed Afr/Ap 23 Feb  003/003
+Estimated Afr/Ap 24 Feb  003/006
+Predicted Afr/Ap 25 Feb-27 Feb  004/005-004/005-011/015
+VI.  Geomagnetic Activity Probabilities 25 Feb-27 Feb
+A.  Middle Latitudes
+Active                05/05/25
+Minor storm           01/01/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/30
+Minor storm           10/10/25
+Major-severe storm    01/01/15

@@ -1,0 +1,43 @@
+:Product: 0701RSGA.txt
+:Issued: 2011 Jul 01 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 182 Issued at 2200Z on 01 Jul 2011
+IA.  Analysis of Solar Active Regions and Activity from  30/2100Z
+to 01/2100Z:  Solar activity has been very low.  There were several
+B-class flares observed in the past 24 hours from Region 1243
+(N17E22) and new Region 1244 (N16W10).  Region 1244 emerged on the
+disk and is a small B-type sunspot group.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low with a chance for isolated C-class flares.
+IIA.  Geophysical Activity Summary 30/2100Z to 01/2100Z:
+The geomagnetic field was quiet to active.  ACE solar wind data
+indicated velocities up to 450 km/s consistent with a high speed
+stream from a favorably positioned coronal hole.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly unsettled on day 1 (2 July).  Days 2 and 3 (3
+- 4 July) are expected to be quiet to unsettled.
+III.  Event Probabilities 02 Jul-04 Jul
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           01 Jul 088
+Predicted   02 Jul-04 Jul  088/088/088
+90 Day Mean        01 Jul 101
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Jun  003/006
+Estimated Afr/Ap 01 Jul  015/015
+Predicted Afr/Ap 02 Jul-04 Jul  010/015-007/010-007/010
+VI.  Geomagnetic Activity Probabilities 02 Jul-04 Jul
+A.  Middle Latitudes
+Active                35/15/15
+Minor storm           05/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                40/20/20
+Minor storm           10/05/05
+Major-severe storm    05/01/01

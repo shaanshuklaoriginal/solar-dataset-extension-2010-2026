@@ -1,0 +1,60 @@
+:Product: 1126RSGA.txt
+:Issued: 2012 Nov 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 331 Issued at 2200Z on 26 Nov 2012
+
+IA.  Analysis of Solar Active Regions and Activity from 25/2100Z to
+26/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C2 event observed at
+26/1526Z from Region 1620 (S13W28). The region grew significantly
+overnight and is now considered an Esi-type region with a beta-gamma
+magnetic configuration. Region 1618 (N08W69) continued to decay,
+however, it maintained a weak delta in its trailing spot. There are
+currently 4 numbered sunspot regions on the disk. A filament eruption
+was observed south of Region 1620 in SDO/AIA 304 imagery beginning at
+26/0343Z. A model run is in progress to determine geoeffectiveness.
+IB.  Solar Activity Forecast: Solar activity is expected to be at low to
+moderate levels on days one, two, and three (27 Nov, 28 Nov, 29 Nov).
+
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. A
+shock passage was observed at 26/0437Z indicating the possible early
+arrival of the 23 November CME followed by an 8 nT Sudden Impulse (SI)
+observed at the Boulder magnetometer at 26/0514Z. Solar wind speed, as
+measured by the ACE spacecraft, reached a peak speed of 558 km/s at
+26/0709Z. Total IMF reached 12.8 nT at 26/0749Z. The maximum southward
+component of Bz reached -7.8 nT at 26/0729Z although it has remained
+positive since about 26/1000Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels with a chance for isolated active
+periods on day one (27 Nov) as CME effects begin to wane. Mostly quiet
+conditions are expected on days two and three (28 Nov, 29 Nov).
+
+III.  Event probabilities 27 Nov-29 Nov
+Class M    35/35/35
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           26 Nov 122
+Predicted   27 Nov-29 Nov 120/120/115
+90 Day Mean        26 Nov 123
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Nov  004/004
+Estimated Afr/Ap 26 Nov  005/005
+Predicted Afr/Ap 27 Nov-29 Nov  011/012-006/005-006/005
+
+VI.  Geomagnetic Activity Probabilities 27 Nov-29 Nov
+A.  Middle Latitudes
+Active                25/10/05
+Minor Storm           10/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/15/10
+Major-severe storm    35/15/05

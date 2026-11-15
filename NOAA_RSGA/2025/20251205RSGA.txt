@@ -1,0 +1,52 @@
+:Product: 1205RSGA.txt
+:Issued: 2025 Dec 05 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 339 Issued at 2200Z on 05 Dec 2025
+
+IA.  Analysis of Solar Active Regions and Activity from 04/2100Z to
+05/2100Z: Solar activity has been at low levels for the past 24 hours.
+There are currently 8 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a slight chance for an X-class flare on days one, two, and three
+(06 Dec, 07 Dec, 08 Dec).
+
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 748 km/s at 05/0710Z. Total IMF reached 8
+nT at 05/1708Z. The maximum southward component of Bz reached -5 nT at
+05/1917Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 1425 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (06 Dec) and quiet to minor
+storm levels on days two and three (07 Dec, 08 Dec). Protons have a
+slight chance of crossing threshold on days one, two, and three (06 Dec,
+07 Dec, 08 Dec).
+
+III.  Event probabilities 06 Dec-08 Dec
+Class M    70/70/70
+Class X    15/15/15
+Proton     10/10/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           05 Dec 206
+Predicted   06 Dec-08 Dec 205/205/200
+90 Day Mean        05 Dec 147
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 Dec  024/032
+Estimated Afr/Ap 05 Dec  013/016
+Predicted Afr/Ap 06 Dec-08 Dec  010/012-012/018-014/018
+
+VI.  Geomagnetic Activity Probabilities 06 Dec-08 Dec
+A.  Middle Latitudes
+Active                30/40/40
+Minor Storm           15/25/25
+Major-severe storm    01/05/05
+B.  High Latitudes
+Active                15/10/10
+Minor Storm           30/20/20
+Major-severe storm    45/65/65

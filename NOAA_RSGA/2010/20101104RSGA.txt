@@ -1,0 +1,43 @@
+:Product: 1104RSGA.txt
+:Issued: 2010 Nov 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 308 Issued at 2200Z on 04 Nov 2010
+IA.  Analysis of Solar Active Regions and Activity from  03/2100Z
+to 04/2100Z:  Solar activity was low. New Region 1121 (S20E70) was
+numbered today and produced a C1 flare at 04/0253Z. Region 1120
+(N38E04) continued to decay.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a slight chance of moderate conditions for the next three days
+(05-07 November).
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z:
+The geomagnetic field was at quiet to unsettled levels. A period of
+unsettled conditions was observed at mid-latitudes between
+04/12-15Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet for the next three days (05-07
+November).
+III.  Event Probabilities 05 Nov-07 Nov
+Class M    15/15/15
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           04 Nov 079
+Predicted   05 Nov-07 Nov  082/082/082
+90 Day Mean        04 Nov 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Nov  002/004
+Estimated Afr/Ap 04 Nov  005/005
+Predicted Afr/Ap 05 Nov-07 Nov  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 05 Nov-07 Nov
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01

@@ -1,0 +1,56 @@
+:Product: 0910RSGA.txt
+:Issued: 2014 Sep 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 253 Issued at 2200Z on 10 Sep 2014
+
+IA.  Analysis of Solar Active Regions and Activity from 09/2100Z to
+10/2100Z: Solar activity has been at high levels for the past 24 hours.
+The largest solar event of the period was an X1/2b event observed at
+10/1745Z from Region 2158 (N15E00). There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be moderate
+with a chance for X-class flares on days one, two, and three (11 Sep, 12
+Sep, 13 Sep).
+
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+396 km/s at 10/1533Z. Total IMF reached 8 nT at 10/2038Z. The maximum
+southward component of Bz reached -5 nT at 10/1917Z. Protons greater
+than 10 MeV at geosynchronous orbit reached a peak level of 2 pfu at
+09/2125Z. Electrons greater than 2 MeV at geosynchronous orbit reached a
+peak level of 212 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (11 Sep), quiet to major storm levels
+on day two (12 Sep) and quiet to minor storm levels on day three (13
+Sep). Protons have a chance of crossing threshold on days one, two, and
+three (11 Sep, 12 Sep, 13 Sep).
+
+III.  Event probabilities 11 Sep-13 Sep
+Class M    85/85/85
+Class X    40/40/40
+Proton     30/30/30
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           10 Sep 160
+Predicted   11 Sep-13 Sep 160/165/165
+90 Day Mean        10 Sep 129
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Sep  008/006
+Estimated Afr/Ap 10 Sep  007/008
+Predicted Afr/Ap 11 Sep-13 Sep  006/005-021/032-018/018
+
+VI.  Geomagnetic Activity Probabilities 11 Sep-13 Sep
+A.  Middle Latitudes
+Active                10/30/45
+Minor Storm           05/45/25
+Major-severe storm    01/20/05
+B.  High Latitudes
+Active                15/05/10
+Minor Storm           20/15/25
+Major-severe storm    20/79/70

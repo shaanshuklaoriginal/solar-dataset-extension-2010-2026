@@ -1,0 +1,42 @@
+:Product: 0514RSGA.txt
+:Issued: 2010 May 14 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 134 Issued at 2200Z on 14 May 2010
+IA.  Analysis of Solar Active Regions and Activity from  13/2100Z
+to 14/2100Z:  Solar activity was very low. No flares were detected.
+The visible disk was spotless.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low through the period (15 - 17 May).
+IIA.  Geophysical Activity Summary 13/2100Z to 14/2100Z:
+The geomagnetic field was quiet. The greater than 2 Mev electron flux
+at geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at quiet to unsettled levels during days 1 - 2 (15 -
+16 May) with a chance for isolated active levels due to a coronal
+hole high-speed stream. Field activity is expected to decrease to
+quiet levels on day 3 (17 May).
+III.  Event Probabilities 15 May-17 May
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           14 May 070
+Predicted   15 May-17 May  070/070/070
+90 Day Mean        14 May 080
+V.  Geomagnetic A Indices
+Observed Afr/Ap 13 May  002/004
+Estimated Afr/Ap 14 May  003/005
+Predicted Afr/Ap 15 May-17 May  007/008-007/008-005/005
+VI.  Geomagnetic Activity Probabilities 15 May-17 May
+A.  Middle Latitudes
+Active                20/20/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/25/15
+Minor storm           10/10/05
+Major-severe storm    01/01/01

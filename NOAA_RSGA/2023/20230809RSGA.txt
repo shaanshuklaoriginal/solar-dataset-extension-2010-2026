@@ -1,0 +1,55 @@
+:Product: 0809RSGA.txt
+:Issued: 2023 Aug 09 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 221 Issued at 2200Z on 09 Aug 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 08/2100Z to
+09/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C5 event observed at
+09/0701Z from Region 3387 (N18W0*). There are currently 7 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one and two (10 Aug, 11 Aug) and
+likely to be low with a slight chance for an M-class flare on day three
+(12 Aug).
+
+IIA.  Geophysical Activity Summary 08/2100Z to 09/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 483 km/s at 09/0024Z. Total IMF reached 7 nT at
+09/0803Z. The maximum southward component of Bz reached -4 nT at
+09/1244Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 47 pfu at 09/0025Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 1772 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (10 Aug) and quiet levels on
+days two and three (11 Aug, 12 Aug). Protons greater than 10 Mev have a
+slight chance of crossing threshold on day one (10 Aug).
+
+III.  Event probabilities 10 Aug-12 Aug
+Class M    40/25/15
+Class X    05/05/01
+Proton     15/05/01
+PCAF       yellow
+
+IV.  Penticton 10.7 cm Flux
+Observed           09 Aug 153
+Predicted   10 Aug-12 Aug 150/150/150
+90 Day Mean        09 Aug 166
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 08 Aug  007/010
+Estimated Afr/Ap 09 Aug  006/007
+Predicted Afr/Ap 10 Aug-12 Aug  008/012-006/005-006/005
+
+VI.  Geomagnetic Activity Probabilities 10 Aug-12 Aug
+A.  Middle Latitudes
+Active                25/10/10
+Minor Storm           10/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           25/15/15
+Major-severe storm    35/10/10

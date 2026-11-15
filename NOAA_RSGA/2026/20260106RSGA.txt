@@ -1,0 +1,52 @@
+:Product: 0106RSGA.txt
+:Issued: 2026 Jan 06 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 6 Issued at 2200Z on 06 Jan 2026
+
+IA.  Analysis of Solar Active Regions and Activity from 05/2100Z to
+06/2100Z: Solar activity has been at low levels for the past 24 hours.
+There are currently 6 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+days one, two, and three (07 Jan, 08 Jan, 09 Jan).
+
+IIA.  Geophysical Activity Summary 05/2100Z to 06/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 424 km/s at 05/2118Z. Total IMF reached 7 nT at
+05/2249Z. The maximum southward component of Bz reached -5 nT at
+06/0257Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 1326 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one and two (07 Jan, 08 Jan) and quiet to
+minor storm levels on day three (09 Jan). Protons have a slight chance
+of crossing threshold on days one, two, and three (07 Jan, 08 Jan, 09
+Jan).
+
+III.  Event probabilities 07 Jan-09 Jan
+Class M    40/40/40
+Class X    10/10/10
+Proton     10/10/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           06 Jan 145
+Predicted   07 Jan-09 Jan 140/135/132
+90 Day Mean        06 Jan 148
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 05 Jan  010/014
+Estimated Afr/Ap 06 Jan  004/004
+Predicted Afr/Ap 07 Jan-09 Jan  006/005-006/005-015/024
+
+VI.  Geomagnetic Activity Probabilities 07 Jan-09 Jan
+A.  Middle Latitudes
+Active                10/10/40
+Minor Storm           01/01/30
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                15/15/10
+Minor Storm           15/15/25
+Major-severe storm    10/10/65

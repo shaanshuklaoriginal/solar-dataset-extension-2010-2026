@@ -1,0 +1,53 @@
+:Product: 1005RSGA.txt
+:Issued: 2011 Oct 05 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 278 Issued at 2200Z on 05 Oct 2011
+IA.  Analysis of Solar Active Regions and Activity from  04/2100Z
+to 05/2100Z:  Solar activity for the past 24 hours has been at low
+levels. New Region 1313 (S13E65) rotated onto the southeast limb
+early in the period and has been responsible for a majority of the
+activity. Region 1313, produced the largest event of the period, a
+C9/Sf flare at 05/1242Z. Multiple CMEs were observed during the
+past 24 hours, but none of them were considered to be geoeffective.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+low to moderate levels for the next three days (06-08 October) as
+Region 1313 continues to evolve.
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z:
+The geomagnetic field has been at quiet to minor storm levels during
+the past 24 hours. At 05/0742, a Sudden Impulse (SI) of 19 nT was
+observed by the Boulder magnetometer. Following this SI, solar wind
+speeds, as measured by the ACE spacecraft, increased from 370 km/s
+to around 480 km/s. The IMF also increased to around 12 nT, with
+some extended periods of southward Bz. These characteristics are
+congruent with the arrival of a CME. The greater than 2 MeV electron
+flux at geosynchronous orbit reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to remain at unsettled to active levels with a chance for
+minor storm periods on day one (06 October). Predominantly quiet to
+unsettled levels are expected for days two and three (07-08 October)
+as the effects of the CMEs wane.
+III.  Event Probabilities 06 Oct-08 Oct
+Class M    40/40/40
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           05 Oct 127
+Predicted   06 Oct-08 Oct  125/125/130
+90 Day Mean        05 Oct 113
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 Oct  004/006
+Estimated Afr/Ap 05 Oct  015/018
+Predicted Afr/Ap 06 Oct-08 Oct  015/015-008/008-008/008
+VI.  Geomagnetic Activity Probabilities 06 Oct-08 Oct
+A.  Middle Latitudes
+Active                45/20/20
+Minor storm           25/05/05
+Major-severe storm    05/01/01
+B.  High Latitudes
+Active                45/25/25
+Minor storm           30/10/10
+Major-severe storm    05/01/01

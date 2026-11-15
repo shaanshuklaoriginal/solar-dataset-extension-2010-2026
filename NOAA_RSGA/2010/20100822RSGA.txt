@@ -1,0 +1,43 @@
+:Product: 0822RSGA.txt
+:Issued: 2010 Aug 22 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 234 Issued at 2200Z on 22 Aug 2010
+IA.  Analysis of Solar Active Regions and Activity from  21/2100Z
+to 22/2100Z:  Solar activity has been at very low levels for the past
+24 hours. No flares were observed during the period and no new
+regions were numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be at
+very low levels for the next three days (23-25 August).
+IIA.  Geophysical Activity Summary 21/2100Z to 22/2100Z:
+The geomagnetic field has been at quiet levels for the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels on day one (23 August),  at quiet to
+unsettled levels on day two,(24 August), and unsettled to active
+levels with a chance for isolated minor storm periods on day three
+(25 August). This increase in activity is due to the arrival of a
+recurrent coronal hole high-speed stream.
+III.  Event Probabilities 23 Aug-25 Aug
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           22 Aug 075
+Predicted   23 Aug-25 Aug  074/075/075
+90 Day Mean        22 Aug 077
+V.  Geomagnetic A Indices
+Observed Afr/Ap 21 Aug  003/003
+Estimated Afr/Ap 22 Aug  001/002
+Predicted Afr/Ap 23 Aug-25 Aug  005/005-007/008-015/015
+VI.  Geomagnetic Activity Probabilities 23 Aug-25 Aug
+A.  Middle Latitudes
+Active                05/15/25
+Minor storm           01/05/10
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                05/20/30
+Minor storm           01/10/15
+Major-severe storm    01/01/10

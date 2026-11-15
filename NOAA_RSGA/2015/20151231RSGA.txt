@@ -1,0 +1,56 @@
+:Product: 1231RSGA.txt
+:Issued: 2015 Dec 31 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 365 Issued at 2200Z on 31 Dec 2015
+
+IA.  Analysis of Solar Active Regions and Activity from 30/2100Z to
+31/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C4 event observed at
+30/2245Z from Region 2473 (S21W60). There are currently 1 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be low with a
+slight chance for an M-class flare on days one and two (01 Jan, 02 Jan)
+and expected to be very low with a chance for a C-class flares on day
+three (03 Jan).
+
+IIA.  Geophysical Activity Summary 30/2100Z to 31/2100Z: The geomagnetic
+field has been at quiet to major storm levels for the past 24 hours.
+Solar wind speed, as measured by the ACE spacecraft, reached a peak
+speed of 575 km/s at 31/0537Z. Total IMF reached 17 nT at 31/1909Z. The
+maximum southward component of Bz reached -16 nT at 31/1915Z. Electrons
+greater than 2 MeV at geosynchronous orbit reached a peak level of 883
+pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to major storm levels on day one (01 Jan) and
+unsettled to active levels on days two and three (02 Jan, 03 Jan).
+Protons greater than 10 Mev have a slight chance of crossing threshold
+on days one and two (01 Jan, 02 Jan).
+
+III.  Event probabilities 01 Jan-03 Jan
+Class M    20/20/05
+Class X    01/01/01
+Proton     10/10/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           31 Dec 096
+Predicted   01 Jan-03 Jan 095/100/100
+90 Day Mean        31 Dec 109
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 30 Dec  002/002
+Estimated Afr/Ap 31 Dec  026/041
+Predicted Afr/Ap 01 Jan-03 Jan  021/030-015/018-015/018
+
+VI.  Geomagnetic Activity Probabilities 01 Jan-03 Jan
+A.  Middle Latitudes
+Active                35/30/30
+Minor Storm           35/15/15
+Major-severe storm    20/01/01
+B.  High Latitudes
+Active                05/15/15
+Minor Storm           20/30/30
+Major-severe storm    75/45/45

@@ -1,0 +1,49 @@
+:Product: 1027RSGA.txt
+:Issued: 2011 Oct 27 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 300 Issued at 2200Z on 27 Oct 2011
+IA.  Analysis of Solar Active Regions and Activity from  26/2100Z
+to 27/2100Z:  Solar activity was low due to one C-class flare, a C2
+that occurred at 1844Z. The source was attributed to new Region 1333
+(N15E11) which emerged today on the disk as a small, D-type sunspot
+region. Region 1330 (N09E04) continues to be the largest group on
+the disk as a 500 millionths E-type group with a beta-gamma magnetic
+configuration, but could only manage to produce a small B6 flare
+0102Z. The remainder of the disk was generally quiet and stable.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low, with an additional isolated C-flare considered to be
+likely. There is a slight chance for an isolated M-class flare from
+either of Region 1330 or 1333.
+IIA.  Geophysical Activity Summary 26/2100Z to 27/2100Z:
+The geomagnetic field was mostly quiet during the past 24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be generally quiet for the first two days (29-29
+October). An increase to unsettled levels is expected late on the
+29th or early on the 30th due to high speed solar wind stream from a
+coronal hole. Unsettled levels are expected to continue through
+30-31 October.
+III.  Event Probabilities 28 Oct-30 Oct
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           27 Oct 132
+Predicted   28 Oct-30 Oct  130/130/130
+90 Day Mean        27 Oct 124
+V.  Geomagnetic A Indices
+Observed Afr/Ap 26 Oct  004/003
+Estimated Afr/Ap 27 Oct  005/005
+Predicted Afr/Ap 28 Oct-30 Oct  007/007-007/008-010/010
+VI.  Geomagnetic Activity Probabilities 28 Oct-30 Oct
+A.  Middle Latitudes
+Active                10/10/25
+Minor storm           05/05/15
+Major-severe storm    01/01/05
+B.  High Latitudes
+Active                15/15/35
+Minor storm           05/05/25
+Major-severe storm    01/01/16

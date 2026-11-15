@@ -1,0 +1,60 @@
+:Product: 0608RSGA.txt
+:Issued: 2012 Jun 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 160 Issued at 2200Z on 08 Jun 2012
+IA.  Analysis of Solar Active Regions and Activity from  07/2100Z
+to 08/2100Z:  Solar activity was low.  Region 1494 (S18W33) produced
+a C7 flare at 08/0307Z.  The flare was accompanied by Type II and
+Type IV radio emissions at 08/0305Z and 08/0308Z, respectively.  A
+CME was observed in LASCO C2 imagery at 08/0443Z emerging from the
+southern hemisphere.  Analysis of LASCO and STEREO COR2 coronagraph
+imagery indicated a speed of approximately 380 km/s.  A subsequent
+model run suggested a glancing blow at earth late on June 12th. 
+Filament eruptions were observed from the NE limb at 08/1645Z in SDO
+304 imagery and at 08/1756Z in LASCO C2.  A second eruption near
+N10E50 was observed in SDO 304 imagery at 08/1706Z.  The first
+eruption is not expected to be geoeffective; the second is being
+evaluted.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+with a chance for an isolated M-class event for the next three days
+(09-11 June).
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z:
+The geomagnetic field ranged from quiet to unsettled levels.  Data
+from the ACE spacecraft suggested the possible arrival of the CME
+from 05 June around 08/0800Z.  A couple of unsettled periods
+followed, but most of the day was quiet.  Wind speed at ACE declined
+throughout the period and ended the day near 500 km/s.  The Bz
+component of the IMF was generally neutral to slightly negative for
+the first half of the day, and generally positive for the last half.
+The greater than 2 MeV electron flux at geosynchronous orbit was at
+high levels throughout the period.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels on day 1 (09 June).  The CME from 06
+June is expected to arrive on day 2 (10 June), bringing unsettled
+conditions with a chance for an isolated active period through day 3
+(11 June).
+III.  Event Probabilities 09 Jun-11 Jun
+Class M    25/25/25
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           08 Jun 124
+Predicted   09 Jun-11 Jun  125/125/130
+90 Day Mean        08 Jun 117
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Jun  008/008
+Estimated Afr/Ap 08 Jun  009/008
+Predicted Afr/Ap 09 Jun-11 Jun  006/005-007/010-007/010
+VI.  Geomagnetic Activity Probabilities 09 Jun-11 Jun
+A.  Middle Latitudes
+Active                10/20/20
+Minor storm           05/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           15/25/25
+Major-severe storm    15/30/30

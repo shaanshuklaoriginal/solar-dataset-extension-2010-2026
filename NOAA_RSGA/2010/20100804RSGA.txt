@@ -1,0 +1,57 @@
+:Product: 0804RSGA.txt
+:Issued: 2010 Aug 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 216 Issued at 2200Z on 04 Aug 2010
+IA.  Analysis of Solar Active Regions and Activity from  03/2100Z
+to 04/2100Z:  Solar activity remained at very low levels. New Region
+1093 (N10E63) produced a few B-class flares as it rotated into view
+and was classified as a Cao-type group with a beta magnetic
+configuration. Region 1092 (N14W15) was quiet and stable during the
+period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low. However, there will be a chance for an isolated C-class flare
+from Region 1093.
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z:
+Geomagnetic field activity ranged from unsettled to major storm
+levels due to a CME passage associated with a long-duration C3 flare
+on 01 August. The major storm levels occurred during 03/2100 -
+04/0300Z and were associated with increased solar wind velocities
+(peak 657 km/s), increased IMF BT (peak 18 nT), and a sustained
+period of southward IMF Bz (peak deflection -13 nT). Activity was at
+unsettled to minor storm levels after 04/0300Z. The greater than 2
+MeV electron flux at geosynchronous orbit decreased to normal to
+moderate levels.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at unsettled to active levels until midday on day 1
+(05 August). Activity is forecast to increase to active to minor
+storm levels with a chance for major storm levels beginning midday
+on 05 August due to the expected arrival of a CME associated with a
+large filament disappearance on 01 August. Activity is expected to
+decrease to unsettled to minor storm levels on day 2 (06 August) as
+the CME passage continues. A further decrease to quiet to unsettled
+levels is expected on day 3 (07 August).
+III.  Event Probabilities 05 Aug-07 Aug
+Class M    05/05/05
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           04 Aug 081
+Predicted   05 Aug-07 Aug  082/084/084
+90 Day Mean        04 Aug 075
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Aug  014/020
+Estimated Afr/Ap 04 Aug  027/030
+Predicted Afr/Ap 05 Aug-07 Aug  030/035-020/020-007/007
+VI.  Geomagnetic Activity Probabilities 05 Aug-07 Aug
+A.  Middle Latitudes
+Active                30/30/20
+Minor storm           40/25/05
+Major-severe storm    20/05/01
+B.  High Latitudes
+Active                15/40/25
+Minor storm           45/30/10
+Major-severe storm    30/10/01

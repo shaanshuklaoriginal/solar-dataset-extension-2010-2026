@@ -1,0 +1,51 @@
+:Product: 1210RSGA.txt
+:Issued: 2014 Dec 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 344 Issued at 2200Z on 10 Dec 2014
+
+IA.  Analysis of Solar Active Regions and Activity from 09/2100Z to
+10/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C1 event observed at
+10/0924Z. There are currently 6 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (11 Dec, 12 Dec,
+13 Dec).
+
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed, as measured by the ACE spacecraft, reached a peak speed of
+571 km/s at 10/0028Z. Total IMF reached 8 nT at 10/0157Z. The maximum
+southward component of Bz reached -5 nT at 09/2126Z. Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 2140 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to unsettled levels on day one (11 Dec), quiet levels on
+day two (12 Dec) and quiet to active levels on day three (13 Dec).
+
+III.  Event probabilities 11 Dec-13 Dec
+Class M    30/30/30
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           10 Dec 150
+Predicted   11 Dec-13 Dec 155/165/170
+90 Day Mean        10 Dec 152
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Dec  012/011
+Estimated Afr/Ap 10 Dec  009/009
+Predicted Afr/Ap 11 Dec-13 Dec  008/008-006/005-011/015
+
+VI.  Geomagnetic Activity Probabilities 11 Dec-13 Dec
+A.  Middle Latitudes
+Active                25/10/40
+Minor Storm           05/01/15
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/10
+Minor Storm           30/20/30
+Major-severe storm    35/10/55

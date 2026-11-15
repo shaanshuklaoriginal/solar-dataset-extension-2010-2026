@@ -1,0 +1,48 @@
+:Product: 1026RSGA.txt
+:Issued: 2010 Oct 26 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 299 Issued at 2200Z on 26 Oct 2010
+IA.  Analysis of Solar Active Regions and Activity from  25/2100Z
+to 26/2100Z:  Solar activity was low. Region 1117 (N21W15) produced
+two C-class flares during the past 24 hours, the largest a C2.5
+x-ray event at 25/2212Z.  A CME (estimated plane-of-sky velocity 375
+km/s) was observed off the southwest limb, first viewed on GOES-15
+SXI imagery at approximately 26/0300Z. This CME was likely
+associated with a B6.5 x-ray event at 26/0311Z from Region 1115
+(S31W75). The CME appeared to be earth directed.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+predominately very low with a chance for C-class events and a slight
+chance for an isolated M-class event from Region 1117.
+IIA.  Geophysical Activity Summary 25/2100Z to 26/2100Z:
+The geomagnetic field was at quiet to unsettled levels for the past
+24 hours.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be mostly quiet on days one and two (27 - 28 October).
+Quiet to unsettled levels, with isolated active periods, are
+expected on day three (29 October) in response to the CME observed
+on 26 October.
+III.  Event Probabilities 27 Oct-29 Oct
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           26 Oct 086
+Predicted   27 Oct-29 Oct  084/084/084
+90 Day Mean        26 Oct 081
+V.  Geomagnetic A Indices
+Observed Afr/Ap 25 Oct  004/006
+Estimated Afr/Ap 26 Oct  008/008
+Predicted Afr/Ap 27 Oct-29 Oct  007/007-005/005-008/008
+VI.  Geomagnetic Activity Probabilities 27 Oct-29 Oct
+A.  Middle Latitudes
+Active                15/10/15
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                20/10/20
+Minor storm           01/01/01
+Major-severe storm    01/01/01

@@ -1,0 +1,57 @@
+:Product: 0218RSGA.txt
+:Issued: 2011 Feb 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 049 Issued at 2200Z on 18 Feb 2011
+IA.  Analysis of Solar Active Regions and Activity from  17/2100Z
+to 18/2100Z:  Solar activity was high during the past 24 hours. 
+Region 1158 (S19W64) produced several C-class events with a C1 at
+17/2135Z that was associated with a Type II Sweep and an M1 event at
+18/1303Z.  Region 1161 (N12W02) grew slightly in area and maintained
+a beta-gamma magnetic classification.  New Region 1162 (N18W06) was
+numbered today and developed rapidly into a Dai-type sunspot group
+with a beta-gamma magnetic classification.  The bulk of the activity
+originated from this new region, including two M1 events and an M6
+event at 18/1011Z.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate with a chance for isolated high level activity for the next
+three days (19-21 February).
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z:
+The geomagnetic field was unsettled to active with an isolated minor
+storm period at high latitudes.  This activity was due to the
+effects of the CMEs associated with two M-class events and an
+X-class event observed from 13-15 February.  A sudden impulse of 33
+nT was observed at 18/0136Z at the Boulder magnetometer in
+association with this event. The ACE spacecraft indicated solar wind
+velocities increased to approximately 700 km/s along with a
+sustained period of southward Bz between -10 and -15 nT from
+18/0200-0300Z.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be quiet to unsettled with a chance for isolated active
+periods for day one (19 February) due to the residual effects of the
+recent CMEs.  Days two and three (20-21 February) are expected to be
+mostly quiet.
+III.  Event Probabilities 19 Feb-21 Feb
+Class M    75/75/75
+Class X    15/15/15
+Proton     10/10/10
+PCAF       Green
+IV.  Penticton 10.7 cm Flux
+Observed           18 Feb 125
+Predicted   19 Feb-21 Feb  120/120/110
+90 Day Mean        18 Feb 086
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 Feb  005/002
+Estimated Afr/Ap 18 Feb  018/022
+Predicted Afr/Ap 19 Feb-21 Feb  010/012-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 19 Feb-21 Feb
+A.  Middle Latitudes
+Active                25/15/05
+Minor storm           10/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                25/20/05
+Minor storm           10/05/01
+Major-severe storm    01/01/01

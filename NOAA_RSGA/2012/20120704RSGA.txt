@@ -1,0 +1,64 @@
+:Product: 0704RSGA.txt
+:Issued: 2012 Jul 04 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 186 Issued at 2200Z on 04 Jul 2012
+IA.  Analysis of Solar Active Regions and Activity from  03/2100Z
+to 04/2100Z:  Solar activity increased to high levels. Region 1515
+(S17W23) produced an M5/2b flare at 04/0955Z along with occasional
+low-level M-class flares including an M2/Sn at 04/0437Z associated
+with a 150 sfu Tenflare. Spot and penumbral development was evident
+in the leading half of the region and it retained its
+beta-gamma-delta magnetic configuration. Coronal mass ejections
+(CME) were associated with the flare activity in Region 1515, but
+the bulk of the ejecta was directed southward, out of the ecliptic
+plane. Region 1513 (N17W36) produced an M1/2n flare at 04/1639Z
+associated with Types II (estimated shock velocity 807 km/s) and IV
+radio sweeps and a 200 sfu Tenflare. This event was also associated
+with a CME that may have had an Earthward component, but further
+analysis will be required to determine potential geoeffectiveness.
+Region 1513 showed no significant changes and retained its
+beta-gamma magnetic configuration. New Regions 1518 (N09E65) and
+1519 (S14E76) rotated into view and were numbered late in the
+period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be
+moderate through the period (05 - 07 July) with a chance for an
+isolated X-class flare from Region 1515.
+IIA.  Geophysical Activity Summary 03/2100Z to 04/2100Z:
+Geomagnetic field activity was at quiet to unsettled levels with
+active periods detected at high latitudes. ACE solar wind data
+indicated Earth remained within a recurrent coronal hole high-speed
+stream (CH HSS). Solar wind speeds were in the 463 to 601 km/s range
+and IMF Bz was variable in the +6 to -5 nT range. Todays observed
+Penticton 10.7 cm flux reading (163 sfu) was flare-enhanced. The
+greater than 2 MeV electron flux at geosynchronous orbit reached
+high levels during the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic field activity is
+expected to be at quiet to unsettled levels during the period (05 -
+07 July) with a chance for active levels as the CH HSS gradually
+subsides. Recent CME activity from Region 1515 is not expected to
+significantly disturb the field.
+III.  Event Probabilities 05 Jul-07 Jul
+Class M    80/80/80
+Class X    25/25/25
+Proton     10/10/10
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           04 Jul 163
+Predicted   05 Jul-07 Jul  155/160/160
+90 Day Mean        04 Jul 121
+V.  Geomagnetic A Indices
+Observed Afr/Ap 03 Jul  011/011
+Estimated Afr/Ap 04 Jul  010/012
+Predicted Afr/Ap 05 Jul-07 Jul  007/008-009/008-007/008
+VI.  Geomagnetic Activity Probabilities 05 Jul-07 Jul
+A.  Middle Latitudes
+Active                25/20/25
+Minor storm           05/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           30/15/30
+Major-severe storm    30/10/30

@@ -1,0 +1,58 @@
+:Product: 0510RSGA.txt
+:Issued: 2011 May 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 130 Issued at 2200Z on 10 May 2011
+IA.  Analysis of Solar Active Regions and Activity from  09/2100Z
+to 10/2100Z:  Solar activity remained low. A C5 x-ray flare occurred
+at 09/2059Z from a region rounding the northeast limb at the time of
+this report. This region appeared to be the return of old Region
+1193 (N17, L=266), which produced C-class flares during its previous
+rotation. The C5 flare was associated with a partial-halo coronal
+mass ejection (CME). The CME had an estimated plane-of-sky velocity
+of 1225 km/s, based on SOHO/LASCO images, and appeared to have an
+Earthward component. No new regions were numbered.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+through the period (11 - 13 May) with a chance for an M-class flare
+from the region now crossing the northeast limb.
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z:
+Geomagnetic field activity was at quiet to active levels. ACE solar
+wind measurements indicated a co-rotating interaction region (CIR),
+in advance of a coronal hole high-speed stream, commenced around
+10/0400Z. Solar wind speeds gradually increased from 302 to 398 km/s
+during the period. Interplanetary magnetic field (IMF) changes
+associated with the CIR included increased Bt (peak 10 nT at
+05/1338Z) and intermittent periods of southward Bz (maximum
+deflection -10 nT at 05/1338Z). The greater than 2 MeV electron flux
+at geosynchronous orbit briefly reached high levels during the period.
+IIB.  Geophysical Activity Forecast:  Geomagnetic activity is
+expected to be at quiet to active levels on day 1 (11 May), then
+increase to unsettled to active levels with a chance for minor storm
+levels on day 2 (12 May) as the CH HSS persists. The CME observed
+today may also disturb the field on 12 May. Activity is expected to
+decrease to quiet to unsettled levels on day 3 (13 May) as the CH
+HSS subsides.
+III.  Event Probabilities 11 May-13 May
+Class M    20/20/20
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           10 May 098
+Predicted   11 May-13 May  100/100/100
+90 Day Mean        10 May 110
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 May  002/003
+Estimated Afr/Ap 10 May  008/008
+Predicted Afr/Ap 11 May-13 May  012/012-015/015-008/010
+VI.  Geomagnetic Activity Probabilities 11 May-13 May
+A.  Middle Latitudes
+Active                30/35/10
+Minor storm           10/15/05
+Major-severe storm    01/05/01
+B.  High Latitudes
+Active                35/40/15
+Minor storm           15/20/10
+Major-severe storm    05/10/01

@@ -1,0 +1,58 @@
+:Product: 0125RSGA.txt
+:Issued: 2012 Jan 25 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 025 Issued at 2200Z on 25 Jan 2012
+IA.  Analysis of Solar Active Regions and Activity from  24/2100Z
+to 25/2100Z:  Solar activity was at very low levels.  As Regions 1401
+(N16W66) and 1402 (N26W60) approached the west limb, they exhibited
+little change over the past 24 hours, as did the remainder of the
+disk and limb.
+IB.  Solar Activity Forecast:  Solar activity is expected to be very
+low to low during the period (26 - 28 January).  A chance for
+M-class activity exists on 26 - 27 January from Regions 1401 and
+1402 before they rotate around the west limb.
+IIA.  Geophysical Activity Summary 24/2100Z to 25/2100Z:
+The geomagnetic field ranged from quiet to minor storm levels with
+isolated high latitude major to severe storm intervals.  During the
+period, ACE solar wind velocities varied between a high of 625 km/s
+at the beginning, and steadily decreased to a low of near 500 km/s
+by the end.  The Bz component of the interplanetary magnetic field
+varied between +/- 10 nT through about 25/1000Z and remained weakly
+south at -1 to -5 nT through the end of the period.  The greater
+than 10 MeV proton flux event was still in progress at the time of
+this report.  Proton flux levels steadily decayed to end the period
+near 100 pfu.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at mostly quiet levels on day one (26 January).  By
+day two (27 January) and through day three (28 January), field
+activity is expected to increase to quiet to unsettled levels with
+isolated active periods.  This increase in activity is due to a
+recurrent coronal hole high speed stream expected to move into a
+geoeffective position.  The greater than 10 MeV proton flux event is
+expected to remain above event levels through 26 January, falling to
+background levels by 27 January.
+III.  Event Probabilities 26 Jan-28 Jan
+Class M    25/10/01
+Class X    01/01/01
+Proton     50/01/01
+PCAF       in progress
+IV.  Penticton 10.7 cm Flux
+Observed           25 Jan 126
+Predicted   26 Jan-28 Jan  125/120/120
+90 Day Mean        25 Jan 143
+V.  Geomagnetic A Indices
+Observed Afr/Ap 24 Jan  013/024
+Estimated Afr/Ap 25 Jan  011/013
+Predicted Afr/Ap 26 Jan-28 Jan  005/005-007/008-007/008
+VI.  Geomagnetic Activity Probabilities 26 Jan-28 Jan
+A.  Middle Latitudes
+Active                10/20/20
+Minor storm           01/10/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                10/25/25
+Minor storm           05/15/15
+Major-severe storm    01/05/05

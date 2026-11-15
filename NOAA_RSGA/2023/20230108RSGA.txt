@@ -1,0 +1,53 @@
+:Product: 0108RSGA.txt
+:Issued: 2023 Jan 08 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 8 Issued at 2200Z on 08 Jan 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 07/2100Z to
+08/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+08/0948Z from Region 3184 (S13E81). There are currently 6 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a chance for X-class flares on days one, two, and three (09 Jan, 10
+Jan, 11 Jan).
+
+IIA.  Geophysical Activity Summary 07/2100Z to 08/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 468 km/s at 08/0847Z. Total IMF reached 7
+nT at 08/0638Z. The maximum southward component of Bz reached -6 nT at
+08/0301Z.  Electrons greater than 2 MeV at geosynchronous orbit reached
+a peak level of 221 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (09 Jan) and quiet to unsettled levels
+on days two and three (10 Jan, 11 Jan). Protons have a slight chance of
+crossing threshold on days one, two, and three (09 Jan, 10 Jan, 11 Jan).
+
+III.  Event probabilities 09 Jan-11 Jan
+Class M    70/70/70
+Class X    30/30/30
+Proton     15/15/15
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           08 Jan 184
+Predicted   09 Jan-11 Jan 185/185/180
+90 Day Mean        08 Jan 135
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 07 Jan  005/004
+Estimated Afr/Ap 08 Jan  007/008
+Predicted Afr/Ap 09 Jan-11 Jan  006/005-006/008-009/010
+
+VI.  Geomagnetic Activity Probabilities 09 Jan-11 Jan
+A.  Middle Latitudes
+Active                15/20/30
+Minor Storm           01/05/10
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/25/30
+Major-severe storm    20/30/40

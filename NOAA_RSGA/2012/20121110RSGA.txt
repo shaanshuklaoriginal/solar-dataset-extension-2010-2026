@@ -1,0 +1,57 @@
+:Product: 1110RSGA.txt
+:Issued: 2012 Nov 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 315 Issued at 2200Z on 10 Nov 2012
+
+IA.  Analysis of Solar Active Regions and Activity from 09/2100Z to
+10/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C2 event observed at
+10/0504Z from Region 1608 (S20W03) which was also associated with a
+coronal mass ejection (CME). An additional CME was observed off the west
+limb at 10/1448Z but was from a region on the backside and is not
+earthward directed. A new unnumbered spot region is rotating onto the
+disk from east limb at about S21. There are currently 5 numbered sunspot
+regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a slight chance for an M-class event on days one, two, and three (11
+Nov, 12 Nov, 13 Nov).
+
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 337 km/s at
+09/2104Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be quiet with a slight chance of unsettled levels on day one (11
+Nov). The CMEs from 09/1524Z and 10/0539Z are expected to merge and
+arrive on 12 Nov around 1200Z which will increase geomagnetic activity
+to active levels with a chance for minor storm periods on days two and
+three (12 Nov, 13 Nov).
+
+III.  Event probabilities 11 Nov-13 Nov
+Class M    10/10/10
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           10 Nov 122
+Predicted   11 Nov-13 Nov 130/135/140
+90 Day Mean        10 Nov 117
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Nov  001/002
+Estimated Afr/Ap 10 Nov  002/002
+Predicted Afr/Ap 11 Nov-13 Nov  007/007-017/030-013/015
+
+VI.  Geomagnetic Activity Probabilities 11 Nov-13 Nov
+A.  Middle Latitudes
+Active                05/35/35
+Minor Storm           01/20/25
+Major-severe storm    01/05/05
+B.  High Latitudes
+Active                15/10/30
+Minor Storm           15/25/25
+Major-severe storm    05/55/05

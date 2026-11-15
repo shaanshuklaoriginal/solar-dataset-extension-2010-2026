@@ -1,0 +1,47 @@
+:Product: 1221RSGA.txt
+:Issued: 2018 Dec 21 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 355 Issued at 2200Z on 21 Dec 2018
+
+IA.  Analysis of Solar Active Regions and Activity from 20/2100Z to
+21/2100Z: Solar activity has been at very low levels for the past 24
+hours. There are currently 0 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be very low
+on days one, two, and three (22 Dec, 23 Dec, 24 Dec).
+
+IIA.  Geophysical Activity Summary 20/2100Z to 21/2100Z: The geomagnetic
+field has been at quiet to unsettled levels for the past 24 hours. Solar
+wind speed reached a peak of 544 km/s at 20/2234Z. Electrons greater
+than 2 MeV at geosynchronous orbit reached a peak level of 279 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on days one and two (22 Dec, 23 Dec) and quiet to
+unsettled levels on day three (24 Dec).
+
+III.  Event probabilities 22 Dec-24 Dec
+Class M    01/01/01
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           21 Dec 071
+Predicted   22 Dec-24 Dec 071/071/071
+90 Day Mean        21 Dec 069
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 20 Dec  009/006
+Estimated Afr/Ap 21 Dec  005/005
+Predicted Afr/Ap 22 Dec-24 Dec  006/005-006/005-007/008
+
+VI.  Geomagnetic Activity Probabilities 22 Dec-24 Dec
+A.  Middle Latitudes
+Active                10/10/20
+Minor Storm           01/01/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/20
+Minor Storm           15/15/25
+Major-severe storm    15/15/25

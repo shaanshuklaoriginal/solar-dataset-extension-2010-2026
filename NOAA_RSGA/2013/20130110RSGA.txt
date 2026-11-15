@@ -1,0 +1,52 @@
+:Product: 0110RSGA.txt
+:Issued: 2013 Jan 10 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 10 Issued at 2200Z on 10 Jan 2013
+
+IA.  Analysis of Solar Active Regions and Activity from 09/2100Z to
+10/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C8 event observed at
+10/1746Z from Region 1654 (N08E47). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be at low
+levels on days one, two, and three (11 Jan, 12 Jan, 13 Jan) with an
+increasing chance for an M-class flare.
+
+IIA.  Geophysical Activity Summary 09/2100Z to 10/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed,
+as measured by the ACE spacecraft, reached a peak speed of 352 km/s at
+10/0712Z. Total IMF reached 5.7 nT at 10/1422Z. The maximum southward
+component of Bz reached -5.1 nT at 10/1420Z.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels for the next three days (11 Jan, 12
+Jan, 13 Jan) with a chance for unsettled levels during days two and
+three.
+
+III.  Event probabilities 11 Jan-13 Jan
+Class M    50/50/50
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           10 Jan 174
+Predicted   11 Jan-13 Jan 175/175/175
+90 Day Mean        10 Jan 121
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 09 Jan  003/003
+Estimated Afr/Ap 10 Jan  002/003
+Predicted Afr/Ap 11 Jan-13 Jan  005/005-008/008-008/008
+
+VI.  Geomagnetic Activity Probabilities 11 Jan-13 Jan
+A.  Middle Latitudes
+Active                05/10/10
+Minor Storm           01/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           10/20/20
+Major-severe storm    05/15/15

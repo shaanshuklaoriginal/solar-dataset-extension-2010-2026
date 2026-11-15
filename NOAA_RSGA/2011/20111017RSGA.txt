@@ -1,0 +1,44 @@
+:Product: 1017RSGA.txt
+:Issued: 2011 Oct 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Report of Solar and Geophysical Activity
+SDF Number 290 Issued at 2200Z on 17 Oct 2011
+IA.  Analysis of Solar Active Regions and Activity from  16/2100Z
+to 17/2100Z:  Solar activity was low. Occasional low-level C-class
+x-ray flares occurred during the period. Regions 1314 (N27W30) and
+1319 (N10W26) showed minor intermediate and trailer spot development
+during the period. Regions 1314 and 1319 were classified as a
+Cso/beta and Eki/beta-gamma, respectively. New Regions 1323 (N23E52)
+and 1324 (N11E80) were numbered. There were no Earth-directed CMEs
+observed during the period.
+IB.  Solar Activity Forecast:  Solar activity is expected to be low
+through the period (18 - 20 October) with a chance for an isolated
+M-class flare from Region 1319.
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z:
+The geomagnetic field was at quiet levels.
+IIB.  Geophysical Activity Forecast:  The geomagnetic field is
+expected to be at quiet levels through the period (18 - 20 October).
+III.  Event Probabilities 18 Oct-20 Oct
+Class M    30/30/30
+Class X    01/01/01
+Proton     01/01/01
+PCAF       green
+IV.  Penticton 10.7 cm Flux
+Observed           17 Oct 153
+Predicted   18 Oct-20 Oct  155/155/155
+90 Day Mean        17 Oct 118
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Oct  007/007
+Estimated Afr/Ap 17 Oct  003/005
+Predicted Afr/Ap 18 Oct-20 Oct  005/005-005/005-005/005
+VI.  Geomagnetic Activity Probabilities 18 Oct-20 Oct
+A.  Middle Latitudes
+Active                10/10/10
+Minor storm           01/01/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor storm           01/01/01
+Major-severe storm    01/01/01

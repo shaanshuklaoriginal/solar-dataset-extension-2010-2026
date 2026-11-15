@@ -1,0 +1,50 @@
+:Product: 0518RSGA.txt
+:Issued: 2023 May 18 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 138 Issued at 2200Z on 18 May 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 17/2100Z to
+18/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M2 event observed at
+18/1147Z from Region 3311 (N18E76). There are currently 8 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (19 May, 20 May,
+21 May).
+
+IIA.  Geophysical Activity Summary 17/2100Z to 18/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 501 km/s at 18/1058Z.  Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 174 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet levels on day one (19 May), quiet to unsettled levels on
+day two (20 May) and quiet to active levels on day three (21 May).
+
+III.  Event probabilities 19 May-21 May
+Class M    35/25/25
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           18 May 151
+Predicted   19 May-21 May 145/140/140
+90 Day Mean        18 May 153
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 17 May  005/004
+Estimated Afr/Ap 18 May  004/004
+Predicted Afr/Ap 19 May-21 May  006/005-007/008-010/012
+
+VI.  Geomagnetic Activity Probabilities 19 May-21 May
+A.  Middle Latitudes
+Active                10/20/25
+Minor Storm           01/05/05
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/20/25
+Major-severe storm    10/25/40

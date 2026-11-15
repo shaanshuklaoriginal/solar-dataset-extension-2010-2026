@@ -1,0 +1,52 @@
+:Product: 1219RSGA.txt
+:Issued: 2023 Dec 19 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 353 Issued at 2200Z on 19 Dec 2023
+
+IA.  Analysis of Solar Active Regions and Activity from 18/2100Z to
+19/2100Z: Solar activity has been at low levels for the past 24 hours.
+The largest solar event of the period was a C7 event observed at
+19/0304Z from Region 3528 (N08E01). There are currently 10 numbered
+sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares on days one, two, and three (20 Dec, 21 Dec,
+22 Dec).
+
+IIA.  Geophysical Activity Summary 18/2100Z to 19/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 835 km/s at 19/0311Z. Total IMF
+reached 10 nT at 18/2126Z. The maximum southward component of Bz reached
+-9 nT at 18/2100Z.  Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 208 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (20 Dec), quiet to unsettled
+levels on day two (21 Dec) and quiet levels on day three (22 Dec).
+
+III.  Event probabilities 20 Dec-22 Dec
+Class M    25/25/25
+Class X    05/05/05
+Proton     01/01/01
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           19 Dec 179
+Predicted   20 Dec-22 Dec 180/178/178
+90 Day Mean        19 Dec 149
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 18 Dec  016/020
+Estimated Afr/Ap 19 Dec  012/016
+Predicted Afr/Ap 20 Dec-22 Dec  010/012-007/010-005/005
+
+VI.  Geomagnetic Activity Probabilities 20 Dec-22 Dec
+A.  Middle Latitudes
+Active                25/15/10
+Minor Storm           10/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/15/15
+Major-severe storm    20/10/10

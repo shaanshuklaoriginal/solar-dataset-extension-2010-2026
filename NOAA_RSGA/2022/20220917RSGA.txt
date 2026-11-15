@@ -1,0 +1,52 @@
+:Product: 0917RSGA.txt
+:Issued: 2022 Sep 17 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 260 Issued at 2200Z on 17 Sep 2022
+
+IA.  Analysis of Solar Active Regions and Activity from 16/2100Z to
+17/2100Z: Solar activity has been at moderate levels for the past 24
+hours. The largest solar event of the period was a M1 event observed at
+17/1339Z. There are currently 3 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a slight chance for an M-class flare on days one, two, and three (18
+Sep, 19 Sep, 20 Sep).
+
+IIA.  Geophysical Activity Summary 16/2100Z to 17/2100Z: The geomagnetic
+field has been at quiet levels for the past 24 hours. Solar wind speed
+reached a peak of 388 km/s at 17/2022Z. Total IMF reached 11 nT at
+17/1823Z. The maximum southward component of Bz reached -6 nT at
+17/2005Z.  Protons greater than 10 MeV at geosynchronous orbit reached a
+peak level of 2 pfu at 17/0035Z. Electrons greater than 2 MeV at
+geosynchronous orbit reached a peak level of 275 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to active levels on day one (18 Sep), quiet to unsettled
+levels on day two (19 Sep) and quiet levels on day three (20 Sep).
+
+III.  Event probabilities 18 Sep-20 Sep
+Class M    20/20/20
+Class X    05/05/05
+Proton     05/05/05
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           17 Sep 132
+Predicted   18 Sep-20 Sep 130/125/125
+90 Day Mean        17 Sep 123
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 16 Sep  005/004
+Estimated Afr/Ap 17 Sep  005/007
+Predicted Afr/Ap 18 Sep-20 Sep  012/012-008/008-006/005
+
+VI.  Geomagnetic Activity Probabilities 18 Sep-20 Sep
+A.  Middle Latitudes
+Active                30/15/15
+Minor Storm           10/05/01
+Major-severe storm    01/01/01
+B.  High Latitudes
+Active                15/15/15
+Minor Storm           20/15/15
+Major-severe storm    30/10/10

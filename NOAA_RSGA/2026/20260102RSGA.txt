@@ -1,0 +1,52 @@
+:Product: 0102RSGA.txt
+:Issued: 2026 Jan 02 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 2 Issued at 2200Z on 02 Jan 2026
+
+IA.  Analysis of Solar Active Regions and Activity from 01/2100Z to
+02/2100Z: Solar activity has been at low levels for the past 24 hours.
+There are currently 7 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is expected to be low with
+a chance for M-class flares and a slight chance for an X-class flare on
+days one, two, and three (03 Jan, 04 Jan, 05 Jan).
+
+IIA.  Geophysical Activity Summary 01/2100Z to 02/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 884 km/s at 02/1611Z. Total IMF
+reached 9 nT at 02/1600Z. The maximum southward component of Bz reached
+-8 nT at 02/2030Z.  Electrons greater than 2 MeV at geosynchronous orbit
+reached a peak level of 4,196 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at unsettled to major storm levels on day one (03 Jan), quiet to
+minor storm levels on day two (04 Jan) and quiet to unsettled levels on
+day three (05 Jan). Protons have a slight chance of crossing threshold
+on days one, two, and three (03 Jan, 04 Jan, 05 Jan).
+
+III.  Event probabilities 03 Jan-05 Jan
+Class M    50/50/50
+Class X    10/10/10
+Proton     10/10/10
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           02 Jan 166
+Predicted   03 Jan-05 Jan 166/160/165
+90 Day Mean        02 Jan 147
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 01 Jan  010/012
+Estimated Afr/Ap 02 Jan  015/018
+Predicted Afr/Ap 03 Jan-05 Jan  026/042-015/018-010/012
+
+VI.  Geomagnetic Activity Probabilities 03 Jan-05 Jan
+A.  Middle Latitudes
+Active                30/40/25
+Minor Storm           40/25/10
+Major-severe storm    25/05/01
+B.  High Latitudes
+Active                05/10/15
+Minor Storm           15/25/25
+Major-severe storm    85/65/35

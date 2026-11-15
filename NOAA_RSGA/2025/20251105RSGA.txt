@@ -1,0 +1,52 @@
+:Product: 1105RSGA.txt
+:Issued: 2025 Nov 05 2200 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Geophysical Activity Report and Forecast
+SDF Number 309 Issued at 2200Z on 05 Nov 2025
+
+IA.  Analysis of Solar Active Regions and Activity from 04/2100Z to
+05/2100Z: Solar activity has been at high levels for the past 24 hours.
+There are currently 4 numbered sunspot regions on the disk.
+IB.  Solar Activity Forecast: Solar activity is likely to be moderate
+with a chance for X-class flares on days one, two, and three (06 Nov, 07
+Nov, 08 Nov).
+
+IIA.  Geophysical Activity Summary 04/2100Z to 05/2100Z: The geomagnetic
+field has been at quiet to minor storm levels for the past 24 hours.
+Solar wind speed reached a peak of 416 km/s at 05/1842Z. Total IMF
+reached 11 nT at 05/1817Z. The maximum southward component of Bz reached
+-10 nT at 05/1820Z.  Electrons greater than 2 MeV at geosynchronous
+orbit reached a peak level of 2289 pfu.
+IIB.  Geophysical Activity Forecast: The geomagnetic field is expected
+to be at quiet to severe storm levels on day one (06 Nov), unsettled to
+severe storm levels on day two (07 Nov) and unsettled to minor storm
+levels on day three (08 Nov). Protons have a chance of crossing
+threshold on days one, two, and three (06 Nov, 07 Nov, 08 Nov).
+
+III.  Event probabilities 06 Nov-08 Nov
+Class M    70/70/70
+Class X    25/25/25
+Proton     25/25/25
+PCAF       green
+
+IV.  Penticton 10.7 cm Flux
+Observed           05 Nov 147
+Predicted   06 Nov-08 Nov 145/150/150
+90 Day Mean        05 Nov 150
+
+V.  Geomagnetic A Indices
+Observed Afr/Ap 04 Nov  009/010
+Estimated Afr/Ap 05 Nov  014/017
+Predicted Afr/Ap 06 Nov-08 Nov  023/038-043/076-018/025
+
+VI.  Geomagnetic Activity Probabilities 06 Nov-08 Nov
+A.  Middle Latitudes
+Active                35/40/40
+Minor Storm           25/30/30
+Major-severe storm    05/05/05
+B.  High Latitudes
+Active                10/10/10
+Minor Storm           25/20/20
+Major-severe storm    60/65/65
